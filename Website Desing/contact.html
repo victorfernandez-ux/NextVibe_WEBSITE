@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta name="description" content="Get in touch with NextVibe. Tell us about your business and we'll show you how AI automation can help you grow.">
+    <meta property="og:title" content="Contact | NextVibe">
+    <meta property="og:description" content="Get in touch with NextVibe — tell us about your business and we'll show you how AI automation can help you grow.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nextvibe.ai/contact.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Contact | NextVibe">
+    <meta name="twitter:description" content="Get in touch with NextVibe — tell us about your business and we'll show you how AI automation can help you grow.">
+    <meta property="og:image" content="https://nextvibe.ai/og-image.jpg">
+    <meta name="twitter:image" content="https://nextvibe.ai/og-image.jpg">
+    <title>Contact | NextVibe</title>
+    <!-- Google Analytics — replace G-YQN59YEK9T with your Measurement ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQN59YEK9T"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YQN59YEK9T');
+    </script>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', sans-serif; background: #000; color: #fff;
+            letter-spacing: -0.03em; line-height: 1.6; overflow-x: hidden;
+        }
+        a { color: inherit; text-decoration: none; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+        .cyan { color: #06B6D4; }
+        .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+        .reveal.visible { opacity: 1; transform: translateY(0); }
+        .scroll-progress { position: fixed; top: 0; left: 0; height: 3px; background: #06B6D4; width: 0%; z-index: 1000; transition: width 0.1s linear; }
+        .cursor-glow {
+            position: fixed; width: 600px; height: 600px; border-radius: 50%;
+            background: radial-gradient(circle, rgba(6,182,212,0.06) 0%, transparent 70%);
+            pointer-events: none; z-index: 0; transform: translate(-50%, -50%); display: none;
+        }
+
+        /* Header */
+        header {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+            background: rgba(0,0,0,0.8); backdrop-filter: blur(20px);
+            border-bottom: 1px solid #1a1a1a;
+        }
+        .header-inner {
+            display: flex; align-items: center; justify-content: space-between;
+            max-width: 1200px; margin: 0 auto; padding: 16px 24px;
+        }
+        .logo { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.04em; }
+        .logo span { color: #06B6D4; }
+        nav { display: flex; align-items: center; gap: 32px; }
+        nav a { font-size: 0.9rem; color: #9CA3AF; font-weight: 500; transition: color 0.2s; }
+        nav a:hover { color: #fff; }
+        .btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            padding: 10px 24px; font-size: 0.9rem; font-weight: 600;
+            border-radius: 6px; transition: all 0.2s; cursor: pointer;
+            border: none; font-family: 'Inter', sans-serif; letter-spacing: -0.03em;
+        }
+        .btn-primary { background: #06B6D4; color: #000; }
+        .btn-primary:hover { background: #22D3EE; }
+        .mobile-menu-btn { display: none; background: none; border: none; color: #fff; font-size: 1.5rem; cursor: pointer; }
+
+        /* Hero */
+        .hero { padding: 160px 0 60px; text-align: center; }
+        .hero h1 {
+            font-size: clamp(2.2rem, 4.5vw, 3.5rem); font-weight: 800;
+            line-height: 1.1; letter-spacing: -0.04em; margin-bottom: 16px;
+        }
+        .hero p { font-size: 1.1rem; color: #9CA3AF; max-width: 520px; margin: 0 auto; }
+
+        /* Contact Layout */
+        .contact-section { padding: 60px 0 100px; }
+        .contact-grid {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 64px;
+            max-width: 1000px; margin: 0 auto;
+        }
+
+        /* Form */
+        .form-wrapper h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 24px; }
+        .form-group { margin-bottom: 20px; }
+        .form-group label { display: block; font-size: 0.85rem; color: #9CA3AF; margin-bottom: 8px; }
+        .form-group input, .form-group textarea, .form-group select {
+            width: 100%; padding: 12px 16px; background: #0a0a0a; border: 1px solid #1a1a1a;
+            border-radius: 6px; color: #fff; font-size: 0.95rem;
+            font-family: 'Inter', sans-serif; outline: none; transition: border-color 0.2s;
+        }
+        .form-group input:focus, .form-group textarea:focus, .form-group select:focus { border-color: #06B6D4; }
+        .form-group textarea { min-height: 140px; resize: vertical; }
+        .form-group select option { background: #0a0a0a; }
+        .form-submit { margin-top: 8px; }
+        .form-submit .btn { width: 100%; padding: 14px; font-size: 1rem; }
+
+        /* Contact Info */
+        .contact-info h3 { font-size: 1.3rem; font-weight: 700; margin-bottom: 24px; }
+        .info-card {
+            background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 8px;
+            padding: 28px; margin-bottom: 20px;
+        }
+        .info-card h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+        .info-card p { font-size: 0.9rem; color: #9CA3AF; line-height: 1.7; }
+        .info-card a { color: #06B6D4; transition: color 0.2s; }
+        .info-card a:hover { color: #22D3EE; }
+        .calendly-card {
+            background: linear-gradient(135deg, rgba(6,182,212,0.1), rgba(6,182,212,0.02));
+            border: 1px solid rgba(6,182,212,0.2); border-radius: 8px;
+            padding: 28px; text-align: center;
+        }
+        .calendly-card h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+        .calendly-card p { font-size: 0.85rem; color: #9CA3AF; margin-bottom: 20px; }
+
+        /* Success Message */
+        .form-success {
+            display: none; text-align: center; padding: 48px 24px;
+            background: #0a0a0a; border: 1px solid rgba(6,182,212,0.3); border-radius: 8px;
+        }
+        .form-success.show { display: block; }
+        .form-success h3 { font-size: 1.4rem; font-weight: 700; margin-bottom: 8px; color: #06B6D4; }
+        .form-success p { color: #9CA3AF; }
+
+        /* Footer */
+        footer { padding: 48px 0; border-top: 1px solid #1a1a1a; }
+        .footer-inner { display: flex; align-items: center; justify-content: space-between; }
+        .footer-logo { font-size: 1.2rem; font-weight: 700; }
+        .footer-logo span { color: #06B6D4; }
+        .footer-links { display: flex; gap: 24px; }
+        .footer-links a { font-size: 0.85rem; color: #9CA3AF; transition: color 0.2s; }
+        .footer-links a:hover { color: #fff; }
+        .footer-copy { font-size: 0.8rem; color: #555; }
+        nav a.active { color: #fff; }
+        .footer-social { display: flex; gap: 16px; }
+        .footer-social a { font-size: 0.85rem; color: #555; transition: color 0.2s; }
+        .footer-social a:hover { color: #06B6D4; }
+
+        @media (max-width: 768px) {
+            nav { display: none; }
+            .mobile-menu-btn { display: block; }
+            nav.open { display: flex; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: rgba(0,0,0,0.95); padding: 24px; gap: 16px; border-bottom: 1px solid #1a1a1a; }
+            .hero { padding: 120px 0 40px; }
+            .contact-grid { grid-template-columns: 1fr; gap: 40px; }
+            .footer-inner { flex-direction: column; gap: 16px; text-align: center; }
+            .footer-social { justify-content: center; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="scroll-progress" id="scrollProgress"></div>
+<div class="cursor-glow" id="cursorGlow"></div>
+
+<header>
+    <div class="header-inner">
+        <a href="index.html" class="logo">Next<span>Vibe</span></a>
+        <button class="mobile-menu-btn" id="menuBtn" aria-label="Toggle menu">&#9776;</button>
+        <nav id="mainNav">
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Book a Call</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+<section class="hero">
+    <div class="container">
+        <h1>Get in <span class="cyan">Touch</span></h1>
+        <p>Tell us about your business and we'll show you exactly how AI automation can help you grow.</p>
+    </div>
+</section>
+
+<section class="contact-section">
+    <div class="container">
+        <div class="contact-grid">
+            <div class="form-wrapper reveal">
+                <h3>Send us a message</h3>
+                <form name="contact" method="POST" data-netlify="true" id="contactForm">
+                    <input type="hidden" name="form-name" value="contact">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input type="text" id="name" name="name" required placeholder="Your full name">
+                    </div>
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required placeholder="you@company.com">
+                    </div>
+                    <div class="form-group">
+                        <label for="company">Company</label>
+                        <input type="text" id="company" name="company" placeholder="Your company name">
+                    </div>
+                    <div class="form-group">
+                        <label for="message">Message</label>
+                        <textarea id="message" name="message" required placeholder="What are you looking to automate? Tell us about your current challenges..."></textarea>
+                    </div>
+                    <div class="form-submit">
+                        <button type="submit" class="btn btn-primary">Send Message</button>
+                    </div>
+                </form>
+                <div class="form-success" id="formSuccess">
+                    <h3>Message Sent!</h3>
+                    <p>We'll get back to you within 24 hours.</p>
+                </div>
+            </div>
+            <div class="contact-info reveal">
+                <h3>Other ways to reach us</h3>
+                <div class="info-card">
+                    <h4>Email</h4>
+                    <p><a href="mailto:hello@nextvibe.ai">hello@nextvibe.ai</a></p>
+                </div>
+                <div class="info-card">
+                    <h4>Response Time</h4>
+                    <p>We typically respond within 24 hours on business days.</p>
+                </div>
+                <div class="calendly-card">
+                    <h4>Prefer a live conversation?</h4>
+                    <p>Book a free 30-minute strategy call and we'll map out your automation opportunities.</p>
+                    <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Book a Call</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-inner">
+            <div class="footer-logo">Next<span>Vibe</span></div>
+            <div class="footer-links">
+                <a href="services.html">Services</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+            </div>
+            <div class="footer-social">
+                <a href="https://linkedin.com/in/victorfernandez-ai" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a>
+            </div>
+            <div class="footer-copy">&copy; 2026 NextVibe. All rights reserved.</div>
+        </div>
+    </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/contact.js"></script>
+</body>
+</html>

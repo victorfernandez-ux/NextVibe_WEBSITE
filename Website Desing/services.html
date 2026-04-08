@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta name="description" content="NextVibe services — AI lead generation, operations automation, hiring systems, sales administration, and bespoke AI solutions for growing businesses.">
+    <meta property="og:title" content="Services | NextVibe">
+    <meta property="og:description" content="AI lead generation, operations automation, hiring systems, and bespoke AI solutions for growing businesses.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nextvibe.ai/services.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Services | NextVibe">
+    <meta name="twitter:description" content="AI lead generation, operations automation, hiring systems, and bespoke AI solutions for growing businesses.">
+    <meta property="og:image" content="https://nextvibe.ai/og-image.jpg">
+    <meta name="twitter:image" content="https://nextvibe.ai/og-image.jpg">
+    <title>Services | NextVibe</title>
+    <!-- Google Analytics — replace G-YQN59YEK9T with your Measurement ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQN59YEK9T"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YQN59YEK9T');
+    </script>
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body {
+            font-family: 'Inter', sans-serif; background: #000; color: #fff;
+            letter-spacing: -0.03em; line-height: 1.6; overflow-x: hidden;
+        }
+        a { color: inherit; text-decoration: none; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+        .cyan { color: #06B6D4; }
+        .reveal { opacity: 0; transform: translateY(24px); transition: opacity 0.7s ease, transform 0.7s ease; }
+        .reveal.visible { opacity: 1; transform: translateY(0); }
+        .scroll-progress { position: fixed; top: 0; left: 0; height: 3px; background: #06B6D4; width: 0%; z-index: 1000; transition: width 0.1s linear; }
+        .cursor-glow {
+            position: fixed; width: 600px; height: 600px; border-radius: 50%;
+            background: radial-gradient(circle, rgba(6,182,212,0.06) 0%, transparent 70%);
+            pointer-events: none; z-index: 0; transform: translate(-50%, -50%); display: none;
+        }
+
+        /* Header */
+        header {
+            position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+            background: rgba(0,0,0,0.8); backdrop-filter: blur(20px); border-bottom: 1px solid #1a1a1a;
+        }
+        .header-inner {
+            display: flex; align-items: center; justify-content: space-between;
+            max-width: 1200px; margin: 0 auto; padding: 16px 24px;
+        }
+        .logo { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.04em; }
+        .logo span { color: #06B6D4; }
+        nav { display: flex; align-items: center; gap: 32px; }
+        nav a { font-size: 0.9rem; color: #9CA3AF; font-weight: 500; transition: color 0.2s; }
+        nav a:hover { color: #fff; }
+        .btn {
+            display: inline-flex; align-items: center; justify-content: center;
+            padding: 10px 24px; font-size: 0.9rem; font-weight: 600; border-radius: 6px;
+            transition: all 0.2s; cursor: pointer; border: none;
+            font-family: 'Inter', sans-serif; letter-spacing: -0.03em;
+        }
+        .btn-primary { background: #06B6D4; color: #000; }
+        .btn-primary:hover { background: #22D3EE; }
+        .btn-outline { background: transparent; color: #fff; border: 1px solid #333; }
+        .btn-outline:hover { border-color: #06B6D4; color: #06B6D4; }
+        .mobile-menu-btn { display: none; background: none; border: none; color: #fff; font-size: 1.5rem; cursor: pointer; }
+
+        /* Hero */
+        .hero { padding: 160px 0 80px; text-align: center; }
+        .hero h1 {
+            font-size: clamp(2.2rem, 4.5vw, 3.5rem); font-weight: 800;
+            line-height: 1.1; letter-spacing: -0.04em; margin-bottom: 16px;
+        }
+        .hero p { font-size: 1.1rem; color: #9CA3AF; max-width: 560px; margin: 0 auto 48px; }
+        .hero-metrics {
+            display: flex; justify-content: center; gap: 48px;
+            padding-top: 40px; border-top: 1px solid #1a1a1a;
+        }
+        .metric { text-align: center; }
+        .metric .value { font-size: 2.2rem; font-weight: 800; color: #06B6D4; }
+        .metric .label { font-size: 0.8rem; color: #9CA3AF; margin-top: 4px; }
+
+        /* Section shared */
+        .section { padding: 100px 0; }
+        .section-alt { background: #0a0a0a; border-top: 1px solid #1a1a1a; border-bottom: 1px solid #1a1a1a; }
+        .section-header { text-align: center; margin-bottom: 56px; }
+        .section-header h2 {
+            font-size: clamp(1.8rem, 3vw, 2.6rem); font-weight: 700;
+            letter-spacing: -0.04em; margin-bottom: 12px;
+        }
+        .section-header p { color: #9CA3AF; font-size: 1rem; max-width: 520px; margin: 0 auto; }
+
+        /* Service Category */
+        .service-category { margin-bottom: 80px; }
+        .service-category:last-child { margin-bottom: 0; }
+        .category-header {
+            display: flex; align-items: center; gap: 16px; margin-bottom: 32px;
+        }
+        .category-icon {
+            width: 48px; height: 48px; border-radius: 6px;
+            background: rgba(6,182,212,0.1); display: flex;
+            align-items: center; justify-content: center; font-size: 1.4rem; flex-shrink: 0;
+        }
+        .category-header h3 { font-size: 1.4rem; font-weight: 700; }
+        .category-header p { font-size: 0.9rem; color: #9CA3AF; }
+        .detail-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .detail-card {
+            background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 8px;
+            padding: 28px; transition: border-color 0.3s;
+        }
+        .section-alt .detail-card { background: #111; }
+        .detail-card:hover { border-color: #06B6D4; }
+        .detail-card h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+        .detail-card p { font-size: 0.85rem; color: #9CA3AF; line-height: 1.7; }
+
+        /* Personas */
+        .persona-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; }
+        .persona-card {
+            background: #111; border: 1px solid #1a1a1a; border-radius: 8px;
+            padding: 28px; text-align: center; transition: border-color 0.3s;
+        }
+        .persona-card:hover { border-color: #06B6D4; }
+        .persona-icon { font-size: 2rem; margin-bottom: 16px; }
+        .persona-card h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+        .persona-card p { font-size: 0.8rem; color: #9CA3AF; line-height: 1.6; }
+
+        /* Process Timeline */
+        .timeline { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+        .timeline-step {
+            text-align: center; position: relative; padding-top: 32px;
+        }
+        .timeline-step::before {
+            content: ''; position: absolute; top: 0; left: 50%; transform: translateX(-50%);
+            width: 32px; height: 32px; border-radius: 50%;
+            background: rgba(6,182,212,0.15); border: 2px solid #06B6D4;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .step-number { font-size: 0.75rem; font-weight: 700; color: #06B6D4; margin-bottom: 12px; }
+        .timeline-step h4 { font-size: 1rem; font-weight: 600; margin-bottom: 8px; }
+        .timeline-step p { font-size: 0.8rem; color: #9CA3AF; line-height: 1.6; }
+
+        /* Pricing */
+        .pricing-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .pricing-card {
+            background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 8px;
+            padding: 36px; transition: border-color 0.3s;
+        }
+        .pricing-card.featured { border-color: #06B6D4; position: relative; }
+        .pricing-card.featured::after {
+            content: 'Most Popular'; position: absolute; top: -12px; left: 50%; transform: translateX(-50%);
+            background: #06B6D4; color: #000; font-size: 0.7rem; font-weight: 700;
+            padding: 4px 12px; border-radius: 4px;
+        }
+        .pricing-card:hover { border-color: #06B6D4; }
+        .pricing-name { font-size: 0.85rem; color: #9CA3AF; font-weight: 600; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+        .pricing-amount { font-size: 2.4rem; font-weight: 800; margin-bottom: 4px; }
+        .pricing-period { font-size: 0.8rem; color: #555; margin-bottom: 24px; }
+        .pricing-desc { font-size: 0.85rem; color: #9CA3AF; margin-bottom: 24px; line-height: 1.6; }
+        .pricing-features { list-style: none; margin-bottom: 28px; }
+        .pricing-features li {
+            font-size: 0.85rem; color: #ccc; padding: 8px 0;
+            border-bottom: 1px solid #1a1a1a; padding-left: 20px; position: relative;
+        }
+        .pricing-features li::before {
+            content: '✓'; position: absolute; left: 0; color: #06B6D4; font-weight: 700;
+        }
+        .pricing-card .btn { width: 100%; padding: 14px; }
+
+        /* CTA */
+        .cta { padding: 100px 0; text-align: center; }
+        .cta h2 {
+            font-size: clamp(1.8rem, 3vw, 2.6rem); font-weight: 700;
+            letter-spacing: -0.04em; margin-bottom: 16px;
+        }
+        .cta p { color: #9CA3AF; margin-bottom: 32px; max-width: 480px; margin-left: auto; margin-right: auto; }
+
+        /* Footer */
+        footer { padding: 48px 0; border-top: 1px solid #1a1a1a; }
+        .footer-inner { display: flex; align-items: center; justify-content: space-between; }
+        .footer-logo { font-size: 1.2rem; font-weight: 700; }
+        .footer-logo span { color: #06B6D4; }
+        .footer-links { display: flex; gap: 24px; }
+        .footer-links a { font-size: 0.85rem; color: #9CA3AF; transition: color 0.2s; }
+        .footer-links a:hover { color: #fff; }
+        .footer-copy { font-size: 0.8rem; color: #555; }
+        nav a.active { color: #fff; }
+        .footer-social { display: flex; gap: 16px; }
+        .footer-social a { font-size: 0.85rem; color: #555; transition: color 0.2s; }
+        .footer-social a:hover { color: #06B6D4; }
+
+        @media (max-width: 1024px) {
+            .detail-grid { grid-template-columns: repeat(2, 1fr); }
+            .persona-grid { grid-template-columns: repeat(2, 1fr); }
+            .timeline { grid-template-columns: repeat(2, 1fr); }
+            .pricing-grid { grid-template-columns: repeat(2, 1fr); }
+        }
+        @media (max-width: 768px) {
+            nav { display: none; }
+            .mobile-menu-btn { display: block; }
+            nav.open { display: flex; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: rgba(0,0,0,0.95); padding: 24px; gap: 16px; border-bottom: 1px solid #1a1a1a; }
+            .hero { padding: 120px 0 60px; }
+            .hero-metrics { flex-direction: column; gap: 24px; }
+            .detail-grid, .persona-grid, .timeline, .pricing-grid { grid-template-columns: 1fr; }
+            .footer-inner { flex-direction: column; gap: 16px; text-align: center; }
+            .footer-social { justify-content: center; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="scroll-progress" id="scrollProgress"></div>
+<div class="cursor-glow" id="cursorGlow"></div>
+
+<header>
+    <div class="header-inner">
+        <a href="index.html" class="logo">Next<span>Vibe</span></a>
+        <button class="mobile-menu-btn" id="menuBtn" aria-label="Toggle menu">&#9776;</button>
+        <nav id="mainNav">
+            <a href="services.html">Services</a>
+            <a href="about.html">About</a>
+            <a href="contact.html">Contact</a>
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Book a Call</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+<!-- Hero -->
+<section class="hero">
+    <div class="container">
+        <h1>Services &amp; <span class="cyan">Solutions</span></h1>
+        <p>End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.</p>
+        <div class="hero-metrics">
+            <div class="metric">
+                <div class="value" data-count="65">0%</div>
+                <div class="label">Avg. Cost Reduction</div>
+            </div>
+            <div class="metric">
+                <div class="value" data-count="3">0x</div>
+                <div class="label">Faster Delivery</div>
+            </div>
+            <div class="metric">
+                <div class="value" data-count="500">0+</div>
+                <div class="label">Hours Saved Monthly</div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Lead Generation -->
+<section class="section section-alt">
+    <div class="container">
+        <div class="service-category reveal">
+            <div class="category-header">
+                <div class="category-icon">&#9889;</div>
+                <div>
+                    <h3>Lead Generation Systems</h3>
+                    <p>AI-powered pipelines that fill your calendar with qualified prospects.</p>
+                </div>
+            </div>
+            <div class="detail-grid">
+                <div class="detail-card">
+                    <h4>AI Cold Email</h4>
+                    <p>Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules that land in the primary inbox.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>Application Systems</h4>
+                    <p>Inbound funnels with AI qualification — automatically score, route, and follow up with every lead so nothing falls through the cracks.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>Content Systems</h4>
+                    <p>AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Project Management -->
+<section class="section">
+    <div class="container">
+        <div class="service-category reveal">
+            <div class="category-header">
+                <div class="category-icon">&#9881;</div>
+                <div>
+                    <h3>Project Management Systems</h3>
+                    <p>Automate delivery workflows so your team can focus on high-value work.</p>
+                </div>
+            </div>
+            <div class="detail-grid">
+                <div class="detail-card">
+                    <h4>Automated Fulfillment</h4>
+                    <p>End-to-end delivery automation — from task creation to status updates to client communication, all running without manual intervention.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>Client Onboarding</h4>
+                    <p>Structured onboarding flows that gather requirements, set expectations, and kick off projects automatically the moment a deal closes.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>PM Workflows</h4>
+                    <p>Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Hiring -->
+<section class="section section-alt">
+    <div class="container">
+        <div class="service-category reveal">
+            <div class="category-header">
+                <div class="category-icon">&#128101;</div>
+                <div>
+                    <h3>Hiring Systems</h3>
+                    <p>Recruit smarter and faster with AI-powered screening and evaluation.</p>
+                </div>
+            </div>
+            <div class="detail-grid">
+                <div class="detail-card">
+                    <h4>Intake Systems</h4>
+                    <p>Structured application forms with automatic data extraction and candidate profiling — no more manual resume sorting.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>AI Scoring</h4>
+                    <p>Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators — reducing bias and saving hours.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>Trial Processes</h4>
+                    <p>Automated trial project assignment, submission tracking, and evaluation workflows that surface your best candidates fast.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Sales Administration -->
+<section class="section">
+    <div class="container">
+        <div class="service-category reveal">
+            <div class="category-header">
+                <div class="category-icon">&#128200;</div>
+                <div>
+                    <h3>Sales Administration</h3>
+                    <p>Streamline your sales ops with custom tools and intelligent automation.</p>
+                </div>
+            </div>
+            <div class="detail-grid">
+                <div class="detail-card">
+                    <h4>Custom CRMs</h4>
+                    <p>Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging without the bloat.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>AI Asset Generators</h4>
+                    <p>Automatically generate proposals, SOWs, and sales decks personalised to each prospect using AI and your existing templates.</p>
+                </div>
+                <div class="detail-card">
+                    <h4>Nurture Systems</h4>
+                    <p>Multi-channel follow-up sequences that keep warm leads engaged with timely, relevant touchpoints until they're ready to buy.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Who It's For -->
+<section class="section section-alt">
+    <div class="container">
+        <div class="section-header reveal">
+            <h2>Who It's For</h2>
+            <p>We work best with businesses ready to scale operations through automation.</p>
+        </div>
+        <div class="persona-grid">
+            <div class="persona-card reveal">
+                <div class="persona-icon">&#127919;</div>
+                <h4>Agencies</h4>
+                <p>Automate client delivery, onboarding, and lead gen so you can grow without proportionally growing your team.</p>
+            </div>
+            <div class="persona-card reveal">
+                <div class="persona-icon">&#128187;</div>
+                <h4>SaaS Companies</h4>
+                <p>Build automated outbound pipelines, trial-to-paid workflows, and customer success systems.</p>
+            </div>
+            <div class="persona-card reveal">
+                <div class="persona-icon">&#128188;</div>
+                <h4>Professional Services</h4>
+                <p>Streamline intake, scheduling, billing, and client communication with zero manual overhead.</p>
+            </div>
+            <div class="persona-card reveal">
+                <div class="persona-icon">&#128722;</div>
+                <h4>E-Commerce</h4>
+                <p>Automate order processing, inventory management, customer support, and marketing workflows at scale.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Process -->
+<section class="section">
+    <div class="container">
+        <div class="section-header reveal">
+            <h2>Our Process</h2>
+            <p>From discovery to deployment in weeks, not months.</p>
+        </div>
+        <div class="timeline reveal">
+            <div class="timeline-step">
+                <div class="step-number">01</div>
+                <h4>Discovery</h4>
+                <p>We map your current workflows, identify automation opportunities, and prioritise by ROI impact.</p>
+            </div>
+            <div class="timeline-step">
+                <div class="step-number">02</div>
+                <h4>Design</h4>
+                <p>We architect the system — selecting the right tools, defining data flows, and planning integrations.</p>
+            </div>
+            <div class="timeline-step">
+                <div class="step-number">03</div>
+                <h4>Build</h4>
+                <p>Rapid implementation with weekly demos. You see progress and can give feedback in real time.</p>
+            </div>
+            <div class="timeline-step">
+                <div class="step-number">04</div>
+                <h4>Launch</h4>
+                <p>Go live with full documentation, training, and 30 days of support to ensure everything runs smoothly.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Pricing -->
+<section class="section section-alt">
+    <div class="container">
+        <div class="section-header reveal">
+            <h2>Pricing</h2>
+            <p>Transparent pricing. No hidden fees. Choose what fits your needs.</p>
+        </div>
+        <div class="pricing-grid reveal">
+            <div class="pricing-card">
+                <div class="pricing-name">Single System</div>
+                <div class="pricing-amount">£3,500</div>
+                <div class="pricing-period">one-time</div>
+                <div class="pricing-desc">One complete automation system, built and deployed for your business.</div>
+                <ul class="pricing-features">
+                    <li>1 automation system</li>
+                    <li>Discovery &amp; design session</li>
+                    <li>2–3 week delivery</li>
+                    <li>Full documentation</li>
+                    <li>14 days post-launch support</li>
+                </ul>
+                <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Get Started</a>
+            </div>
+            <div class="pricing-card featured">
+                <div class="pricing-name">Growth Package</div>
+                <div class="pricing-amount">£8,500</div>
+                <div class="pricing-period">one-time</div>
+                <div class="pricing-desc">A suite of interconnected systems that transform how your business operates.</div>
+                <ul class="pricing-features">
+                    <li>3 automation systems</li>
+                    <li>Full workflow audit</li>
+                    <li>4–6 week delivery</li>
+                    <li>System integrations</li>
+                    <li>30 days post-launch support</li>
+                </ul>
+                <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Get Started</a>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-name">Retainer</div>
+                <div class="pricing-amount">£3,000</div>
+                <div class="pricing-period">per month</div>
+                <div class="pricing-desc">Ongoing automation partner. We continuously build, optimise, and maintain your systems.</div>
+                <ul class="pricing-features">
+                    <li>Dedicated automation team</li>
+                    <li>Unlimited system requests</li>
+                    <li>Priority support</li>
+                    <li>Monthly strategy calls</li>
+                    <li>Continuous optimisation</li>
+                </ul>
+                <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-outline">Get Started</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CTA -->
+<section class="cta">
+    <div class="container reveal">
+        <h2>Ready to automate your <span class="cyan">growth</span>?</h2>
+        <p>Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.</p>
+        <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Book a Call</a>
+    </div>
+</section>
+
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-inner">
+            <div class="footer-logo">Next<span>Vibe</span></div>
+            <div class="footer-links">
+                <a href="services.html">Services</a>
+                <a href="about.html">About</a>
+                <a href="contact.html">Contact</a>
+            </div>
+            <div class="footer-social">
+                <a href="https://linkedin.com/in/victorfernandez-ai" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">LinkedIn</a>
+            </div>
+            <div class="footer-copy">&copy; 2026 NextVibe. All rights reserved.</div>
+        </div>
+    </div>
+</footer>
+
+<script src="js/main.js"></script>
+<script src="js/services.js"></script>
+</body>
+</html>
