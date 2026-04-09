@@ -35,7 +35,13 @@
     <style>
         *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        body { font-family: 'Inter', sans-serif; background: #000; color: #fff; letter-spacing: -0.03em; line-height: 1.8; overflow-x: hidden; }
+        body { font-family: 'Inter', sans-serif; background: #0a0a0a; color: #fff; letter-spacing: -0.03em; line-height: 1.8; overflow-x: hidden; }
+        .bg-lines { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; overflow: hidden; }
+        .bg-lines::before, .bg-lines::after { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; }
+        .bg-lines::before { background: repeating-linear-gradient(45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
+        .bg-lines::after { background: repeating-linear-gradient(-45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
+        .spotlight { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: none; background: radial-gradient(600px circle at var(--mx, 50%) var(--my, 50%), rgba(6,182,212,0.06) 0%, rgba(15,15,15,0.4) 40%, rgba(10,10,10,0.8) 70%, transparent 100%); transition: background 0.3s ease; }
+        header, .article-container, footer { position: relative; z-index: 10; }
         header { position: fixed; top: 0; width: 100%; z-index: 1000; padding: 1rem 2rem; background: rgba(0,0,0,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; justify-content: space-between; align-items: center; }
         .logo { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: #fff; }
         .logo span { color: #06B6D4; }
@@ -76,6 +82,8 @@
     </style>
 </head>
 <body>
+    <div class="bg-lines"></div>
+    <div class="spotlight"></div>
     <header>
         <a href="../index.html" class="logo">Next<span>Vibe</span></a>
         <div>
@@ -90,18 +98,18 @@
 
     <article class="article-container">
         <div class="article-meta">AI Strategy</div>
-        <h1>ChatGPT Prompts Aren't AI Strategy. Here's What Is.</h1>
+        <h1>ChatGPT Prompts Aren’t AI Strategy. Here’s What Is.</h1>
         <div class="article-date">By Victor Fernandez &middot; April 11, 2026 &middot; 5 min read</div>
 
         <p>You spend 30 minutes crafting the perfect prompt. You get a decent output. You copy it manually into your doc, email, or spreadsheet. You do it again tomorrow. And the next day. Forever.</p>
 
-        <p>This is what most people call "using AI." It feels productive. It feels like you're ahead of the curve. But it isn't a strategy. It's still manual work — just with a nicer interface.</p>
+        <p>This is what most people call “using AI.” It feels productive. It feels like you’re ahead of the curve. But it isn’t a strategy. It’s still manual work — just with a nicer interface.</p>
 
         <h2>The Prompt Treadmill</h2>
 
-        <p>Better prompts create better outputs. But each output still requires you to initiate the process, review the result, and manually route it to wherever it needs to go. The model doesn't know your workflow. It doesn't trigger actions. It doesn't learn your preferences over time. It's waiting for you to type.</p>
+        <p>Better prompts create better outputs. But each output still requires you to initiate the process, review the result, and manually route it to wherever it needs to go. The model doesn’t know your workflow. It doesn’t trigger actions. It doesn’t learn your preferences over time. It’s waiting for you to type.</p>
 
-        <p>Most people never get past "better prompts" because it feels like progress. The output quality improves, so you assume you're leveraging AI. You're not. You're operating a fancy typewriter.</p>
+        <p>Most people never get past “better prompts” because it feels like progress. The output quality improves, so you assume you’re leveraging AI. You’re not. You’re operating a fancy typewriter.</p>
 
         <div class="comparison">
             <div class="comparison-col before">
@@ -124,25 +132,25 @@
 
         <h2>What Systems Thinking Looks Like</h2>
 
-        <p>A system means prompts are pre-written with your context baked in — your brand voice, your data format, your output requirements. They don't need you to construct them each time. They fire on a schedule or on an event. The outputs route automatically to the right destination.</p>
+        <p>A system means prompts are pre-written with your context baked in — your brand voice, your data format, your output requirements. They don’t need you to construct them each time. They fire on a schedule or on an event. The outputs route automatically to the right destination.</p>
 
         <p>For example: instead of opening ChatGPT and asking it to write a social media post, you have a workflow where a voice memo transcription triggers a content draft, which lands in your review queue, which — once approved — publishes itself at the optimal time. Your involvement? 30 minutes a week reviewing drafts. Not 30 minutes per post.</p>
 
         <h2>The Core Difference</h2>
 
         <div class="highlight-box">
-            <p><strong>A prompt is a one-time action. A system is a repeating result.</strong> Prompts require you. Systems don't. Strategy means it works when you're not watching.</p>
+            <p><strong>A prompt is a one-time action. A system is a repeating result.</strong> Prompts require you. Systems don’t. Strategy means it works when you’re not watching.</p>
         </div>
 
-        <p>This is why "better prompts" is a dead end as a business strategy. Each prompt is an event. Each system run is compound interest. The more you build, the more leverage you accumulate — and the less your daily workload grows as your business scales.</p>
+        <p>This is why “better prompts” is a dead end as a business strategy. Each prompt is an event. Each system run is compound interest. The more you build, the more leverage you accumulate — and the less your daily workload grows as your business scales.</p>
 
         <h2>How to Make the Shift</h2>
 
         <ul>
-            <li><strong>Identify your repeated prompts.</strong> If you're writing the same type of prompt more than twice a week, it should be a template inside an automation.</li>
+            <li><strong>Identify your repeated prompts.</strong> If you’re writing the same type of prompt more than twice a week, it should be a template inside an automation.</li>
             <li><strong>Add a trigger.</strong> Instead of opening a tool manually, ask: what event should start this process? A form submission? A calendar event? A new row in a spreadsheet?</li>
-            <li><strong>Route the output.</strong> The output shouldn't end in a chat window. It should land in a Notion database, an email draft, a CRM field, or wherever it's actually used.</li>
-            <li><strong>Remove yourself.</strong> The goal isn't "AI helps me work faster." The goal is "AI works without me for the steps that don't need me."</li>
+            <li><strong>Route the output.</strong> The output shouldn’t end in a chat window. It should land in a Notion database, an email draft, a CRM field, or wherever it’s actually used.</li>
+            <li><strong>Remove yourself.</strong> The goal isn’t “AI helps me work faster.” The goal is “AI works without me for the steps that don’t need me.”</li>
         </ul>
 
         <p>Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.</p>
@@ -155,7 +163,14 @@
     </article>
 
     <footer>
-        <p>&copy; 2026 NextVibe AI. All rights reserved. &middot; <a href="../contact.html">Contact</a></p>
+        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../contact.html">Contact</a></p>
     </footer>
+
+    <script>
+        document.addEventListener('mousemove', (e) => {
+            document.documentElement.style.setProperty('--mx', e.clientX + 'px');
+            document.documentElement.style.setProperty('--my', e.clientY + 'px');
+        });
+    </script>
 </body>
 </html>
