@@ -35,7 +35,13 @@
     <style>
         *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        body { font-family: 'Inter', sans-serif; background: #000; color: #fff; letter-spacing: -0.03em; line-height: 1.8; overflow-x: hidden; }
+        body { font-family: 'Inter', sans-serif; background: #0a0a0a; color: #fff; letter-spacing: -0.03em; line-height: 1.8; overflow-x: hidden; }
+        .bg-lines { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; overflow: hidden; }
+        .bg-lines::before, .bg-lines::after { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; }
+        .bg-lines::before { background: repeating-linear-gradient(45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
+        .bg-lines::after { background: repeating-linear-gradient(-45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
+        .spotlight { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: none; background: radial-gradient(600px circle at var(--mx, 50%) var(--my, 50%), rgba(6,182,212,0.06) 0%, rgba(15,15,15,0.4) 40%, rgba(10,10,10,0.8) 70%, transparent 100%); transition: background 0.3s ease; }
+        header, .article-container, footer { position: relative; z-index: 10; }
         header { position: fixed; top: 0; width: 100%; z-index: 1000; padding: 1rem 2rem; background: rgba(0,0,0,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; justify-content: space-between; align-items: center; }
         .logo { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: #fff; }
         .logo span { color: #06B6D4; }
@@ -95,6 +101,8 @@
     </style>
 </head>
 <body>
+    <div class="bg-lines"></div>
+    <div class="spotlight"></div>
     <header>
         <a href="../index.html" class="logo">Next<span>Vibe</span></a>
         <div>
@@ -114,14 +122,14 @@
 
         <p>Every business has three automation layers. Most only build one — and they usually pick the wrong one to start with.</p>
 
-        <p>I've built automation systems for dozens of small businesses over the past two years. The pattern is remarkably consistent: the companies that succeed with AI follow a specific sequence. The ones that fail skip straight to the exciting part and wonder why nothing sticks.</p>
+        <p>I’ve built automation systems for dozens of small businesses over the past two years. The pattern is remarkably consistent: the companies that succeed with AI follow a specific sequence. The ones that fail skip straight to the exciting part and wonder why nothing sticks.</p>
 
-        <p>Here's the framework I use with every client. I call it the AI Leverage Stack.</p>
+        <p>Here’s the framework I use with every client. I call it the AI Leverage Stack.</p>
 
         <div class="layer-card" data-layer="Layer 1">
             <h3>Process Automation</h3>
             <p>Eliminate repetitive, rule-based tasks. Data entry, routing, scheduling, notifications, file management, status updates. No AI needed here — just logic. If-this-then-that. When-this-happens-do-that.</p>
-            <p>This layer alone can save 10 or more hours per week for most small teams. It's not glamorous. It doesn't use GPT-4. But it's the foundation everything else sits on.</p>
+            <p>This layer alone can save 10 or more hours per week for most small teams. It’s not glamorous. It doesn’t use GPT-4. But it’s the foundation everything else sits on.</p>
             <p class="examples">Examples: auto-filing documents, syncing CRM data between tools, sending follow-up emails on a schedule, generating invoices from form submissions.</p>
         </div>
 
@@ -141,12 +149,12 @@
 
         <h2>Why Sequence Matters</h2>
 
-        <p>The most common mistake I see is companies jumping straight to Layer 2 or Layer 3. They buy an AI tool, point it at messy data, get unreliable results, and conclude that "AI doesn't work for our business."</p>
+        <p>The most common mistake I see is companies jumping straight to Layer 2 or Layer 3. They buy an AI tool, point it at messy data, get unreliable results, and conclude that “AI doesn’t work for our business.”</p>
 
         <p>It does work. But not on chaos. AI amplifies whatever you give it — if you give it clean data and clear processes, it amplifies productivity. If you give it messy workflows and inconsistent inputs, it amplifies confusion.</p>
 
         <div class="highlight-box">
-            <p><strong>Most companies skip Layer 1 and wonder why their AI isn't working.</strong> The answer is almost always: the foundation isn't there yet.</p>
+            <p><strong>Most companies skip Layer 1 and wonder why their AI isn’t working.</strong> The answer is almost always: the foundation isn’t there yet.</p>
         </div>
 
         <h2>How to Apply This Framework</h2>
@@ -154,15 +162,15 @@
         <ul>
             <li><strong>Audit your most painful workflows.</strong> What takes the most time? What involves the most repetitive steps? What drops balls most often?</li>
             <li><strong>Assign each to a layer.</strong> Is this a rule-based routing problem (Layer 1)? Does it require judgment or content generation (Layer 2)? Does it need to run autonomously end-to-end (Layer 3)?</li>
-            <li><strong>Start at Layer 1. Always.</strong> Get data moving and clean before you add intelligence. This isn't the slow path — it's the fast path, because everything you build on top of it will work the first time.</li>
+            <li><strong>Start at Layer 1. Always.</strong> Get data moving and clean before you add intelligence. This isn’t the slow path — it’s the fast path, because everything you build on top of it will work the first time.</li>
             <li><strong>Add layers incrementally.</strong> Once Layer 1 is humming, the Layer 2 additions are almost trivially easy. The data is already flowing, the triggers are already firing, and the outputs are already structured.</li>
         </ul>
 
         <h2>The Practical Test</h2>
 
-        <p>Look at your current tech stack right now. If you're paying for AI tools but still manually moving data between systems, you've built Layer 2 without Layer 1. Go back. Automate the plumbing first. The intelligence layer will thank you.</p>
+        <p>Look at your current tech stack right now. If you’re paying for AI tools but still manually moving data between systems, you’ve built Layer 2 without Layer 1. Go back. Automate the plumbing first. The intelligence layer will thank you.</p>
 
-        <p>The AI Leverage Stack isn't about adding more technology. It's about adding the right technology in the right order. Sequence beats sophistication every time.</p>
+        <p>The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.</p>
 
         <div class="article-cta">
             <h3>Not sure which layer your business is on?</h3>
@@ -172,7 +180,14 @@
     </article>
 
     <footer>
-        <p>&copy; 2026 NextVibe AI. All rights reserved. &middot; <a href="../contact.html">Contact</a></p>
+        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../contact.html">Contact</a></p>
     </footer>
+
+    <script>
+        document.addEventListener('mousemove', (e) => {
+            document.documentElement.style.setProperty('--mx', e.clientX + 'px');
+            document.documentElement.style.setProperty('--my', e.clientY + 'px');
+        });
+    </script>
 </body>
 </html>
