@@ -43,36 +43,224 @@
     <style>
         *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
         html { scroll-behavior: smooth; }
-        body { font-family: 'Inter', sans-serif; background: #0a0a0a; color: #fff; letter-spacing: -0.03em; line-height: 1.8; overflow-x: hidden; }
-        .bg-lines { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; overflow: hidden; }
-        .bg-lines::before, .bg-lines::after { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; }
-        .bg-lines::before { background: repeating-linear-gradient(45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
-        .bg-lines::after { background: repeating-linear-gradient(-45deg, transparent, transparent 120px, rgba(6,182,212,0.03) 120px, rgba(6,182,212,0.03) 121px); }
-        .spotlight { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; pointer-events: none; background: radial-gradient(600px circle at var(--mx, 50%) var(--my, 50%), rgba(6,182,212,0.06) 0%, rgba(15,15,15,0.4) 40%, rgba(10,10,10,0.8) 70%, transparent 100%); transition: background 0.3s ease; }
-        header, .article-container, footer { position: relative; z-index: 10; }
-        header { position: fixed; top: 0; width: 100%; z-index: 1000; padding: 1rem 2rem; background: rgba(0,0,0,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid rgba(255,255,255,0.05); display: flex; justify-content: space-between; align-items: center; }
-        .logo { font-size: 1.3rem; font-weight: 700; text-decoration: none; color: #fff; }
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0a0a0a;
+            color: #fff;
+            letter-spacing: -0.03em;
+            line-height: 1.8;
+            overflow-x: hidden;
+        }
+
+        /* Crossing lines background */
+        .bg-lines {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 0;
+            pointer-events: none;
+            overflow: hidden;
+        }
+        .bg-lines::before,
+        .bg-lines::after {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+        }
+        .bg-lines::before {
+            background: repeating-linear-gradient(
+                45deg,
+                transparent,
+                transparent 120px,
+                rgba(6, 182, 212, 0.03) 120px,
+                rgba(6, 182, 212, 0.03) 121px
+            );
+        }
+        .bg-lines::after {
+            background: repeating-linear-gradient(
+                -45deg,
+                transparent,
+                transparent 120px,
+                rgba(6, 182, 212, 0.03) 120px,
+                rgba(6, 182, 212, 0.03) 121px
+            );
+        }
+
+        /* Mouse-following spotlight glow */
+        .spotlight {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1;
+            pointer-events: none;
+            background: radial-gradient(
+                600px circle at var(--mx, 50%) var(--my, 50%),
+                rgba(6, 182, 212, 0.06) 0%,
+                rgba(15, 15, 15, 0.4) 40%,
+                rgba(10, 10, 10, 0.8) 70%,
+                transparent 100%
+            );
+            transition: background 0.3s ease;
+        }
+
+        /* Ensure content is above bg effects */
+        header, .article-container, footer {
+            position: relative;
+            z-index: 10;
+        }
+
+        /* Header */
+        header {
+            position: fixed;
+            top: 0;
+            width: 100%;
+            z-index: 1000;
+            padding: 1rem 2rem;
+            background: rgba(0, 0, 0, 0.85);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .logo {
+            font-size: 1.3rem;
+            font-weight: 700;
+            text-decoration: none;
+            color: #fff;
+        }
         .logo span { color: #06B6D4; }
-        nav a { color: #9CA3AF; text-decoration: none; margin-left: 2rem; font-size: 0.9rem; transition: color 0.2s; }
+        nav a {
+            color: #9CA3AF;
+            text-decoration: none;
+            margin-left: 2rem;
+            font-size: 0.9rem;
+            transition: color 0.2s;
+        }
         nav a:hover { color: #fff; }
-        .btn-nav { background: #06B6D4; color: #000; padding: 0.5rem 1.2rem; border-radius: 6px; font-weight: 600; margin-left: 2rem; text-decoration: none; font-size: 0.9rem; }
-        .article-container { max-width: 720px; margin: 0 auto; padding: 8rem 1.5rem 4rem; }
-        .article-meta { color: #06B6D4; font-size: 0.85rem; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 1rem; }
-        h1 { font-size: clamp(2rem, 5vw, 3rem); font-weight: 800; line-height: 1.1; margin-bottom: 1.5rem; letter-spacing: -0.04em; }
-        .article-date { color: #9CA3AF; font-size: 0.9rem; margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 1px solid rgba(255,255,255,0.08); }
-        h2 { font-size: 1.5rem; font-weight: 700; margin-top: 3rem; margin-bottom: 1rem; letter-spacing: -0.03em; }
-        p { color: #d1d5db; font-size: 1.05rem; margin-bottom: 1.5rem; }
-        .highlight-box { background: #111; border-left: 3px solid #06B6D4; padding: 1.5rem; margin: 2rem 0; border-radius: 0 8px 8px 0; }
-        .highlight-box p { color: #e5e7eb; margin-bottom: 0; }
-        ul { color: #d1d5db; padding-left: 1.5rem; margin-bottom: 1.5rem; }
-        ul li { margin-bottom: 0.75rem; font-size: 1.05rem; }
-        .article-cta { background: #111; border: 1px solid rgba(6,182,212,0.2); border-radius: 12px; padding: 2.5rem; text-align: center; margin-top: 3rem; }
-        .article-cta h3 { font-size: 1.4rem; font-weight: 700; margin-bottom: 1rem; }
-        .article-cta p { color: #9CA3AF; margin-bottom: 1.5rem; }
-        .btn-cta { display: inline-block; background: #06B6D4; color: #000; padding: 0.85rem 2rem; border-radius: 8px; font-weight: 600; text-decoration: none; font-size: 1rem; transition: transform 0.2s, box-shadow 0.2s; }
-        .btn-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(6,182,212,0.3); }
-        footer { text-align: center; padding: 3rem 2rem; color: #9CA3AF; font-size: 0.85rem; border-top: 1px solid rgba(255,255,255,0.05); }
+        .btn-nav {
+            background: #06B6D4;
+            color: #000;
+            padding: 0.5rem 1.2rem;
+            border-radius: 6px;
+            font-weight: 600;
+            margin-left: 2rem;
+            text-decoration: none;
+            font-size: 0.9rem;
+        }
+
+        /* Article */
+        .article-container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 8rem 1.5rem 4rem;
+        }
+        .article-meta {
+            color: #06B6D4;
+            font-size: 0.85rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 1rem;
+        }
+        h1 {
+            font-size: clamp(2rem, 5vw, 3rem);
+            font-weight: 800;
+            line-height: 1.1;
+            margin-bottom: 1.5rem;
+            letter-spacing: -0.04em;
+        }
+        .article-date {
+            color: #9CA3AF;
+            font-size: 0.9rem;
+            margin-bottom: 3rem;
+            padding-bottom: 2rem;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        }
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-top: 3rem;
+            margin-bottom: 1rem;
+            letter-spacing: -0.03em;
+        }
+        p {
+            color: #d1d5db;
+            font-size: 1.05rem;
+            margin-bottom: 1.5rem;
+        }
+        .highlight-box {
+            background: #111;
+            border-left: 3px solid #06B6D4;
+            padding: 1.5rem;
+            margin: 2rem 0;
+            border-radius: 0 8px 8px 0;
+        }
+        .highlight-box p {
+            color: #e5e7eb;
+            margin-bottom: 0;
+        }
+        ul {
+            color: #d1d5db;
+            padding-left: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+        ul li {
+            margin-bottom: 0.75rem;
+            font-size: 1.05rem;
+        }
+
+        /* CTA */
+        .article-cta {
+            background: #111;
+            border: 1px solid rgba(6, 182, 212, 0.2);
+            border-radius: 12px;
+            padding: 2.5rem;
+            text-align: center;
+            margin-top: 3rem;
+        }
+        .article-cta h3 {
+            font-size: 1.4rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+        }
+        .article-cta p {
+            color: #9CA3AF;
+            margin-bottom: 1.5rem;
+        }
+        .btn-cta {
+            display: inline-block;
+            background: #06B6D4;
+            color: #000;
+            padding: 0.85rem 2rem;
+            border-radius: 8px;
+            font-weight: 600;
+            text-decoration: none;
+            font-size: 1rem;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+        .btn-cta:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(6, 182, 212, 0.3);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 3rem 2rem;
+            color: #9CA3AF;
+            font-size: 0.85rem;
+            border-top: 1px solid rgba(255, 255, 255, 0.05);
+        }
         footer a { color: #06B6D4; text-decoration: none; }
+
         @media (max-width: 768px) {
             nav { display: none; }
             .article-container { padding: 6rem 1.2rem 3rem; }
@@ -99,15 +287,15 @@
         <h1>AI Strategy vs. ChatGPT Subscriptions — What Actually Works</h1>
         <div class="article-date">By Victor Fernandez &middot; April 7, 2026 &middot; 5 min read</div>
 
-        <p>Most “AI strategies” are just ChatGPT subscriptions with a PowerPoint deck. You buy six AI tools, use them manually, call it “AI-enabled,” and wonder why nothing has changed. The costs go up, but the workflows stay the same. The bottlenecks stay the same. Only the invoice changes.</p>
+        <p>Most "AI strategies" are just ChatGPT subscriptions with a PowerPoint deck. You buy six AI tools, use them manually, call it "AI-enabled," and wonder why nothing has changed. The costs go up, but the workflows stay the same. The bottlenecks stay the same. Only the invoice changes.</p>
 
         <p>This is the most common trap I see when working with small and mid-sized businesses trying to adopt AI. They confuse buying tools with building systems. These are fundamentally different things, and understanding the gap between them is worth more than any tool subscription.</p>
 
         <h2>The Tool Trap</h2>
 
-        <p>Here’s what the tool-buying approach looks like in practice. You sign up for a ChatGPT subscription, maybe add Jasper for marketing copy and Otter for meeting notes. Each tool does one thing. Each requires you to open it, use it, then manually move the output to wherever it needs to go.</p>
+        <p>Here's what the tool-buying approach looks like in practice. You sign up for a ChatGPT subscription, maybe add Jasper for marketing copy and Otter for meeting notes. Each tool does one thing. Each requires you to open it, use it, then manually move the output to wherever it needs to go.</p>
 
-        <p>A week in, you’ve added 45 minutes to your day managing AI outputs instead of saving time. The tools work, but they’re isolated. They don’t talk to each other, they don’t trigger actions, and they certainly don’t run without you.</p>
+        <p>A week in, you've added 45 minutes to your day managing AI outputs instead of saving time. The tools work, but they're isolated. They don't talk to each other, they don't trigger actions, and they certainly don't run without you.</p>
 
         <div class="highlight-box">
             <p><strong>A tool is something you use. A system is something that works for you.</strong> The distinction matters because only one of these scales.</p>
@@ -119,19 +307,19 @@
 
         <p>Then you automate the right 20%. Not everything. Not the creative work or the relationship-building. The repetitive, rule-based, high-volume steps that eat hours every week.</p>
 
-        <p>The result is a system that runs without your constant input. Data flows through it. Decisions get made by rules you’ve defined. AI handles the judgment calls where the inputs are structured and the stakes are manageable. Humans only get pulled in for exceptions.</p>
+        <p>The result is a system that runs without your constant input. Data flows through it. Decisions get made by rules you've defined. AI handles the judgment calls where the inputs are structured and the stakes are manageable. Humans only get pulled in for exceptions.</p>
 
         <h2>Three Signs You Have a Strategy (Not Just Tools)</h2>
 
         <ul>
-            <li><strong>The system runs without your constant input.</strong> If you need to open the tool every time, it’s not a system — it’s a fancier manual process.</li>
-            <li><strong>Results show up in days, not quarters.</strong> Real automation delivers measurable time savings within the first week of deployment. If your “AI initiative” has been running for three months with no visible output, it’s not working.</li>
-            <li><strong>You stop noticing it because it just works.</strong> The best AI leverage is invisible. It’s the Monday morning report that generates itself, the leads that score themselves, the proposals that draft themselves overnight.</li>
+            <li><strong>The system runs without your constant input.</strong> If you need to open the tool every time, it's not a system — it's a fancier manual process.</li>
+            <li><strong>Results show up in days, not quarters.</strong> Real automation delivers measurable time savings within the first week of deployment. If your "AI initiative" has been running for three months with no visible output, it's not working.</li>
+            <li><strong>You stop noticing it because it just works.</strong> The best AI leverage is invisible. It's the Monday morning report that generates itself, the leads that score themselves, the proposals that draft themselves overnight.</li>
         </ul>
 
         <h2>The Gap Is a Workflow Audit</h2>
 
-        <p>The gap between AI hype and AI leverage is almost always a workflow audit. You need to understand what you’re actually doing before you can decide what to automate. Most businesses skip this step because it feels slow. But it’s the fastest path to real results.</p>
+        <p>The gap between AI hype and AI leverage is almost always a workflow audit. You need to understand what you're actually doing before you can decide what to automate. Most businesses skip this step because it feels slow. But it's the fastest path to real results.</p>
 
         <p>Map the process. Measure the hours. Find the bottleneck. Then — and only then — pick the technology. The tool should be the last decision you make, not the first.</p>
 
@@ -153,4 +341,4 @@
         });
     </script>
 </body>
-</html>
+</html>
