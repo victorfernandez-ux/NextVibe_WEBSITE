@@ -1,0 +1,327 @@
+{
+  "en": {
+    "nav": {
+      "services": "Services",
+      "about": "About",
+      "contact": "Contact",
+      "bookCall": "Book a Call"
+    },
+    "hero": {
+      "badge": "AI-powered systems for the real world",
+      "headline": "We Build AI Infrastructure Behind Growing Businesses.",
+      "subtitle": "We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.",
+      "cta1": "Book a Call",
+      "cta2": "Our Services"
+    },
+    "stats": {
+      "systems": "Systems Built",
+      "hours": "Hours Saved Monthly",
+      "cost": "% Cost Reduction"
+    },
+    "calculator": {
+      "title": "What Could AI Save Your Business?",
+      "subtitle": "Enter your details and see the potential impact of automation.",
+      "employees": "Number of Employees",
+      "hourlyRate": "Average Hourly Rate (£)",
+      "hoursWasted": "Hours on Manual Tasks / Week / Employee",
+      "annualSavings": "Estimated Annual Savings",
+      "monthlySavings": "Monthly Savings",
+      "hoursReclaimed": "Hours Reclaimed / Year"
+    },
+    "caseStudies": {
+      "title": "Real Results. Real Businesses.",
+      "subtitle": "See how we've helped companies automate their way to growth.",
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "agency": "Agency"
+    },
+    "services": {
+      "title": "What we specialize in.",
+      "subtitle": "End-to-end AI systems that drive real business outcomes.",
+      "growth": "Growth Systems & Automations",
+      "growthDesc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
+      "operations": "Operations & Fulfillment Automation",
+      "operationsDesc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
+      "bespoke": "Bespoke AI Solutions",
+      "bespokeDesc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more."
+    },
+    "testimonials": {
+      "title": "What Clients Say"
+    },
+    "form": {
+      "title": "Tell us where you're at...",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "budget": "Budget",
+      "budgetPlaceholder": "Select a range",
+      "budget1": "£5,000 – £10,000",
+      "budget2": "£10,000 – £25,000",
+      "budget3": "£25,000+",
+      "submit": "Send Message"
+    },
+    "footer": {
+      "copy": "© 2026 NextVibe. All rights reserved."
+    }
+  },
+  "es": {
+    "nav": {
+      "services": "Servicios",
+      "about": "Acerca de",
+      "contact": "Contacto",
+      "bookCall": "Reservar Llamada"
+    },
+    "hero": {
+      "badge": "Sistemas impulsados por IA para el mundo real",
+      "headline": "Construimos Infraestructura de IA Detrás de Empresas en Crecimiento.",
+      "subtitle": "Diseñamos e implementamos sistemas de IA que generan leads, cierran ventas y optimizan operaciones — para que te enfoques en lo que mejor haces.",
+      "cta1": "Reservar Llamada",
+      "cta2": "Nuestros Servicios"
+    },
+    "stats": {
+      "systems": "Sistemas Construidos",
+      "hours": "Horas Ahorradas Mensualmente",
+      "cost": "% Reducción de Costos"
+    },
+    "calculator": {
+      "title": "¿Cuánto Podría Ahorrar la IA Tu Negocio?",
+      "subtitle": "Ingresa tus datos y ve el impacto potencial de la automatización.",
+      "employees": "Número de Empleados",
+      "hourlyRate": "Tarifa Horaria Promedio (£)",
+      "hoursWasted": "Horas en Tareas Manuales / Semana / Empleado",
+      "annualSavings": "Ahorro Anual Estimado",
+      "monthlySavings": "Ahorro Mensual",
+      "hoursReclaimed": "Horas Recuperadas / Año"
+    },
+    "caseStudies": {
+      "title": "Resultados Reales. Negocios Reales.",
+      "subtitle": "Ve cómo hemos ayudado a empresas a crecer mediante automatización.",
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "agency": "Agencia"
+    },
+    "services": {
+      "title": "En qué nos especializamos.",
+      "subtitle": "Sistemas de IA de extremo a extremo que impulsan resultados comerciales reales.",
+      "growth": "Sistemas de Crecimiento y Automatización",
+      "growthDesc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
+      "operations": "Automatización de Operaciones y Cumplimiento",
+      "operationsDesc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
+      "bespoke": "Soluciones de IA Personalizadas",
+      "bespokeDesc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más."
+    },
+    "testimonials": {
+      "title": "Lo que Dicen Nuestros Clientes"
+    },
+    "form": {
+      "title": "Cuéntanos dónde estás...",
+      "name": "Nombre",
+      "email": "Correo Electrónico",
+      "company": "Empresa",
+      "budget": "Presupuesto",
+      "budgetPlaceholder": "Selecciona un rango",
+      "budget1": "£5,000 – £10,000",
+      "budget2": "£10,000 – £25,000",
+      "budget3": "£25,000+",
+      "submit": "Enviar Mensaje"
+    },
+    "footer": {
+      "copy": "© 2026 NextVibe. Todos los derechos reservados."
+    }
+  },
+  "fr": {
+    "nav": {
+      "services": "Services",
+      "about": "À Propos",
+      "contact": "Contact",
+      "bookCall": "Réserver un Appel"
+    },
+    "hero": {
+      "badge": "Systèmes alimentés par l'IA pour le monde réel",
+      "headline": "Nous Construisons une Infrastructure d'IA Derrière les Entreprises en Croissance.",
+      "subtitle": "Nous concevons et déployons des systèmes d'IA qui génèrent des prospects, concluent des affaires et rationalisent les opérations — afin que vous puissiez vous concentrer sur ce que vous faites de mieux.",
+      "cta1": "Réserver un Appel",
+      "cta2": "Nos Services"
+    },
+    "stats": {
+      "systems": "Systèmes Construits",
+      "hours": "Heures Économisées par Mois",
+      "cost": "% Réduction des Coûts"
+    },
+    "calculator": {
+      "title": "Combien l'IA Pourrait-elle Économiser à Votre Entreprise?",
+      "subtitle": "Entrez vos informations et voyez l'impact potentiel de l'automatisation.",
+      "employees": "Nombre d'Employés",
+      "hourlyRate": "Tarif Horaire Moyen (£)",
+      "hoursWasted": "Heures sur Tâches Manuelles / Semaine / Employé",
+      "annualSavings": "Économies Annuelles Estimées",
+      "monthlySavings": "Économies Mensuelles",
+      "hoursReclaimed": "Heures Récupérées / An"
+    },
+    "caseStudies": {
+      "title": "Résultats Réels. Entreprises Réelles.",
+      "subtitle": "Voyez comment nous avons aidé les entreprises à se développer grâce à l'automatisation.",
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "agency": "Agence"
+    },
+    "services": {
+      "title": "Notre domaine de spécialité.",
+      "subtitle": "Systèmes d'IA de bout en bout qui stimulent les résultats commerciaux réels.",
+      "growth": "Systèmes de Croissance et d'Automatisation",
+      "growthDesc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
+      "operations": "Automatisation des Opérations et de l'Exécution",
+      "operationsDesc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
+      "bespoke": "Solutions d'IA Personnalisées",
+      "bespokeDesc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore."
+    },
+    "testimonials": {
+      "title": "Ce que Disent Nos Clients"
+    },
+    "form": {
+      "title": "Dites-nous où vous en êtes...",
+      "name": "Nom",
+      "email": "E-mail",
+      "company": "Entreprise",
+      "budget": "Budget",
+      "budgetPlaceholder": "Sélectionnez une plage",
+      "budget1": "£5 000 – £10 000",
+      "budget2": "£10 000 – £25 000",
+      "budget3": "£25 000+",
+      "submit": "Envoyer le Message"
+    },
+    "footer": {
+      "copy": "© 2026 NextVibe. Tous droits réservés."
+    }
+  },
+  "de": {
+    "nav": {
+      "services": "Dienstleistungen",
+      "about": "Über Uns",
+      "contact": "Kontakt",
+      "bookCall": "Anruf Buchen"
+    },
+    "hero": {
+      "badge": "KI-gestützte Systeme für die reale Welt",
+      "headline": "Wir Bauen KI-Infrastruktur für Wachstumsunternehmen.",
+      "subtitle": "Wir entwerfen und implementieren KI-Systeme, die Leads generieren, Deals abschließen und Operationen straffen — damit du dich auf das konzentrieren kannst, was du am besten machst.",
+      "cta1": "Anruf Buchen",
+      "cta2": "Unsere Dienstleistungen"
+    },
+    "stats": {
+      "systems": "Systeme Gebaut",
+      "hours": "Stunden pro Monat Gespart",
+      "cost": "% Kosteneinsparung"
+    },
+    "calculator": {
+      "title": "Wie Viel Könnte KI Dein Unternehmen Sparen?",
+      "subtitle": "Gib deine Daten ein und sehe die potenzielle Auswirkung der Automatisierung.",
+      "employees": "Anzahl der Mitarbeiter",
+      "hourlyRate": "Durchschnittlicher Stundensatz (£)",
+      "hoursWasted": "Stunden für manuelle Aufgaben / Woche / Mitarbeiter",
+      "annualSavings": "Geschätzte Jährliche Einsparungen",
+      "monthlySavings": "Monatliche Einsparungen",
+      "hoursReclaimed": "Wiedergewonnene Stunden / Jahr"
+    },
+    "caseStudies": {
+      "title": "Echte Ergebnisse. Echte Unternehmen.",
+      "subtitle": "Sieh, wie wir Unternehmen durch Automatisierung geholfen haben zu wachsen.",
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "agency": "Agentur"
+    },
+    "services": {
+      "title": "Worauf wir uns spezialisieren.",
+      "subtitle": "End-to-End-KI-Systeme, die echte Geschäftsergebnisse bringen.",
+      "growth": "Wachstums- und Automatisierungssysteme",
+      "growthDesc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
+      "operations": "Betriebs- und Erfüllungsautomatisierung",
+      "operationsDesc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
+      "bespoke": "Maßgeschneiderte KI-Lösungen",
+      "bespokeDesc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr."
+    },
+    "testimonials": {
+      "title": "Was Unsere Kunden Sagen"
+    },
+    "form": {
+      "title": "Sag uns, wo du stehst...",
+      "name": "Name",
+      "email": "E-Mail",
+      "company": "Unternehmen",
+      "budget": "Budget",
+      "budgetPlaceholder": "Wähle einen Bereich",
+      "budget1": "£5.000 – £10.000",
+      "budget2": "£10.000 – £25.000",
+      "budget3": "£25.000+",
+      "submit": "Nachricht Senden"
+    },
+    "footer": {
+      "copy": "© 2026 NextVibe. Alle Rechte vorbehalten."
+    }
+  },
+  "it": {
+    "nav": {
+      "services": "Servizi",
+      "about": "Chi Siamo",
+      "contact": "Contatti",
+      "bookCall": "Prenota una Chiamata"
+    },
+    "hero": {
+      "badge": "Sistemi alimentati dall'IA per il mondo reale",
+      "headline": "Costruiamo Infrastrutture di IA Dietro alle Aziende in Crescita.",
+      "subtitle": "Progettiamo e distribuiamo sistemi di IA che generano lead, chiudono affari e semplificano le operazioni — in modo che tu possa concentrarti su ciò che fai meglio.",
+      "cta1": "Prenota una Chiamata",
+      "cta2": "I Nostri Servizi"
+    },
+    "stats": {
+      "systems": "Sistemi Costruiti",
+      "hours": "Ore Risparmiate al Mese",
+      "cost": "% Riduzione dei Costi"
+    },
+    "calculator": {
+      "title": "Quanto Potrebbe Risparmiare l'IA la Tua Azienda?",
+      "subtitle": "Inserisci i tuoi dettagli e vedi il potenziale impatto dell'automazione.",
+      "employees": "Numero di Dipendenti",
+      "hourlyRate": "Tariffa Oraria Media (£)",
+      "hoursWasted": "Ore su Attività Manuali / Settimana / Dipendente",
+      "annualSavings": "Risparmi Annuali Stimati",
+      "monthlySavings": "Risparmi Mensili",
+      "hoursReclaimed": "Ore Recuperate / Anno"
+    },
+    "caseStudies": {
+      "title": "Risultati Reali. Aziende Reali.",
+      "subtitle": "Scopri come abbiamo aiutato le aziende a crescere attraverso l'automazione.",
+      "saas": "SaaS",
+      "ecommerce": "E-Commerce",
+      "agency": "Agenzia"
+    },
+    "services": {
+      "title": "In cosa ci specializziamo.",
+      "subtitle": "Sistemi di IA end-to-end che guidano i risultati aziendali reali.",
+      "growth": "Sistemi di Crescita e Automazione",
+      "growthDesc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
+      "operations": "Automazione delle Operazioni e dell'Adempimento",
+      "operationsDesc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
+      "bespoke": "Soluzioni di IA Personalizzate",
+      "bespokeDesc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro."
+    },
+    "testimonials": {
+      "title": "Cosa Dicono i Nostri Clienti"
+    },
+    "form": {
+      "title": "Raccontaci la tua situazione...",
+      "name": "Nome",
+      "email": "Email",
+      "company": "Azienda",
+      "budget": "Budget",
+      "budgetPlaceholder": "Seleziona un intervallo",
+      "budget1": "£5.000 – £10.000",
+      "budget2": "£10.000 – £25.000",
+      "budget3": "£25.000+",
+      "submit": "Invia Messaggio"
+    },
+    "footer": {
+      "copy": "© 2026 NextVibe. Tutti i diritti riservati."
+    }
+  }
+}
