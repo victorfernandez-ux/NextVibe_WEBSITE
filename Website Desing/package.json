@@ -1,0 +1,17 @@
+{
+  "name": "nextvibeai-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NextVibe AI — static website build tooling",
+  "scripts": {
+    "generate-md": "node generate-md.js",
+    "build": "node generate-md.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "turndown": "^7.2.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
