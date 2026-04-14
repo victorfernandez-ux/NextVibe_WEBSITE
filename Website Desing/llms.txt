@@ -1,0 +1,14 @@
+# NextVibe AI
+
+> AI automation agency — we build systems that generate leads, close deals, and streamline operations for growing businesses.
+
+## Key Pages
+
+- [About | NextVibe](https://nextvibeai.com/about.md): About NextVibe AI — Our story, founders, values, and journey building AI automation systems for growing businesses.
+- [The AI Leverage Stack — 3 Layers Every Business Needs | NextVibe AI](https://nextvibeai.com/blog/ai-leverage-stack-framework.md): The AI Leverage Stack: 3 layers every business needs to automate effectively. Process automation, intelligence layer, and autonomous agents — in the right order.
+- [AI Strategy vs. ChatGPT Subscriptions — What Actually Works | NextVibe AI](https://nextvibeai.com/blog/ai-strategy-vs-chatgpt-subscriptions.md): Most 'AI strategies' are just ChatGPT subscriptions with a PowerPoint deck. Learn the difference between buying AI tools and building AI systems that actually deliver ROI.
+- [ChatGPT Prompts Aren't AI Strategy — Here's What Is | NextVibe AI](https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy.md): Writing better ChatGPT prompts feels like progress, but it's still manual work with a nicer interface. Learn the difference between prompts and AI systems that actually scale.
+- [Contact | NextVibe](https://nextvibeai.com/contact.md): Get in touch with NextVibe AI. Tell us about your business and we'll show you how AI automation can help you grow.
+- [NextVibe AI | AI Automation Agency](https://nextvibeai.com/index.md): NextVibe AI — We build AI infrastructure behind growing businesses. Automation systems, AI solutions, and operational workflows that save 15-20 hours/week.
+- [Services | NextVibe](https://nextvibeai.com/services.md): NextVibe AI services — AI lead generation, operations automation, hiring systems, sales administration, and bespoke AI solutions for growing businesses.
+- [NextVibe AI — Free AI Automation Audit | Stop Losing Revenue to Manual Work](https://nextvibeai.com/start/index.md): Stop losing revenue to manual work. Get your free AI audit and discover how to save 15-20 hours per week with automation.
