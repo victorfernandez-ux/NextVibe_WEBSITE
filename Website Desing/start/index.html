@@ -836,7 +836,8 @@
                 <p>Most small businesses waste 20-30% of revenue through broken workflows. We find the leaks and fix them with AI automation — typically saving 15-20 hours/week.</p>
 
                 <div class="hero-form-wrapper">
-                    <form class="hero-form" id="auditForm">
+                    <form class="hero-form" id="auditForm" name="audit-form" method="post" data-netlify="true">
+                        <input type="hidden" name="form-name" value="audit-form">
                         <input type="text" name="firstName" placeholder="First Name" required>
                         <input type="email" name="email" placeholder="Email" required>
                         <input type="text" name="company" placeholder="Company Name" required>
