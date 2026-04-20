@@ -1,3 +1,6 @@
 [build]
   base = "Website Desing"
     publish = "Website Desing"
+      command = "npm install && node generate-md.js"
+        ignore = "exit 1"
+        
