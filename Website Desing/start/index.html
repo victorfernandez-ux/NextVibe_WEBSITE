@@ -122,7 +122,6 @@
 
         section {
             padding: 5rem 0;
-            animation: fadeInUp 0.8s ease-out;
         }
 
         @keyframes fadeInUp {
@@ -815,7 +814,6 @@
             }
         }
     </style>
-    <link rel="alternate" type="text/markdown" href="index.md">
 </head>
 <body>
 
@@ -823,7 +821,7 @@
     <header>
         <nav>
             <div class="logo">Next<span>Vibe</span> AI</div>
-            <button class="btn" onclick="document.getElementById('hero').scrollIntoView({ behavior: 'smooth' })">Book a Call</button>
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn">Book a Call</a>
         </nav>
     </header>
 
@@ -845,6 +843,7 @@
                     <div class="form-success" id="formSuccess">
                         <h3>Thanks! We're excited to help.</h3>
                         <p>We'll be in touch within 24 hours with your free AI audit.</p>
+                        <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn" style="margin-top: 1rem; display: inline-block;">Book Your Call Now →</a>
                     </div>
                     <p class="hero-subtext">No commitment. Takes 2 minutes.</p>
                 </div>
@@ -1121,8 +1120,6 @@
             <div class="footer-links">
                 <span>© 2026 NextVibe AI</span>
                 <a href="mailto:hello@nextvibeai.com">hello@nextvibeai.com</a>
-                <a href="#privacy">Privacy Policy</a>
-                <a href="#terms">Terms</a>
             </div>
             <div class="footer-location">London, UK</div>
         </div>
@@ -1183,15 +1180,6 @@
             // Toggle current item
             faqItem.classList.toggle('active');
         }
-
-        // Smooth scroll to form on CTA button clicks
-        document.querySelectorAll('.btn').forEach(btn => {
-            btn.addEventListener('click', function() {
-                if (this.textContent.includes('Audit') && this.id !== 'auditForm') {
-                    document.getElementById('hero').scrollIntoView({ behavior: 'smooth' });
-                }
-            });
-        });
 
         // Intersection Observer for fade-in animations
         const observerOptions = {
