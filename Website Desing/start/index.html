@@ -1,2260 +1,4520 @@
 <!DOCTYPE html>
 
+
+
 <html lang="en">
+
+
 
 <head>
 
+
+
     <meta charset="UTF-8">
+
+
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
+
     <meta name="description" content="Stop losing revenue to manual work. Get your free AI audit and discover how to save 15-20 hours per week with automation.">
+
+
 
     <link rel="canonical" href="https://nextvibeai.com/start/">
 
+
+
     <meta property="og:title" content="NextVibe AI — Free AI Automation Audit">
+
+
 
     <meta property="og:description" content="Free AI audit. Find £5-20K in hidden revenue and time savings through automation.">
 
+
+
     <meta property="og:image" content="https://nextvibeai.com/og-image.jpg">
+
+
 
     <meta property="og:url" content="https://nextvibeai.com/start/">
 
+
+
     <meta property="og:type" content="website">
+
+
 
     <meta name="twitter:card" content="summary_large_image">
 
+
+
     <meta name="twitter:title" content="NextVibe AI — Free AI Automation Audit">
+
+
 
     <meta name="twitter:description" content="Free AI audit. Find £5-20K in hidden revenue and time savings through automation.">
 
+
+
     <title>NextVibe AI — Free AI Automation Audit | Stop Losing Revenue to Manual Work</title>
+
+
 
     <!-- Google Analytics -->
 
+
+
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-YQN59YEK9T"></script>
+
+
 
     <script>
 
+
+
       window.dataLayer = window.dataLayer || [];
+
+
 
       function gtag(){dataLayer.push(arguments);}
 
+
+
       gtag('js', new Date());
+
+
 
       gtag('config', 'G-YQN59YEK9T');
 
+
+
     </script>
 
+
+
     <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+
+
 
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 
 
+
+
+
+
     <style>
+
+
 
         * {
 
+
+
             margin: 0;
+
+
 
             padding: 0;
 
+
+
             box-sizing: border-box;
 
+
+
         }
+
+
+
+
 
 
 
         html {
 
+
+
             scroll-behavior: smooth;
 
+
+
         }
+
+
+
+
 
 
 
         body {
 
+
+
             font-family: 'Inter', sans-serif;
+
+
 
             background-color: #000000;
 
+
+
             color: #ffffff;
+
+
 
             line-height: 1.6;
 
+
+
             overflow-x: hidden;
 
+
+
         }
+
+
+
+
 
 
 
         /* Typography */
 
+
+
         h1, h2, h3, h4, h5, h6 {
+
+
 
             letter-spacing: -0.03em;
 
+
+
             font-weight: 700;
 
+
+
         }
+
+
+
+
 
 
 
         h1 {
 
+
+
             font-size: clamp(2.5rem, 5vw, 4rem);
+
+
 
             line-height: 1.1;
 
+
+
             margin-bottom: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         h2 {
 
+
+
             font-size: clamp(1.8rem, 4vw, 2.5rem);
+
+
 
             margin-bottom: 0.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         h3 {
 
+
+
             font-size: 1.25rem;
+
+
 
             font-weight: 600;
 
+
+
         }
+
+
+
+
 
 
 
         p {
 
+
+
             font-size: 1rem;
+
+
 
             color: #9CA3AF;
 
+
+
             margin-bottom: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .accent {
 
+
+
             color: #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         /* Buttons */
 
+
+
         .btn {
+
+
 
             display: inline-block;
 
+
+
             padding: 0.875rem 1.75rem;
+
+
 
             background-color: #06B6D4;
 
+
+
             color: #000000;
+
+
 
             border: none;
 
+
+
             border-radius: 0.5rem;
+
+
 
             font-weight: 600;
 
+
+
             font-size: 1rem;
+
+
 
             cursor: pointer;
 
+
+
             transition: all 0.3s ease;
+
+
 
             text-decoration: none;
 
+
+
             font-family: 'Inter', sans-serif;
+
+
 
             letter-spacing: -0.02em;
 
+
+
         }
+
+
+
+
 
 
 
         .btn:hover {
 
+
+
             background-color: #00a8c4;
+
+
 
             transform: translateY(-2px);
 
+
+
             box-shadow: 0 8px 20px rgba(6, 182, 212, 0.3);
 
+
+
         }
+
+
+
+
 
 
 
         .btn:active {
 
+
+
             transform: translateY(0);
 
+
+
         }
+
+
+
+
 
 
 
         .btn-secondary {
 
+
+
             background-color: transparent;
+
+
 
             color: #06B6D4;
 
+
+
             border: 1px solid #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         .btn-secondary:hover {
 
+
+
             background-color: rgba(6, 182, 212, 0.1);
 
+
+
         }
+
+
+
+
 
 
 
         /* Layout */
 
+
+
         .container {
+
+
 
             max-width: 1200px;
 
+
+
             margin: 0 auto;
+
+
 
             padding: 0 1.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         section {
 
+
+
             padding: 5rem 0;
+
+
 
             animation: fadeInUp 0.8s ease-out;
 
+
+
         }
+
+
+
+
 
 
 
         @keyframes fadeInUp {
 
+
+
             from {
+
+
 
                 opacity: 0;
 
+
+
                 transform: translateY(30px);
 
+
+
             }
+
+
 
             to {
 
+
+
                 opacity: 1;
+
+
 
                 transform: translateY(0);
 
+
+
             }
 
+
+
         }
+
+
+
+
 
 
 
         /* Header */
 
+
+
         header {
+
+
 
             position: fixed;
 
+
+
             top: 0;
+
+
 
             left: 0;
 
+
+
             right: 0;
+
+
 
             background-color: rgba(0, 0, 0, 0.95);
 
+
+
             backdrop-filter: blur(10px);
+
+
 
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 
+
+
             padding: 1rem 1.5rem;
+
+
 
             z-index: 1000;
 
+
+
         }
+
+
+
+
 
 
 
         nav {
 
+
+
             display: flex;
+
+
 
             justify-content: space-between;
 
+
+
             align-items: center;
+
+
 
             max-width: 1200px;
 
+
+
             margin: 0 auto;
 
+
+
         }
+
+
+
+
 
 
 
         .logo {
 
+
+
             font-size: 1.5rem;
+
+
 
             font-weight: 700;
 
+
+
             letter-spacing: -0.03em;
 
+
+
         }
+
+
+
+
 
 
 
         .logo span {
 
+
+
             color: #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         nav button {
 
+
+
             padding: 0.75rem 1.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         /* Hero Section */
 
+
+
         #hero {
+
+
 
             padding-top: 8rem;
 
+
+
             padding-bottom: 4rem;
+
+
 
             position: relative;
 
+
+
             overflow: hidden;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-content {
 
+
+
             max-width: 900px;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-glow {
 
+
+
             position: absolute;
+
+
 
             top: -200px;
 
+
+
             right: -100px;
+
+
 
             width: 600px;
 
+
+
             height: 600px;
+
+
 
             background: radial-gradient(circle, rgba(6, 182, 212, 0.15) 0%, transparent 70%);
 
+
+
             border-radius: 50%;
+
+
 
             filter: blur(80px);
 
+
+
             pointer-events: none;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-content h1 {
 
+
+
             color: #ffffff;
+
+
 
             margin-bottom: 1.5rem;
 
+
+
             position: relative;
+
+
 
             z-index: 1;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-content > p {
 
+
+
             font-size: 1.125rem;
+
+
 
             max-width: 700px;
 
+
+
             margin-bottom: 2rem;
+
+
 
             color: #9CA3AF;
 
+
+
             line-height: 1.7;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form-wrapper {
 
+
+
             max-width: 500px;
+
+
 
             margin-bottom: 3rem;
 
+
+
             position: relative;
+
+
 
             z-index: 1;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form {
 
+
+
             display: flex;
+
+
 
             flex-direction: column;
 
+
+
             gap: 0.875rem;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form input {
 
+
+
             padding: 0.875rem 1.125rem;
+
+
 
             background-color: #111111;
 
+
+
             border: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             border-radius: 0.5rem;
 
+
+
             color: #ffffff;
+
+
 
             font-family: 'Inter', sans-serif;
 
+
+
             font-size: 1rem;
+
+
 
             transition: all 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form input::placeholder {
 
+
+
             color: #6B7280;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form input:focus {
 
+
+
             outline: none;
+
+
 
             border-color: #06B6D4;
 
+
+
             background-color: #0a0a0a;
+
+
 
             box-shadow: 0 0 0 3px rgba(6, 182, 212, 0.1);
 
+
+
         }
+
+
+
+
 
 
 
         .hero-form button {
 
+
+
             width: 100%;
 
+
+
         }
+
+
+
+
 
 
 
         .hero-subtext {
 
+
+
             font-size: 0.875rem;
+
+
 
             color: #6B7280;
 
+
+
             text-align: center;
+
+
 
             margin-top: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .form-success {
 
+
+
             padding: 2rem;
+
+
 
             background-color: rgba(6, 182, 212, 0.1);
 
+
+
             border: 1px solid rgba(6, 182, 212, 0.3);
+
+
 
             border-radius: 0.5rem;
 
+
+
             text-align: center;
+
+
 
             display: none;
 
+
+
         }
+
+
+
+
 
 
 
         .form-success h3 {
 
+
+
             color: #06B6D4;
+
+
 
             margin-bottom: 0.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .form-success p {
 
+
+
             font-size: 0.95rem;
+
+
 
             margin: 0;
 
+
+
         }
+
+
+
+
 
 
 
         /* Social Proof Bar */
 
+
+
         .social-proof-bar {
+
+
 
             border-top: 1px solid rgba(255, 255, 255, 0.1);
 
+
+
             border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             padding: 2.5rem 0;
 
+
+
         }
+
+
+
+
 
 
 
         .proof-grid {
 
+
+
             display: grid;
+
+
 
             grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
 
+
+
             gap: 2rem;
+
+
 
             text-align: center;
 
+
+
         }
+
+
+
+
 
 
 
         .proof-item h3 {
 
+
+
             color: #06B6D4;
+
+
 
             font-size: 1.75rem;
 
+
+
             margin-bottom: 0.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .proof-item p {
 
+
+
             font-size: 0.95rem;
+
+
 
             color: #9CA3AF;
 
+
+
             margin: 0;
 
+
+
         }
+
+
+
+
 
 
 
         /* Problem Section */
 
+
+
         #problem {
+
+
 
             background-color: rgba(17, 17, 17, 0.5);
 
+
+
         }
+
+
+
+
 
 
 
         .section-header {
 
+
+
             text-align: center;
+
+
 
             margin-bottom: 3rem;
 
+
+
         }
+
+
+
+
 
 
 
         .section-header h2 {
 
+
+
             color: #ffffff;
+
+
 
             margin-bottom: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .section-header p {
 
+
+
             font-size: 1.125rem;
+
+
 
             color: #9CA3AF;
 
+
+
             max-width: 600px;
+
+
 
             margin: 0 auto;
 
+
+
         }
+
+
+
+
 
 
 
         .pain-points {
 
+
+
             display: grid;
+
+
 
             grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
 
+
+
             gap: 2rem;
+
+
 
             margin-bottom: 2.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .pain-card {
 
+
+
             background-color: #111111;
+
+
 
             padding: 2rem;
 
+
+
             border: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             border-radius: 0.75rem;
 
+
+
             transition: all 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .pain-card:hover {
 
+
+
             background-color: #0a0a0a;
+
+
 
             border-color: rgba(6, 182, 212, 0.3);
 
+
+
             transform: translateY(-4px);
 
+
+
         }
+
+
+
+
 
 
 
         .pain-card h3 {
 
+
+
             color: #ffffff;
+
+
 
             margin-bottom: 0.75rem;
 
+
+
         }
+
+
+
+
 
 
 
         .pain-card p {
 
+
+
             font-size: 0.95rem;
+
+
 
             margin: 0;
 
+
+
         }
+
+
+
+
 
 
 
         .problem-bottom {
 
+
+
             background-color: #0a0a0a;
+
+
 
             padding: 2rem;
 
+
+
             border-radius: 0.75rem;
+
+
 
             border: 1px solid rgba(255, 255, 255, 0.1);
 
+
+
             text-align: center;
 
+
+
         }
+
+
+
+
 
 
 
         .problem-bottom p {
 
+
+
             font-size: 1.125rem;
+
+
 
             color: #ffffff;
 
+
+
             margin: 0;
 
+
+
         }
+
+
+
+
 
 
 
         .problem-bottom .accent {
 
+
+
             font-weight: 600;
+
+
 
             font-size: 1.2rem;
 
+
+
         }
+
+
+
+
 
 
 
         /* Solution Section */
 
+
+
         #solution {
+
+
 
             background: linear-gradient(180deg, rgba(6, 182, 212, 0.05) 0%, transparent 100%);
 
+
+
         }
+
+
+
+
 
 
 
         .solution-steps {
 
+
+
             display: grid;
+
+
 
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 
+
+
             gap: 2rem;
+
+
 
             margin-bottom: 3rem;
 
+
+
         }
+
+
+
+
 
 
 
         .step-card {
 
+
+
             background-color: #111111;
+
+
 
             padding: 2.5rem;
 
+
+
             border: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             border-radius: 0.75rem;
 
+
+
             position: relative;
+
+
 
             transition: all 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .step-card::before {
 
+
+
             content: attr(data-step);
+
+
 
             position: absolute;
 
+
+
             top: -1rem;
+
+
 
             left: 2rem;
 
+
+
             font-size: 3rem;
+
+
 
             font-weight: 700;
 
+
+
             color: rgba(6, 182, 212, 0.2);
 
+
+
         }
+
+
+
+
 
 
 
         .step-card h3 {
 
+
+
             color: #06B6D4;
+
+
 
             margin-bottom: 0.75rem;
 
+
+
             position: relative;
+
+
 
             z-index: 1;
 
+
+
         }
+
+
+
+
 
 
 
         .step-card p {
 
+
+
             margin: 0;
+
+
 
             font-size: 0.95rem;
 
+
+
         }
+
+
+
+
 
 
 
         .step-card:hover {
 
+
+
             background-color: #0a0a0a;
+
+
 
             border-color: rgba(6, 182, 212, 0.5);
 
+
+
             transform: translateY(-4px);
 
+
+
         }
+
+
+
+
 
 
 
         /* Testimonials Section */
 
+
+
         #testimonials {
+
+
 
             background-color: rgba(17, 17, 17, 0.5);
 
+
+
         }
+
+
+
+
 
 
 
         .testimonials-grid {
 
+
+
             display: grid;
+
+
 
             grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
 
+
+
             gap: 2rem;
 
+
+
         }
+
+
+
+
 
 
 
         .testimonial-card {
 
+
+
             background-color: #111111;
+
+
 
             padding: 2rem;
 
+
+
             border: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             border-radius: 0.75rem;
 
+
+
             display: flex;
+
+
 
             flex-direction: column;
 
+
+
             transition: all 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .testimonial-card:hover {
 
+
+
             background-color: #0a0a0a;
+
+
 
             border-color: rgba(6, 182, 212, 0.3);
 
+
+
         }
+
+
+
+
 
 
 
         .testimonial-text {
 
+
+
             font-size: 1rem;
+
+
 
             font-style: italic;
 
+
+
             color: #ffffff;
+
+
 
             margin-bottom: 1.5rem;
 
+
+
             flex-grow: 1;
+
+
 
             line-height: 1.8;
 
+
+
         }
+
+
+
+
 
 
 
         .testimonial-text::before {
 
+
+
             content: '"';
+
+
 
             font-size: 2.5rem;
 
+
+
             color: rgba(6, 182, 212, 0.3);
+
+
 
             line-height: 0;
 
+
+
             margin-right: 0.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .testimonial-author {
 
+
+
             border-top: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             padding-top: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .author-name {
 
+
+
             font-weight: 600;
+
+
 
             color: #ffffff;
 
+
+
             font-size: 0.95rem;
+
+
 
             margin-bottom: 0.25rem;
 
+
+
         }
+
+
+
+
 
 
 
         .author-title {
 
+
+
             font-size: 0.85rem;
+
+
 
             color: #6B7280;
 
+
+
             margin-bottom: 0.75rem;
 
+
+
         }
+
+
+
+
 
 
 
         .author-result {
 
+
+
             font-size: 0.9rem;
+
+
 
             font-weight: 600;
 
+
+
             color: #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         /* Case Study Section */
 
+
+
         #case-study {
+
+
 
             background: linear-gradient(135deg, rgba(6, 182, 212, 0.08) 0%, transparent 100%);
 
+
+
         }
+
+
+
+
 
 
 
         .case-study-content {
 
+
+
             max-width: 800px;
+
+
 
             margin: 0 auto;
 
+
+
         }
+
+
+
+
 
 
 
         .case-highlight {
 
+
+
             background-color: #111111;
+
+
 
             padding: 2.5rem;
 
+
+
             border-left: 4px solid #06B6D4;
+
+
 
             border-radius: 0.5rem;
 
+
+
             margin: 2rem 0;
 
+
+
         }
+
+
+
+
 
 
 
         .case-highlight h3 {
 
+
+
             color: #06B6D4;
+
+
 
             margin-bottom: 1rem;
 
+
+
             font-size: 1.1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .case-highlight ul {
 
+
+
             list-style: none;
+
+
 
             padding: 0;
 
+
+
         }
+
+
+
+
 
 
 
         .case-highlight li {
 
+
+
             color: #9CA3AF;
+
+
 
             margin-bottom: 0.75rem;
 
+
+
             padding-left: 1.5rem;
+
+
 
             position: relative;
 
+
+
         }
+
+
+
+
 
 
 
         .case-highlight li::before {
 
+
+
             content: '→';
+
+
 
             position: absolute;
 
+
+
             left: 0;
+
+
 
             color: #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         .case-result {
 
+
+
             background-color: rgba(6, 182, 212, 0.1);
+
+
 
             border: 1px solid rgba(6, 182, 212, 0.3);
 
+
+
             padding: 2rem;
+
+
 
             border-radius: 0.75rem;
 
+
+
             text-align: center;
+
+
 
             margin-top: 2rem;
 
+
+
         }
+
+
+
+
 
 
 
         .case-result h3 {
 
+
+
             color: #06B6D4;
+
+
 
             margin-bottom: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         .result-items {
 
+
+
             display: grid;
+
+
 
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 
+
+
             gap: 1.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .result-item {
 
+
+
             text-align: center;
 
+
+
         }
+
+
+
+
 
 
 
         .result-metric {
 
+
+
             font-size: 1.5rem;
+
+
 
             font-weight: 700;
 
+
+
             color: #06B6D4;
+
+
 
             margin-bottom: 0.25rem;
 
+
+
         }
+
+
+
+
 
 
 
         .result-label {
 
+
+
             font-size: 0.85rem;
+
+
 
             color: #9CA3AF;
 
+
+
         }
+
+
+
+
 
 
 
         /* FAQ Section */
 
+
+
         #faq {
+
+
 
             background-color: rgba(17, 17, 17, 0.5);
 
+
+
         }
+
+
+
+
 
 
 
         .faq-container {
 
+
+
             max-width: 700px;
+
+
 
             margin: 0 auto;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-item {
 
+
+
             background-color: #111111;
+
+
 
             border: 1px solid rgba(255, 255, 255, 0.1);
 
+
+
             border-radius: 0.5rem;
+
+
 
             margin-bottom: 1rem;
 
+
+
             overflow: hidden;
+
+
 
             transition: all 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-item:hover {
 
+
+
             border-color: rgba(6, 182, 212, 0.3);
 
+
+
         }
+
+
+
+
 
 
 
         .faq-question {
 
+
+
             padding: 1.5rem;
+
+
 
             cursor: pointer;
 
+
+
             display: flex;
+
+
 
             justify-content: space-between;
 
+
+
             align-items: center;
+
+
 
             background-color: #111111;
 
+
+
             transition: all 0.3s ease;
+
+
 
             user-select: none;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-question:hover {
 
+
+
             background-color: #0a0a0a;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-question h3 {
 
+
+
             color: #ffffff;
+
+
 
             margin: 0;
 
+
+
             font-size: 1rem;
+
+
 
             text-align: left;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-toggle {
 
+
+
             color: #06B6D4;
+
+
 
             font-size: 1.5rem;
 
+
+
             font-weight: 700;
+
+
 
             transition: transform 0.3s ease;
 
+
+
             margin-left: 1rem;
+
+
 
             flex-shrink: 0;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-item.active .faq-toggle {
 
+
+
             transform: rotate(180deg);
 
+
+
         }
+
+
+
+
 
 
 
         .faq-answer {
 
+
+
             max-height: 0;
+
+
 
             overflow: hidden;
 
+
+
             transition: max-height 0.3s ease;
+
+
 
             background-color: #0a0a0a;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-item.active .faq-answer {
 
+
+
             max-height: 500px;
 
+
+
         }
+
+
+
+
 
 
 
         .faq-answer-content {
 
+
+
             padding: 1.5rem;
+
+
 
             color: #9CA3AF;
 
+
+
             font-size: 0.95rem;
+
+
 
             line-height: 1.7;
 
+
+
         }
+
+
+
+
 
 
 
         /* Final CTA Section */
 
+
+
         #final-cta {
+
+
 
             background: linear-gradient(135deg, #06B6D4 0%, rgba(6, 182, 212, 0.3) 100%);
 
+
+
             padding: 5rem 0;
+
+
 
             position: relative;
 
+
+
             overflow: hidden;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta::before {
 
+
+
             content: '';
+
+
 
             position: absolute;
 
+
+
             top: -50%;
+
+
 
             right: -20%;
 
+
+
             width: 600px;
+
+
 
             height: 600px;
 
+
+
             background: radial-gradient(circle, rgba(6, 182, 212, 0.2) 0%, transparent 70%);
+
+
 
             border-radius: 50%;
 
+
+
             filter: blur(80px);
+
+
 
             pointer-events: none;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta .container {
 
+
+
             position: relative;
+
+
 
             z-index: 1;
 
+
+
             text-align: center;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta h2 {
 
+
+
             color: #000000;
+
+
 
             margin-bottom: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta > .container > p {
 
+
+
             color: rgba(0, 0, 0, 0.8);
+
+
 
             font-size: 1.125rem;
 
+
+
             max-width: 600px;
+
+
 
             margin: 0 auto 2rem;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta .btn {
 
+
+
             background-color: #000000;
+
+
 
             color: #06B6D4;
 
+
+
             font-weight: 600;
+
+
 
             padding: 1rem 2rem;
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta .btn:hover {
 
+
+
             background-color: rgba(0, 0, 0, 0.9);
+
+
 
             box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 
+
+
         }
+
+
+
+
 
 
 
         #final-cta .subtext {
 
+
+
             color: rgba(0, 0, 0, 0.7);
+
+
 
             margin-top: 1.5rem;
 
+
+
             font-size: 0.95rem;
 
+
+
         }
+
+
+
+
 
 
 
         /* Footer */
 
+
+
         footer {
+
+
 
             background-color: #0a0a0a;
 
+
+
             border-top: 1px solid rgba(255, 255, 255, 0.1);
+
+
 
             padding: 3rem 0 1rem;
 
+
+
             text-align: center;
+
+
 
             color: #6B7280;
 
+
+
             font-size: 0.875rem;
 
+
+
         }
+
+
+
+
 
 
 
         .footer-content {
 
+
+
             margin-bottom: 1.5rem;
 
+
+
         }
+
+
+
+
 
 
 
         .footer-links {
 
+
+
             display: flex;
+
+
 
             justify-content: center;
 
+
+
             gap: 1.5rem;
+
+
 
             margin-bottom: 1rem;
 
+
+
             flex-wrap: wrap;
 
+
+
         }
+
+
+
+
 
 
 
         .footer-links a {
 
+
+
             color: #9CA3AF;
+
+
 
             text-decoration: none;
 
+
+
             transition: color 0.3s ease;
 
+
+
         }
+
+
+
+
 
 
 
         .footer-links a:hover {
 
+
+
             color: #06B6D4;
 
+
+
         }
+
+
+
+
 
 
 
         .footer-location {
 
+
+
             color: #6B7280;
+
+
 
             margin-top: 1rem;
 
+
+
         }
+
+
+
+
 
 
 
         /* Responsive */
 
+
+
         @media (max-width: 768px) {
+
+
 
             section {
 
+
+
                 padding: 3rem 0;
 
+
+
             }
+
+
+
+
 
 
 
             h1 {
 
+
+
                 font-size: 2rem;
 
+
+
             }
+
+
+
+
 
 
 
             h2 {
 
+
+
                 font-size: 1.5rem;
 
+
+
             }
+
+
+
+
 
 
 
             .hero-form {
 
+
+
                 gap: 0.75rem;
 
+
+
             }
+
+
+
+
 
 
 
             .proof-grid {
 
+
+
                 grid-template-columns: 1fr;
+
+
 
                 gap: 1.5rem;
 
+
+
             }
+
+
+
+
 
 
 
             .pain-points,
 
+
+
             .solution-steps,
+
+
 
             .testimonials-grid {
 
+
+
                 grid-template-columns: 1fr;
 
+
+
             }
+
+
+
+
 
 
 
             #final-cta {
 
+
+
                 padding: 3rem 0;
 
+
+
             }
+
+
+
+
 
 
 
             #final-cta h2 {
 
+
+
                 font-size: 1.75rem;
 
+
+
             }
+
+
+
+
 
 
 
             nav {
 
+
+
                 padding: 0.75rem 1.5rem;
 
+
+
             }
+
+
+
+
 
 
 
             #hero {
 
+
+
                 padding-top: 8rem;
+
+
 
             }
 
+
+
         }
+
+
+
+
 
 
 
         @media (max-width: 640px) {
 
+
+
             .container {
+
+
 
                 padding: 0 1rem;
 
+
+
             }
+
+
+
+
 
 
 
             h1 {
 
+
+
                 font-size: 1.5rem;
 
+
+
             }
+
+
+
+
 
 
 
             h2 {
 
+
+
                 font-size: 1.25rem;
 
+
+
             }
+
+
+
+
 
 
 
             .section-header h2 {
 
+
+
                 font-size: 1.25rem;
 
+
+
             }
+
+
+
+
 
 
 
             .footer-links {
 
+
+
                 gap: 1rem;
 
+
+
             }
+
+
+
+
 
 
 
             #hero {
 
+
+
                 padding-top: 7.5rem;
+
+
 
                 padding-bottom: 3rem;
 
+
+
             }
+
+
+
+
 
 
 
             .hero-content > p {
 
+
+
                 font-size: 1rem;
+
+
 
             }
 
+
+
         }
+
+
 
     </style>
 
+
+
     <link rel="alternate" type="text/markdown" href="index.md">
 
+
+
 </head>
+
+
 
 <body>
 
 
 
+
+
+
+
     <!-- Header & Navigation -->
+
+
 
     <header>
 
+
+
         <nav>
+
+
 
             <div class="logo">Next<span>Vibe</span> AI</div>
 
-            <button class="btn" class="btn-scroll-hero">Get Your Audit</button>
+
+
+            <button class="btn btn-scroll-hero">Get Your Audit</button>
+
+
 
         </nav>
+
+
 
     </header>
 
 
 
+
+
+
+
     <!-- Hero Section -->
+
+
 
     <section id="hero">
 
+
+
         <div class="hero-glow"></div>
+
+
 
         <div class="container">
 
+
+
             <div class="hero-content">
 
+
+
                 <h1>Stop Losing Revenue to Manual Work</h1>
+
+
 
                 <p>Most small businesses waste 20-30% of revenue through broken workflows. We find the leaks and fix them with AI automation — typically saving 15-20 hours/week.</p>
 
 
 
+
+
+
+
                 <div class="hero-form-wrapper">
+
+
 
                     <form class="hero-form" id="auditForm">
 
+
+
                         <input type="text" name="firstName" placeholder="First Name" required>
+
+
 
                         <input type="email" name="email" placeholder="Email" required>
 
+
+
                         <input type="text" name="company" placeholder="Company Name" required>
+
+
 
                         <button type="submit" class="btn btn-scroll-hero">Get Your Free AI Audit →</button>
 
+
+
                     </form>
+
+
 
                     <div class="form-success" id="formSuccess">
 
+
+
                         <h3>Thanks! We're excited to help.</h3>
+
+
 
                         <p>We'll be in touch within 24 hours with your free AI audit.</p>
 
+
+
                     </div>
+
+
 
                     <p class="hero-subtext">No commitment. Takes 2 minutes.</p>
 
+
+
                 </div>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Social Proof Bar -->
 
+
+
     <section class="social-proof-bar">
+
+
 
         <div class="container">
 
+
+
             <div class="proof-grid">
 
+
+
                 <div class="proof-item">
+
+
 
                     <h3>50+</h3>
 
+
+
                     <p>Automations Built</p>
+
+
 
                 </div>
 
+
+
                 <div class="proof-item">
+
+
 
                     <h3>15-20 hrs</h3>
 
+
+
                     <p>Saved Per Week</p>
 
+
+
                 </div>
+
+
 
                 <div class="proof-item">
 
+
+
                     <h3>3x</h3>
+
+
 
                     <p>Revenue Growth</p>
 
+
+
                 </div>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Problem Section -->
 
+
+
     <section id="problem">
+
+
 
         <div class="container">
 
+
+
             <div class="section-header">
+
+
 
                 <h2>Sound Familiar?</h2>
 
+
+
                 <p>These aren't just annoyances — they're costing you £5,000-20,000 per month in lost revenue and wasted time.</p>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="pain-points">
 
+
+
                 <div class="pain-card">
+
+
 
                     <h3>Repetitive Tasks Eating Your Day</h3>
 
+
+
                     <p>Spending hours on repetitive tasks that should take minutes</p>
+
+
 
                 </div>
 
+
+
                 <div class="pain-card">
+
+
 
                     <h3>Leads Slipping Through</h3>
 
+
+
                     <p>Leads slipping through the cracks because follow-up is manual</p>
+
+
 
                 </div>
 
+
+
                 <div class="pain-card">
+
+
 
                     <h3>Team Drowning in Admin</h3>
 
+
+
                     <p>Your team drowning in admin instead of doing real work</p>
 
+
+
                 </div>
+
+
 
                 <div class="pain-card">
 
+
+
                     <h3>Tools That Don't Talk</h3>
+
+
 
                     <p>Paying for tools that don't talk to each other</p>
 
+
+
                 </div>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="problem-bottom">
 
+
+
                 <p>These problems cost <span class="accent">£5,000-20,000 per month</span> in lost revenue and wasted time.</p>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Solution Section -->
 
+
+
     <section id="solution">
+
+
 
         <div class="container">
 
+
+
             <div class="section-header">
+
+
 
                 <h2>How It Works</h2>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="solution-steps">
 
+
+
                 <div class="step-card" data-step="1">
+
+
 
                     <h3>Audit</h3>
 
+
+
                     <p>We analyse your current workflows and identify the biggest time and revenue leaks. Free, no strings attached.</p>
 
+
+
                 </div>
+
+
 
                 <div class="step-card" data-step="2">
 
+
+
                     <h3>Design</h3>
+
+
 
                     <p>We map out your custom automation system — connecting your tools, eliminating manual steps, and building AI into the right places.</p>
 
+
+
                 </div>
+
+
 
                 <div class="step-card" data-step="3">
 
+
+
                     <h3>Implement</h3>
+
+
 
                     <p>We build, test, and deploy. You get a system that runs itself while you focus on growing your business.</p>
 
+
+
                 </div>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div style="text-align: center; margin-top: 3rem;">
 
+
+
                 <button class="btn btn-scroll-hero">Start With Your Free Audit →</button>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Testimonials Section -->
 
+
+
     <section id="testimonials">
+
+
 
         <div class="container">
 
+
+
             <div class="section-header">
+
+
 
                 <h2>What Clients Say</h2>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="testimonials-grid">
 
+
+
                 <div class="testimonial-card">
+
+
 
                     <div class="testimonial-text">Saved us 15 hours a week on client onboarding alone. The ROI was obvious within the first month.</div>
 
+
+
                     <div class="testimonial-author">
+
+
 
                         <div class="author-name">James T.</div>
 
+
+
                         <div class="author-title">Operations Director</div>
+
+
 
                         <div class="author-result">Result: 15 hrs/week saved</div>
 
+
+
                     </div>
+
+
 
                 </div>
 
 
 
+
+
+
+
                 <div class="testimonial-card">
+
+
 
                     <div class="testimonial-text">Victor built an automation that replaced three manual processes. Our lead response time went from 4 hours to under 5 minutes.</div>
 
+
+
                     <div class="testimonial-author">
+
+
 
                         <div class="author-name">Sarah M.</div>
 
+
+
                         <div class="author-title">Founder, SaaS Startup</div>
+
+
 
                         <div class="author-result">Result: 47x faster response</div>
 
+
+
                     </div>
 
+
+
                 </div>
+
+
+
+
 
 
 
                 <div class="testimonial-card">
 
+
+
                     <div class="testimonial-text">We were skeptical about AI automation. Within two weeks, we stopped being skeptical and started being annoyed we didn't do it sooner.</div>
+
+
 
                     <div class="testimonial-author">
 
+
+
                         <div class="author-name">David K.</div>
+
+
 
                         <div class="author-title">Managing Director, Agency</div>
 
+
+
                         <div class="author-result">Result: £8K/month recovered</div>
+
+
 
                     </div>
 
+
+
                 </div>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Case Study Section -->
 
+
+
     <section id="case-study">
+
+
 
         <div class="container">
 
+
+
             <div class="section-header">
+
+
 
                 <h2>How a 5-Person Agency Recovered £8K/Month</h2>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="case-study-content">
 
+
+
                 <div class="case-highlight">
+
+
 
                     <h3>The Problem</h3>
 
+
+
                     <ul>
+
+
 
                         <li>Manual lead routing causing delays</li>
 
+
+
                         <li>Missed follow-ups on hot prospects</li>
+
+
 
                         <li>Inconsistent client onboarding (3+ days of back-and-forth)</li>
 
+
+
                     </ul>
 
+
+
                 </div>
+
+
+
+
 
 
 
                 <div class="case-highlight">
 
+
+
                     <h3>The Solution</h3>
+
+
 
                     <ul>
 
+
+
                         <li>Make.com + AI pipeline for intelligent lead scoring</li>
+
+
 
                         <li>Instant follow-up emails triggered on inbound leads</li>
 
+
+
                         <li>Client onboarding completed in 20 minutes (fully automated)</li>
+
+
 
                     </ul>
 
+
+
                 </div>
+
+
+
+
 
 
 
                 <div class="case-result">
 
+
+
                     <h3>The Result</h3>
+
+
 
                     <div class="result-items">
 
+
+
                         <div class="result-item">
+
+
 
                             <div class="result-metric">£8,000</div>
 
+
+
                             <div class="result-label">Monthly Revenue Recovered</div>
+
+
 
                         </div>
 
+
+
                         <div class="result-item">
+
+
 
                             <div class="result-metric">15 hrs</div>
 
+
+
                             <div class="result-label">Freed Up Per Week</div>
 
+
+
                         </div>
+
+
 
                         <div class="result-item">
 
+
+
                             <div class="result-metric">3x</div>
+
+
 
                             <div class="result-label">Faster Onboarding</div>
 
+
+
                         </div>
+
+
 
                     </div>
 
+
+
                 </div>
+
+
+
+
 
 
 
                 <div style="text-align: center; margin-top: 2rem;">
 
+
+
                     <button class="btn btn-scroll-hero">Get Results Like This →</button>
+
+
 
                 </div>
 
+
+
             </div>
+
+
 
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- FAQ Section -->
 
+
+
     <section id="faq">
+
+
 
         <div class="container">
 
+
+
             <div class="section-header">
+
+
 
                 <h2>Frequently Asked Questions</h2>
 
+
+
             </div>
+
+
+
+
 
 
 
             <div class="faq-container">
 
+
+
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>How much does this cost?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
+
+
 
                     </div>
 
+
+
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             Our AI Audit is completely free. Implementation projects typically range from £1,500-5,000 depending on complexity, with most clients seeing ROI within the first month.
 
+
+
                         </div>
 
+
+
                     </div>
+
+
 
                 </div>
 
 
 
+
+
+
+
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>Will this disrupt my current operations?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
+
+
 
                     </div>
 
+
+
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             No. We build alongside your existing tools and processes. There's zero downtime. We test everything before it goes live.
 
+
+
                         </div>
 
+
+
                     </div>
+
+
 
                 </div>
 
 
 
+
+
+
+
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>How long does implementation take?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
+
+
 
                     </div>
 
+
+
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             Most automation systems are live within 1-2 weeks. Complex projects take 3-4 weeks. You'll see quick wins within days.
 
+
+
                         </div>
 
+
+
                     </div>
+
+
 
                 </div>
 
 
 
+
+
+
+
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>Do I need technical knowledge?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
+
+
 
                     </div>
 
+
+
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             Not at all. We handle everything technical. You just tell us what's eating your time and we fix it.
 
+
+
                         </div>
 
+
+
                     </div>
+
+
 
                 </div>
 
 
 
+
+
+
+
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>What tools do you work with?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
 
+
+
                     </div>
+
+
 
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             We specialise in Make.com, Notion, CRMs (HubSpot, Pipedrive), email platforms, and AI models (GPT-4, Claude). If you use it, we can probably automate it.
 
+
+
                         </div>
+
+
 
                     </div>
 
+
+
                 </div>
+
+
+
+
 
 
 
                 <div class="faq-item">
 
+
+
                     <div class="faq-question">
+
+
 
                         <h3>What if it doesn't work?</h3>
 
+
+
                         <span class="faq-toggle">+</span>
 
+
+
                     </div>
+
+
 
                     <div class="faq-answer">
 
+
+
                         <div class="faq-answer-content">
+
+
 
                             Every project starts with a free audit so we can confirm ROI before you invest anything. We don't take projects we can't deliver on.
 
+
+
                         </div>
+
+
 
                     </div>
 
+
+
                 </div>
+
+
 
             </div>
 
+
+
         </div>
 
+
+
     </section>
+
+
+
+
 
 
 
     <!-- Final CTA Section -->
 
+
+
     <section id="final-cta">
+
+
 
         <div class="container">
 
+
+
             <h2>Ready to Stop Doing Work a Machine Should Handle?</h2>
+
+
 
             <p>Get your free AI Audit. We'll show you exactly where you're losing time and money — and how to fix it.</p>
 
+
+
             <button class="btn btn-scroll-hero">Get Your Free AI Audit →</button>
+
+
 
             <p class="subtext">Limited to 5 audits per month. No commitment required.</p>
 
+
+
         </div>
+
+
 
     </section>
 
 
 
+
+
+
+
     <!-- Footer -->
+
+
 
     <footer>
 
+
+
         <div class="footer-content">
+
+
 
             <div class="footer-links">
 
+
+
                 <span>© 2026 NextVibe AI</span>
+
+
 
                 <a href="mailto:hello@nextvibeai.com">hello@nextvibeai.com</a>
 
+
+
                 <a href="/privacy-policy">Privacy Policy</a>
+
+
 
                 <a href="/terms">Terms</a>
 
+
+
             </div>
+
+
 
             <div class="footer-location">London, UK</div>
 
+
+
         </div>
 
+
+
     </footer>
+
+
+
+
 
 
 
@@ -2262,7 +4522,15 @@
 
 
 
+
+
+
+
 </body>
 
+
+
 </html>
+
+
 
