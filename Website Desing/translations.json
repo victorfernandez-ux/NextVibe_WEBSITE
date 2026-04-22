@@ -31,22 +31,56 @@
     "caseStudies": {
       "title": "Real Results. Real Businesses.",
       "subtitle": "See how we've helped companies automate their way to growth.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agency"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Automated Lead Pipeline",
+        "desc": "Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.",
+        "stat": "Qualified Demos"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Fulfillment Automation",
+        "desc": "Replaced 40+ hours of manual order processing per week with an end-to-end automation system.",
+        "stat": "Hours Saved / Week"
+      },
+      "agency": {
+        "tag": "Agency",
+        "title": "Client Onboarding System",
+        "desc": "Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.",
+        "stat": "Onboarding Time"
+      }
     },
     "services": {
       "title": "What we specialize in.",
       "subtitle": "End-to-end AI systems that drive real business outcomes.",
-      "growth": "Growth Systems & Automations",
-      "growthDesc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
-      "operations": "Operations & Fulfillment Automation",
-      "operationsDesc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
-      "bespoke": "Bespoke AI Solutions",
-      "bespokeDesc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more."
+      "growth": {
+        "name": "Growth Systems & Automations",
+        "desc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
+        "li1": "AI Cold Email Campaigns",
+        "li2": "Lead Scoring & Routing",
+        "li3": "CRM Automation",
+        "li4": "Content Distribution"
+      },
+      "operations": {
+        "name": "Operations & Fulfillment Automation",
+        "desc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
+        "li1": "Automated Fulfillment",
+        "li2": "Client Onboarding",
+        "li3": "Project Management Workflows",
+        "li4": "Reporting Dashboards"
+      },
+      "bespoke": {
+        "name": "Bespoke AI Solutions",
+        "desc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more.",
+        "li1": "Custom AI Chatbots",
+        "li2": "AI Scoring & Classification",
+        "li3": "Data Pipelines",
+        "li4": "Internal AI Tools"
+      }
     },
     "testimonials": {
-      "title": "What Clients Say"
+      "title": "What Clients Say",
+      "quote": "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
     },
     "form": {
       "title": "Tell us where you're at...",
@@ -58,6 +92,11 @@
       "budget1": "£5,000 – £10,000",
       "budget2": "£10,000 – £25,000",
       "budget3": "£25,000+",
+      "messageLabel": "Tell us about your project",
+      "messagePlaceholder": "What are you looking to automate?",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "you@company.com",
+      "companyPlaceholder": "Your company",
       "submit": "Send Message"
     },
     "footer": {
@@ -96,22 +135,56 @@
     "caseStudies": {
       "title": "Resultados Reales. Negocios Reales.",
       "subtitle": "Ve cómo hemos ayudado a empresas a crecer mediante automatización.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agencia"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Embudo de Leads Automatizado",
+        "desc": "Sistema de email en frío y puntuación de leads impulsado por IA que triplicó las demos cualificadas en 90 días.",
+        "stat": "Demos Cualificadas"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automatización de Fulfillment",
+        "desc": "Reemplazó más de 40 horas de procesamiento manual de pedidos por semana con un sistema de automatización de extremo a extremo.",
+        "stat": "Horas Ahorradas / Semana"
+      },
+      "agency": {
+        "tag": "Agencia",
+        "title": "Sistema de Incorporación de Clientes",
+        "desc": "La incorporación automatizada redujo el tiempo de entrega de 2 semanas a 3 días sin pasos manuales.",
+        "stat": "Tiempo de Incorporación"
+      }
     },
     "services": {
       "title": "En qué nos especializamos.",
       "subtitle": "Sistemas de IA de extremo a extremo que impulsan resultados comerciales reales.",
-      "growth": "Sistemas de Crecimiento y Automatización",
-      "growthDesc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
-      "operations": "Automatización de Operaciones y Cumplimiento",
-      "operationsDesc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
-      "bespoke": "Soluciones de IA Personalizadas",
-      "bespokeDesc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más."
+      "growth": {
+        "name": "Sistemas de Crecimiento y Automatización",
+        "desc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
+        "li1": "Campañas de Email en Frío con IA",
+        "li2": "Puntuación y Enrutamiento de Leads",
+        "li3": "Automatización de CRM",
+        "li4": "Distribución de Contenidos"
+      },
+      "operations": {
+        "name": "Automatización de Operaciones y Cumplimiento",
+        "desc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
+        "li1": "Fulfillment Automatizado",
+        "li2": "Incorporación de Clientes",
+        "li3": "Flujos de Gestión de Proyectos",
+        "li4": "Dashboards de Informes"
+      },
+      "bespoke": {
+        "name": "Soluciones de IA Personalizadas",
+        "desc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más.",
+        "li1": "Chatbots de IA Personalizados",
+        "li2": "Puntuación y Clasificación con IA",
+        "li3": "Pipelines de Datos",
+        "li4": "Herramientas de IA Internas"
+      }
     },
     "testimonials": {
-      "title": "Lo que Dicen Nuestros Clientes"
+      "title": "Lo que Dicen Nuestros Clientes",
+      "quote": "NextVibe construyó un sistema completo de leads con IA para nosotros en menos de 3 semanas. Nuestras reservas de demos se triplicaron y el equipo finalmente tiene tiempo para enfocarse en cerrar tratos en lugar de perseguir leads en frío."
     },
     "form": {
       "title": "Cuéntanos dónde estás...",
@@ -123,6 +196,11 @@
       "budget1": "£5,000 – £10,000",
       "budget2": "£10,000 – £25,000",
       "budget3": "£25,000+",
+      "messageLabel": "Cuéntanos sobre tu proyecto",
+      "messagePlaceholder": "¿Qué quieres automatizar?",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "tu@empresa.com",
+      "companyPlaceholder": "Tu empresa",
       "submit": "Enviar Mensaje"
     },
     "footer": {
@@ -161,22 +239,56 @@
     "caseStudies": {
       "title": "Résultats Réels. Entreprises Réelles.",
       "subtitle": "Voyez comment nous avons aidé les entreprises à se développer grâce à l'automatisation.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agence"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Pipeline de Leads Automatisé",
+        "desc": "Système d'emailing à froid et de scoring de leads par IA qui a triplé les démos qualifiées en 90 jours.",
+        "stat": "Démos Qualifiées"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automatisation de la Livraison",
+        "desc": "Remplacé plus de 40 heures de traitement manuel des commandes par semaine avec un système d'automatisation de bout en bout.",
+        "stat": "Heures Économisées / Semaine"
+      },
+      "agency": {
+        "tag": "Agence",
+        "title": "Système d'Intégration Client",
+        "desc": "L'intégration automatisée a réduit le délai de livraison de 2 semaines à 3 jours sans aucune étape manuelle.",
+        "stat": "Temps d'Intégration"
+      }
     },
     "services": {
       "title": "Notre domaine de spécialité.",
       "subtitle": "Systèmes d'IA de bout en bout qui stimulent les résultats commerciaux réels.",
-      "growth": "Systèmes de Croissance et d'Automatisation",
-      "growthDesc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
-      "operations": "Automatisation des Opérations et de l'Exécution",
-      "operationsDesc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
-      "bespoke": "Solutions d'IA Personnalisées",
-      "bespokeDesc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore."
+      "growth": {
+        "name": "Systèmes de Croissance et d'Automatisation",
+        "desc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
+        "li1": "Campagnes d'Emailing à Froid IA",
+        "li2": "Scoring et Routage de Leads",
+        "li3": "Automatisation CRM",
+        "li4": "Distribution de Contenu"
+      },
+      "operations": {
+        "name": "Automatisation des Opérations et de l'Exécution",
+        "desc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
+        "li1": "Livraison Automatisée",
+        "li2": "Intégration Client",
+        "li3": "Workflows de Gestion de Projet",
+        "li4": "Tableaux de Bord"
+      },
+      "bespoke": {
+        "name": "Solutions d'IA Personnalisées",
+        "desc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore.",
+        "li1": "Chatbots IA Personnalisés",
+        "li2": "Scoring et Classification IA",
+        "li3": "Pipelines de Données",
+        "li4": "Outils IA Internes"
+      }
     },
     "testimonials": {
-      "title": "Ce que Disent Nos Clients"
+      "title": "Ce que Disent Nos Clients",
+      "quote": "NextVibe a construit pour nous un système complet de génération de leads par IA en moins de 3 semaines. Nos réservations de démos ont triplé et l'équipe peut enfin se concentrer sur la conclusion des affaires plutôt que de courir après les leads froids."
     },
     "form": {
       "title": "Dites-nous où vous en êtes...",
@@ -188,6 +300,11 @@
       "budget1": "£5 000 – £10 000",
       "budget2": "£10 000 – £25 000",
       "budget3": "£25 000+",
+      "messageLabel": "Parlez-nous de votre projet",
+      "messagePlaceholder": "Qu'est-ce que vous souhaitez automatiser ?",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "vous@entreprise.com",
+      "companyPlaceholder": "Votre entreprise",
       "submit": "Envoyer le Message"
     },
     "footer": {
@@ -226,22 +343,56 @@
     "caseStudies": {
       "title": "Echte Ergebnisse. Echte Unternehmen.",
       "subtitle": "Sieh, wie wir Unternehmen durch Automatisierung geholfen haben zu wachsen.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agentur"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Automatisierte Lead-Pipeline",
+        "desc": "KI-gestütztes Kalt-E-Mail- und Lead-Scoring-System, das qualifizierte Demos in 90 Tagen verdreifachte.",
+        "stat": "Qualifizierte Demos"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Fulfillment-Automatisierung",
+        "desc": "Ersetzte 40+ Stunden manuelle Auftragsabwicklung pro Woche durch ein End-to-End-Automatisierungssystem.",
+        "stat": "Stunden Gespart / Woche"
+      },
+      "agency": {
+        "tag": "Agentur",
+        "title": "Client-Onboarding-System",
+        "desc": "Automatisiertes Onboarding reduzierte die Lieferzeit von 2 Wochen auf 3 Tage ohne manuelle Schritte.",
+        "stat": "Onboarding-Zeit"
+      }
     },
     "services": {
       "title": "Worauf wir uns spezialisieren.",
       "subtitle": "End-to-End-KI-Systeme, die echte Geschäftsergebnisse bringen.",
-      "growth": "Wachstums- und Automatisierungssysteme",
-      "growthDesc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
-      "operations": "Betriebs- und Erfüllungsautomatisierung",
-      "operationsDesc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
-      "bespoke": "Maßgeschneiderte KI-Lösungen",
-      "bespokeDesc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr."
+      "growth": {
+        "name": "Wachstums- und Automatisierungssysteme",
+        "desc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
+        "li1": "KI-Kalt-E-Mail-Kampagnen",
+        "li2": "Lead-Scoring & -Routing",
+        "li3": "CRM-Automatisierung",
+        "li4": "Content-Distribution"
+      },
+      "operations": {
+        "name": "Betriebs- und Erfüllungsautomatisierung",
+        "desc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
+        "li1": "Automatisierte Auftragsabwicklung",
+        "li2": "Kunden-Onboarding",
+        "li3": "Projektmanagement-Workflows",
+        "li4": "Reporting-Dashboards"
+      },
+      "bespoke": {
+        "name": "Maßgeschneiderte KI-Lösungen",
+        "desc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr.",
+        "li1": "Benutzerdefinierte KI-Chatbots",
+        "li2": "KI-Scoring & -Klassifizierung",
+        "li3": "Datenpipelines",
+        "li4": "Interne KI-Tools"
+      }
     },
     "testimonials": {
-      "title": "Was Unsere Kunden Sagen"
+      "title": "Was Unsere Kunden Sagen",
+      "quote": "NextVibe hat in weniger als 3 Wochen ein vollständiges KI-Lead-System für uns aufgebaut. Unsere Demo-Buchungen haben sich verdreifacht und das Team hat endlich Zeit, sich auf den Abschluss von Deals zu konzentrieren, anstatt kalte Leads zu jagen."
     },
     "form": {
       "title": "Sag uns, wo du stehst...",
@@ -253,6 +404,11 @@
       "budget1": "£5.000 – £10.000",
       "budget2": "£10.000 – £25.000",
       "budget3": "£25.000+",
+      "messageLabel": "Erzähle uns von deinem Projekt",
+      "messagePlaceholder": "Was möchtest du automatisieren?",
+      "namePlaceholder": "Dein Name",
+      "emailPlaceholder": "du@firma.de",
+      "companyPlaceholder": "Dein Unternehmen",
       "submit": "Nachricht Senden"
     },
     "footer": {
@@ -291,22 +447,56 @@
     "caseStudies": {
       "title": "Risultati Reali. Aziende Reali.",
       "subtitle": "Scopri come abbiamo aiutato le aziende a crescere attraverso l'automazione.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agenzia"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Pipeline di Lead Automatizzata",
+        "desc": "Sistema di cold email e lead scoring basato su IA che ha triplicato le demo qualificate in 90 giorni.",
+        "stat": "Demo Qualificate"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automazione dell'Evasione Ordini",
+        "desc": "Sostituito più di 40 ore di elaborazione manuale degli ordini a settimana con un sistema di automazione end-to-end.",
+        "stat": "Ore Risparmiate / Settimana"
+      },
+      "agency": {
+        "tag": "Agenzia",
+        "title": "Sistema di Onboarding Clienti",
+        "desc": "L'onboarding automatizzato ha ridotto il tempo di consegna da 2 settimane a 3 giorni senza passaggi manuali.",
+        "stat": "Tempo di Onboarding"
+      }
     },
     "services": {
       "title": "In cosa ci specializziamo.",
       "subtitle": "Sistemi di IA end-to-end che guidano i risultati aziendali reali.",
-      "growth": "Sistemi di Crescita e Automazione",
-      "growthDesc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
-      "operations": "Automazione delle Operazioni e dell'Adempimento",
-      "operationsDesc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
-      "bespoke": "Soluzioni di IA Personalizzate",
-      "bespokeDesc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro."
+      "growth": {
+        "name": "Sistemi di Crescita e Automazione",
+        "desc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
+        "li1": "Campagne Email a Freddo con IA",
+        "li2": "Scoring e Routing dei Lead",
+        "li3": "Automazione CRM",
+        "li4": "Distribuzione dei Contenuti"
+      },
+      "operations": {
+        "name": "Automazione delle Operazioni e dell'Adempimento",
+        "desc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
+        "li1": "Evasione Ordini Automatizzata",
+        "li2": "Onboarding Clienti",
+        "li3": "Workflow di Gestione Progetti",
+        "li4": "Dashboard di Reportistica"
+      },
+      "bespoke": {
+        "name": "Soluzioni di IA Personalizzate",
+        "desc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro.",
+        "li1": "Chatbot IA Personalizzati",
+        "li2": "Scoring e Classificazione IA",
+        "li3": "Pipeline di Dati",
+        "li4": "Strumenti IA Interni"
+      }
     },
     "testimonials": {
-      "title": "Cosa Dicono i Nostri Clienti"
+      "title": "Cosa Dicono i Nostri Clienti",
+      "quote": "NextVibe ha costruito per noi un sistema completo di lead generation con IA in meno di 3 settimane. Le nostre prenotazioni demo sono triplicate e il team finalmente ha tempo per concentrarsi sulla chiusura dei contratti invece di inseguire lead freddi."
     },
     "form": {
       "title": "Raccontaci la tua situazione...",
@@ -318,6 +508,11 @@
       "budget1": "£5.000 – £10.000",
       "budget2": "£10.000 – £25.000",
       "budget3": "£25.000+",
+      "messageLabel": "Parlaci del tuo progetto",
+      "messagePlaceholder": "Cosa vuoi automatizzare?",
+      "namePlaceholder": "Il tuo nome",
+      "emailPlaceholder": "tu@azienda.it",
+      "companyPlaceholder": "La tua azienda",
       "submit": "Invia Messaggio"
     },
     "footer": {
