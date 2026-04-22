@@ -31,22 +31,56 @@
     "caseStudies": {
       "title": "Real Results. Real Businesses.",
       "subtitle": "See how we've helped companies automate their way to growth.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agency"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Automated Lead Pipeline",
+        "desc": "Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.",
+        "stat": "Qualified Demos"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Fulfillment Automation",
+        "desc": "Replaced 40+ hours of manual order processing per week with an end-to-end automation system.",
+        "stat": "Hours Saved / Week"
+      },
+      "agency": {
+        "tag": "Agency",
+        "title": "Client Onboarding System",
+        "desc": "Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.",
+        "stat": "Onboarding Time"
+      }
     },
     "services": {
       "title": "What we specialize in.",
       "subtitle": "End-to-end AI systems that drive real business outcomes.",
-      "growth": "Growth Systems & Automations",
-      "growthDesc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
-      "operations": "Operations & Fulfillment Automation",
-      "operationsDesc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
-      "bespoke": "Bespoke AI Solutions",
-      "bespokeDesc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more."
+      "growth": {
+        "name": "Growth Systems & Automations",
+        "desc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
+        "li1": "AI Cold Email Campaigns",
+        "li2": "Lead Scoring & Routing",
+        "li3": "CRM Automation",
+        "li4": "Content Distribution"
+      },
+      "operations": {
+        "name": "Operations & Fulfillment Automation",
+        "desc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
+        "li1": "Automated Fulfillment",
+        "li2": "Client Onboarding",
+        "li3": "Project Management Workflows",
+        "li4": "Reporting Dashboards"
+      },
+      "bespoke": {
+        "name": "Bespoke AI Solutions",
+        "desc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more.",
+        "li1": "Custom AI Chatbots",
+        "li2": "AI Scoring & Classification",
+        "li3": "Data Pipelines",
+        "li4": "Internal AI Tools"
+      }
     },
     "testimonials": {
-      "title": "What Clients Say"
+      "title": "What Clients Say",
+      "quote": "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
     },
     "form": {
       "title": "Tell us where you're at...",
@@ -58,10 +92,141 @@
       "budget1": "£5,000 – £10,000",
       "budget2": "£10,000 – £25,000",
       "budget3": "£25,000+",
+      "messageLabel": "Tell us about your project",
+      "messagePlaceholder": "What are you looking to automate?",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "you@company.com",
+      "companyPlaceholder": "Your company",
       "submit": "Send Message"
     },
     "footer": {
       "copy": "© 2026 NextVibe. All rights reserved."
+    },
+    "servicesPage": {
+      "hero": {
+        "headline": "Services & Solutions",
+        "subtitle": "End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.",
+        "metric1": "Avg. Cost Reduction",
+        "metric2": "Faster Delivery",
+        "metric3": "Hours Saved Monthly"
+      },
+      "leadGen": {
+        "title": "Lead Generation Systems",
+        "subtitle": "AI-powered pipelines that fill your calendar with qualified prospects.",
+        "card1": { "title": "AI Cold Email", "desc": "Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules that land in the primary inbox." },
+        "card2": { "title": "Application Systems", "desc": "Inbound funnels with AI qualification — automatically score, route, and follow up with every lead so nothing falls through the cracks." },
+        "card3": { "title": "Content Systems", "desc": "AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels." }
+      },
+      "pm": {
+        "title": "Project Management Systems",
+        "subtitle": "Automate delivery workflows so your team can focus on high-value work.",
+        "card1": { "title": "Automated Fulfillment", "desc": "End-to-end delivery automation — from task creation to status updates to client communication, all running without manual intervention." },
+        "card2": { "title": "Client Onboarding", "desc": "Structured onboarding flows that gather requirements, set expectations, and kick off projects automatically the moment a deal closes." },
+        "card3": { "title": "PM Workflows", "desc": "Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned." }
+      },
+      "hiring": {
+        "title": "Hiring Systems",
+        "subtitle": "Recruit smarter and faster with AI-powered screening and evaluation.",
+        "card1": { "title": "Intake Systems", "desc": "Structured application forms with automatic data extraction and candidate profiling — no more manual resume sorting." },
+        "card2": { "title": "AI Scoring", "desc": "Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators — reducing bias and saving hours." },
+        "card3": { "title": "Trial Processes", "desc": "Automated trial project assignment, submission tracking, and evaluation workflows that surface your best candidates fast." }
+      },
+      "salesAdmin": {
+        "title": "Sales Administration",
+        "subtitle": "Streamline your sales ops with custom tools and intelligent automation.",
+        "card1": { "title": "Custom CRMs", "desc": "Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging without the bloat." },
+        "card2": { "title": "AI Asset Generators", "desc": "Automatically generate proposals, SOWs, and sales decks personalised to each prospect using AI and your existing templates." },
+        "card3": { "title": "Nurture Systems", "desc": "Multi-channel follow-up sequences that keep warm leads engaged with timely, relevant touchpoints until they're ready to buy." }
+      },
+      "personas": {
+        "title": "Who It's For",
+        "subtitle": "We work best with businesses ready to scale operations through automation.",
+        "agencies": { "title": "Agencies", "desc": "Automate client delivery, onboarding, and lead gen so you can grow without proportionally growing your team." },
+        "saas": { "title": "SaaS Companies", "desc": "Build automated outbound pipelines, trial-to-paid workflows, and customer success systems." },
+        "professional": { "title": "Professional Services", "desc": "Streamline intake, scheduling, billing, and client communication with zero manual overhead." },
+        "ecommerce": { "title": "E-Commerce", "desc": "Automate order processing, inventory management, customer support, and marketing workflows at scale." }
+      },
+      "process": {
+        "title": "Our Process",
+        "subtitle": "From discovery to deployment in weeks, not months.",
+        "step1": { "title": "Discovery", "desc": "We map your current workflows, identify automation opportunities, and prioritise by ROI impact." },
+        "step2": { "title": "Design", "desc": "We architect the system — selecting the right tools, defining data flows, and planning integrations." },
+        "step3": { "title": "Build", "desc": "Rapid implementation with weekly demos. You see progress and can give feedback in real time." },
+        "step4": { "title": "Launch", "desc": "Go live with full documentation, training, and 30 days of support to ensure everything runs smoothly." }
+      },
+      "pricing": {
+        "title": "Pricing",
+        "subtitle": "Transparent pricing. No hidden fees. Choose what fits your needs.",
+        "cta": "Get Started",
+        "tier1": {
+          "name": "Single System", "period": "one-time",
+          "desc": "One complete automation system, built and deployed for your business.",
+          "li1": "1 automation system", "li2": "Discovery & design session",
+          "li3": "2–3 week delivery", "li4": "Full documentation", "li5": "14 days post-launch support"
+        },
+        "tier2": {
+          "name": "Growth Package", "period": "one-time",
+          "desc": "A suite of interconnected systems that transform how your business operates.",
+          "li1": "3 automation systems", "li2": "Full workflow audit",
+          "li3": "4–6 week delivery", "li4": "System integrations", "li5": "30 days post-launch support"
+        },
+        "tier3": {
+          "name": "Retainer", "period": "per month",
+          "desc": "Ongoing automation partner. We continuously build, optimise, and maintain your systems.",
+          "li1": "Dedicated automation team", "li2": "Unlimited system requests",
+          "li3": "Priority support", "li4": "Monthly strategy calls", "li5": "Continuous optimisation"
+        }
+      },
+      "cta": {
+        "headline": "Ready to automate your growth?",
+        "subtitle": "Book a free 30-minute strategy call and we'll map out your biggest automation opportunities."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "We saw the future of work — and ",
+        "headlineCyan": "built it",
+        "subtitle": "NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real."
+      },
+      "story": {
+        "p1": "We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.",
+        "p2": "While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.",
+        "highlight": "\"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line.\"",
+        "p3": "Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.",
+        "p4": "Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust."
+      },
+      "founders": {
+        "title": "Meet the Founder",
+        "subtitle": "The person behind NextVibe's AI automation systems.",
+        "victor": {
+          "role": "CEO & Founder",
+          "bio": "Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Our Journey",
+        "subtitle": "Key milestones on the path to where we are today.",
+        "item1": { "title": "Founded NextVibe", "desc": "Started as a two-person consultancy, building automation systems for local businesses during the pandemic." },
+        "item2": { "title": "First Enterprise Client", "desc": "Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency." },
+        "item3": { "title": "AI-First Pivot", "desc": "Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native." },
+        "item4": { "title": "50+ Clients Served", "desc": "Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio." },
+        "item5": { "title": "Scaling Up", "desc": "Expanding the team, launching new service tiers, and building proprietary AI tools for our clients." }
+      },
+      "values": {
+        "title": "What We Stand For",
+        "subtitle": "The principles that guide every system we build.",
+        "action": { "title": "Bias to Action", "desc": "We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately." },
+        "roi": { "title": "Obsess Over ROI", "desc": "We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business." },
+        "transparency": { "title": "Radical Transparency", "desc": "No black boxes. You see every workflow, every integration, every decision. Your systems belong to you." },
+        "simplicity": { "title": "Simplicity First", "desc": "The best system is the simplest one that works. We avoid over-engineering and focus on reliability." },
+        "ahead": { "title": "Stay Ahead", "desc": "We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors." },
+        "partnership": { "title": "Real Partnership", "desc": "We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business." }
+      },
+      "cta": {
+        "headlinePre": "Let's build something ",
+        "headlineCyan": "extraordinary",
+        "subtitle": "Book a free strategy call and discover how AI automation can transform your business operations."
+      }
     }
   },
   "es": {
@@ -96,22 +261,56 @@
     "caseStudies": {
       "title": "Resultados Reales. Negocios Reales.",
       "subtitle": "Ve cómo hemos ayudado a empresas a crecer mediante automatización.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agencia"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Embudo de Leads Automatizado",
+        "desc": "Sistema de email en frío y puntuación de leads impulsado por IA que triplicó las demos cualificadas en 90 días.",
+        "stat": "Demos Cualificadas"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automatización de Fulfillment",
+        "desc": "Reemplazó más de 40 horas de procesamiento manual de pedidos por semana con un sistema de automatización de extremo a extremo.",
+        "stat": "Horas Ahorradas / Semana"
+      },
+      "agency": {
+        "tag": "Agencia",
+        "title": "Sistema de Incorporación de Clientes",
+        "desc": "La incorporación automatizada redujo el tiempo de entrega de 2 semanas a 3 días sin pasos manuales.",
+        "stat": "Tiempo de Incorporación"
+      }
     },
     "services": {
       "title": "En qué nos especializamos.",
       "subtitle": "Sistemas de IA de extremo a extremo que impulsan resultados comerciales reales.",
-      "growth": "Sistemas de Crecimiento y Automatización",
-      "growthDesc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
-      "operations": "Automatización de Operaciones y Cumplimiento",
-      "operationsDesc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
-      "bespoke": "Soluciones de IA Personalizadas",
-      "bespokeDesc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más."
+      "growth": {
+        "name": "Sistemas de Crecimiento y Automatización",
+        "desc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
+        "li1": "Campañas de Email en Frío con IA",
+        "li2": "Puntuación y Enrutamiento de Leads",
+        "li3": "Automatización de CRM",
+        "li4": "Distribución de Contenidos"
+      },
+      "operations": {
+        "name": "Automatización de Operaciones y Cumplimiento",
+        "desc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
+        "li1": "Fulfillment Automatizado",
+        "li2": "Incorporación de Clientes",
+        "li3": "Flujos de Gestión de Proyectos",
+        "li4": "Dashboards de Informes"
+      },
+      "bespoke": {
+        "name": "Soluciones de IA Personalizadas",
+        "desc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más.",
+        "li1": "Chatbots de IA Personalizados",
+        "li2": "Puntuación y Clasificación con IA",
+        "li3": "Pipelines de Datos",
+        "li4": "Herramientas de IA Internas"
+      }
     },
     "testimonials": {
-      "title": "Lo que Dicen Nuestros Clientes"
+      "title": "Lo que Dicen Nuestros Clientes",
+      "quote": "NextVibe construyó un sistema completo de leads con IA para nosotros en menos de 3 semanas. Nuestras reservas de demos se triplicaron y el equipo finalmente tiene tiempo para enfocarse en cerrar tratos en lugar de perseguir leads en frío."
     },
     "form": {
       "title": "Cuéntanos dónde estás...",
@@ -123,10 +322,141 @@
       "budget1": "£5,000 – £10,000",
       "budget2": "£10,000 – £25,000",
       "budget3": "£25,000+",
+      "messageLabel": "Cuéntanos sobre tu proyecto",
+      "messagePlaceholder": "¿Qué quieres automatizar?",
+      "namePlaceholder": "Tu nombre",
+      "emailPlaceholder": "tu@empresa.com",
+      "companyPlaceholder": "Tu empresa",
       "submit": "Enviar Mensaje"
     },
     "footer": {
       "copy": "© 2026 NextVibe. Todos los derechos reservados."
+    },
+    "servicesPage": {
+      "hero": {
+        "headline": "Servicios y Soluciones",
+        "subtitle": "Sistemas de IA de extremo a extremo diseñados para generar leads, automatizar operaciones y escalar tu negocio sin aumentar tu plantilla.",
+        "metric1": "Reducción de Costos Promedio",
+        "metric2": "Entrega Más Rápida",
+        "metric3": "Horas Ahorradas al Mes"
+      },
+      "leadGen": {
+        "title": "Sistemas de Generación de Leads",
+        "subtitle": "Pipelines impulsados por IA que llenan tu calendario con prospectos cualificados.",
+        "card1": { "title": "Email en Frío con IA", "desc": "Contacto hiperpersonalizado a escala usando textos generados por IA, calentamiento automatizado y horarios de envío inteligentes que llegan a la bandeja principal." },
+        "card2": { "title": "Sistemas de Solicitudes", "desc": "Embudos inbound con calificación de IA — puntúa, enruta y da seguimiento automáticamente a cada lead para que ninguno se pierda." },
+        "card3": { "title": "Sistemas de Contenido", "desc": "Pipelines de contenido asistidos por IA que convierten una pieza de liderazgo de pensamiento en docenas de activos listos para distribución en múltiples canales." }
+      },
+      "pm": {
+        "title": "Sistemas de Gestión de Proyectos",
+        "subtitle": "Automatiza flujos de entrega para que tu equipo se centre en trabajo de alto valor.",
+        "card1": { "title": "Fulfillment Automatizado", "desc": "Automatización de entrega de extremo a extremo — desde la creación de tareas hasta actualizaciones de estado y comunicación con clientes, todo sin intervención manual." },
+        "card2": { "title": "Incorporación de Clientes", "desc": "Flujos de incorporación estructurados que recopilan requisitos, establecen expectativas e inician proyectos automáticamente en el momento en que se cierra un trato." },
+        "card3": { "title": "Flujos de Trabajo PM", "desc": "Asignación inteligente de tareas, seguimiento de plazos y detección de cuellos de botella que mantiene los proyectos en curso y tu equipo alineado." }
+      },
+      "hiring": {
+        "title": "Sistemas de Contratación",
+        "subtitle": "Contrata de manera más inteligente y rápida con detección y evaluación impulsada por IA.",
+        "card1": { "title": "Sistemas de Captación", "desc": "Formularios de solicitud estructurados con extracción automática de datos y perfilado de candidatos — sin más clasificación manual de currículums." },
+        "card2": { "title": "Puntuación con IA", "desc": "Puntuación objetiva de candidatos basada en criterios personalizados, coincidencia de experiencia e indicadores de adecuación cultural — reduciendo sesgos y ahorrando horas." },
+        "card3": { "title": "Procesos de Prueba", "desc": "Asignación automatizada de proyectos de prueba, seguimiento de entregas y flujos de evaluación que identifican a tus mejores candidatos rápidamente." }
+      },
+      "salesAdmin": {
+        "title": "Administración de Ventas",
+        "subtitle": "Optimiza tus operaciones de ventas con herramientas personalizadas y automatización inteligente.",
+        "card1": { "title": "CRMs Personalizados", "desc": "Configuraciones de CRM a medida para tu proceso de ventas — seguimiento automatizado de tratos, vistas de pipeline y registro de actividades sin sobrecarga." },
+        "card2": { "title": "Generadores de Activos con IA", "desc": "Genera automáticamente propuestas, SOWs y presentaciones de ventas personalizadas para cada prospecto usando IA y tus plantillas existentes." },
+        "card3": { "title": "Sistemas de Nutrición", "desc": "Secuencias de seguimiento multicanal que mantienen a los leads cálidos comprometidos con puntos de contacto oportunos y relevantes hasta que estén listos para comprar." }
+      },
+      "personas": {
+        "title": "Para Quién Es",
+        "subtitle": "Trabajamos mejor con empresas listas para escalar operaciones mediante automatización.",
+        "agencies": { "title": "Agencias", "desc": "Automatiza la entrega a clientes, la incorporación y la generación de leads para que puedas crecer sin aumentar proporcionalmente tu equipo." },
+        "saas": { "title": "Empresas SaaS", "desc": "Construye pipelines de outbound automatizados, flujos de prueba a pago y sistemas de éxito del cliente." },
+        "professional": { "title": "Servicios Profesionales", "desc": "Optimiza captación, programación, facturación y comunicación con clientes sin sobrecarga manual." },
+        "ecommerce": { "title": "E-Commerce", "desc": "Automatiza el procesamiento de pedidos, gestión de inventario, soporte al cliente y flujos de marketing a escala." }
+      },
+      "process": {
+        "title": "Nuestro Proceso",
+        "subtitle": "Del descubrimiento al despliegue en semanas, no meses.",
+        "step1": { "title": "Descubrimiento", "desc": "Mapeamos tus flujos de trabajo actuales, identificamos oportunidades de automatización y priorizamos por impacto en ROI." },
+        "step2": { "title": "Diseño", "desc": "Arquitectamos el sistema — seleccionando las herramientas correctas, definiendo flujos de datos y planificando integraciones." },
+        "step3": { "title": "Construcción", "desc": "Implementación rápida con demos semanales. Ves el progreso y puedes dar retroalimentación en tiempo real." },
+        "step4": { "title": "Lanzamiento", "desc": "Puesta en marcha con documentación completa, capacitación y 30 días de soporte para asegurar que todo funcione sin problemas." }
+      },
+      "pricing": {
+        "title": "Precios",
+        "subtitle": "Precios transparentes. Sin costos ocultos. Elige lo que se adapta a tus necesidades.",
+        "cta": "Comenzar",
+        "tier1": {
+          "name": "Sistema Individual", "period": "pago único",
+          "desc": "Un sistema de automatización completo, construido y desplegado para tu negocio.",
+          "li1": "1 sistema de automatización", "li2": "Sesión de descubrimiento y diseño",
+          "li3": "Entrega en 2–3 semanas", "li4": "Documentación completa", "li5": "14 días de soporte post-lanzamiento"
+        },
+        "tier2": {
+          "name": "Paquete de Crecimiento", "period": "pago único",
+          "desc": "Un conjunto de sistemas interconectados que transforman cómo opera tu negocio.",
+          "li1": "3 sistemas de automatización", "li2": "Auditoría completa de flujos",
+          "li3": "Entrega en 4–6 semanas", "li4": "Integraciones de sistemas", "li5": "30 días de soporte post-lanzamiento"
+        },
+        "tier3": {
+          "name": "Retainer", "period": "por mes",
+          "desc": "Socio de automatización continuo. Construimos, optimizamos y mantenemos tus sistemas continuamente.",
+          "li1": "Equipo de automatización dedicado", "li2": "Solicitudes de sistemas ilimitadas",
+          "li3": "Soporte prioritario", "li4": "Llamadas de estrategia mensuales", "li5": "Optimización continua"
+        }
+      },
+      "cta": {
+        "headline": "¿Listo para automatizar tu crecimiento?",
+        "subtitle": "Reserva una llamada de estrategia gratuita de 30 minutos y mapearemos tus mayores oportunidades de automatización."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Vimos el futuro del trabajo — y lo ",
+        "headlineCyan": "construimos",
+        "subtitle": "NextVibe se fundó con una creencia simple: las empresas no deberían dedicar sus mejores horas a tareas que una máquina puede hacer mejor. Construimos los sistemas de IA que hacen eso realidad."
+      },
+      "story": {
+        "p1": "Comenzamos NextVibe en 2020 cuando notamos algo que la mayoría de las empresas estaba ignorando: la brecha entre lo que la IA podía hacer y lo que las empresas realmente usaban era enorme — y crecía.",
+        "p2": "Mientras el mundo hablaba de IA, nosotros la integrábamos silenciosamente en flujos de trabajo empresariales reales. Sistemas de email en frío que se escribían solos. Flujos de incorporación que funcionaban sin un solo paso manual. CRMs que se actualizaban en tiempo real.",
+        "highlight": "\"No vendemos hype de IA. Vendemos horas de vuelta a tu equipo e ingresos a tu negocio.\"",
+        "p3": "Hoy, NextVibe trabaja con agencias, empresas SaaS y negocios de servicios en el Reino Unido y más allá. Hemos automatizado miles de horas de trabajo manual y ayudado a nuestros clientes a escalar sin aumentar su plantilla.",
+        "p4": "Nuestro enfoque es simple: entender tu negocio en profundidad, encontrar las oportunidades de automatización de mayor impacto y construir sistemas que realmente funcionen — no demos vistosas que acumulan polvo."
+      },
+      "founders": {
+        "title": "Conoce al Fundador",
+        "subtitle": "La persona detrás de los sistemas de automatización de IA de NextVibe.",
+        "victor": {
+          "role": "CEO y Fundador",
+          "bio": "Ex consultor de automatización convertido en fundador. Victor ha construido sistemas de IA y automatización en todos los sectores principales — liderando estrategia, arquitectura de sistemas y entrega en NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Nuestro Recorrido",
+        "subtitle": "Hitos clave en el camino hacia donde estamos hoy.",
+        "item1": { "title": "Fundamos NextVibe", "desc": "Empezamos como una consultoría de dos personas, construyendo sistemas de automatización para empresas locales durante la pandemia." },
+        "item2": { "title": "Primer Cliente Empresarial", "desc": "Conseguimos nuestro primer proyecto empresarial — una revisión completa de automatización para una agencia de 50 personas." },
+        "item3": { "title": "Pivote AI-First", "desc": "Integramos IA impulsada por GPT en cada sistema que construimos, convirtiéndonos en una de las primeras agencias en ser completamente AI-native." },
+        "item4": { "title": "Más de 50 Clientes Atendidos", "desc": "Superamos los 50 clientes activos y más de 500 horas de trabajo manual automatizado al mes en toda nuestra cartera." },
+        "item5": { "title": "Escalando", "desc": "Ampliando el equipo, lanzando nuevos niveles de servicio y construyendo herramientas de IA propietarias para nuestros clientes." }
+      },
+      "values": {
+        "title": "Lo Que Defendemos",
+        "subtitle": "Los principios que guían cada sistema que construimos.",
+        "action": { "title": "Sesgo a la Acción", "desc": "Enviamos rápido. Semanas, no trimestres. Cada sistema que construimos entra en producción y empieza a generar valor de inmediato." },
+        "roi": { "title": "Obsesión por el ROI", "desc": "No construimos tecnología genial por el placer de hacerlo. Cada automatización debe tener un impacto claro y medible en tu negocio." },
+        "transparency": { "title": "Transparencia Radical", "desc": "Sin cajas negras. Ves cada flujo de trabajo, cada integración, cada decisión. Tus sistemas te pertenecen." },
+        "simplicity": { "title": "Simplicidad Ante Todo", "desc": "El mejor sistema es el más simple que funciona. Evitamos la sobreingeniería y nos centramos en la fiabilidad." },
+        "ahead": { "title": "Siempre a la Vanguardia", "desc": "Siempre estamos probando nuevos modelos, herramientas y técnicas de IA para que nuestros clientes accedan a lo próximo — antes que sus competidores." },
+        "partnership": { "title": "Asociación Real", "desc": "No somos un proveedor. Nos integramos en tu equipo, entendemos tus objetivos y construimos como si fuera nuestro propio negocio." }
+      },
+      "cta": {
+        "headlinePre": "Construyamos algo ",
+        "headlineCyan": "extraordinario",
+        "subtitle": "Reserva una llamada de estrategia gratuita y descubre cómo la automatización de IA puede transformar las operaciones de tu negocio."
+      }
     }
   },
   "fr": {
@@ -161,22 +491,56 @@
     "caseStudies": {
       "title": "Résultats Réels. Entreprises Réelles.",
       "subtitle": "Voyez comment nous avons aidé les entreprises à se développer grâce à l'automatisation.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agence"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Pipeline de Leads Automatisé",
+        "desc": "Système d'emailing à froid et de scoring de leads par IA qui a triplé les démos qualifiées en 90 jours.",
+        "stat": "Démos Qualifiées"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automatisation de la Livraison",
+        "desc": "Remplacé plus de 40 heures de traitement manuel des commandes par semaine avec un système d'automatisation de bout en bout.",
+        "stat": "Heures Économisées / Semaine"
+      },
+      "agency": {
+        "tag": "Agence",
+        "title": "Système d'Intégration Client",
+        "desc": "L'intégration automatisée a réduit le délai de livraison de 2 semaines à 3 jours sans aucune étape manuelle.",
+        "stat": "Temps d'Intégration"
+      }
     },
     "services": {
       "title": "Notre domaine de spécialité.",
       "subtitle": "Systèmes d'IA de bout en bout qui stimulent les résultats commerciaux réels.",
-      "growth": "Systèmes de Croissance et d'Automatisation",
-      "growthDesc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
-      "operations": "Automatisation des Opérations et de l'Exécution",
-      "operationsDesc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
-      "bespoke": "Solutions d'IA Personnalisées",
-      "bespokeDesc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore."
+      "growth": {
+        "name": "Systèmes de Croissance et d'Automatisation",
+        "desc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
+        "li1": "Campagnes d'Emailing à Froid IA",
+        "li2": "Scoring et Routage de Leads",
+        "li3": "Automatisation CRM",
+        "li4": "Distribution de Contenu"
+      },
+      "operations": {
+        "name": "Automatisation des Opérations et de l'Exécution",
+        "desc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
+        "li1": "Livraison Automatisée",
+        "li2": "Intégration Client",
+        "li3": "Workflows de Gestion de Projet",
+        "li4": "Tableaux de Bord"
+      },
+      "bespoke": {
+        "name": "Solutions d'IA Personnalisées",
+        "desc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore.",
+        "li1": "Chatbots IA Personnalisés",
+        "li2": "Scoring et Classification IA",
+        "li3": "Pipelines de Données",
+        "li4": "Outils IA Internes"
+      }
     },
     "testimonials": {
-      "title": "Ce que Disent Nos Clients"
+      "title": "Ce que Disent Nos Clients",
+      "quote": "NextVibe a construit pour nous un système complet de génération de leads par IA en moins de 3 semaines. Nos réservations de démos ont triplé et l'équipe peut enfin se concentrer sur la conclusion des affaires plutôt que de courir après les leads froids."
     },
     "form": {
       "title": "Dites-nous où vous en êtes...",
@@ -188,10 +552,141 @@
       "budget1": "£5 000 – £10 000",
       "budget2": "£10 000 – £25 000",
       "budget3": "£25 000+",
+      "messageLabel": "Parlez-nous de votre projet",
+      "messagePlaceholder": "Qu'est-ce que vous souhaitez automatiser ?",
+      "namePlaceholder": "Votre nom",
+      "emailPlaceholder": "vous@entreprise.com",
+      "companyPlaceholder": "Votre entreprise",
       "submit": "Envoyer le Message"
     },
     "footer": {
       "copy": "© 2026 NextVibe. Tous droits réservés."
+    },
+    "servicesPage": {
+      "hero": {
+        "headline": "Services et Solutions",
+        "subtitle": "Systèmes d'IA de bout en bout conçus pour générer des prospects, automatiser les opérations et faire évoluer votre activité sans augmenter vos effectifs.",
+        "metric1": "Réduction Moyenne des Coûts",
+        "metric2": "Livraison Plus Rapide",
+        "metric3": "Heures Économisées par Mois"
+      },
+      "leadGen": {
+        "title": "Systèmes de Génération de Leads",
+        "subtitle": "Pipelines alimentés par l'IA qui remplissent votre agenda de prospects qualifiés.",
+        "card1": { "title": "Cold Email IA", "desc": "Prospection hyper-personnalisée à grande échelle grâce à des textes générés par IA, un warmup automatisé et des horaires d'envoi intelligents qui atterrissent en boîte principale." },
+        "card2": { "title": "Systèmes de Candidature", "desc": "Entonnoirs inbound avec qualification par IA — qualifiez, routez et suivez automatiquement chaque lead pour ne rien laisser passer." },
+        "card3": { "title": "Systèmes de Contenu", "desc": "Pipelines de contenu assistés par IA qui transforment un article de leadership éclairé en dizaines d'actifs prêts à être distribués sur plusieurs canaux." }
+      },
+      "pm": {
+        "title": "Systèmes de Gestion de Projet",
+        "subtitle": "Automatisez les flux de livraison pour que votre équipe se concentre sur le travail à haute valeur ajoutée.",
+        "card1": { "title": "Livraison Automatisée", "desc": "Automatisation de la livraison de bout en bout — de la création de tâches aux mises à jour de statut en passant par la communication client, tout sans intervention manuelle." },
+        "card2": { "title": "Intégration Client", "desc": "Flux d'intégration structurés qui collectent les exigences, définissent les attentes et lancent les projets automatiquement dès la signature d'un contrat." },
+        "card3": { "title": "Workflows PM", "desc": "Attribution intelligente des tâches, suivi des délais et détection des goulots d'étranglement pour garder les projets sur la bonne voie et votre équipe alignée." }
+      },
+      "hiring": {
+        "title": "Systèmes de Recrutement",
+        "subtitle": "Recrutez de manière plus intelligente et plus rapide grâce au screening et à l'évaluation par IA.",
+        "card1": { "title": "Systèmes de Candidature", "desc": "Formulaires de candidature structurés avec extraction automatique des données et profilage des candidats — fini le tri manuel des CV." },
+        "card2": { "title": "Scoring IA", "desc": "Scoring objectif des candidats basé sur des critères personnalisés, la correspondance d'expérience et les indicateurs d'adéquation culturelle — réduisant les biais et économisant des heures." },
+        "card3": { "title": "Processus d'Essai", "desc": "Attribution automatisée de projets d'essai, suivi des soumissions et workflows d'évaluation qui font remonter vos meilleurs candidats rapidement." }
+      },
+      "salesAdmin": {
+        "title": "Administration des Ventes",
+        "subtitle": "Rationalisez vos opérations commerciales avec des outils personnalisés et une automatisation intelligente.",
+        "card1": { "title": "CRM Personnalisés", "desc": "Configurations CRM sur mesure adaptées à votre processus de vente — suivi automatisé des affaires, vues du pipeline et journalisation des activités sans la lourdeur." },
+        "card2": { "title": "Générateurs d'Actifs IA", "desc": "Générez automatiquement des propositions, des SOW et des présentations commerciales personnalisées pour chaque prospect grâce à l'IA et vos modèles existants." },
+        "card3": { "title": "Systèmes de Nurturing", "desc": "Séquences de suivi multicanal qui maintiennent l'engagement des leads chauds avec des points de contact opportuns et pertinents jusqu'à ce qu'ils soient prêts à acheter." }
+      },
+      "personas": {
+        "title": "À Qui Ça S'adresse",
+        "subtitle": "Nous travaillons mieux avec les entreprises prêtes à faire évoluer leurs opérations grâce à l'automatisation.",
+        "agencies": { "title": "Agences", "desc": "Automatisez la livraison client, l'intégration et la génération de leads pour croître sans augmenter proportionnellement vos effectifs." },
+        "saas": { "title": "Entreprises SaaS", "desc": "Construisez des pipelines outbound automatisés, des workflows d'essai à payant et des systèmes de succès client." },
+        "professional": { "title": "Services Professionnels", "desc": "Rationalisez la prise en charge, la planification, la facturation et la communication client sans surcharge manuelle." },
+        "ecommerce": { "title": "E-Commerce", "desc": "Automatisez le traitement des commandes, la gestion des stocks, le support client et les workflows marketing à grande échelle." }
+      },
+      "process": {
+        "title": "Notre Processus",
+        "subtitle": "De la découverte au déploiement en semaines, pas en mois.",
+        "step1": { "title": "Découverte", "desc": "Nous cartographions vos flux de travail actuels, identifions les opportunités d'automatisation et priorisons par impact ROI." },
+        "step2": { "title": "Conception", "desc": "Nous architecturons le système — en sélectionnant les bons outils, en définissant les flux de données et en planifiant les intégrations." },
+        "step3": { "title": "Développement", "desc": "Mise en œuvre rapide avec des démos hebdomadaires. Vous voyez les progrès et pouvez donner votre avis en temps réel." },
+        "step4": { "title": "Lancement", "desc": "Mise en production avec une documentation complète, une formation et 30 jours de support pour assurer un fonctionnement optimal." }
+      },
+      "pricing": {
+        "title": "Tarification",
+        "subtitle": "Prix transparents. Pas de frais cachés. Choisissez ce qui correspond à vos besoins.",
+        "cta": "Commencer",
+        "tier1": {
+          "name": "Système Unique", "period": "paiement unique",
+          "desc": "Un système d'automatisation complet, conçu et déployé pour votre entreprise.",
+          "li1": "1 système d'automatisation", "li2": "Session de découverte et conception",
+          "li3": "Livraison en 2–3 semaines", "li4": "Documentation complète", "li5": "14 jours de support post-lancement"
+        },
+        "tier2": {
+          "name": "Forfait Croissance", "period": "paiement unique",
+          "desc": "Un ensemble de systèmes interconnectés qui transforment le fonctionnement de votre entreprise.",
+          "li1": "3 systèmes d'automatisation", "li2": "Audit complet des workflows",
+          "li3": "Livraison en 4–6 semaines", "li4": "Intégrations de systèmes", "li5": "30 jours de support post-lancement"
+        },
+        "tier3": {
+          "name": "Retainer", "period": "par mois",
+          "desc": "Partenaire d'automatisation continu. Nous construisons, optimisons et maintenons continuellement vos systèmes.",
+          "li1": "Équipe d'automatisation dédiée", "li2": "Demandes de systèmes illimitées",
+          "li3": "Support prioritaire", "li4": "Appels stratégie mensuels", "li5": "Optimisation continue"
+        }
+      },
+      "cta": {
+        "headline": "Prêt à automatiser votre croissance ?",
+        "subtitle": "Réservez un appel stratégique gratuit de 30 minutes et nous cartographierons vos plus grandes opportunités d'automatisation."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Nous avons vu l'avenir du travail — et l'avons ",
+        "headlineCyan": "construit",
+        "subtitle": "NextVibe a été fondée sur une conviction simple : les entreprises ne devraient pas passer leurs meilleures heures sur des tâches qu'une machine peut faire mieux. Nous construisons les systèmes d'IA qui rendent cela réel."
+      },
+      "story": {
+        "p1": "Nous avons lancé NextVibe en 2020 quand nous avons remarqué quelque chose que la plupart des entreprises ignoraient : l'écart entre ce que l'IA pouvait faire et ce que les entreprises utilisaient réellement était massif — et croissant.",
+        "p2": "Pendant que le monde parlait d'IA, nous l'intégrions discrètement dans de vrais workflows d'entreprise. Des systèmes d'emailing à froid qui s'écrivaient eux-mêmes. Des flux d'intégration qui fonctionnaient sans une seule étape manuelle. Des CRM qui se mettaient à jour en temps réel.",
+        "highlight": "\"Nous ne vendons pas du hype IA. Nous vendons des heures rendues à votre équipe et des revenus à votre résultat net.\"",
+        "p3": "Aujourd'hui, NextVibe travaille avec des agences, des entreprises SaaS et des prestataires de services au Royaume-Uni et au-delà. Nous avons automatisé des milliers d'heures de travail manuel et aidé nos clients à se développer sans augmenter leurs effectifs.",
+        "p4": "Notre approche est simple : comprendre votre activité en profondeur, trouver les opportunités d'automatisation à plus fort impact et construire des systèmes qui fonctionnent vraiment — pas des démos tape-à-l'œil qui prennent la poussière."
+      },
+      "founders": {
+        "title": "Rencontrez le Fondateur",
+        "subtitle": "La personne derrière les systèmes d'automatisation IA de NextVibe.",
+        "victor": {
+          "role": "PDG & Fondateur",
+          "bio": "Ancien consultant en automatisation devenu fondateur. Victor a construit des systèmes d'IA et d'automatisation dans tous les grands secteurs — dirigeant la stratégie, l'architecture système et la livraison chez NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Notre Parcours",
+        "subtitle": "Les étapes clés sur la route vers où nous en sommes aujourd'hui.",
+        "item1": { "title": "Fondation de NextVibe", "desc": "Démarrage en tant que cabinet de conseil de deux personnes, construisant des systèmes d'automatisation pour les entreprises locales pendant la pandémie." },
+        "item2": { "title": "Premier Client Entreprise", "desc": "Décroché notre premier engagement entreprise — une refonte complète de l'automatisation pour une agence de 50 personnes." },
+        "item3": { "title": "Pivot AI-First", "desc": "Intégration de l'IA propulsée par GPT dans chaque système que nous construisons, devenant l'une des premières agences à passer entièrement à l'AI-native." },
+        "item4": { "title": "50+ Clients Servis", "desc": "Dépassé 50 clients actifs et 500+ heures de travail manuel automatisé par mois dans notre portefeuille." },
+        "item5": { "title": "Montée en Échelle", "desc": "Extension de l'équipe, lancement de nouveaux niveaux de service et construction d'outils IA propriétaires pour nos clients." }
+      },
+      "values": {
+        "title": "Ce Que Nous Défendons",
+        "subtitle": "Les principes qui guident chaque système que nous construisons.",
+        "action": { "title": "Biais vers l'Action", "desc": "Nous livrons vite. Des semaines, pas des trimestres. Chaque système que nous construisons est mis en production et commence à générer de la valeur immédiatement." },
+        "roi": { "title": "Obsession du ROI", "desc": "Nous ne construisons pas une technologie cool pour le plaisir. Chaque automatisation doit avoir un impact clair et mesurable sur votre activité." },
+        "transparency": { "title": "Transparence Radicale", "desc": "Pas de boîtes noires. Vous voyez chaque workflow, chaque intégration, chaque décision. Vos systèmes vous appartiennent." },
+        "simplicity": { "title": "Simplicité d'Abord", "desc": "Le meilleur système est le plus simple qui fonctionne. Nous évitons la sur-ingénierie et nous concentrons sur la fiabilité." },
+        "ahead": { "title": "Toujours en Avance", "desc": "Nous testons toujours de nouveaux modèles, outils et techniques d'IA pour que nos clients aient accès à ce qui vient — avant leurs concurrents." },
+        "partnership": { "title": "Partenariat Réel", "desc": "Nous ne sommes pas un fournisseur. Nous nous intégrons à votre équipe, comprenons vos objectifs et construisons comme si c'était notre propre entreprise." }
+      },
+      "cta": {
+        "headlinePre": "Construisons quelque chose d'",
+        "headlineCyan": "extraordinaire",
+        "subtitle": "Réservez un appel stratégique gratuit et découvrez comment l'automatisation IA peut transformer les opérations de votre entreprise."
+      }
     }
   },
   "de": {
@@ -226,22 +721,56 @@
     "caseStudies": {
       "title": "Echte Ergebnisse. Echte Unternehmen.",
       "subtitle": "Sieh, wie wir Unternehmen durch Automatisierung geholfen haben zu wachsen.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agentur"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Automatisierte Lead-Pipeline",
+        "desc": "KI-gestütztes Kalt-E-Mail- und Lead-Scoring-System, das qualifizierte Demos in 90 Tagen verdreifachte.",
+        "stat": "Qualifizierte Demos"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Fulfillment-Automatisierung",
+        "desc": "Ersetzte 40+ Stunden manuelle Auftragsabwicklung pro Woche durch ein End-to-End-Automatisierungssystem.",
+        "stat": "Stunden Gespart / Woche"
+      },
+      "agency": {
+        "tag": "Agentur",
+        "title": "Client-Onboarding-System",
+        "desc": "Automatisiertes Onboarding reduzierte die Lieferzeit von 2 Wochen auf 3 Tage ohne manuelle Schritte.",
+        "stat": "Onboarding-Zeit"
+      }
     },
     "services": {
       "title": "Worauf wir uns spezialisieren.",
       "subtitle": "End-to-End-KI-Systeme, die echte Geschäftsergebnisse bringen.",
-      "growth": "Wachstums- und Automatisierungssysteme",
-      "growthDesc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
-      "operations": "Betriebs- und Erfüllungsautomatisierung",
-      "operationsDesc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
-      "bespoke": "Maßgeschneiderte KI-Lösungen",
-      "bespokeDesc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr."
+      "growth": {
+        "name": "Wachstums- und Automatisierungssysteme",
+        "desc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
+        "li1": "KI-Kalt-E-Mail-Kampagnen",
+        "li2": "Lead-Scoring & -Routing",
+        "li3": "CRM-Automatisierung",
+        "li4": "Content-Distribution"
+      },
+      "operations": {
+        "name": "Betriebs- und Erfüllungsautomatisierung",
+        "desc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
+        "li1": "Automatisierte Auftragsabwicklung",
+        "li2": "Kunden-Onboarding",
+        "li3": "Projektmanagement-Workflows",
+        "li4": "Reporting-Dashboards"
+      },
+      "bespoke": {
+        "name": "Maßgeschneiderte KI-Lösungen",
+        "desc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr.",
+        "li1": "Benutzerdefinierte KI-Chatbots",
+        "li2": "KI-Scoring & -Klassifizierung",
+        "li3": "Datenpipelines",
+        "li4": "Interne KI-Tools"
+      }
     },
     "testimonials": {
-      "title": "Was Unsere Kunden Sagen"
+      "title": "Was Unsere Kunden Sagen",
+      "quote": "NextVibe hat in weniger als 3 Wochen ein vollständiges KI-Lead-System für uns aufgebaut. Unsere Demo-Buchungen haben sich verdreifacht und das Team hat endlich Zeit, sich auf den Abschluss von Deals zu konzentrieren, anstatt kalte Leads zu jagen."
     },
     "form": {
       "title": "Sag uns, wo du stehst...",
@@ -253,10 +782,141 @@
       "budget1": "£5.000 – £10.000",
       "budget2": "£10.000 – £25.000",
       "budget3": "£25.000+",
+      "messageLabel": "Erzähle uns von deinem Projekt",
+      "messagePlaceholder": "Was möchtest du automatisieren?",
+      "namePlaceholder": "Dein Name",
+      "emailPlaceholder": "du@firma.de",
+      "companyPlaceholder": "Dein Unternehmen",
       "submit": "Nachricht Senden"
     },
     "footer": {
       "copy": "© 2026 NextVibe. Alle Rechte vorbehalten."
+    },
+    "servicesPage": {
+      "hero": {
+        "headline": "Dienstleistungen und Lösungen",
+        "subtitle": "End-to-End-KI-Systeme, die darauf ausgelegt sind, Leads zu generieren, Operationen zu automatisieren und dein Unternehmen zu skalieren, ohne deine Belegschaft zu vergrößern.",
+        "metric1": "Durchschn. Kostensenkung",
+        "metric2": "Schnellere Lieferung",
+        "metric3": "Stunden pro Monat Gespart"
+      },
+      "leadGen": {
+        "title": "Lead-Generierungssysteme",
+        "subtitle": "KI-gestützte Pipelines, die deinen Kalender mit qualifizierten Interessenten füllen.",
+        "card1": { "title": "KI-Kalt-E-Mail", "desc": "Hyperpersonalisierte Kontaktaufnahme in großem Maßstab mit KI-generiertem Text, automatisiertem Warmup und intelligenten Sendeplänen, die im primären Posteingang landen." },
+        "card2": { "title": "Bewerbungssysteme", "desc": "Inbound-Trichter mit KI-Qualifizierung — automatisch jeden Lead bewerten, weiterleiten und nachverfolgen, damit nichts durch die Maschen fällt." },
+        "card3": { "title": "Content-Systeme", "desc": "KI-gestützte Content-Pipelines, die ein Stück Thought Leadership in Dutzende verteilungsfertige Assets über alle Kanäle verwandeln." }
+      },
+      "pm": {
+        "title": "Projektmanagementsysteme",
+        "subtitle": "Automatisiere Lieferworkflows, damit sich dein Team auf wertschöpfende Arbeit konzentrieren kann.",
+        "card1": { "title": "Automatisierte Auftragsabwicklung", "desc": "End-to-End-Lieferautomatisierung — von der Aufgabenerstellung über Statusupdates bis zur Kundenkommunikation, alles ohne manuellen Eingriff." },
+        "card2": { "title": "Kunden-Onboarding", "desc": "Strukturierte Onboarding-Flows, die Anforderungen sammeln, Erwartungen setzen und Projekte automatisch starten, sobald ein Deal abgeschlossen ist." },
+        "card3": { "title": "PM-Workflows", "desc": "Intelligente Aufgabenzuweisung, Deadline-Tracking und Engpasserkennung, die Projekte auf Kurs hält und dein Team ausrichtet." }
+      },
+      "hiring": {
+        "title": "Einstellungssysteme",
+        "subtitle": "Rekrutiere intelligenter und schneller mit KI-gesteuertem Screening und Evaluierung.",
+        "card1": { "title": "Intake-Systeme", "desc": "Strukturierte Bewerbungsformulare mit automatischer Datenerkennung und Kandidatenprofilerstellung — kein manuelles Sortieren von Lebensläufen mehr." },
+        "card2": { "title": "KI-Scoring", "desc": "Objektives Kandidaten-Scoring basierend auf benutzerdefinierten Kriterien, Erfahrungsabgleich und kulturellen Fit-Indikatoren — reduziert Vorurteile und spart Stunden." },
+        "card3": { "title": "Testprozesse", "desc": "Automatisierte Zuweisung von Testprojekten, Einreichungsverfolgung und Evaluierungs-Workflows, die deine besten Kandidaten schnell identifizieren." }
+      },
+      "salesAdmin": {
+        "title": "Vertriebsverwaltung",
+        "subtitle": "Optimiere deine Vertriebsoperationen mit maßgeschneiderten Tools und intelligenter Automatisierung.",
+        "card1": { "title": "Benutzerdefinierte CRMs", "desc": "Maßgeschneiderte CRM-Setups für deinen Verkaufsprozess — automatisiertes Deal-Tracking, Pipeline-Ansichten und Aktivitätsprotokollierung ohne Ballast." },
+        "card2": { "title": "KI-Asset-Generatoren", "desc": "Automatisch Angebote, SOWs und Verkaufspräsentationen erstellen, die für jeden Interessenten mit KI und deinen vorhandenen Vorlagen personalisiert sind." },
+        "card3": { "title": "Nurture-Systeme", "desc": "Mehrkanalige Follow-up-Sequenzen, die warme Leads mit zeitgemäßen, relevanten Berührungspunkten engagiert halten, bis sie kaufbereit sind." }
+      },
+      "personas": {
+        "title": "Für Wen Ist Es",
+        "subtitle": "Wir arbeiten am besten mit Unternehmen, die bereit sind, Operationen durch Automatisierung zu skalieren.",
+        "agencies": { "title": "Agenturen", "desc": "Automatisiere Client-Delivery, Onboarding und Lead-Gen, damit du wachsen kannst, ohne proportional dein Team zu vergrößern." },
+        "saas": { "title": "SaaS-Unternehmen", "desc": "Baue automatisierte Outbound-Pipelines, Trial-to-Paid-Workflows und Customer-Success-Systeme." },
+        "professional": { "title": "Professionelle Dienstleistungen", "desc": "Rationalisiere Intake, Terminplanung, Abrechnung und Kundenkommunikation ohne manuellen Aufwand." },
+        "ecommerce": { "title": "E-Commerce", "desc": "Automatisiere Auftragsabwicklung, Bestandsmanagement, Kundensupport und Marketing-Workflows in großem Maßstab." }
+      },
+      "process": {
+        "title": "Unser Prozess",
+        "subtitle": "Von der Entdeckung bis zur Bereitstellung in Wochen, nicht Monaten.",
+        "step1": { "title": "Entdeckung", "desc": "Wir kartieren deine aktuellen Workflows, identifizieren Automatisierungsmöglichkeiten und priorisieren nach ROI-Auswirkung." },
+        "step2": { "title": "Design", "desc": "Wir entwickeln die Systemarchitektur — wählen die richtigen Tools, definieren Datenflüsse und planen Integrationen." },
+        "step3": { "title": "Entwicklung", "desc": "Schnelle Implementierung mit wöchentlichen Demos. Du siehst Fortschritte und kannst in Echtzeit Feedback geben." },
+        "step4": { "title": "Launch", "desc": "Go-live mit vollständiger Dokumentation, Schulung und 30 Tagen Support, um sicherzustellen, dass alles reibungslos läuft." }
+      },
+      "pricing": {
+        "title": "Preise",
+        "subtitle": "Transparente Preise. Keine versteckten Gebühren. Wähle, was zu deinen Bedürfnissen passt.",
+        "cta": "Loslegen",
+        "tier1": {
+          "name": "Einzelsystem", "period": "einmalig",
+          "desc": "Ein vollständiges Automatisierungssystem, das für dein Unternehmen gebaut und eingesetzt wird.",
+          "li1": "1 Automatisierungssystem", "li2": "Entdeckungs- und Design-Session",
+          "li3": "Lieferung in 2–3 Wochen", "li4": "Vollständige Dokumentation", "li5": "14 Tage Post-Launch-Support"
+        },
+        "tier2": {
+          "name": "Wachstumspaket", "period": "einmalig",
+          "desc": "Eine Suite vernetzter Systeme, die transformieren, wie dein Unternehmen operiert.",
+          "li1": "3 Automatisierungssysteme", "li2": "Vollständiges Workflow-Audit",
+          "li3": "Lieferung in 4–6 Wochen", "li4": "Systemintegrationen", "li5": "30 Tage Post-Launch-Support"
+        },
+        "tier3": {
+          "name": "Retainer", "period": "pro Monat",
+          "desc": "Fortlaufender Automatisierungspartner. Wir bauen, optimieren und warten deine Systeme kontinuierlich.",
+          "li1": "Dediziertes Automatisierungsteam", "li2": "Unbegrenzte Systemanfragen",
+          "li3": "Prioritätssupport", "li4": "Monatliche Strategiegespräche", "li5": "Kontinuierliche Optimierung"
+        }
+      },
+      "cta": {
+        "headline": "Bereit, dein Wachstum zu automatisieren?",
+        "subtitle": "Buche ein kostenloses 30-minütiges Strategiegespräch und wir kartieren deine größten Automatisierungsmöglichkeiten."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Wir sahen die Zukunft der Arbeit — und haben sie ",
+        "headlineCyan": "gebaut",
+        "subtitle": "NextVibe wurde auf einem einfachen Glauben gegründet: Unternehmen sollten ihre besten Stunden nicht für Aufgaben aufwenden, die eine Maschine besser erledigen kann. Wir bauen die KI-Systeme, die das Wirklichkeit werden lassen."
+      },
+      "story": {
+        "p1": "Wir gründeten NextVibe 2020, als wir etwas bemerkten, das die meisten Unternehmen ignorierten: Die Lücke zwischen dem, was KI leisten konnte, und dem, was Unternehmen tatsächlich nutzten, war riesig — und wuchs.",
+        "p2": "Während die Welt über KI sprach, integrierten wir sie still und leise in echte Geschäftsabläufe. Kalt-E-Mail-Systeme, die sich selbst schrieben. Onboarding-Flows, die ohne einen einzigen manuellen Schritt liefen. CRMs, die sich in Echtzeit aktualisierten.",
+        "highlight": "\"Wir verkaufen keinen KI-Hype. Wir verkaufen Stunden zurück an dein Team und Umsatz an dein Unternehmen.\"",
+        "p3": "Heute arbeitet NextVibe mit Agenturen, SaaS-Unternehmen und Dienstleistungsunternehmen in ganz Großbritannien und darüber hinaus. Wir haben Tausende von Stunden manueller Arbeit automatisiert und unseren Kunden geholfen, zu skalieren, ohne ihre Belegschaft zu vergrößern.",
+        "p4": "Unser Ansatz ist einfach: dein Unternehmen tiefgehend verstehen, die Automatisierungsmöglichkeiten mit dem größten Einfluss finden und Systeme bauen, die wirklich funktionieren — keine glitzernden Demos, die Staub sammeln."
+      },
+      "founders": {
+        "title": "Lern den Gründer Kennen",
+        "subtitle": "Die Person hinter den KI-Automatisierungssystemen von NextVibe.",
+        "victor": {
+          "role": "CEO & Gründer",
+          "bio": "Ehemaliger Automatisierungsberater, der zum Gründer wurde. Victor hat KI- und Automatisierungssysteme in allen wichtigen Branchen aufgebaut — und leitet Strategie, Systemarchitektur und Lieferung bei NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Unsere Reise",
+        "subtitle": "Wichtige Meilensteine auf dem Weg zu dem, wo wir heute sind.",
+        "item1": { "title": "NextVibe Gegründet", "desc": "Als zweiköpfige Unternehmensberatung gestartet, die während der Pandemie Automatisierungssysteme für lokale Unternehmen baute." },
+        "item2": { "title": "Erster Unternehmenskunde", "desc": "Unser erstes Unternehmensengagement gewonnen — eine umfassende Automatisierungsüberarbeitung für eine 50-köpfige Agentur." },
+        "item3": { "title": "AI-First Pivot", "desc": "GPT-gestützte KI in jedes System integriert, das wir bauen, und damit zu einer der ersten Agenturen geworden, die vollständig KI-nativ sind." },
+        "item4": { "title": "50+ Kunden Bedient", "desc": "Über 50 aktive Kunden und 500+ Stunden manueller Arbeit, die monatlich in unserem Portfolio automatisiert werden." },
+        "item5": { "title": "Skalierung", "desc": "Team erweitern, neue Service-Stufen starten und proprietäre KI-Tools für unsere Kunden entwickeln." }
+      },
+      "values": {
+        "title": "Wofür Wir Stehen",
+        "subtitle": "Die Prinzipien, die jedes System leiten, das wir bauen.",
+        "action": { "title": "Bias zur Aktion", "desc": "Wir liefern schnell. Wochen, nicht Quartale. Jedes System, das wir bauen, geht live und beginnt sofort Wert zu liefern." },
+        "roi": { "title": "ROI im Fokus", "desc": "Wir bauen keine coole Technologie um ihrer selbst willen. Jede Automatisierung muss einen klaren, messbaren Einfluss auf dein Unternehmen haben." },
+        "transparency": { "title": "Radikale Transparenz", "desc": "Keine Black Boxes. Du siehst jeden Workflow, jede Integration, jede Entscheidung. Deine Systeme gehören dir." },
+        "simplicity": { "title": "Einfachheit Zuerst", "desc": "Das beste System ist das einfachste, das funktioniert. Wir vermeiden Over-Engineering und konzentrieren uns auf Zuverlässigkeit." },
+        "ahead": { "title": "Immer Vorne", "desc": "Wir testen immer neue KI-Modelle, Tools und Techniken, damit unsere Kunden Zugang zu dem haben, was kommt — vor ihren Wettbewerbern." },
+        "partnership": { "title": "Echte Partnerschaft", "desc": "Wir sind kein Anbieter. Wir integrieren uns in dein Team, verstehen deine Ziele und bauen, als wäre es unser eigenes Unternehmen." }
+      },
+      "cta": {
+        "headlinePre": "Lass uns etwas ",
+        "headlineCyan": "Außergewöhnliches bauen",
+        "subtitle": "Buche ein kostenloses Strategiegespräch und entdecke, wie KI-Automatisierung deine Geschäftsabläufe transformieren kann."
+      }
     }
   },
   "it": {
@@ -291,22 +951,56 @@
     "caseStudies": {
       "title": "Risultati Reali. Aziende Reali.",
       "subtitle": "Scopri come abbiamo aiutato le aziende a crescere attraverso l'automazione.",
-      "saas": "SaaS",
-      "ecommerce": "E-Commerce",
-      "agency": "Agenzia"
+      "saas": {
+        "tag": "SaaS",
+        "title": "Pipeline di Lead Automatizzata",
+        "desc": "Sistema di cold email e lead scoring basato su IA che ha triplicato le demo qualificate in 90 giorni.",
+        "stat": "Demo Qualificate"
+      },
+      "ecommerce": {
+        "tag": "E-Commerce",
+        "title": "Automazione dell'Evasione Ordini",
+        "desc": "Sostituito più di 40 ore di elaborazione manuale degli ordini a settimana con un sistema di automazione end-to-end.",
+        "stat": "Ore Risparmiate / Settimana"
+      },
+      "agency": {
+        "tag": "Agenzia",
+        "title": "Sistema di Onboarding Clienti",
+        "desc": "L'onboarding automatizzato ha ridotto il tempo di consegna da 2 settimane a 3 giorni senza passaggi manuali.",
+        "stat": "Tempo di Onboarding"
+      }
     },
     "services": {
       "title": "In cosa ci specializziamo.",
       "subtitle": "Sistemi di IA end-to-end che guidano i risultati aziendali reali.",
-      "growth": "Sistemi di Crescita e Automazione",
-      "growthDesc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
-      "operations": "Automazione delle Operazioni e dell'Adempimento",
-      "operationsDesc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
-      "bespoke": "Soluzioni di IA Personalizzate",
-      "bespokeDesc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro."
+      "growth": {
+        "name": "Sistemi di Crescita e Automazione",
+        "desc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
+        "li1": "Campagne Email a Freddo con IA",
+        "li2": "Scoring e Routing dei Lead",
+        "li3": "Automazione CRM",
+        "li4": "Distribuzione dei Contenuti"
+      },
+      "operations": {
+        "name": "Automazione delle Operazioni e dell'Adempimento",
+        "desc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
+        "li1": "Evasione Ordini Automatizzata",
+        "li2": "Onboarding Clienti",
+        "li3": "Workflow di Gestione Progetti",
+        "li4": "Dashboard di Reportistica"
+      },
+      "bespoke": {
+        "name": "Soluzioni di IA Personalizzate",
+        "desc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro.",
+        "li1": "Chatbot IA Personalizzati",
+        "li2": "Scoring e Classificazione IA",
+        "li3": "Pipeline di Dati",
+        "li4": "Strumenti IA Interni"
+      }
     },
     "testimonials": {
-      "title": "Cosa Dicono i Nostri Clienti"
+      "title": "Cosa Dicono i Nostri Clienti",
+      "quote": "NextVibe ha costruito per noi un sistema completo di lead generation con IA in meno di 3 settimane. Le nostre prenotazioni demo sono triplicate e il team finalmente ha tempo per concentrarsi sulla chiusura dei contratti invece di inseguire lead freddi."
     },
     "form": {
       "title": "Raccontaci la tua situazione...",
@@ -318,10 +1012,141 @@
       "budget1": "£5.000 – £10.000",
       "budget2": "£10.000 – £25.000",
       "budget3": "£25.000+",
+      "messageLabel": "Parlaci del tuo progetto",
+      "messagePlaceholder": "Cosa vuoi automatizzare?",
+      "namePlaceholder": "Il tuo nome",
+      "emailPlaceholder": "tu@azienda.it",
+      "companyPlaceholder": "La tua azienda",
       "submit": "Invia Messaggio"
     },
     "footer": {
       "copy": "© 2026 NextVibe. Tutti i diritti riservati."
+    },
+    "servicesPage": {
+      "hero": {
+        "headline": "Servizi e Soluzioni",
+        "subtitle": "Sistemi di IA end-to-end progettati per generare lead, automatizzare le operazioni e scalare il tuo business senza aumentare il personale.",
+        "metric1": "Riduzione Media dei Costi",
+        "metric2": "Consegna Più Rapida",
+        "metric3": "Ore Risparmiate al Mese"
+      },
+      "leadGen": {
+        "title": "Sistemi di Generazione Lead",
+        "subtitle": "Pipeline alimentate da IA che riempiono il tuo calendario di prospect qualificati.",
+        "card1": { "title": "Cold Email con IA", "desc": "Contatto iper-personalizzato su larga scala con testi generati da IA, warmup automatizzato e orari di invio intelligenti che atterrano nella casella principale." },
+        "card2": { "title": "Sistemi di Candidatura", "desc": "Funnel inbound con qualifica IA — assegna punteggi, instrada e segui automaticamente ogni lead affinché nulla vada perso." },
+        "card3": { "title": "Sistemi di Contenuto", "desc": "Pipeline di contenuti assistite da IA che trasformano un articolo di thought leadership in decine di asset pronti per la distribuzione su più canali." }
+      },
+      "pm": {
+        "title": "Sistemi di Project Management",
+        "subtitle": "Automatizza i flussi di consegna in modo che il tuo team possa concentrarsi sul lavoro ad alto valore.",
+        "card1": { "title": "Evasione Ordini Automatizzata", "desc": "Automazione della consegna end-to-end — dalla creazione delle attività agli aggiornamenti di stato alla comunicazione con i clienti, tutto senza intervento manuale." },
+        "card2": { "title": "Onboarding Clienti", "desc": "Flussi di onboarding strutturati che raccolgono requisiti, stabiliscono aspettative e avviano progetti automaticamente nel momento in cui viene chiuso un accordo." },
+        "card3": { "title": "Workflow PM", "desc": "Assegnazione intelligente delle attività, monitoraggio delle scadenze e rilevamento dei colli di bottiglia che mantiene i progetti in carreggiata e il team allineato." }
+      },
+      "hiring": {
+        "title": "Sistemi di Assunzione",
+        "subtitle": "Assumi in modo più intelligente e veloce con screening e valutazione alimentati da IA.",
+        "card1": { "title": "Sistemi di Intake", "desc": "Moduli di candidatura strutturati con estrazione automatica dei dati e profilazione dei candidati — niente più ordinamento manuale dei curriculum." },
+        "card2": { "title": "Scoring IA", "desc": "Scoring obiettivo dei candidati basato su criteri personalizzati, corrispondenza dell'esperienza e indicatori di adattamento culturale — riducendo i bias e risparmiando ore." },
+        "card3": { "title": "Processi di Prova", "desc": "Assegnazione automatizzata di progetti di prova, monitoraggio delle consegne e workflow di valutazione che portano in superficie i tuoi migliori candidati rapidamente." }
+      },
+      "salesAdmin": {
+        "title": "Amministrazione delle Vendite",
+        "subtitle": "Semplifica le tue operazioni di vendita con strumenti personalizzati e automazione intelligente.",
+        "card1": { "title": "CRM Personalizzati", "desc": "Configurazioni CRM su misura per il tuo processo di vendita — monitoraggio automatizzato delle trattative, viste della pipeline e registrazione delle attività senza l'eccesso." },
+        "card2": { "title": "Generatori di Asset IA", "desc": "Genera automaticamente proposte, SOW e presentazioni di vendita personalizzate per ogni prospect usando l'IA e i tuoi modelli esistenti." },
+        "card3": { "title": "Sistemi di Nurturing", "desc": "Sequenze di follow-up multicanale che mantengono i lead caldi coinvolti con punti di contatto tempestivi e pertinenti finché non sono pronti all'acquisto." }
+      },
+      "personas": {
+        "title": "A Chi È Rivolto",
+        "subtitle": "Lavoriamo meglio con le aziende pronte a scalare le operazioni attraverso l'automazione.",
+        "agencies": { "title": "Agenzie", "desc": "Automatizza la consegna ai clienti, l'onboarding e la generazione di lead in modo da poter crescere senza aumentare proporzionalmente il team." },
+        "saas": { "title": "Aziende SaaS", "desc": "Costruisci pipeline outbound automatizzate, workflow da trial a pagamento e sistemi di customer success." },
+        "professional": { "title": "Servizi Professionali", "desc": "Semplifica l'intake, la pianificazione, la fatturazione e la comunicazione con i clienti senza overhead manuale." },
+        "ecommerce": { "title": "E-Commerce", "desc": "Automatizza l'elaborazione degli ordini, la gestione dell'inventario, il supporto clienti e i workflow di marketing su larga scala." }
+      },
+      "process": {
+        "title": "Il Nostro Processo",
+        "subtitle": "Dalla scoperta al deployment in settimane, non mesi.",
+        "step1": { "title": "Scoperta", "desc": "Mappiamo i tuoi flussi di lavoro attuali, identifichiamo le opportunità di automazione e diamo priorità per impatto sul ROI." },
+        "step2": { "title": "Progettazione", "desc": "Progettiamo l'architettura del sistema — selezionando gli strumenti giusti, definendo i flussi di dati e pianificando le integrazioni." },
+        "step3": { "title": "Sviluppo", "desc": "Implementazione rapida con demo settimanali. Vedi i progressi e puoi dare feedback in tempo reale." },
+        "step4": { "title": "Lancio", "desc": "Avvio con documentazione completa, formazione e 30 giorni di supporto per assicurarsi che tutto funzioni senza intoppi." }
+      },
+      "pricing": {
+        "title": "Prezzi",
+        "subtitle": "Prezzi trasparenti. Nessun costo nascosto. Scegli ciò che si adatta alle tue esigenze.",
+        "cta": "Inizia",
+        "tier1": {
+          "name": "Sistema Singolo", "period": "una tantum",
+          "desc": "Un sistema di automazione completo, costruito e distribuito per la tua azienda.",
+          "li1": "1 sistema di automazione", "li2": "Sessione di scoperta e progettazione",
+          "li3": "Consegna in 2–3 settimane", "li4": "Documentazione completa", "li5": "14 giorni di supporto post-lancio"
+        },
+        "tier2": {
+          "name": "Pacchetto Crescita", "period": "una tantum",
+          "desc": "Una suite di sistemi interconnessi che trasforma il modo in cui opera la tua azienda.",
+          "li1": "3 sistemi di automazione", "li2": "Audit completo dei workflow",
+          "li3": "Consegna in 4–6 settimane", "li4": "Integrazioni di sistemi", "li5": "30 giorni di supporto post-lancio"
+        },
+        "tier3": {
+          "name": "Retainer", "period": "al mese",
+          "desc": "Partner di automazione continuativo. Costruiamo, ottimizziamo e manteniamo continuamente i tuoi sistemi.",
+          "li1": "Team di automazione dedicato", "li2": "Richieste di sistemi illimitate",
+          "li3": "Supporto prioritario", "li4": "Chiamate strategia mensili", "li5": "Ottimizzazione continua"
+        }
+      },
+      "cta": {
+        "headline": "Pronto ad automatizzare la tua crescita?",
+        "subtitle": "Prenota una chiamata strategica gratuita di 30 minuti e mapperemo le tue maggiori opportunità di automazione."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Abbiamo visto il futuro del lavoro — e l'abbiamo ",
+        "headlineCyan": "costruito",
+        "subtitle": "NextVibe è stata fondata su una semplice convinzione: le aziende non dovrebbero spendere le loro ore migliori su attività che una macchina può fare meglio. Costruiamo i sistemi di IA che rendono ciò reale."
+      },
+      "story": {
+        "p1": "Abbiamo avviato NextVibe nel 2020 quando abbiamo notato qualcosa che la maggior parte delle aziende stava ignorando: il divario tra ciò che l'IA poteva fare e ciò che le aziende stavano effettivamente usando era enorme — e cresceva.",
+        "p2": "Mentre il mondo parlava di IA, noi la stavamo silenziosamente integrando in veri flussi di lavoro aziendali. Sistemi di cold email che si scrivevano da soli. Flussi di onboarding che funzionavano senza un singolo passaggio manuale. CRM che si aggiornavano in tempo reale.",
+        "highlight": "\"Non vendiamo hype sull'IA. Vendiamo ore restituite al tuo team e ricavi al tuo risultato finale.\"",
+        "p3": "Oggi, NextVibe lavora con agenzie, aziende SaaS e imprese di servizi nel Regno Unito e oltre. Abbiamo automatizzato migliaia di ore di lavoro manuale e aiutato i nostri clienti a scalare senza aumentare il personale.",
+        "p4": "Il nostro approccio è semplice: capire profondamente la tua azienda, trovare le opportunità di automazione ad alto impatto e costruire sistemi che funzionano davvero — non demo appariscenti che raccolgono polvere."
+      },
+      "founders": {
+        "title": "Incontra il Fondatore",
+        "subtitle": "La persona dietro i sistemi di automazione IA di NextVibe.",
+        "victor": {
+          "role": "CEO e Fondatore",
+          "bio": "Ex consulente di automazione diventato fondatore. Victor ha costruito sistemi di IA e automazione in tutti i principali settori — guidando strategia, architettura dei sistemi e consegna in NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Il Nostro Percorso",
+        "subtitle": "Le tappe fondamentali nel percorso verso dove siamo oggi.",
+        "item1": { "title": "Fondazione di NextVibe", "desc": "Iniziato come una consulenza di due persone, costruendo sistemi di automazione per le imprese locali durante la pandemia." },
+        "item2": { "title": "Primo Cliente Enterprise", "desc": "Ottenuto il nostro primo incarico enterprise — una revisione completa dell'automazione per un'agenzia di 50 persone." },
+        "item3": { "title": "Pivot AI-First", "desc": "Integrato l'IA basata su GPT in ogni sistema che costruiamo, diventando una delle prime agenzie ad essere completamente AI-native." },
+        "item4": { "title": "Oltre 50 Clienti Serviti", "desc": "Superati i 50 clienti attivi e 500+ ore di lavoro manuale automatizzato al mese nel nostro portfolio." },
+        "item5": { "title": "Scaling Up", "desc": "Espandere il team, lanciare nuovi livelli di servizio e costruire strumenti IA proprietari per i nostri clienti." }
+      },
+      "values": {
+        "title": "Cosa Rappresentiamo",
+        "subtitle": "I principi che guidano ogni sistema che costruiamo.",
+        "action": { "title": "Orientamento all'Azione", "desc": "Consegniamo velocemente. Settimane, non trimestri. Ogni sistema che costruiamo va live e inizia a generare valore immediatamente." },
+        "roi": { "title": "Ossessione per il ROI", "desc": "Non costruiamo tecnologia figa per il gusto di farlo. Ogni automazione deve avere un impatto chiaro e misurabile sulla tua azienda." },
+        "transparency": { "title": "Trasparenza Radicale", "desc": "Nessuna scatola nera. Vedi ogni flusso di lavoro, ogni integrazione, ogni decisione. I tuoi sistemi appartengono a te." },
+        "simplicity": { "title": "Semplicità Prima di Tutto", "desc": "Il miglior sistema è il più semplice che funziona. Evitiamo la sovra-ingegneria e ci concentriamo sull'affidabilità." },
+        "ahead": { "title": "Sempre Avanti", "desc": "Testiamo sempre nuovi modelli, strumenti e tecniche di IA in modo che i nostri clienti abbiano accesso a ciò che verrà — prima dei loro concorrenti." },
+        "partnership": { "title": "Vera Partnership", "desc": "Non siamo un fornitore. Ci integriamo nel tuo team, capiamo i tuoi obiettivi e costruiamo come se fosse la nostra azienda." }
+      },
+      "cta": {
+        "headlinePre": "Costruiamo qualcosa di ",
+        "headlineCyan": "straordinario",
+        "subtitle": "Prenota una chiamata strategica gratuita e scopri come l'automazione IA può trasformare le operazioni della tua azienda."
+      }
     }
   }
 }
