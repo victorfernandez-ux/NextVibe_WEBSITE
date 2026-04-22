@@ -181,6 +181,52 @@
         "headline": "Ready to automate your growth?",
         "subtitle": "Book a free 30-minute strategy call and we'll map out your biggest automation opportunities."
       }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "We saw the future of work — and ",
+        "headlineCyan": "built it",
+        "subtitle": "NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real."
+      },
+      "story": {
+        "p1": "We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.",
+        "p2": "While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.",
+        "highlight": "\"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line.\"",
+        "p3": "Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.",
+        "p4": "Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust."
+      },
+      "founders": {
+        "title": "Meet the Founder",
+        "subtitle": "The person behind NextVibe's AI automation systems.",
+        "victor": {
+          "role": "CEO & Founder",
+          "bio": "Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Our Journey",
+        "subtitle": "Key milestones on the path to where we are today.",
+        "item1": { "title": "Founded NextVibe", "desc": "Started as a two-person consultancy, building automation systems for local businesses during the pandemic." },
+        "item2": { "title": "First Enterprise Client", "desc": "Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency." },
+        "item3": { "title": "AI-First Pivot", "desc": "Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native." },
+        "item4": { "title": "50+ Clients Served", "desc": "Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio." },
+        "item5": { "title": "Scaling Up", "desc": "Expanding the team, launching new service tiers, and building proprietary AI tools for our clients." }
+      },
+      "values": {
+        "title": "What We Stand For",
+        "subtitle": "The principles that guide every system we build.",
+        "action": { "title": "Bias to Action", "desc": "We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately." },
+        "roi": { "title": "Obsess Over ROI", "desc": "We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business." },
+        "transparency": { "title": "Radical Transparency", "desc": "No black boxes. You see every workflow, every integration, every decision. Your systems belong to you." },
+        "simplicity": { "title": "Simplicity First", "desc": "The best system is the simplest one that works. We avoid over-engineering and focus on reliability." },
+        "ahead": { "title": "Stay Ahead", "desc": "We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors." },
+        "partnership": { "title": "Real Partnership", "desc": "We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business." }
+      },
+      "cta": {
+        "headlinePre": "Let's build something ",
+        "headlineCyan": "extraordinary",
+        "subtitle": "Book a free strategy call and discover how AI automation can transform your business operations."
+      }
     }
   },
   "es": {
@@ -364,6 +410,52 @@
       "cta": {
         "headline": "¿Listo para automatizar tu crecimiento?",
         "subtitle": "Reserva una llamada de estrategia gratuita de 30 minutos y mapearemos tus mayores oportunidades de automatización."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Vimos el futuro del trabajo — y lo ",
+        "headlineCyan": "construimos",
+        "subtitle": "NextVibe se fundó con una creencia simple: las empresas no deberían dedicar sus mejores horas a tareas que una máquina puede hacer mejor. Construimos los sistemas de IA que hacen eso realidad."
+      },
+      "story": {
+        "p1": "Comenzamos NextVibe en 2020 cuando notamos algo que la mayoría de las empresas estaba ignorando: la brecha entre lo que la IA podía hacer y lo que las empresas realmente usaban era enorme — y crecía.",
+        "p2": "Mientras el mundo hablaba de IA, nosotros la integrábamos silenciosamente en flujos de trabajo empresariales reales. Sistemas de email en frío que se escribían solos. Flujos de incorporación que funcionaban sin un solo paso manual. CRMs que se actualizaban en tiempo real.",
+        "highlight": "\"No vendemos hype de IA. Vendemos horas de vuelta a tu equipo e ingresos a tu negocio.\"",
+        "p3": "Hoy, NextVibe trabaja con agencias, empresas SaaS y negocios de servicios en el Reino Unido y más allá. Hemos automatizado miles de horas de trabajo manual y ayudado a nuestros clientes a escalar sin aumentar su plantilla.",
+        "p4": "Nuestro enfoque es simple: entender tu negocio en profundidad, encontrar las oportunidades de automatización de mayor impacto y construir sistemas que realmente funcionen — no demos vistosas que acumulan polvo."
+      },
+      "founders": {
+        "title": "Conoce al Fundador",
+        "subtitle": "La persona detrás de los sistemas de automatización de IA de NextVibe.",
+        "victor": {
+          "role": "CEO y Fundador",
+          "bio": "Ex consultor de automatización convertido en fundador. Victor ha construido sistemas de IA y automatización en todos los sectores principales — liderando estrategia, arquitectura de sistemas y entrega en NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Nuestro Recorrido",
+        "subtitle": "Hitos clave en el camino hacia donde estamos hoy.",
+        "item1": { "title": "Fundamos NextVibe", "desc": "Empezamos como una consultoría de dos personas, construyendo sistemas de automatización para empresas locales durante la pandemia." },
+        "item2": { "title": "Primer Cliente Empresarial", "desc": "Conseguimos nuestro primer proyecto empresarial — una revisión completa de automatización para una agencia de 50 personas." },
+        "item3": { "title": "Pivote AI-First", "desc": "Integramos IA impulsada por GPT en cada sistema que construimos, convirtiéndonos en una de las primeras agencias en ser completamente AI-native." },
+        "item4": { "title": "Más de 50 Clientes Atendidos", "desc": "Superamos los 50 clientes activos y más de 500 horas de trabajo manual automatizado al mes en toda nuestra cartera." },
+        "item5": { "title": "Escalando", "desc": "Ampliando el equipo, lanzando nuevos niveles de servicio y construyendo herramientas de IA propietarias para nuestros clientes." }
+      },
+      "values": {
+        "title": "Lo Que Defendemos",
+        "subtitle": "Los principios que guían cada sistema que construimos.",
+        "action": { "title": "Sesgo a la Acción", "desc": "Enviamos rápido. Semanas, no trimestres. Cada sistema que construimos entra en producción y empieza a generar valor de inmediato." },
+        "roi": { "title": "Obsesión por el ROI", "desc": "No construimos tecnología genial por el placer de hacerlo. Cada automatización debe tener un impacto claro y medible en tu negocio." },
+        "transparency": { "title": "Transparencia Radical", "desc": "Sin cajas negras. Ves cada flujo de trabajo, cada integración, cada decisión. Tus sistemas te pertenecen." },
+        "simplicity": { "title": "Simplicidad Ante Todo", "desc": "El mejor sistema es el más simple que funciona. Evitamos la sobreingeniería y nos centramos en la fiabilidad." },
+        "ahead": { "title": "Siempre a la Vanguardia", "desc": "Siempre estamos probando nuevos modelos, herramientas y técnicas de IA para que nuestros clientes accedan a lo próximo — antes que sus competidores." },
+        "partnership": { "title": "Asociación Real", "desc": "No somos un proveedor. Nos integramos en tu equipo, entendemos tus objetivos y construimos como si fuera nuestro propio negocio." }
+      },
+      "cta": {
+        "headlinePre": "Construyamos algo ",
+        "headlineCyan": "extraordinario",
+        "subtitle": "Reserva una llamada de estrategia gratuita y descubre cómo la automatización de IA puede transformar las operaciones de tu negocio."
       }
     }
   },
@@ -549,6 +641,52 @@
         "headline": "Prêt à automatiser votre croissance ?",
         "subtitle": "Réservez un appel stratégique gratuit de 30 minutes et nous cartographierons vos plus grandes opportunités d'automatisation."
       }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Nous avons vu l'avenir du travail — et l'avons ",
+        "headlineCyan": "construit",
+        "subtitle": "NextVibe a été fondée sur une conviction simple : les entreprises ne devraient pas passer leurs meilleures heures sur des tâches qu'une machine peut faire mieux. Nous construisons les systèmes d'IA qui rendent cela réel."
+      },
+      "story": {
+        "p1": "Nous avons lancé NextVibe en 2020 quand nous avons remarqué quelque chose que la plupart des entreprises ignoraient : l'écart entre ce que l'IA pouvait faire et ce que les entreprises utilisaient réellement était massif — et croissant.",
+        "p2": "Pendant que le monde parlait d'IA, nous l'intégrions discrètement dans de vrais workflows d'entreprise. Des systèmes d'emailing à froid qui s'écrivaient eux-mêmes. Des flux d'intégration qui fonctionnaient sans une seule étape manuelle. Des CRM qui se mettaient à jour en temps réel.",
+        "highlight": "\"Nous ne vendons pas du hype IA. Nous vendons des heures rendues à votre équipe et des revenus à votre résultat net.\"",
+        "p3": "Aujourd'hui, NextVibe travaille avec des agences, des entreprises SaaS et des prestataires de services au Royaume-Uni et au-delà. Nous avons automatisé des milliers d'heures de travail manuel et aidé nos clients à se développer sans augmenter leurs effectifs.",
+        "p4": "Notre approche est simple : comprendre votre activité en profondeur, trouver les opportunités d'automatisation à plus fort impact et construire des systèmes qui fonctionnent vraiment — pas des démos tape-à-l'œil qui prennent la poussière."
+      },
+      "founders": {
+        "title": "Rencontrez le Fondateur",
+        "subtitle": "La personne derrière les systèmes d'automatisation IA de NextVibe.",
+        "victor": {
+          "role": "PDG & Fondateur",
+          "bio": "Ancien consultant en automatisation devenu fondateur. Victor a construit des systèmes d'IA et d'automatisation dans tous les grands secteurs — dirigeant la stratégie, l'architecture système et la livraison chez NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Notre Parcours",
+        "subtitle": "Les étapes clés sur la route vers où nous en sommes aujourd'hui.",
+        "item1": { "title": "Fondation de NextVibe", "desc": "Démarrage en tant que cabinet de conseil de deux personnes, construisant des systèmes d'automatisation pour les entreprises locales pendant la pandémie." },
+        "item2": { "title": "Premier Client Entreprise", "desc": "Décroché notre premier engagement entreprise — une refonte complète de l'automatisation pour une agence de 50 personnes." },
+        "item3": { "title": "Pivot AI-First", "desc": "Intégration de l'IA propulsée par GPT dans chaque système que nous construisons, devenant l'une des premières agences à passer entièrement à l'AI-native." },
+        "item4": { "title": "50+ Clients Servis", "desc": "Dépassé 50 clients actifs et 500+ heures de travail manuel automatisé par mois dans notre portefeuille." },
+        "item5": { "title": "Montée en Échelle", "desc": "Extension de l'équipe, lancement de nouveaux niveaux de service et construction d'outils IA propriétaires pour nos clients." }
+      },
+      "values": {
+        "title": "Ce Que Nous Défendons",
+        "subtitle": "Les principes qui guident chaque système que nous construisons.",
+        "action": { "title": "Biais vers l'Action", "desc": "Nous livrons vite. Des semaines, pas des trimestres. Chaque système que nous construisons est mis en production et commence à générer de la valeur immédiatement." },
+        "roi": { "title": "Obsession du ROI", "desc": "Nous ne construisons pas une technologie cool pour le plaisir. Chaque automatisation doit avoir un impact clair et mesurable sur votre activité." },
+        "transparency": { "title": "Transparence Radicale", "desc": "Pas de boîtes noires. Vous voyez chaque workflow, chaque intégration, chaque décision. Vos systèmes vous appartiennent." },
+        "simplicity": { "title": "Simplicité d'Abord", "desc": "Le meilleur système est le plus simple qui fonctionne. Nous évitons la sur-ingénierie et nous concentrons sur la fiabilité." },
+        "ahead": { "title": "Toujours en Avance", "desc": "Nous testons toujours de nouveaux modèles, outils et techniques d'IA pour que nos clients aient accès à ce qui vient — avant leurs concurrents." },
+        "partnership": { "title": "Partenariat Réel", "desc": "Nous ne sommes pas un fournisseur. Nous nous intégrons à votre équipe, comprenons vos objectifs et construisons comme si c'était notre propre entreprise." }
+      },
+      "cta": {
+        "headlinePre": "Construisons quelque chose d'",
+        "headlineCyan": "extraordinaire",
+        "subtitle": "Réservez un appel stratégique gratuit et découvrez comment l'automatisation IA peut transformer les opérations de votre entreprise."
+      }
     }
   },
   "de": {
@@ -733,6 +871,52 @@
         "headline": "Bereit, dein Wachstum zu automatisieren?",
         "subtitle": "Buche ein kostenloses 30-minütiges Strategiegespräch und wir kartieren deine größten Automatisierungsmöglichkeiten."
       }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Wir sahen die Zukunft der Arbeit — und haben sie ",
+        "headlineCyan": "gebaut",
+        "subtitle": "NextVibe wurde auf einem einfachen Glauben gegründet: Unternehmen sollten ihre besten Stunden nicht für Aufgaben aufwenden, die eine Maschine besser erledigen kann. Wir bauen die KI-Systeme, die das Wirklichkeit werden lassen."
+      },
+      "story": {
+        "p1": "Wir gründeten NextVibe 2020, als wir etwas bemerkten, das die meisten Unternehmen ignorierten: Die Lücke zwischen dem, was KI leisten konnte, und dem, was Unternehmen tatsächlich nutzten, war riesig — und wuchs.",
+        "p2": "Während die Welt über KI sprach, integrierten wir sie still und leise in echte Geschäftsabläufe. Kalt-E-Mail-Systeme, die sich selbst schrieben. Onboarding-Flows, die ohne einen einzigen manuellen Schritt liefen. CRMs, die sich in Echtzeit aktualisierten.",
+        "highlight": "\"Wir verkaufen keinen KI-Hype. Wir verkaufen Stunden zurück an dein Team und Umsatz an dein Unternehmen.\"",
+        "p3": "Heute arbeitet NextVibe mit Agenturen, SaaS-Unternehmen und Dienstleistungsunternehmen in ganz Großbritannien und darüber hinaus. Wir haben Tausende von Stunden manueller Arbeit automatisiert und unseren Kunden geholfen, zu skalieren, ohne ihre Belegschaft zu vergrößern.",
+        "p4": "Unser Ansatz ist einfach: dein Unternehmen tiefgehend verstehen, die Automatisierungsmöglichkeiten mit dem größten Einfluss finden und Systeme bauen, die wirklich funktionieren — keine glitzernden Demos, die Staub sammeln."
+      },
+      "founders": {
+        "title": "Lern den Gründer Kennen",
+        "subtitle": "Die Person hinter den KI-Automatisierungssystemen von NextVibe.",
+        "victor": {
+          "role": "CEO & Gründer",
+          "bio": "Ehemaliger Automatisierungsberater, der zum Gründer wurde. Victor hat KI- und Automatisierungssysteme in allen wichtigen Branchen aufgebaut — und leitet Strategie, Systemarchitektur und Lieferung bei NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Unsere Reise",
+        "subtitle": "Wichtige Meilensteine auf dem Weg zu dem, wo wir heute sind.",
+        "item1": { "title": "NextVibe Gegründet", "desc": "Als zweiköpfige Unternehmensberatung gestartet, die während der Pandemie Automatisierungssysteme für lokale Unternehmen baute." },
+        "item2": { "title": "Erster Unternehmenskunde", "desc": "Unser erstes Unternehmensengagement gewonnen — eine umfassende Automatisierungsüberarbeitung für eine 50-köpfige Agentur." },
+        "item3": { "title": "AI-First Pivot", "desc": "GPT-gestützte KI in jedes System integriert, das wir bauen, und damit zu einer der ersten Agenturen geworden, die vollständig KI-nativ sind." },
+        "item4": { "title": "50+ Kunden Bedient", "desc": "Über 50 aktive Kunden und 500+ Stunden manueller Arbeit, die monatlich in unserem Portfolio automatisiert werden." },
+        "item5": { "title": "Skalierung", "desc": "Team erweitern, neue Service-Stufen starten und proprietäre KI-Tools für unsere Kunden entwickeln." }
+      },
+      "values": {
+        "title": "Wofür Wir Stehen",
+        "subtitle": "Die Prinzipien, die jedes System leiten, das wir bauen.",
+        "action": { "title": "Bias zur Aktion", "desc": "Wir liefern schnell. Wochen, nicht Quartale. Jedes System, das wir bauen, geht live und beginnt sofort Wert zu liefern." },
+        "roi": { "title": "ROI im Fokus", "desc": "Wir bauen keine coole Technologie um ihrer selbst willen. Jede Automatisierung muss einen klaren, messbaren Einfluss auf dein Unternehmen haben." },
+        "transparency": { "title": "Radikale Transparenz", "desc": "Keine Black Boxes. Du siehst jeden Workflow, jede Integration, jede Entscheidung. Deine Systeme gehören dir." },
+        "simplicity": { "title": "Einfachheit Zuerst", "desc": "Das beste System ist das einfachste, das funktioniert. Wir vermeiden Over-Engineering und konzentrieren uns auf Zuverlässigkeit." },
+        "ahead": { "title": "Immer Vorne", "desc": "Wir testen immer neue KI-Modelle, Tools und Techniken, damit unsere Kunden Zugang zu dem haben, was kommt — vor ihren Wettbewerbern." },
+        "partnership": { "title": "Echte Partnerschaft", "desc": "Wir sind kein Anbieter. Wir integrieren uns in dein Team, verstehen deine Ziele und bauen, als wäre es unser eigenes Unternehmen." }
+      },
+      "cta": {
+        "headlinePre": "Lass uns etwas ",
+        "headlineCyan": "Außergewöhnliches bauen",
+        "subtitle": "Buche ein kostenloses Strategiegespräch und entdecke, wie KI-Automatisierung deine Geschäftsabläufe transformieren kann."
+      }
     }
   },
   "it": {
@@ -916,6 +1100,52 @@
       "cta": {
         "headline": "Pronto ad automatizzare la tua crescita?",
         "subtitle": "Prenota una chiamata strategica gratuita di 30 minuti e mapperemo le tue maggiori opportunità di automazione."
+      }
+    },
+    "aboutPage": {
+      "hero": {
+        "headlinePre": "Abbiamo visto il futuro del lavoro — e l'abbiamo ",
+        "headlineCyan": "costruito",
+        "subtitle": "NextVibe è stata fondata su una semplice convinzione: le aziende non dovrebbero spendere le loro ore migliori su attività che una macchina può fare meglio. Costruiamo i sistemi di IA che rendono ciò reale."
+      },
+      "story": {
+        "p1": "Abbiamo avviato NextVibe nel 2020 quando abbiamo notato qualcosa che la maggior parte delle aziende stava ignorando: il divario tra ciò che l'IA poteva fare e ciò che le aziende stavano effettivamente usando era enorme — e cresceva.",
+        "p2": "Mentre il mondo parlava di IA, noi la stavamo silenziosamente integrando in veri flussi di lavoro aziendali. Sistemi di cold email che si scrivevano da soli. Flussi di onboarding che funzionavano senza un singolo passaggio manuale. CRM che si aggiornavano in tempo reale.",
+        "highlight": "\"Non vendiamo hype sull'IA. Vendiamo ore restituite al tuo team e ricavi al tuo risultato finale.\"",
+        "p3": "Oggi, NextVibe lavora con agenzie, aziende SaaS e imprese di servizi nel Regno Unito e oltre. Abbiamo automatizzato migliaia di ore di lavoro manuale e aiutato i nostri clienti a scalare senza aumentare il personale.",
+        "p4": "Il nostro approccio è semplice: capire profondamente la tua azienda, trovare le opportunità di automazione ad alto impatto e costruire sistemi che funzionano davvero — non demo appariscenti che raccolgono polvere."
+      },
+      "founders": {
+        "title": "Incontra il Fondatore",
+        "subtitle": "La persona dietro i sistemi di automazione IA di NextVibe.",
+        "victor": {
+          "role": "CEO e Fondatore",
+          "bio": "Ex consulente di automazione diventato fondatore. Victor ha costruito sistemi di IA e automazione in tutti i principali settori — guidando strategia, architettura dei sistemi e consegna in NextVibe."
+        }
+      },
+      "timeline": {
+        "title": "Il Nostro Percorso",
+        "subtitle": "Le tappe fondamentali nel percorso verso dove siamo oggi.",
+        "item1": { "title": "Fondazione di NextVibe", "desc": "Iniziato come una consulenza di due persone, costruendo sistemi di automazione per le imprese locali durante la pandemia." },
+        "item2": { "title": "Primo Cliente Enterprise", "desc": "Ottenuto il nostro primo incarico enterprise — una revisione completa dell'automazione per un'agenzia di 50 persone." },
+        "item3": { "title": "Pivot AI-First", "desc": "Integrato l'IA basata su GPT in ogni sistema che costruiamo, diventando una delle prime agenzie ad essere completamente AI-native." },
+        "item4": { "title": "Oltre 50 Clienti Serviti", "desc": "Superati i 50 clienti attivi e 500+ ore di lavoro manuale automatizzato al mese nel nostro portfolio." },
+        "item5": { "title": "Scaling Up", "desc": "Espandere il team, lanciare nuovi livelli di servizio e costruire strumenti IA proprietari per i nostri clienti." }
+      },
+      "values": {
+        "title": "Cosa Rappresentiamo",
+        "subtitle": "I principi che guidano ogni sistema che costruiamo.",
+        "action": { "title": "Orientamento all'Azione", "desc": "Consegniamo velocemente. Settimane, non trimestri. Ogni sistema che costruiamo va live e inizia a generare valore immediatamente." },
+        "roi": { "title": "Ossessione per il ROI", "desc": "Non costruiamo tecnologia figa per il gusto di farlo. Ogni automazione deve avere un impatto chiaro e misurabile sulla tua azienda." },
+        "transparency": { "title": "Trasparenza Radicale", "desc": "Nessuna scatola nera. Vedi ogni flusso di lavoro, ogni integrazione, ogni decisione. I tuoi sistemi appartengono a te." },
+        "simplicity": { "title": "Semplicità Prima di Tutto", "desc": "Il miglior sistema è il più semplice che funziona. Evitiamo la sovra-ingegneria e ci concentriamo sull'affidabilità." },
+        "ahead": { "title": "Sempre Avanti", "desc": "Testiamo sempre nuovi modelli, strumenti e tecniche di IA in modo che i nostri clienti abbiano accesso a ciò che verrà — prima dei loro concorrenti." },
+        "partnership": { "title": "Vera Partnership", "desc": "Non siamo un fornitore. Ci integriamo nel tuo team, capiamo i tuoi obiettivi e costruiamo come se fosse la nostra azienda." }
+      },
+      "cta": {
+        "headlinePre": "Costruiamo qualcosa di ",
+        "headlineCyan": "straordinario",
+        "subtitle": "Prenota una chiamata strategica gratuita e scopri come l'automazione IA può trasformare le operazioni della tua azienda."
       }
     }
   }
