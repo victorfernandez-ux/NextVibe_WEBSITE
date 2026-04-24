@@ -1,6 +1,33 @@
 [build]
-  base = "Website Desing"
-    publish = "Website Desing"
-      command = "npm install && node generate-md.js"
-        ignore = "exit 1"
-        
+  base    = "Website Desing"
+  publish = "."
+  command = "npm install && node generate-md.js"
+
+[[headers]]
+  for = "/*.md"
+  [headers.values]
+    Content-Type  = "text/markdown; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/llms.txt"
+  [headers.values]
+    Content-Type  = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/llms-full.txt"
+  [headers.values]
+    Content-Type  = "text/plain; charset=utf-8"
+    Cache-Control = "public, max-age=3600"
+
+[[redirects]]
+  from   = "http://nextvibeai.com/*"
+  to     = "https://nextvibeai.com/:splat"
+  status = 301
+  force  = true
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Robots-Tag = "all"
