@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "NextVibe Static Server",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-c", "import os; from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer; port = int(os.environ.get('PORT', '8080')); os.chdir('Website Desing'); ThreadingHTTPServer(('', port), SimpleHTTPRequestHandler).serve_forever()"],
+      "port": 8080,
+      "autoPort": true
+    }
+  ]
+}

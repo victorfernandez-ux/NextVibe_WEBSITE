@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__Claude_Preview__preview_start",
+      "Bash(git init:*)",
+      "Bash(gh api:*)",
+      "Bash(where gh:*)",
+      "Bash(gh --version)",
+      "Bash(git rm:*)",
+      "Read(//c//**)",
+      "Read(//c/Users/vifeg/AppData/Local/Programs//**)",
+      "Bash(choco install:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(winget install:*)",
+      "Bash(export PATH=\"$PATH:/c/Program Files/GitHub CLI\")",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/vifeg/**)",
+      "Bash(gh auth:*)",
+      "Bash(xargs kill:*)",
+      "Bash(netstat -tulpn)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git fetch:*)",
+      "Bash(git stash:*)",
+      "Bash(git pull:*)",
+      "Bash(netlify status:*)",
+      "Bash(npx --yes netlify-cli status)"
+    ]
+  }
+}
