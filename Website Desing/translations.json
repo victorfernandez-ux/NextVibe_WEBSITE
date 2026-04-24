@@ -159,19 +159,19 @@
         "subtitle": "Transparent pricing. No hidden fees. Choose what fits your needs.",
         "cta": "Get Started",
         "tier1": {
-          "name": "Single System", "period": "one-time",
+          "name": "Single System", "period": "one-time", "amount": "£3,500",
           "desc": "One complete automation system, built and deployed for your business.",
           "li1": "1 automation system", "li2": "Discovery & design session",
           "li3": "2–3 week delivery", "li4": "Full documentation", "li5": "14 days post-launch support"
         },
         "tier2": {
-          "name": "Growth Package", "period": "one-time",
+          "name": "Growth Package", "period": "one-time", "amount": "£8,500",
           "desc": "A suite of interconnected systems that transform how your business operates.",
           "li1": "3 automation systems", "li2": "Full workflow audit",
           "li3": "4–6 week delivery", "li4": "System integrations", "li5": "30 days post-launch support"
         },
         "tier3": {
-          "name": "Retainer", "period": "per month",
+          "name": "Retainer", "period": "per month", "amount": "£3,000",
           "desc": "Ongoing automation partner. We continuously build, optimise, and maintain your systems.",
           "li1": "Dedicated automation team", "li2": "Unlimited system requests",
           "li3": "Priority support", "li4": "Monthly strategy calls", "li5": "Continuous optimisation"
@@ -249,6 +249,7 @@
       "problem": {
         "title": "Sound Familiar?",
         "subtitle": "These aren't just annoyances — they're costing you £5,000-20,000 per month in lost revenue and wasted time.",
+        "calloutAmount": "£5,000-20,000 per month",
         "card1Title": "Repetitive Tasks Eating Your Day",
         "card1Desc": "Spending hours on repetitive tasks that should take minutes",
         "card2Title": "Leads Slipping Through",
@@ -291,6 +292,7 @@
         "s2": "Instant follow-up emails triggered on inbound leads",
         "s3": "Client onboarding completed in 20 minutes (fully automated)",
         "resultTitle": "The Result",
+        "r1Metric": "£8,000",
         "r1Label": "Monthly Revenue Recovered",
         "r2Label": "Freed Up Per Week",
         "r3Label": "Faster Onboarding",
@@ -347,7 +349,7 @@
       "title": "¿Cuánto Podría Ahorrar la IA Tu Negocio?",
       "subtitle": "Ingresa tus datos y ve el impacto potencial de la automatización.",
       "employees": "Número de Empleados",
-      "hourlyRate": "Tarifa Horaria Promedio (£)",
+      "hourlyRate": "Tarifa Horaria Promedio (€)",
       "hoursWasted": "Horas en Tareas Manuales / Semana / Empleado",
       "annualSavings": "Ahorro Anual Estimado",
       "monthlySavings": "Ahorro Mensual",
@@ -414,9 +416,9 @@
       "company": "Empresa",
       "budget": "Presupuesto",
       "budgetPlaceholder": "Selecciona un rango",
-      "budget1": "£5,000 – £10,000",
-      "budget2": "£10,000 – £25,000",
-      "budget3": "£25,000+",
+      "budget1": "€5,800 – €11,600",
+      "budget2": "€11,600 – €29,000",
+      "budget3": "€29,000+",
       "messageLabel": "Cuéntanos sobre tu proyecto",
       "messagePlaceholder": "¿Qué quieres automatizar?",
       "namePlaceholder": "Tu nombre",
@@ -484,19 +486,19 @@
         "subtitle": "Precios transparentes. Sin costos ocultos. Elige lo que se adapta a tus necesidades.",
         "cta": "Comenzar",
         "tier1": {
-          "name": "Sistema Individual", "period": "pago único",
+          "name": "Sistema Individual", "period": "pago único", "amount": "€4,060",
           "desc": "Un sistema de automatización completo, construido y desplegado para tu negocio.",
           "li1": "1 sistema de automatización", "li2": "Sesión de descubrimiento y diseño",
           "li3": "Entrega en 2–3 semanas", "li4": "Documentación completa", "li5": "14 días de soporte post-lanzamiento"
         },
         "tier2": {
-          "name": "Paquete de Crecimiento", "period": "pago único",
+          "name": "Paquete de Crecimiento", "period": "pago único", "amount": "€9,860",
           "desc": "Un conjunto de sistemas interconectados que transforman cómo opera tu negocio.",
           "li1": "3 sistemas de automatización", "li2": "Auditoría completa de flujos",
           "li3": "Entrega en 4–6 semanas", "li4": "Integraciones de sistemas", "li5": "30 días de soporte post-lanzamiento"
         },
         "tier3": {
-          "name": "Retainer", "period": "por mes",
+          "name": "Retainer", "period": "por mes", "amount": "€3,480",
           "desc": "Socio de automatización continuo. Construimos, optimizamos y mantenemos tus sistemas continuamente.",
           "li1": "Equipo de automatización dedicado", "li2": "Solicitudes de sistemas ilimitadas",
           "li3": "Soporte prioritario", "li4": "Llamadas de estrategia mensuales", "li5": "Optimización continua"
@@ -573,7 +575,8 @@
       },
       "problem": {
         "title": "¿Te Suena Familiar?",
-        "subtitle": "No son solo molestias — te están costando £5,000-20,000 por mes en ingresos perdidos y tiempo desperdiciado.",
+        "subtitle": "No son solo molestias — te están costando €5.800-23.200 por mes en ingresos perdidos y tiempo desperdiciado.",
+        "calloutAmount": "€5.800-23.200 al mes",
         "card1Title": "Tareas Repetitivas Consumiendo Tu Día",
         "card1Desc": "Pasando horas en tareas repetitivas que deberían tomar minutos",
         "card2Title": "Leads que se Escapan",
@@ -603,10 +606,11 @@
         "t2Result": "Resultado: 47x más rápido",
         "t3Text": "Éramos escépticos sobre la automatización con IA. En dos semanas, dejamos de ser escépticos y empezamos a lamentarnos de no haberlo hecho antes.",
         "t3Role": "Director Gerente, Agencia",
-        "t3Result": "Resultado: £8K/mes recuperados"
+        "t3Result": "Resultado: €9.300/mes recuperados"
       },
       "caseStudy": {
-        "title": "Cómo una Agencia de 5 Personas Recuperó £8K/Mes",
+        "title": "Cómo una Agencia de 5 Personas Recuperó €9.300/Mes",
+        "r1Metric": "€9.300",
         "problemTitle": "El Problema",
         "p1": "Enrutamiento manual de leads causando retrasos",
         "p2": "Seguimientos perdidos con prospectos calientes",
@@ -624,7 +628,7 @@
       "faq": {
         "title": "Preguntas Frecuentes",
         "q1": "¿Cuánto cuesta esto?",
-        "a1": "Nuestra Auditoría de IA es completamente gratuita. Los proyectos de implementación típicamente van de £1,500-5,000 según la complejidad, con la mayoría de clientes viendo ROI en el primer mes.",
+        "a1": "Nuestra Auditoría de IA es completamente gratuita. Los proyectos de implementación típicamente van de €1.740-5.800 según la complejidad, con la mayoría de clientes viendo ROI en el primer mes.",
         "q2": "¿Esto perturbará mis operaciones actuales?",
         "a2": "No. Construimos junto a tus herramientas y procesos existentes. Hay cero tiempo de inactividad. Probamos todo antes de lanzarlo.",
         "q3": "¿Cuánto tiempo tarda la implementación?",
@@ -672,7 +676,7 @@
       "title": "Combien l'IA Pourrait-elle Économiser à Votre Entreprise?",
       "subtitle": "Entrez vos informations et voyez l'impact potentiel de l'automatisation.",
       "employees": "Nombre d'Employés",
-      "hourlyRate": "Tarif Horaire Moyen (£)",
+      "hourlyRate": "Tarif Horaire Moyen (€)",
       "hoursWasted": "Heures sur Tâches Manuelles / Semaine / Employé",
       "annualSavings": "Économies Annuelles Estimées",
       "monthlySavings": "Économies Mensuelles",
@@ -739,9 +743,9 @@
       "company": "Entreprise",
       "budget": "Budget",
       "budgetPlaceholder": "Sélectionnez une plage",
-      "budget1": "£5 000 – £10 000",
-      "budget2": "£10 000 – £25 000",
-      "budget3": "£25 000+",
+      "budget1": "€5 800 – €11 600",
+      "budget2": "€11 600 – €29 000",
+      "budget3": "€29 000+",
       "messageLabel": "Parlez-nous de votre projet",
       "messagePlaceholder": "Qu'est-ce que vous souhaitez automatiser ?",
       "namePlaceholder": "Votre nom",
@@ -809,19 +813,19 @@
         "subtitle": "Prix transparents. Pas de frais cachés. Choisissez ce qui correspond à vos besoins.",
         "cta": "Commencer",
         "tier1": {
-          "name": "Système Unique", "period": "paiement unique",
+          "name": "Système Unique", "period": "paiement unique", "amount": "€4 060",
           "desc": "Un système d'automatisation complet, conçu et déployé pour votre entreprise.",
           "li1": "1 système d'automatisation", "li2": "Session de découverte et conception",
           "li3": "Livraison en 2–3 semaines", "li4": "Documentation complète", "li5": "14 jours de support post-lancement"
         },
         "tier2": {
-          "name": "Forfait Croissance", "period": "paiement unique",
+          "name": "Forfait Croissance", "period": "paiement unique", "amount": "€9 860",
           "desc": "Un ensemble de systèmes interconnectés qui transforment le fonctionnement de votre entreprise.",
           "li1": "3 systèmes d'automatisation", "li2": "Audit complet des workflows",
           "li3": "Livraison en 4–6 semaines", "li4": "Intégrations de systèmes", "li5": "30 jours de support post-lancement"
         },
         "tier3": {
-          "name": "Retainer", "period": "par mois",
+          "name": "Retainer", "period": "par mois", "amount": "€3 480",
           "desc": "Partenaire d'automatisation continu. Nous construisons, optimisons et maintenons continuellement vos systèmes.",
           "li1": "Équipe d'automatisation dédiée", "li2": "Demandes de systèmes illimitées",
           "li3": "Support prioritaire", "li4": "Appels stratégie mensuels", "li5": "Optimisation continue"
@@ -898,7 +902,8 @@
       },
       "problem": {
         "title": "Ça Vous Parle ?",
-        "subtitle": "Ce ne sont pas de simples inconvénients — ils vous coûtent £5 000-20 000 par mois en revenus perdus et en temps gaspillé.",
+        "subtitle": "Ce ne sont pas de simples inconvénients — ils vous coûtent €5 800-23 200 par mois en revenus perdus et en temps gaspillé.",
+        "calloutAmount": "€5 800-23 200 par mois",
         "card1Title": "Tâches Répétitives qui Dévorent Votre Journée",
         "card1Desc": "Passer des heures sur des tâches répétitives qui devraient prendre des minutes",
         "card2Title": "Prospects qui S'Échappent",
@@ -928,10 +933,11 @@
         "t2Result": "Résultat : 47x plus rapide",
         "t3Text": "Nous étions sceptiques sur l'automatisation IA. En deux semaines, nous avons arrêté d'être sceptiques et avons commencé à regretter de ne pas l'avoir fait plus tôt.",
         "t3Role": "Directeur Général, Agence",
-        "t3Result": "Résultat : £8K/mois récupérés"
+        "t3Result": "Résultat : €9 300/mois récupérés"
       },
       "caseStudy": {
-        "title": "Comment une Agence de 5 Personnes a Récupéré £8K/Mois",
+        "title": "Comment une Agence de 5 Personnes a Récupéré €9 300/Mois",
+        "r1Metric": "€9 300",
         "problemTitle": "Le Problème",
         "p1": "Routage manuel des prospects causant des retards",
         "p2": "Suivis manqués sur des prospects chauds",
@@ -949,7 +955,7 @@
       "faq": {
         "title": "Questions Fréquemment Posées",
         "q1": "Combien ça coûte ?",
-        "a1": "Notre Audit IA est complètement gratuit. Les projets d'implémentation vont généralement de £1 500 à 5 000 selon la complexité, avec la plupart des clients voyant un ROI dans le premier mois.",
+        "a1": "Notre Audit IA est complètement gratuit. Les projets d'implémentation vont généralement de €1 740 à 5 800 selon la complexité, avec la plupart des clients voyant un ROI dans le premier mois.",
         "q2": "Est-ce que ça va perturber mes opérations actuelles ?",
         "a2": "Non. Nous construisons à côté de vos outils et processus existants. Zéro temps d'arrêt. Nous testons tout avant la mise en ligne.",
         "q3": "Combien de temps prend l'implémentation ?",
@@ -997,7 +1003,7 @@
       "title": "Wie Viel Könnte KI Dein Unternehmen Sparen?",
       "subtitle": "Gib deine Daten ein und sehe die potenzielle Auswirkung der Automatisierung.",
       "employees": "Anzahl der Mitarbeiter",
-      "hourlyRate": "Durchschnittlicher Stundensatz (£)",
+      "hourlyRate": "Durchschnittlicher Stundensatz (€)",
       "hoursWasted": "Stunden für manuelle Aufgaben / Woche / Mitarbeiter",
       "annualSavings": "Geschätzte Jährliche Einsparungen",
       "monthlySavings": "Monatliche Einsparungen",
@@ -1064,9 +1070,9 @@
       "company": "Unternehmen",
       "budget": "Budget",
       "budgetPlaceholder": "Wähle einen Bereich",
-      "budget1": "£5.000 – £10.000",
-      "budget2": "£10.000 – £25.000",
-      "budget3": "£25.000+",
+      "budget1": "€5.800 – €11.600",
+      "budget2": "€11.600 – €29.000",
+      "budget3": "€29.000+",
       "messageLabel": "Erzähle uns von deinem Projekt",
       "messagePlaceholder": "Was möchtest du automatisieren?",
       "namePlaceholder": "Dein Name",
@@ -1134,19 +1140,19 @@
         "subtitle": "Transparente Preise. Keine versteckten Gebühren. Wähle, was zu deinen Bedürfnissen passt.",
         "cta": "Loslegen",
         "tier1": {
-          "name": "Einzelsystem", "period": "einmalig",
+          "name": "Einzelsystem", "period": "einmalig", "amount": "€4.060",
           "desc": "Ein vollständiges Automatisierungssystem, das für dein Unternehmen gebaut und eingesetzt wird.",
           "li1": "1 Automatisierungssystem", "li2": "Entdeckungs- und Design-Session",
           "li3": "Lieferung in 2–3 Wochen", "li4": "Vollständige Dokumentation", "li5": "14 Tage Post-Launch-Support"
         },
         "tier2": {
-          "name": "Wachstumspaket", "period": "einmalig",
+          "name": "Wachstumspaket", "period": "einmalig", "amount": "€9.860",
           "desc": "Eine Suite vernetzter Systeme, die transformieren, wie dein Unternehmen operiert.",
           "li1": "3 Automatisierungssysteme", "li2": "Vollständiges Workflow-Audit",
           "li3": "Lieferung in 4–6 Wochen", "li4": "Systemintegrationen", "li5": "30 Tage Post-Launch-Support"
         },
         "tier3": {
-          "name": "Retainer", "period": "pro Monat",
+          "name": "Retainer", "period": "pro Monat", "amount": "€3.480",
           "desc": "Fortlaufender Automatisierungspartner. Wir bauen, optimieren und warten deine Systeme kontinuierlich.",
           "li1": "Dediziertes Automatisierungsteam", "li2": "Unbegrenzte Systemanfragen",
           "li3": "Prioritätssupport", "li4": "Monatliche Strategiegespräche", "li5": "Kontinuierliche Optimierung"
@@ -1223,7 +1229,8 @@
       },
       "problem": {
         "title": "Kommt Ihnen das bekannt vor?",
-        "subtitle": "Das sind keine bloßen Ärgernisse — sie kosten Sie £5.000-20.000 pro Monat an entgangenen Einnahmen und verschwendeter Zeit.",
+        "subtitle": "Das sind keine bloßen Ärgernisse — sie kosten Sie €5.800-23.200 pro Monat an entgangenen Einnahmen und verschwendeter Zeit.",
+        "calloutAmount": "€5.800-23.200 pro Monat",
         "card1Title": "Repetitive Aufgaben fressen Ihren Tag",
         "card1Desc": "Stunden mit repetitiven Aufgaben verbringen, die Minuten dauern sollten",
         "card2Title": "Leads fallen durch das Raster",
@@ -1253,10 +1260,11 @@
         "t2Result": "Ergebnis: 47x schnellere Reaktion",
         "t3Text": "Wir waren skeptisch gegenüber KI-Automatisierung. Innerhalb von zwei Wochen hörten wir auf, skeptisch zu sein und ärgerten uns, es nicht früher getan zu haben.",
         "t3Role": "Geschäftsführer, Agentur",
-        "t3Result": "Ergebnis: £8K/Monat zurückgewonnen"
+        "t3Result": "Ergebnis: €9.300/Monat zurückgewonnen"
       },
       "caseStudy": {
-        "title": "Wie eine 5-Personen-Agentur £8K/Monat zurückgewann",
+        "title": "Wie eine 5-Personen-Agentur €9.300/Monat zurückgewann",
+        "r1Metric": "€9.300",
         "problemTitle": "Das Problem",
         "p1": "Manuelles Lead-Routing verursachte Verzögerungen",
         "p2": "Verpasste Follow-ups bei heißen Interessenten",
@@ -1274,7 +1282,7 @@
       "faq": {
         "title": "Häufig gestellte Fragen",
         "q1": "Was kostet das?",
-        "a1": "Unser KI-Audit ist völlig kostenlos. Implementierungsprojekte liegen typischerweise zwischen £1.500-5.000 je nach Komplexität, wobei die meisten Kunden ROI innerhalb des ersten Monats sehen.",
+        "a1": "Unser KI-Audit ist völlig kostenlos. Implementierungsprojekte liegen typischerweise zwischen €1.740-5.800 je nach Komplexität, wobei die meisten Kunden ROI innerhalb des ersten Monats sehen.",
         "q2": "Wird das meinen laufenden Betrieb stören?",
         "a2": "Nein. Wir bauen neben Ihren bestehenden Tools und Prozessen. Keine Ausfallzeit. Wir testen alles, bevor es live geht.",
         "q3": "Wie lange dauert die Implementierung?",
@@ -1322,7 +1330,7 @@
       "title": "Quanto Potrebbe Risparmiare l'IA la Tua Azienda?",
       "subtitle": "Inserisci i tuoi dettagli e vedi il potenziale impatto dell'automazione.",
       "employees": "Numero di Dipendenti",
-      "hourlyRate": "Tariffa Oraria Media (£)",
+      "hourlyRate": "Tariffa Oraria Media (€)",
       "hoursWasted": "Ore su Attività Manuali / Settimana / Dipendente",
       "annualSavings": "Risparmi Annuali Stimati",
       "monthlySavings": "Risparmi Mensili",
@@ -1389,9 +1397,9 @@
       "company": "Azienda",
       "budget": "Budget",
       "budgetPlaceholder": "Seleziona un intervallo",
-      "budget1": "£5.000 – £10.000",
-      "budget2": "£10.000 – £25.000",
-      "budget3": "£25.000+",
+      "budget1": "€5.800 – €11.600",
+      "budget2": "€11.600 – €29.000",
+      "budget3": "€29.000+",
       "messageLabel": "Parlaci del tuo progetto",
       "messagePlaceholder": "Cosa vuoi automatizzare?",
       "namePlaceholder": "Il tuo nome",
@@ -1459,19 +1467,19 @@
         "subtitle": "Prezzi trasparenti. Nessun costo nascosto. Scegli ciò che si adatta alle tue esigenze.",
         "cta": "Inizia",
         "tier1": {
-          "name": "Sistema Singolo", "period": "una tantum",
+          "name": "Sistema Singolo", "period": "una tantum", "amount": "€4.060",
           "desc": "Un sistema di automazione completo, costruito e distribuito per la tua azienda.",
           "li1": "1 sistema di automazione", "li2": "Sessione di scoperta e progettazione",
           "li3": "Consegna in 2–3 settimane", "li4": "Documentazione completa", "li5": "14 giorni di supporto post-lancio"
         },
         "tier2": {
-          "name": "Pacchetto Crescita", "period": "una tantum",
+          "name": "Pacchetto Crescita", "period": "una tantum", "amount": "€9.860",
           "desc": "Una suite di sistemi interconnessi che trasforma il modo in cui opera la tua azienda.",
           "li1": "3 sistemi di automazione", "li2": "Audit completo dei workflow",
           "li3": "Consegna in 4–6 settimane", "li4": "Integrazioni di sistemi", "li5": "30 giorni di supporto post-lancio"
         },
         "tier3": {
-          "name": "Retainer", "period": "al mese",
+          "name": "Retainer", "period": "al mese", "amount": "€3.480",
           "desc": "Partner di automazione continuativo. Costruiamo, ottimizziamo e manteniamo continuamente i tuoi sistemi.",
           "li1": "Team di automazione dedicato", "li2": "Richieste di sistemi illimitate",
           "li3": "Supporto prioritario", "li4": "Chiamate strategia mensili", "li5": "Ottimizzazione continua"
@@ -1548,7 +1556,8 @@
       },
       "problem": {
         "title": "Ti Suona Familiare?",
-        "subtitle": "Non sono solo fastidi — ti stanno costando £5.000-20.000 al mese in fatturato perso e tempo sprecato.",
+        "subtitle": "Non sono solo fastidi — ti stanno costando €5.800-23.200 al mese in fatturato perso e tempo sprecato.",
+        "calloutAmount": "€5.800-23.200 al mese",
         "card1Title": "Attività Ripetitive che Consumano la Tua Giornata",
         "card1Desc": "Passare ore su attività ripetitive che dovrebbero richiedere minuti",
         "card2Title": "Contatti che Si Perdono",
@@ -1578,10 +1587,11 @@
         "t2Result": "Risultato: risposta 47x più veloce",
         "t3Text": "Eravamo scettici sull'automazione IA. In due settimane, abbiamo smesso di essere scettici e abbiamo iniziato a lamentarci di non averlo fatto prima.",
         "t3Role": "Amministratore Delegato, Agenzia",
-        "t3Result": "Risultato: £8K/mese recuperati"
+        "t3Result": "Risultato: €9.300/mese recuperati"
       },
       "caseStudy": {
-        "title": "Come un'Agenzia di 5 Persone ha Recuperato £8K/Mese",
+        "title": "Come un'Agenzia di 5 Persone ha Recuperato €9.300/Mese",
+        "r1Metric": "€9.300",
         "problemTitle": "Il Problema",
         "p1": "Instradamento manuale dei lead causava ritardi",
         "p2": "Follow-up mancati su prospect caldi",
@@ -1599,7 +1609,7 @@
       "faq": {
         "title": "Domande Frequenti",
         "q1": "Quanto costa?",
-        "a1": "Il nostro Audit IA è completamente gratuito. I progetti di implementazione vanno tipicamente da £1.500 a 5.000 a seconda della complessità, con la maggior parte dei clienti che vede ROI entro il primo mese.",
+        "a1": "Il nostro Audit IA è completamente gratuito. I progetti di implementazione vanno tipicamente da €1.740 a 5.800 a seconda della complessità, con la maggior parte dei clienti che vede ROI entro il primo mese.",
         "q2": "Questo disturberà le mie operazioni attuali?",
         "a2": "No. Costruiamo accanto ai tuoi strumenti e processi esistenti. Zero tempi di inattività. Testiamo tutto prima di andare live.",
         "q3": "Quanto tempo richiede l'implementazione?",
