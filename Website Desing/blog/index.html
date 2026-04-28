@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI automation guides, frameworks, and case studies for agencies, coaches, and consultants. Written by practitioners who build these systems every day.">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://nextvibeai.com/blog/">
+    <meta property="og:title" content="AI Automation Blog | Guides &amp; Frameworks | NextVibe">
+    <meta property="og:description" content="AI automation guides, frameworks, and case studies for agencies, coaches, and consultants. Written by practitioners who build these systems every day.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://nextvibeai.com/blog/">
+    <meta property="og:image" content="https://nextvibeai.com/og-image.jpg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="AI Automation Blog | Guides &amp; Frameworks | NextVibe">
+    <meta name="twitter:description" content="AI automation guides, frameworks, and case studies for agencies, coaches, and consultants.">
+    <meta name="twitter:image" content="https://nextvibeai.com/og-image.jpg">
+    <title>AI Automation Blog | Guides &amp; Frameworks | NextVibe</title>
+    <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+        html { scroll-behavior: smooth; }
+        body { font-family: 'Inter', sans-serif; background: #000; color: #fff; letter-spacing: -0.03em; line-height: 1.6; overflow-x: hidden; }
+        a { color: inherit; text-decoration: none; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+        .cyan { color: #06B6D4; }
+
+        header { position: fixed; top: 0; left: 0; right: 0; z-index: 100; background: rgba(0,0,0,0.8); backdrop-filter: blur(20px); border-bottom: 1px solid #1a1a1a; }
+        .header-inner { display: flex; align-items: center; justify-content: space-between; max-width: 1200px; margin: 0 auto; padding: 16px 24px; }
+        .logo { font-size: 1.4rem; font-weight: 700; letter-spacing: -0.04em; }
+        .logo span { color: #06B6D4; }
+        nav { display: flex; align-items: center; gap: 32px; }
+        nav a { font-size: 0.9rem; color: #9CA3AF; font-weight: 500; transition: color 0.2s; }
+        nav a:hover, nav a.active { color: #fff; }
+        .btn { display: inline-flex; align-items: center; justify-content: center; padding: 10px 24px; font-size: 0.9rem; font-weight: 600; border-radius: 6px; transition: all 0.2s; cursor: pointer; border: none; font-family: 'Inter', sans-serif; letter-spacing: -0.03em; }
+        .btn-primary { background: #06B6D4; color: #000; }
+        .btn-primary:hover { background: #22D3EE; }
+        .mobile-menu-btn { display: none; background: none; border: none; color: #fff; font-size: 1.5rem; cursor: pointer; }
+
+        .hero { padding: 140px 0 64px; }
+        .hero-label { font-size: 0.8rem; font-weight: 600; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 16px; }
+        .hero h1 { font-size: clamp(2rem, 4vw, 3rem); font-weight: 800; letter-spacing: -0.04em; line-height: 1.1; margin-bottom: 16px; }
+        .hero p { font-size: 1.1rem; color: #9CA3AF; max-width: 560px; line-height: 1.7; }
+
+        .filter-bar { padding: 32px 0; border-bottom: 1px solid #1a1a1a; }
+        .filter-tabs { display: flex; gap: 8px; flex-wrap: wrap; }
+        .filter-tab { padding: 8px 16px; border-radius: 4px; font-size: 0.85rem; font-weight: 500; cursor: pointer; transition: all 0.2s; border: 1px solid #1a1a1a; background: transparent; color: #9CA3AF; font-family: 'Inter', sans-serif; }
+        .filter-tab:hover, .filter-tab.active { border-color: #06B6D4; color: #06B6D4; background: rgba(6,182,212,0.08); }
+
+        .blog-grid { padding: 64px 0; display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .blog-card { background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 8px; overflow: hidden; transition: border-color 0.3s, transform 0.3s; display: flex; flex-direction: column; }
+        .blog-card:hover { border-color: #06B6D4; transform: translateY(-4px); }
+        .blog-card-body { padding: 28px; flex: 1; display: flex; flex-direction: column; }
+        .blog-tag { display: inline-block; padding: 4px 10px; border-radius: 4px; background: rgba(6,182,212,0.1); color: #06B6D4; font-size: 0.75rem; font-weight: 600; margin-bottom: 12px; }
+        .blog-card h2 { font-size: 1.1rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4; }
+        .blog-card p { font-size: 0.85rem; color: #9CA3AF; line-height: 1.7; flex: 1; }
+        .blog-card-footer { padding: 16px 28px; border-top: 1px solid #1a1a1a; display: flex; justify-content: space-between; align-items: center; }
+        .blog-meta { font-size: 0.75rem; color: #555; }
+        .blog-read-more { font-size: 0.8rem; font-weight: 600; color: #06B6D4; }
+
+        .cta-banner { padding: 80px 0; background: #0a0a0a; border-top: 1px solid #1a1a1a; text-align: center; }
+        .cta-banner h2 { font-size: clamp(1.6rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -0.04em; margin-bottom: 12px; }
+        .cta-banner p { color: #9CA3AF; max-width: 480px; margin: 0 auto 32px; }
+
+        footer { padding: 48px 0; border-top: 1px solid #1a1a1a; }
+        .footer-inner { display: flex; align-items: center; justify-content: space-between; }
+        .footer-logo { font-size: 1.2rem; font-weight: 700; }
+        .footer-logo span { color: #06B6D4; }
+        .footer-links { display: flex; gap: 24px; }
+        .footer-links a { font-size: 0.85rem; color: #9CA3AF; transition: color 0.2s; }
+        .footer-links a:hover { color: #fff; }
+        .footer-copy { font-size: 0.8rem; color: #555; }
+
+        @media (max-width: 1024px) { .blog-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 768px) {
+            nav { display: none; }
+            .mobile-menu-btn { display: block; }
+            nav.open { display: flex; flex-direction: column; position: absolute; top: 100%; left: 0; right: 0; background: rgba(0,0,0,0.95); padding: 24px; gap: 16px; border-bottom: 1px solid #1a1a1a; }
+            .blog-grid { grid-template-columns: 1fr; }
+            .footer-inner { flex-direction: column; gap: 16px; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <div class="header-inner">
+        <a href="../index.html" class="logo">Next<span>Vibe</span></a>
+        <button class="mobile-menu-btn" id="menuBtn" aria-label="Toggle menu">&#9776;</button>
+        <nav id="mainNav">
+            <a href="../services.html">Services</a>
+            <a href="../about.html">About</a>
+            <a href="../contact.html">Contact</a>
+            <a href="../blog/" class="active">Blog</a>
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary">Book a Call</a>
+        </nav>
+    </div>
+</header>
+
+<main>
+<section class="hero">
+    <div class="container">
+        <div class="hero-label">AI Automation Blog</div>
+        <h1>Guides, Frameworks &amp; <span class="cyan">Real-World Builds</span></h1>
+        <p>Written by practitioners who build AI automation systems every day — for agencies, coaches, and consultants ready to stop doing work a machine can handle.</p>
+    </div>
+</section>
+
+<div class="filter-bar">
+    <div class="container">
+        <div class="filter-tabs">
+            <button class="filter-tab active">All Posts</button>
+            <button class="filter-tab">For Agencies</button>
+            <button class="filter-tab">For Coaches</button>
+            <button class="filter-tab">Frameworks</button>
+            <button class="filter-tab">How-To Guides</button>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="blog-grid">
+        <a href="ai-automation-marketing-agencies.html" class="blog-card">
+            <div class="blog-card-body">
+                <span class="blog-tag">For Agencies</span>
+                <h2>AI Automation for Marketing Agencies: What to Automate First</h2>
+                <p>Most agencies waste 20+ hours a week on tasks AI can handle. Here's a practical breakdown of where to start — and which systems deliver the fastest ROI.</p>
+            </div>
+            <div class="blog-card-footer">
+                <span class="blog-meta">24 Apr 2026 &middot; 8 min read</span>
+                <span class="blog-read-more">Read &rarr;</span>
+            </div>
+        </a>
+
+        <a href="ai-automation-coaches.html" class="blog-card">
+            <div class="blog-card-body">
+                <span class="blog-tag">For Coaches</span>
+                <h2>AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week</h2>
+                <p>Coaches spend more time on admin than coaching. These 7 automation systems fix that — and most can be set up in under a week.</p>
+            </div>
+            <div class="blog-card-footer">
+                <span class="blog-meta">24 Apr 2026 &middot; 9 min read</span>
+                <span class="blog-read-more">Read &rarr;</span>
+            </div>
+        </a>
+
+        <a href="ai-leverage-stack-framework.html" class="blog-card">
+            <div class="blog-card-body">
+                <span class="blog-tag">Frameworks</span>
+                <h2>The AI Leverage Stack — 3 Automation Layers Every Business Needs</h2>
+                <p>Every business has three automation layers. Most build the wrong one first. Here's the framework for getting it right.</p>
+            </div>
+            <div class="blog-card-footer">
+                <span class="blog-meta">9 Apr 2026 &middot; 7 min read</span>
+                <span class="blog-read-more">Read &rarr;</span>
+            </div>
+        </a>
+
+        <a href="ai-strategy-vs-chatgpt-subscriptions.html" class="blog-card">
+            <div class="blog-card-body">
+                <span class="blog-tag">Strategy</span>
+                <h2>AI Strategy vs. ChatGPT Subscriptions — What Actually Works</h2>
+                <p>Most "AI strategies" are just a pile of SaaS subscriptions. Here's the difference between buying tools and building systems that automate your business.</p>
+            </div>
+            <div class="blog-card-footer">
+                <span class="blog-meta">9 Apr 2026 &middot; 6 min read</span>
+                <span class="blog-read-more">Read &rarr;</span>
+            </div>
+        </a>
+
+        <a href="chatgpt-prompts-arent-ai-strategy.html" class="blog-card">
+            <div class="blog-card-body">
+                <span class="blog-tag">Strategy</span>
+                <h2>ChatGPT Prompts Aren't AI Strategy — Here's What Is</h2>
+                <p>Stop spending 30 minutes on prompts for one output. Here's how to build AI systems that run without you — from prompts to automated workflows.</p>
+            </div>
+            <div class="blog-card-footer">
+                <span class="blog-meta">9 Apr 2026 &middot; 5 min read</span>
+                <span class="blog-read-more">Read &rarr;</span>
+            </div>
+        </a>
+    </div>
+</div>
+
+<section class="cta-banner">
+    <div class="container">
+        <h2>Ready to automate your <span class="cyan">business</span>?</h2>
+        <p>Get a free AI audit and find out exactly which workflows are costing you the most time and money.</p>
+        <a href="../start/" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Get Your Free AI Audit</a>
+    </div>
+</section>
+</main>
+
+<footer>
+    <div class="container">
+        <div class="footer-inner">
+            <div class="footer-logo">Next<span>Vibe</span></div>
+            <div class="footer-links">
+                <a href="../services.html">Services</a>
+                <a href="../about.html">About</a>
+                <a href="../contact.html">Contact</a>
+                <a href="../blog/">Blog</a>
+            </div>
+            <div class="footer-copy">&copy; 2026 NextVibe. All rights reserved.</div>
+        </div>
+    </div>
+</footer>
+
+<script>
+    const menuBtn = document.getElementById('menuBtn');
+    const nav = document.getElementById('mainNav');
+    if (menuBtn) menuBtn.addEventListener('click', () => nav.classList.toggle('open'));
+</script>
+</body>
+</html>
