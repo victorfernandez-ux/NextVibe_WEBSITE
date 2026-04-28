@@ -251,6 +251,21 @@
             box-shadow: 0 8px 30px rgba(6, 182, 212, 0.3);
         }
 
+        .related-posts { margin: 3.5rem 0 0; padding-top: 2.5rem; border-top: 1px solid rgba(255,255,255,0.06); }
+        .related-posts-label { font-size: 0.75rem; font-weight: 700; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem; }
+        .related-posts h3 { font-size: 1.2rem; font-weight: 700; margin-bottom: 1.5rem; color: #fff; margin-top: 0; }
+        .related-posts-list { display: grid; gap: 0.85rem; }
+        .related-post-link {
+            display: flex; flex-direction: column; gap: 4px;
+            padding: 1.1rem 1.25rem; background: #0a0a0a; border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 8px; transition: border-color 0.2s, transform 0.2s;
+            text-decoration: none;
+        }
+        .related-post-link:hover { border-color: #06B6D4; transform: translateX(4px); }
+        .related-post-tag { font-size: 0.7rem; font-weight: 600; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.06em; }
+        .related-post-link strong { font-size: 0.95rem; color: #fff; font-weight: 600; }
+        .related-post-link span.desc { font-size: 0.85rem; color: #9CA3AF; line-height: 1.6; }
+
         /* Footer */
         footer {
             text-align: center;
@@ -277,6 +292,7 @@
             <nav>
                 <a href="../services.html">Services</a>
                 <a href="../about.html">About</a>
+                <a href="../blog/">Blog</a>
                 <a href="../contact.html">Contact</a>
             </nav>
             <a href="../start/" class="btn-nav">Get Free Audit</a>
@@ -324,15 +340,39 @@
 
         <p>Map the process. Measure the hours. Find the bottleneck. Then — and only then — pick the technology. The tool should be the last decision you make, not the first.</p>
 
+        <p>If you want a structured way to do this mapping, <a href="ai-leverage-stack-framework.html" style="color: #06B6D4;">the AI Leverage Stack</a> is the framework I use with every client to decide which workflows belong on which automation layer.</p>
+
         <div class="article-cta">
             <h3>Want to find out where AI can actually help your business?</h3>
             <p>Our free audit maps your workflows, identifies bottlenecks, and shows you exactly where automation delivers the highest ROI.</p>
             <a href="../start/" class="btn-cta">Get Your Free AI Audit &rarr;</a>
         </div>
+
+        <div class="related-posts">
+            <div class="related-posts-label">Keep reading</div>
+            <h3>Go deeper on building AI systems</h3>
+            <div class="related-posts-list">
+                <a href="ai-leverage-stack-framework.html" class="related-post-link">
+                    <span class="related-post-tag">Framework</span>
+                    <strong>The AI Leverage Stack — 3 Layers Every Business Needs</strong>
+                    <span class="desc">The framework for deciding what to automate, in what order — and why most businesses build the wrong layer first.</span>
+                </a>
+                <a href="chatgpt-prompts-arent-ai-strategy.html" class="related-post-link">
+                    <span class="related-post-tag">Strategy</span>
+                    <strong>ChatGPT Prompts Aren't AI Strategy — Here's What Is</strong>
+                    <span class="desc">Why a great prompt isn't a system, and how to turn one-off AI tasks into automated workflows that run without you.</span>
+                </a>
+                <a href="ai-automation-marketing-agencies.html" class="related-post-link">
+                    <span class="related-post-tag">For Agencies</span>
+                    <strong>AI Automation for Marketing Agencies: What to Automate First</strong>
+                    <span class="desc">A practical breakdown of the highest-ROI workflows to automate inside an agency, with real numbers and tools.</span>
+                </a>
+            </div>
+        </div>
     </article>
 
     <footer>
-        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../contact.html">Contact</a></p>
+        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../about.html">About</a> &middot; <a href="../blog/">Blog</a> &middot; <a href="../contact.html">Contact</a></p>
     </footer>
 
     <script>

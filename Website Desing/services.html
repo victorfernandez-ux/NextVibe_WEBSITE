@@ -236,6 +236,42 @@
         .footer-social a { font-size: 0.85rem; color: #555; transition: color 0.2s; }
         .footer-social a:hover { color: #06B6D4; }
 
+        /* ===== INLINE TEXT LINK ===== */
+        .text-link { color: #06B6D4; border-bottom: 1px solid rgba(6,182,212,0.3); transition: color 0.2s, border-color 0.2s; }
+        .text-link:hover { color: #22D3EE; border-bottom-color: #22D3EE; }
+        .section-link { text-align: center; margin-top: 40px; }
+        .section-link a {
+            display: inline-block; font-size: 0.95rem; font-weight: 600; color: #06B6D4;
+            border-bottom: 1px solid rgba(6,182,212,0.3); padding-bottom: 2px;
+            transition: border-color 0.2s, color 0.2s;
+        }
+        .section-link a:hover { color: #22D3EE; border-bottom-color: #22D3EE; }
+        .cta-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+
+        /* ===== RELATED READING ===== */
+        .related-reading {
+            padding: 80px 0; border-top: 1px solid #1a1a1a;
+        }
+        .related-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .related-card {
+            background: #0a0a0a; border: 1px solid #1a1a1a; border-radius: 8px;
+            padding: 24px; transition: border-color 0.3s, transform 0.3s;
+            display: flex; flex-direction: column;
+        }
+        .related-card:hover { border-color: #06B6D4; transform: translateY(-4px); }
+        .related-tag {
+            display: inline-block; align-self: flex-start;
+            padding: 4px 10px; border-radius: 4px;
+            background: rgba(6,182,212,0.1); color: #06B6D4;
+            font-size: 0.7rem; font-weight: 600; margin-bottom: 12px;
+            text-transform: uppercase; letter-spacing: 0.05em;
+        }
+        .related-card h4 { font-size: 1rem; font-weight: 700; margin-bottom: 8px; line-height: 1.4; }
+        .related-card p { font-size: 0.85rem; color: #9CA3AF; line-height: 1.6; margin-bottom: 14px; flex: 1; }
+        .related-card .read-more { font-size: 0.8rem; font-weight: 600; color: #06B6D4; }
+        @media (max-width: 1024px) { .related-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 768px) { .related-grid { grid-template-columns: 1fr; } }
+
         @media (max-width: 1024px) {
             .detail-grid { grid-template-columns: repeat(2, 1fr); }
             .persona-grid { grid-template-columns: repeat(2, 1fr); }
@@ -353,6 +389,9 @@
                     <p data-i18n="servicesPage.leadGen.card3.desc">AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.</p>
                 </div>
             </div>
+            <div class="section-link">
+                <a href="blog/ai-automation-marketing-agencies.html">See exactly what to automate first in a marketing agency &rarr;</a>
+            </div>
         </div>
     </div>
 </section>
@@ -381,6 +420,9 @@
                     <h4 data-i18n="servicesPage.pm.card3.title">PM Workflows</h4>
                     <p data-i18n="servicesPage.pm.card3.desc">Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.</p>
                 </div>
+            </div>
+            <div class="section-link">
+                <a href="blog/ai-automation-coaches.html">How coaches save 15+ hours a week with onboarding and PM automation &rarr;</a>
             </div>
         </div>
     </div>
@@ -473,6 +515,9 @@
                 <p data-i18n="servicesPage.personas.ecommerce.desc">Automate order processing, inventory management, customer support, and marketing workflows at scale.</p>
             </div>
         </div>
+        <div class="section-link reveal" style="margin-top: 56px;">
+            <a href="about.html">Meet the team behind these systems &rarr;</a>
+        </div>
     </div>
 </section>
 
@@ -562,12 +607,45 @@
     </div>
 </section>
 
+<!-- Related Reading -->
+<section class="related-reading">
+    <div class="container">
+        <div class="section-header reveal" style="margin-bottom: 40px;">
+            <h2 style="font-size: clamp(1.4rem, 2.4vw, 1.9rem);">Read Before You Build</h2>
+            <p>Frameworks and guides that help you decide what to automate first.</p>
+        </div>
+        <div class="related-grid reveal">
+            <a href="blog/ai-leverage-stack-framework.html" class="related-card">
+                <span class="related-tag">Framework</span>
+                <h4>The AI Leverage Stack</h4>
+                <p>The 3 layers every business needs to automate effectively — and why most companies build them in the wrong order.</p>
+                <span class="read-more">Read the framework &rarr;</span>
+            </a>
+            <a href="blog/ai-strategy-vs-chatgpt-subscriptions.html" class="related-card">
+                <span class="related-tag">Strategy</span>
+                <h4>AI Strategy vs. ChatGPT Subscriptions</h4>
+                <p>The difference between buying AI tools and building automated systems that actually run your business.</p>
+                <span class="read-more">Read the article &rarr;</span>
+            </a>
+            <a href="blog/chatgpt-prompts-arent-ai-strategy.html" class="related-card">
+                <span class="related-tag">Strategy</span>
+                <h4>ChatGPT Prompts Aren't AI Strategy</h4>
+                <p>Why "better prompts" is a dead end — and how to build systems that work without you watching.</p>
+                <span class="read-more">Read the article &rarr;</span>
+            </a>
+        </div>
+    </div>
+</section>
+
 <!-- CTA -->
 <section class="cta">
     <div class="container reveal">
         <h2 data-i18n="servicesPage.cta.headline">Ready to automate your <span class="cyan">growth</span>?</h2>
-        <p data-i18n="servicesPage.cta.subtitle">Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.</p>
-        <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;" data-i18n="nav.bookCall">Book a Call</a>
+        <p data-i18n="servicesPage.cta.subtitle">Book a free 30-minute strategy call and we'll map out your biggest automation opportunities — or kick things off with a free AI audit.</p>
+        <div class="cta-actions">
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;" data-i18n="nav.bookCall">Book a Call</a>
+            <a href="start/" class="btn btn-outline" style="padding: 14px 32px; font-size: 1rem;">Get a Free AI Audit</a>
+        </div>
     </div>
 </section>
 

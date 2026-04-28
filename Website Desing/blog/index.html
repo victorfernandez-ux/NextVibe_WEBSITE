@@ -64,6 +64,9 @@
         .cta-banner { padding: 80px 0; background: #0a0a0a; border-top: 1px solid #1a1a1a; text-align: center; }
         .cta-banner h2 { font-size: clamp(1.6rem, 3vw, 2.2rem); font-weight: 700; letter-spacing: -0.04em; margin-bottom: 12px; }
         .cta-banner p { color: #9CA3AF; max-width: 480px; margin: 0 auto 32px; }
+        .cta-banner-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+        .btn-outline { background: transparent; color: #fff; border: 1px solid #333; }
+        .btn-outline:hover { border-color: #06B6D4; color: #06B6D4; }
 
         footer { padding: 48px 0; border-top: 1px solid #1a1a1a; }
         .footer-inner { display: flex; align-items: center; justify-content: space-between; }
@@ -188,8 +191,11 @@
 <section class="cta-banner">
     <div class="container">
         <h2>Ready to automate your <span class="cyan">business</span>?</h2>
-        <p>Get a free AI audit and find out exactly which workflows are costing you the most time and money.</p>
-        <a href="../start/" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Get Your Free AI Audit</a>
+        <p>Get a free AI audit and find out exactly which workflows are costing you the most time and money — or browse <a href="../services.html" style="color: #06B6D4;">our automation services</a> to see what we build.</p>
+        <div class="cta-banner-actions">
+            <a href="../start/" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Get Your Free AI Audit</a>
+            <a href="../services.html" class="btn btn-outline" style="padding: 14px 32px; font-size: 1rem;">Explore Services</a>
+        </div>
     </div>
 </section>
 </main>

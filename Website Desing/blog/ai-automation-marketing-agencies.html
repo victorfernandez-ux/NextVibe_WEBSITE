@@ -92,6 +92,20 @@
         .cta-box h3 { font-size: 1.4rem; font-weight: 700; margin-bottom: 12px; }
         .cta-box p { color: #9CA3AF; margin-bottom: 24px; font-size: 0.95rem; }
 
+        .related-posts { margin: 56px 0 0; padding-top: 40px; border-top: 1px solid #1a1a1a; }
+        .related-posts-label { font-size: 0.75rem; font-weight: 700; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 16px; }
+        .related-posts h3 { font-size: 1.2rem; font-weight: 700; margin-bottom: 24px; }
+        .related-posts-list { display: grid; gap: 14px; }
+        .related-post-link {
+            display: flex; flex-direction: column; gap: 4px;
+            padding: 18px 20px; background: #0a0a0a; border: 1px solid #1a1a1a;
+            border-radius: 6px; transition: border-color 0.2s, transform 0.2s;
+        }
+        .related-post-link:hover { border-color: #06B6D4; transform: translateX(4px); }
+        .related-post-tag { font-size: 0.7rem; font-weight: 600; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.06em; }
+        .related-post-link strong { font-size: 0.95rem; color: #fff; font-weight: 600; }
+        .related-post-link span.desc { font-size: 0.85rem; color: #9CA3AF; line-height: 1.6; }
+
         footer { padding: 48px 0; border-top: 1px solid #1a1a1a; }
         .footer-inner { display: flex; align-items: center; justify-content: space-between; }
         .footer-logo { font-size: 1.2rem; font-weight: 700; }
@@ -169,6 +183,8 @@
             </ol>
 
             <p>Most agencies I work with are losing 20-30% of their capacity to these five areas alone. That's revenue you're leaving on the table — or hours you're paying for that aren't going toward client work.</p>
+
+            <p>Before you decide what to build, it helps to know which automation layer each of these problems sits in. I cover that mental model in <a href="ai-leverage-stack-framework.html" style="color: #06B6D4;">the AI Leverage Stack</a> — the framework I use with every client to sequence what gets automated first.</p>
 
             <h2>What to Automate First: Client Onboarding</h2>
 
@@ -250,7 +266,7 @@
                 <li><strong>Calendly</strong> — scheduling automation (connects cleanly to Make.com)</li>
             </ul>
 
-            <p>You don't need all of these. A basic onboarding system might need just Make.com, your project management tool, and Calendly. Build what you need, not what sounds impressive.</p>
+            <p>You don't need all of these. A basic onboarding system might need just Make.com, your project management tool, and Calendly. Build what you need, not what sounds impressive. (The mistake of buying tools before designing the system is the exact trap I cover in <a href="ai-strategy-vs-chatgpt-subscriptions.html" style="color: #06B6D4;">AI strategy vs. ChatGPT subscriptions</a>.)</p>
 
             <h2>What You Can Realistically Expect</h2>
 
@@ -277,7 +293,29 @@
                 <a href="../start/" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Get Your Free AI Audit</a>
             </div>
 
-            <p>Or if you want to explore what AI automation services look like in practice, <a href="../services.html" style="color: #06B6D4;">see how we work with agencies here</a>.</p>
+            <p>Or if you want to explore what AI automation services look like in practice, <a href="../services.html" style="color: #06B6D4;">see how we work with agencies here</a> — and meet <a href="../about.html" style="color: #06B6D4;">the team behind these systems</a>.</p>
+
+            <div class="related-posts">
+                <div class="related-posts-label">Keep reading</div>
+                <h3>Other guides you might find useful</h3>
+                <div class="related-posts-list">
+                    <a href="ai-automation-coaches.html" class="related-post-link">
+                        <span class="related-post-tag">For Coaches</span>
+                        <strong>AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week</strong>
+                        <span class="desc">If you also serve coaches or run coaching alongside your agency work — the seven systems we build for every coaching business.</span>
+                    </a>
+                    <a href="ai-leverage-stack-framework.html" class="related-post-link">
+                        <span class="related-post-tag">Framework</span>
+                        <strong>The AI Leverage Stack — 3 Layers Every Business Needs</strong>
+                        <span class="desc">The framework for deciding what to automate, in what order, and why most agencies build the wrong thing first.</span>
+                    </a>
+                    <a href="chatgpt-prompts-arent-ai-strategy.html" class="related-post-link">
+                        <span class="related-post-tag">Strategy</span>
+                        <strong>ChatGPT Prompts Aren't AI Strategy — Here's What Is</strong>
+                        <span class="desc">Why prompt-by-prompt work is a dead end, and how to turn one-off AI tasks into systems that run without you.</span>
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </section>

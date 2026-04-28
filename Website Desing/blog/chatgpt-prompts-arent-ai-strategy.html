@@ -72,6 +72,20 @@
         .article-cta p { color: #9CA3AF; margin-bottom: 1.5rem; }
         .btn-cta { display: inline-block; background: #06B6D4; color: #000; padding: 0.85rem 2rem; border-radius: 8px; font-weight: 600; text-decoration: none; font-size: 1rem; transition: transform 0.2s, box-shadow 0.2s; }
         .btn-cta:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(6,182,212,0.3); }
+        .related-posts { margin: 3.5rem 0 0; padding-top: 2.5rem; border-top: 1px solid rgba(255,255,255,0.06); }
+        .related-posts-label { font-size: 0.75rem; font-weight: 700; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 1rem; }
+        .related-posts h3 { font-size: 1.2rem; font-weight: 700; margin-bottom: 1.5rem; color: #fff; margin-top: 0; }
+        .related-posts-list { display: grid; gap: 0.85rem; }
+        .related-post-link {
+            display: flex; flex-direction: column; gap: 4px;
+            padding: 1.1rem 1.25rem; background: #0a0a0a; border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 8px; transition: border-color 0.2s, transform 0.2s;
+            text-decoration: none;
+        }
+        .related-post-link:hover { border-color: #06B6D4; transform: translateX(4px); }
+        .related-post-tag { font-size: 0.7rem; font-weight: 600; color: #06B6D4; text-transform: uppercase; letter-spacing: 0.06em; }
+        .related-post-link strong { font-size: 0.95rem; color: #fff; font-weight: 600; }
+        .related-post-link span.desc { font-size: 0.85rem; color: #9CA3AF; line-height: 1.6; }
         footer { text-align: center; padding: 3rem 2rem; color: #9CA3AF; font-size: 0.85rem; border-top: 1px solid rgba(255,255,255,0.05); }
         footer a { color: #06B6D4; text-decoration: none; }
         @media (max-width: 768px) {
@@ -91,6 +105,7 @@
             <nav>
                 <a href="../services.html">Services</a>
                 <a href="../about.html">About</a>
+                <a href="../blog/">Blog</a>
                 <a href="../contact.html">Contact</a>
             </nav>
             <a href="../start/" class="btn-nav">Get Free Audit</a>
@@ -156,15 +171,39 @@
 
         <p>Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.</p>
 
+        <p>The next question is usually: <em>which</em> workflow should I systematise first? That's the gap that <a href="ai-leverage-stack-framework.html" style="color: #06B6D4;">the AI Leverage Stack</a> closes — and if you want a worked example, <a href="ai-automation-marketing-agencies.html" style="color: #06B6D4;">here's how it plays out for a marketing agency</a>.</p>
+
         <div class="article-cta">
             <h3>Ready to move from prompts to systems?</h3>
             <p>Our free AI audit identifies the workflows in your business where automation delivers the biggest return — no prompting required.</p>
             <a href="../start/" class="btn-cta">Get Your Free AI Audit →</a>
         </div>
+
+        <div class="related-posts">
+            <div class="related-posts-label">Keep reading</div>
+            <h3>From prompts to real systems</h3>
+            <div class="related-posts-list">
+                <a href="ai-leverage-stack-framework.html" class="related-post-link">
+                    <span class="related-post-tag">Framework</span>
+                    <strong>The AI Leverage Stack — 3 Layers Every Business Needs</strong>
+                    <span class="desc">The framework I use to decide which workflows to automate first, and which automation layer they belong to.</span>
+                </a>
+                <a href="ai-strategy-vs-chatgpt-subscriptions.html" class="related-post-link">
+                    <span class="related-post-tag">Strategy</span>
+                    <strong>AI Strategy vs. ChatGPT Subscriptions — What Actually Works</strong>
+                    <span class="desc">Why a stack of AI tools isn't a strategy, and what real AI leverage looks like in a small business.</span>
+                </a>
+                <a href="ai-automation-coaches.html" class="related-post-link">
+                    <span class="related-post-tag">For Coaches</span>
+                    <strong>AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week</strong>
+                    <span class="desc">Concrete examples of prompt-based work turned into automated systems — for coaching businesses specifically.</span>
+                </a>
+            </div>
+        </div>
     </article>
 
     <footer>
-        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../contact.html">Contact</a></p>
+        <p>&copy; 2026 NextVibe AI. <a href="../index.html">Home</a> &middot; <a href="../services.html">Services</a> &middot; <a href="../about.html">About</a> &middot; <a href="../blog/">Blog</a> &middot; <a href="../contact.html">Contact</a></p>
     </footer>
 
     <script>

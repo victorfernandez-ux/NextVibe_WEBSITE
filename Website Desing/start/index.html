@@ -681,6 +681,12 @@
 
         }
 
+        .nav-right { display: flex; align-items: center; gap: 24px; }
+        .nav-links { display: flex; align-items: center; gap: 22px; }
+        .nav-links a { font-size: 0.9rem; color: #9CA3AF; font-weight: 500; transition: color 0.2s; text-decoration: none; }
+        .nav-links a:hover { color: #fff; }
+        @media (max-width: 768px) { .nav-links { display: none; } }
+
 
 
 
@@ -3338,11 +3344,18 @@
 
 
 
-            <div class="logo">Next<span>Vibe</span> AI</div>
+            <a href="../index.html" class="logo" style="text-decoration: none; color: inherit;">Next<span>Vibe</span> AI</a>
 
 
 
-            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn" data-i18n="nav.bookCall">Book a Call</a>
+            <div class="nav-right">
+                <div class="nav-links">
+                    <a href="../services.html" data-i18n="nav.services">Services</a>
+                    <a href="../about.html" data-i18n="nav.about">About</a>
+                    <a href="../blog/">Blog</a>
+                </div>
+                <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn" data-i18n="nav.bookCall">Book a Call</a>
+            </div>
 
 
 
@@ -4530,18 +4543,13 @@
 
 
 
-                <span>© 2026 NextVibe AI</span>
-
-
-
+                <a href="../index.html">Home</a>
+                <a href="../services.html" data-i18n="nav.services">Services</a>
+                <a href="../about.html" data-i18n="nav.about">About</a>
+                <a href="../blog/">Blog</a>
+                <a href="../contact.html" data-i18n="nav.contact">Contact</a>
                 <a href="mailto:hello@nextvibeai.com">hello@nextvibeai.com</a>
-
-
-
                 <a href="/privacy-policy" data-i18n="startPage.footer.privacy">Privacy Policy</a>
-
-
-
                 <a href="/terms" data-i18n="startPage.footer.terms">Terms</a>
 
 
@@ -4551,6 +4559,7 @@
 
 
             <div class="footer-location" data-i18n="startPage.footer.location">London, UK</div>
+            <div style="margin-top: 1rem; color: #6B7280;">© 2026 NextVibe AI</div>
 
 
 

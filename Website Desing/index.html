@@ -317,6 +317,45 @@
         .footer-social a { font-size: 0.85rem; color: #555; transition: color 0.2s; }
         .footer-social a:hover { color: #06B6D4; }
 
+        /* ===== SECTION INLINE LINK ===== */
+        .section-link { text-align: center; margin-top: 40px; }
+        .section-link a {
+            display: inline-block; font-size: 0.95rem; font-weight: 600; color: #06B6D4;
+            border-bottom: 1px solid rgba(6,182,212,0.3); padding-bottom: 2px;
+            transition: border-color 0.2s, color 0.2s;
+        }
+        .section-link a:hover { color: #22D3EE; border-bottom-color: #22D3EE; }
+
+        /* ===== INSIGHTS / BLOG TEASER ===== */
+        .insights {
+            padding: 100px 0;
+            background: #0a0a0a;
+            border-top: 1px solid #1a1a1a;
+            border-bottom: 1px solid #1a1a1a;
+        }
+        .insights-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .insight-card {
+            background: #111; border: 1px solid #1a1a1a; border-radius: 8px;
+            overflow: hidden; transition: border-color 0.3s, transform 0.3s;
+            display: flex; flex-direction: column;
+        }
+        .insight-card:hover { border-color: #06B6D4; transform: translateY(-4px); }
+        .insight-card-body { padding: 28px; flex: 1; display: flex; flex-direction: column; }
+        .insight-tag {
+            display: inline-block; align-self: flex-start;
+            padding: 4px 10px; border-radius: 4px;
+            background: rgba(6,182,212,0.1); color: #06B6D4;
+            font-size: 0.75rem; font-weight: 600; margin-bottom: 12px;
+        }
+        .insight-card h3 { font-size: 1.05rem; font-weight: 700; margin-bottom: 10px; line-height: 1.4; }
+        .insight-card p { font-size: 0.85rem; color: #9CA3AF; line-height: 1.7; flex: 1; }
+        .insight-card-footer {
+            padding: 14px 28px; border-top: 1px solid #1a1a1a;
+            font-size: 0.8rem; font-weight: 600; color: #06B6D4;
+        }
+        @media (max-width: 1024px) { .insights-grid { grid-template-columns: repeat(2, 1fr); } }
+        @media (max-width: 768px) { .insights-grid { grid-template-columns: 1fr; } }
+
         /* ===== LANGUAGE SWITCHER ===== */
         .language-switcher { position: relative; display: inline-block; }
         .lang-toggle {
@@ -514,6 +553,9 @@
                 </div>
             </div>
         </div>
+        <div class="section-link reveal">
+            <a href="services.html">Explore the systems behind these results &rarr;</a>
+        </div>
     </div>
 </section>
 
@@ -559,6 +601,9 @@
                 </ul>
             </div>
         </div>
+        <div class="section-link reveal">
+            <a href="services.html">See the full breakdown of our services and pricing &rarr;</a>
+        </div>
     </div>
 </section>
 
@@ -579,6 +624,45 @@
                     <div class="testimonial-role">CEO, Apex SaaS</div>
                 </div>
             </div>
+        </div>
+    </div>
+</section>
+
+<!-- Latest Insights / Blog -->
+<section class="insights">
+    <div class="container">
+        <div class="section-header reveal">
+            <h2>Latest <span class="cyan">Insights</span></h2>
+            <p>Practical guides on AI automation, written by the people who build these systems for agencies, coaches, and consultants every day.</p>
+        </div>
+        <div class="insights-grid">
+            <a href="blog/ai-automation-marketing-agencies.html" class="insight-card reveal">
+                <div class="insight-card-body">
+                    <span class="insight-tag">For Agencies</span>
+                    <h3>AI Automation for Marketing Agencies: What to Automate First</h3>
+                    <p>The 5 workflows that eat the most agency time — and the order to automate them in for the fastest ROI.</p>
+                </div>
+                <div class="insight-card-footer">Read the guide &rarr;</div>
+            </a>
+            <a href="blog/ai-automation-coaches.html" class="insight-card reveal">
+                <div class="insight-card-body">
+                    <span class="insight-tag">For Coaches</span>
+                    <h3>AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week</h3>
+                    <p>The seven systems we build for every coaching business — from scheduling to session notes to billing.</p>
+                </div>
+                <div class="insight-card-footer">Read the guide &rarr;</div>
+            </a>
+            <a href="blog/ai-leverage-stack-framework.html" class="insight-card reveal">
+                <div class="insight-card-body">
+                    <span class="insight-tag">Framework</span>
+                    <h3>The AI Leverage Stack — 3 Layers Every Business Needs</h3>
+                    <p>The framework we use with every client to decide what to automate, and in what order.</p>
+                </div>
+                <div class="insight-card-footer">Read the framework &rarr;</div>
+            </a>
+        </div>
+        <div class="section-link reveal">
+            <a href="blog/">Browse all articles on the blog &rarr;</a>
         </div>
     </div>
 </section>

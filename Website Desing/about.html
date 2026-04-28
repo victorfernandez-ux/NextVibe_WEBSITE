@@ -226,6 +226,20 @@
         .footer-social a { font-size: 0.85rem; color: #555; transition: color 0.2s; }
         .footer-social a:hover { color: #06B6D4; }
 
+        /* Inline & section links */
+        .text-link { color: #06B6D4; border-bottom: 1px solid rgba(6,182,212,0.3); transition: color 0.2s, border-color 0.2s; }
+        .text-link:hover { color: #22D3EE; border-bottom-color: #22D3EE; }
+        .section-link { text-align: center; margin-top: 40px; }
+        .section-link a {
+            display: inline-block; font-size: 0.95rem; font-weight: 600; color: #06B6D4;
+            border-bottom: 1px solid rgba(6,182,212,0.3); padding-bottom: 2px;
+            transition: border-color 0.2s, color 0.2s;
+        }
+        .section-link a:hover { color: #22D3EE; border-bottom-color: #22D3EE; }
+        .cta-actions { display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+        .btn-outline { background: transparent; color: #fff; border: 1px solid #333; }
+        .btn-outline:hover { border-color: #06B6D4; color: #06B6D4; }
+
         @media (max-width: 1024px) {
             .values-grid { grid-template-columns: repeat(2, 1fr); }
         }
@@ -298,6 +312,10 @@
             </div>
             <p data-i18n="aboutPage.story.p3">Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.</p>
             <p data-i18n="aboutPage.story.p4">Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust.</p>
+            <p>Curious about how we put this into practice? Explore <a href="services.html" class="text-link">our automation services</a> or read the <a href="blog/" class="text-link">guides and frameworks</a> we share on the blog.</p>
+        </div>
+        <div class="section-link reveal">
+            <a href="start/">Get a free AI audit for your business &rarr;</a>
         </div>
     </div>
 </section>
@@ -396,6 +414,9 @@
                 <p data-i18n="aboutPage.values.partnership.desc">We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business.</p>
             </div>
         </div>
+        <div class="section-link reveal">
+            <a href="services.html">See how these values shape the systems we build &rarr;</a>
+        </div>
     </div>
 </section>
 
@@ -403,8 +424,11 @@
 <section class="cta">
     <div class="container reveal">
         <h2><span data-i18n="aboutPage.cta.headlinePre">Let's build something </span><span class="cyan" data-i18n="aboutPage.cta.headlineCyan">extraordinary</span>.</h2>
-        <p data-i18n="aboutPage.cta.subtitle">Book a free strategy call and discover how AI automation can transform your business operations.</p>
-        <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;" data-i18n="nav.bookCall">Book a Call</a>
+        <p data-i18n="aboutPage.cta.subtitle">Start with a free AI audit — we'll map your workflows and show you exactly where automation delivers the highest ROI. Or book a call if you'd rather talk it through.</p>
+        <div class="cta-actions">
+            <a href="start/" class="btn btn-primary" style="padding: 14px 32px; font-size: 1rem;">Get Your Free AI Audit</a>
+            <a href="https://calendly.com/victor-fernandez-nextvibeai" target="_blank" rel="noopener noreferrer" class="btn btn-outline" style="padding: 14px 32px; font-size: 1rem;" data-i18n="nav.bookCall">Book a Call</a>
+        </div>
     </div>
 </section>
 
