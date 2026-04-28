@@ -1,0 +1,16 @@
+[build]
+  publish = "Website Desing"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[redirects]]
+  from = "/start"
+  to = "/start/"
+  status = 301
+  force = true
