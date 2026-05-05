@@ -9,8 +9,7 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "strict-origin-when-cross-origin"
 
-[[redirects]]
-  from = "/start"
-  to = "/start/"
-  status = 301
-  force = true
+# Removed forced /start -> /start/ redirect (commit 50f6d90).
+# Netlify Pretty URLs handles trailing-slash canonicalisation natively
+# when start/index.html exists. The previous rule with force=true created
+# an infinite 301 loop on /start/.
