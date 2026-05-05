@@ -3310,6 +3310,44 @@
             .lang-menu { min-width: 160px; right: 0; }
         }
 
+        /* ===== MOBILE NAV LAYOUT FIX (2026-05-05) =====
+           Logo was wrapping to 2 lines, Book a Call button was too big,
+           hero content was clipped because header grew too tall.
+           Keep logo on one line, shrink Book a Call on mobile. */
+        .logo { white-space: nowrap; }
+        @media (max-width: 768px) {
+            header { padding: 0.75rem 1rem; }
+            nav { gap: 12px; }
+            .nav-right { gap: 10px; }
+            .logo { font-size: 1.05rem; }
+            nav .btn,
+            nav-right .btn,
+            nav .btn[data-i18n="nav.bookCall"] {
+                padding: 0.5rem 0.9rem;
+                font-size: 0.8rem;
+                white-space: nowrap;
+            }
+        }
+        @media (max-width: 400px) {
+            .logo { font-size: 0.95rem; }
+            nav .btn { padding: 0.45rem 0.75rem; font-size: 0.75rem; }
+            .nav-right { gap: 8px; }
+        }
+        /* Hero padding override (2026-05-05) — header fixed at ~60-70px on mobile,
+           the prior #hero padding-top of 7.5rem (640px) and 8rem (768px) was being
+           clipped because the header height grew with flex items. Force more space. */
+        @media (max-width: 768px) {
+            #hero { padding-top: 9rem !important; }
+        }
+        @media (max-width: 640px) {
+            #hero { padding-top: 8.5rem !important; }
+        }
+        @media (max-width: 400px) {
+            #hero { padding-top: 8rem !important; }
+        }
+
+
+
     </style>
 
 
