@@ -1,22 +1,26 @@
 ---
-title: "About | NextVibe"
-description: "About NextVibe AI — Our story, founders, values, and journey building AI automation systems for growing businesses."
+title: "About NextVibe AI | UK AI Automation Consultant — Victor Fernandez"
+description: "Meet Victor Fernandez Garcia, sole founder of NextVibe AI — a UK AI automation consultancy. Practitioner-led, AI systems built on the Claude API and self-hosted n8n."
 url: "https://nextvibeai.com/about/"
 ---
 
-# We saw the future of work — and built it.
+# About NextVibe AI — UK AI Automation Consultancy
 
-NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real.
+NextVibe AI is a solo AI automation consultancy run by Victor Fernandez Garcia from the UK. I build my own production AI stack — and the same systems for clients who'd rather ship in weeks than read another vendor demo.
 
-We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.
+I started NextVibe AI in 2025 after years of building automation systems for other people's businesses. The wedge was simple: most "AI consultancies" sell strategy decks. I sell systems that go live.
 
-While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.
+Everything I sell, I run myself first. NextVibe operates on 18 production automation workflows powered by the Anthropic Claude API and self-hosted n8n — a content pipeline, model routing across Claude Haiku/Sonnet/Opus, and the same kind of operational stack I build for clients. I build in public and write about the work as I go.
 
-"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line."
+"I don't sell AI hype. I sell hours back to your business and systems that still run when I'm not watching."
 
-Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.
+NextVibe is early — one year old, one founder, zero fake logos. What you get in return: a practitioner who has actually shipped these systems, not a sales team translating an engineer's notes. If you want a fake client roster, there are plenty of agencies happy to invent one.
 
-Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust.
+The approach is simple: understand your workflow, find where automation pays back in weeks, and build it live so you see real results before deciding to do more. No flashy demos that collect dust.
+
+Want to see how this works in practice? Look at [the services](services.html) or read the [guides and frameworks](blog/) I publish on the blog.
+
+[Get a free AI audit for your business →](start/)
 
 ## Meet the Founder
 
@@ -26,59 +30,59 @@ VF
 
 ### Victor Fernandez Garcia
 
-CEO & Founder
+Founder & Practitioner
 
-Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe.
+UK-based AI automation practitioner and sole founder of NextVibe AI. I build production systems on the Anthropic Claude API and self-hosted n8n, design model-routing pipelines, and ship workflow automations for agencies, consultants, and coaches. I work on what I sell.
 
-## Our Journey
+## How I Work
 
-Key milestones on the path to where we are today.
+The setup behind NextVibe — and the same stack I'll bring to your business.
 
-2020
+01
 
-#### Founded NextVibe
+#### Production AI stack
 
-Started as a two-person consultancy, building automation systems for local businesses during the pandemic.
+NextVibe runs 18 live automation workflows on the Anthropic Claude API and self-hosted n8n — including the content pipeline that publishes this site's writing.
 
-2021
+02
 
-#### First Enterprise Client
+#### Model routing across Claude
 
-Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency.
+Workloads are routed across Claude Haiku, Sonnet, and Opus depending on the task — fast and cheap for triage, deeper reasoning for synthesis. It's the same approach I architect into client systems.
 
-2023
+03
 
-#### AI-First Pivot
+#### Build in public
 
-Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native.
+I publish the frameworks, mistakes, and trade-offs on the blog and on LinkedIn as I build. If you want to see the thinking before you hire, it's all there to read.
 
-2024
+04
 
-#### 50+ Clients Served
+#### Single offer, fixed scope
 
-Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio.
+The core offer is the £2,500 AI Workflow Audit + Build — a 90-minute workflow map, 2–3 automations built live, a Loom walkthrough, and 30 days of support. No retainer lock-in.
 
-2025
+05
 
-#### Scaling Up
+#### Sole operator, UK-based
 
-Expanding the team, launching new service tiers, and building proprietary AI tools for our clients.
+You work with me directly — not an account manager. That keeps the work fast, honest, and tightly scoped to what actually moves the needle.
 
-## What We Stand For
+## What I Stand For
 
-The principles that guide every system we build.
+The principles that guide every system I build.
 
 ⚡
 
 #### Bias to Action
 
-We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately.
+I ship fast. Weeks, not quarters. Every system goes live and starts delivering value immediately.
 
 🔎
 
 #### Obsess Over ROI
 
-We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business.
+I don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business.
 
 🤝
 
@@ -90,22 +94,24 @@ No black boxes. You see every workflow, every integration, every decision. Your 
 
 #### Simplicity First
 
-The best system is the simplest one that works. We avoid over-engineering and focus on reliability.
+The best system is the simplest one that works. I avoid over-engineering and focus on reliability.
 
 🚀
 
-#### Stay Ahead
+#### Build in Public
 
-We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors.
+I publish what I'm building — the frameworks, the trade-offs, the mistakes. If you want to see the thinking before hiring, it's all on the blog.
 
 💬
 
-#### Real Partnership
+#### Direct Working Relationship
 
-We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business.
+No account managers, no handoffs. You talk to the person building the systems — which is how the work stays fast and honest.
+
+[See how these values shape the systems I build →](services.html)
 
 ## Let's build something extraordinary.
 
-Book a free strategy call and discover how AI automation can transform your business operations.
+Start with a free AI audit — we'll map your workflows and show you exactly where automation delivers the highest ROI. Or book a call if you'd rather talk it through.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
+[Get Your Free AI Audit](start/) [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)

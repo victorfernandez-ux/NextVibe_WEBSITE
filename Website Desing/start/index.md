@@ -1,10 +1,10 @@
 ---
-title: "NextVibe AI — Free AI Automation Audit | Stop Losing Revenue to Manual Work"
-description: "Stop losing revenue to manual work. Get your free AI audit and discover how to save 15-20 hours per week with automation."
+title: "Free AI Automation Audit | See Your ROI in 2 Minutes | NextVibe"
+description: "Free AI automation audit for your business. We find the workflows costing you 15-20 hours/week and show you exactly how to fix them. No commitment. 2 minutes."
 url: "https://nextvibeai.com/start/"
 ---
 
-# Stop Losing Revenue to Manual Work
+# Get Your Free AI Automation Audit
 
 Most small businesses waste 20-30% of revenue through broken workflows. We find the leaks and fix them with AI automation — typically saving 15-20 hours/week.
 
@@ -14,19 +14,9 @@ Most small businesses waste 20-30% of revenue through broken workflows. We find 
 
 We'll be in touch within 24 hours with your free AI audit.
 
+[Book Your Call Now →](https://calendly.com/victor-fernandez-nextvibeai)
+
 No commitment. Takes 2 minutes.
-
-### 50+
-
-Automations Built
-
-### 15-20 hrs
-
-Saved Per Week
-
-### 3x
-
-Revenue Growth
 
 ## Sound Familiar?
 
@@ -65,62 +55,6 @@ We map out your custom automation system — connecting your tools, eliminating 
 We build, test, and deploy. You get a system that runs itself while you focus on growing your business.
 
 Start With Your Free Audit →
-
-## What Clients Say
-
-Saved us 15 hours a week on client onboarding alone. The ROI was obvious within the first month.
-
-James T.
-
-Operations Director
-
-Result: 15 hrs/week saved
-
-Victor built an automation that replaced three manual processes. Our lead response time went from 4 hours to under 5 minutes.
-
-Sarah M.
-
-Founder, SaaS Startup
-
-Result: 47x faster response
-
-We were skeptical about AI automation. Within two weeks, we stopped being skeptical and started being annoyed we didn't do it sooner.
-
-David K.
-
-Managing Director, Agency
-
-Result: £8K/month recovered
-
-## How a 5-Person Agency Recovered £8K/Month
-
-### The Problem
-
--   Manual lead routing causing delays
--   Missed follow-ups on hot prospects
--   Inconsistent client onboarding (3+ days of back-and-forth)
-
-### The Solution
-
--   Make.com + AI pipeline for intelligent lead scoring
--   Instant follow-up emails triggered on inbound leads
--   Client onboarding completed in 20 minutes (fully automated)
-
-### The Result
-
-£8,000
-
-Monthly Revenue Recovered
-
-15 hrs
-
-Freed Up Per Week
-
-3x
-
-Faster Onboarding
-
-Get Results Like This →
 
 ## Frequently Asked Questions
 

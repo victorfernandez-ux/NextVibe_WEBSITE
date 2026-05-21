@@ -61,8 +61,16 @@ Look at your current tech stack right now. If you’re paying for AI tools but s
 
 The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.
 
+Want a concrete example of this framework in practice? [See how it applies to marketing agencies](ai-automation-marketing-agencies.html) — or for service businesses, [how coaches use it to save 15+ hours a week](ai-automation-coaches.html). Both walk through which layer to build first, with real systems and real numbers.
+
 ### Not sure which layer your business is on?
 
 Our free audit maps your workflows to the AI Leverage Stack and shows you exactly where to start building — no guesswork, no wasted effort.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### Apply the framework to your business
+
+[For Agencies **AI Automation for Marketing Agencies: What to Automate First** The five workflows eating the most agency time, mapped to the Leverage Stack — and the order to automate them in.](ai-automation-marketing-agencies.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** A practical, layer-by-layer build for coaching businesses — from scheduling to session notes to billing.](ai-automation-coaches.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of SaaS tools isn't a strategy, and what real AI leverage looks like in practice.](ai-strategy-vs-chatgpt-subscriptions.html)

@@ -1,20 +1,24 @@
-# About | NextVibe
+# About NextVibe AI | UK AI Automation Consultant — Victor Fernandez
 
 URL: https://nextvibeai.com/about/
 
-# We saw the future of work — and built it.
+# About NextVibe AI — UK AI Automation Consultancy
 
-NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real.
+NextVibe AI is a solo AI automation consultancy run by Victor Fernandez Garcia from the UK. I build my own production AI stack — and the same systems for clients who'd rather ship in weeks than read another vendor demo.
 
-We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.
+I started NextVibe AI in 2025 after years of building automation systems for other people's businesses. The wedge was simple: most "AI consultancies" sell strategy decks. I sell systems that go live.
 
-While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.
+Everything I sell, I run myself first. NextVibe operates on 18 production automation workflows powered by the Anthropic Claude API and self-hosted n8n — a content pipeline, model routing across Claude Haiku/Sonnet/Opus, and the same kind of operational stack I build for clients. I build in public and write about the work as I go.
 
-"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line."
+"I don't sell AI hype. I sell hours back to your business and systems that still run when I'm not watching."
 
-Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.
+NextVibe is early — one year old, one founder, zero fake logos. What you get in return: a practitioner who has actually shipped these systems, not a sales team translating an engineer's notes. If you want a fake client roster, there are plenty of agencies happy to invent one.
 
-Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust.
+The approach is simple: understand your workflow, find where automation pays back in weeks, and build it live so you see real results before deciding to do more. No flashy demos that collect dust.
+
+Want to see how this works in practice? Look at [the services](services.html) or read the [guides and frameworks](blog/) I publish on the blog.
+
+[Get a free AI audit for your business →](start/)
 
 ## Meet the Founder
 
@@ -24,59 +28,59 @@ VF
 
 ### Victor Fernandez Garcia
 
-CEO & Founder
+Founder & Practitioner
 
-Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe.
+UK-based AI automation practitioner and sole founder of NextVibe AI. I build production systems on the Anthropic Claude API and self-hosted n8n, design model-routing pipelines, and ship workflow automations for agencies, consultants, and coaches. I work on what I sell.
 
-## Our Journey
+## How I Work
 
-Key milestones on the path to where we are today.
+The setup behind NextVibe — and the same stack I'll bring to your business.
 
-2020
+01
 
-#### Founded NextVibe
+#### Production AI stack
 
-Started as a two-person consultancy, building automation systems for local businesses during the pandemic.
+NextVibe runs 18 live automation workflows on the Anthropic Claude API and self-hosted n8n — including the content pipeline that publishes this site's writing.
 
-2021
+02
 
-#### First Enterprise Client
+#### Model routing across Claude
 
-Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency.
+Workloads are routed across Claude Haiku, Sonnet, and Opus depending on the task — fast and cheap for triage, deeper reasoning for synthesis. It's the same approach I architect into client systems.
 
-2023
+03
 
-#### AI-First Pivot
+#### Build in public
 
-Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native.
+I publish the frameworks, mistakes, and trade-offs on the blog and on LinkedIn as I build. If you want to see the thinking before you hire, it's all there to read.
 
-2024
+04
 
-#### 50+ Clients Served
+#### Single offer, fixed scope
 
-Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio.
+The core offer is the £2,500 AI Workflow Audit + Build — a 90-minute workflow map, 2–3 automations built live, a Loom walkthrough, and 30 days of support. No retainer lock-in.
 
-2025
+05
 
-#### Scaling Up
+#### Sole operator, UK-based
 
-Expanding the team, launching new service tiers, and building proprietary AI tools for our clients.
+You work with me directly — not an account manager. That keeps the work fast, honest, and tightly scoped to what actually moves the needle.
 
-## What We Stand For
+## What I Stand For
 
-The principles that guide every system we build.
+The principles that guide every system I build.
 
 ⚡
 
 #### Bias to Action
 
-We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately.
+I ship fast. Weeks, not quarters. Every system goes live and starts delivering value immediately.
 
 🔎
 
 #### Obsess Over ROI
 
-We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business.
+I don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business.
 
 🤝
 
@@ -88,25 +92,330 @@ No black boxes. You see every workflow, every integration, every decision. Your 
 
 #### Simplicity First
 
-The best system is the simplest one that works. We avoid over-engineering and focus on reliability.
+The best system is the simplest one that works. I avoid over-engineering and focus on reliability.
 
 🚀
 
-#### Stay Ahead
+#### Build in Public
 
-We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors.
+I publish what I'm building — the frameworks, the trade-offs, the mistakes. If you want to see the thinking before hiring, it's all on the blog.
 
 💬
 
-#### Real Partnership
+#### Direct Working Relationship
 
-We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business.
+No account managers, no handoffs. You talk to the person building the systems — which is how the work stays fast and honest.
+
+[See how these values shape the systems I build →](services.html)
 
 ## Let's build something extraordinary.
 
-Book a free strategy call and discover how AI automation can transform your business operations.
+Start with a free AI audit — we'll map your workflows and show you exactly where automation delivers the highest ROI. Or book a call if you'd rather talk it through.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
+[Get Your Free AI Audit](start/) [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
+
+---
+
+# AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week | NextVibe
+
+URL: https://nextvibeai.com/blog/ai-automation-coaches/
+
+[Blog](../blog/) › For Coaches
+
+For Coaches
+
+# AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week
+
+By Victor Fernandez · 24 April 2026 · 9 min read
+
+TL;DR
+
+Coaching businesses have more automatable admin than almost any other type of business. The 7 systems in this post — covering scheduling, lead follow-up, content repurposing, CRM, onboarding, session notes, and billing — typically save coaches 15-20 hours per week. Most can be set up in under a week.
+
+Every coach I talk to says the same thing: "I became a coach to help people, not to spend my days in my inbox."
+
+The irony is brutal. You built a business around your expertise — and now the business is burying you in admin. Scheduling emails back and forth. Chasing invoices. Manually following up with leads. Sending the same onboarding questionnaire every time you get a new client. Re-explaining your programme to every enquiry.
+
+AI automation for coaches isn't about replacing the human element of your work. It's about removing everything else — so you can spend your time on the part only you can do.
+
+Here are the seven systems I'd build for any coaching business, in priority order. (If you also run an agency or hybrid model, the same logic applies — but the priorities differ slightly. I cover that in [AI automation for marketing agencies](ai-automation-marketing-agencies.html).)
+
+68%
+
+of coaching business admin is fully automatable with existing tools
+
+## The 7 Automation Systems for Coaches
+
+System 1
+
+### Scheduling & Session Reminders
+
+Manual scheduling is the first thing to eliminate. A Calendly integration connected to your CRM means: prospect finds a time, books automatically, gets a confirmation and pre-session questionnaire, receives reminders at 24 hours and 1 hour before the call, and gets a follow-up sequence after the session.
+
+You do nothing. The system handles every touchpoint between "I want to book" and "thanks for the session" — without you checking your email once.
+
+Time saved: 3-5 hrs/week
+
+System 2
+
+### Lead Follow-Up & Nurture Sequences
+
+Most coaches lose leads not because the lead wasn't interested — but because follow-up was inconsistent. Someone books a discovery call, doesn't convert, and you never hear from them again because manually following up with 50 leads is impossible.
+
+An automated nurture sequence keeps warm leads engaged over weeks and months with relevant content, case studies, and soft CTAs — all triggered automatically based on where they are in your funnel. When they're ready to buy, they come back.
+
+Time saved: 2-4 hrs/week
+
+System 3
+
+### Content Repurposing Pipeline
+
+If you're creating content — podcast episodes, YouTube videos, LinkedIn posts, newsletters — you're almost certainly under-distributing it. A content repurposing automation takes one piece of long-form content and turns it into multiple shorter assets: LinkedIn posts, email snippets, short-form video scripts, Twitter threads.
+
+The workflow: you record a podcast or write a post, it goes into the system, AI breaks it into derivative assets, they land in a Notion database ready for you to review and publish. One piece of content becomes five. Without writing five pieces of content.
+
+Time saved: 3-6 hrs/week
+
+System 4
+
+### CRM Automation & Client Records
+
+Your CRM is only useful if it's up to date. Most coaches have a CRM that's perpetually 2 weeks behind because updating it manually falls down the priority list. Automated CRM updates — pulling in call notes, updating deal stages, logging email interactions, tracking client engagement — mean your data is always current without you touching it.
+
+This also means you always know exactly where every lead and client is, what the next action is, and who needs attention — without spending an hour a week "updating your CRM".
+
+Time saved: 2-3 hrs/week
+
+System 5
+
+### New Client Onboarding
+
+When someone signs up for your programme, the experience in the first 48 hours sets the tone for everything that follows. A manual onboarding process — where you're emailing PDFs, scheduling intro calls, explaining how the programme works — creates friction right at the moment they're most excited.
+
+An automated onboarding system delivers contracts, welcome materials, access to your community or platform, a pre-programme questionnaire, and their first session booking — all within minutes of signing up, without you lifting a finger.
+
+Time saved: 2-4 hrs/week
+
+System 6
+
+### Session Notes & Action Item Tracking
+
+After every coaching session, you have notes to write up, action items to track, and follow-ups to send. This can take 30-45 minutes per session. With AI transcription and summarisation tools (connected to your workflow via automation), you can have a structured summary, key insights, and action items for both you and the client generated and delivered within minutes of the session ending.
+
+Clients love the thoroughness. You save the admin time. And the notes feed automatically into your CRM for each client record.
+
+Time saved: 1-3 hrs/week
+
+System 7
+
+### Invoicing & Payment Follow-Up
+
+Chasing invoices is one of the most uncomfortable, time-consuming admin tasks in any service business. Automated invoicing — triggered by programme milestones or payment schedules — means invoices go out on time without you creating them. Automated payment reminders mean you're not manually chasing late payments. And failed payment notifications mean you catch issues immediately rather than 30 days later.
+
+Time saved: 1-2 hrs/week
+
+## What This Looks Like in Practice
+
+Let's be concrete. A coach running a group programme with 20 active clients and a steady flow of new enquiries is spending roughly:
+
+-   4 hours/week on scheduling and session logistics
+-   3 hours/week on lead follow-up and CRM updates
+-   4 hours/week on content creation and distribution
+-   3 hours/week on onboarding new clients
+-   2 hours/week on invoicing and payment admin
+-   2 hours/week on post-session notes and follow-ups
+
+That's 18 hours per week. With the seven systems above, most coaches reduce that to 3-4 hours of oversight and review. The rest runs automatically.
+
+15+ hrs
+
+Average weekly time recovered by coaches after implementing these 7 systems
+
+## The Tools You'll Need
+
+You don't need to be technical to implement any of this. The toolstack for most coaching automation looks like:
+
+-   **Make.com** — the automation platform that connects everything
+-   **Calendly or TidyCal** — scheduling
+-   **Notion or Airtable** — client database and content library
+-   **HubSpot (free) or a lightweight CRM** — lead and client tracking
+-   **GPT-4 or Claude (via Make.com)** — AI content tasks and personalisation
+-   **Stripe or GoCardless** — payment automation
+
+The total cost of these tools is typically £100-200/month. The time saved is worth 10-20x that, at minimum. The mistake to avoid here is collecting subscriptions instead of building systems — a trap I unpack in [AI strategy vs. ChatGPT subscriptions](ai-strategy-vs-chatgpt-subscriptions.html).
+
+## Where to Start
+
+Don't try to build all seven systems at once. Pick the one that's causing you the most pain right now — usually scheduling or lead follow-up — get it working, and then move to the next.
+
+The goal isn't to build the perfect automation system. The goal is to get time back so you can focus on coaching. Start small, prove the concept, then expand.
+
+If you want a clear picture of which system to build first — and what it would actually look like for your specific coaching business — that's exactly what our free AI audit covers.
+
+### Find out which system to build first
+
+Free AI audit — we map your coaching business workflows and show you exactly where to start. No commitment. 2 minutes to request.
+
+[Get Your Free AI Audit](../start/)
+
+Or explore [our automation services](../services.html) to see how we work with coaches and consultants — and learn more about [the team behind NextVibe](../about.html).
+
+Keep reading
+
+### Other guides you might find useful
+
+[For Agencies **AI Automation for Marketing Agencies: What to Automate First** If you run a hybrid coaching/agency model — what to automate first when client delivery is part of the business.](ai-automation-marketing-agencies.html) [Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The mental model for sequencing automation: process layer first, intelligence on top, autonomous agents last.](ai-leverage-stack-framework.html) [Strategy **ChatGPT Prompts Aren't AI Strategy — Here's What Is** Why prompt-by-prompt work won't free up your time, and how to turn one-off AI tasks into repeating systems.](chatgpt-prompts-arent-ai-strategy.html)
+
+---
+
+# AI Automation for Marketing Agencies: What to Automate First | NextVibe
+
+URL: https://nextvibeai.com/blog/ai-automation-marketing-agencies/
+
+[Blog](../blog/) › For Agencies
+
+For Agencies
+
+# AI Automation for Marketing Agencies: What to Automate First
+
+By Victor Fernandez · 24 April 2026 · 8 min read
+
+TL;DR
+
+Marketing agencies waste an average of 20-30 hours per week on manual tasks that AI can handle. The highest-ROI areas to automate first are client onboarding, lead follow-up, and reporting. Start with the one that hurts most — typically onboarding — and expand from there.
+
+I've audited dozens of marketing agencies. The pattern is always the same: smart people, proven services — and a back office running on copy-paste, spreadsheets, and chasing clients for information they should have collected on day one.
+
+AI automation for marketing agencies isn't a nice-to-have. At this point it's table stakes. The agencies winning in 2026 aren't the ones with the best creative — they're the ones who can deliver great creative without burning their team out on admin.
+
+Here's a practical breakdown of what to automate, in what order, and what results you should expect.
+
+## Why Marketing Agencies Are Particularly Well-Suited for Automation
+
+Agency work is repetitive in structure even when the content varies. You run the same onboarding process for every new client. You send the same types of reports every month. You follow up with leads the same way every time. The inputs change — the process doesn't.
+
+That structural repetition is exactly what automation excels at. Unlike a factory worker, an AI automation system doesn't get tired, doesn't forget steps, and doesn't need managing. It runs the same process at 2am on a Sunday as it does at 9am on a Tuesday.
+
+23 hrs
+
+Average weekly time agencies waste on automatable tasks (based on our audits)
+
+## The 5 Workflows That Eat the Most Agency Time
+
+Before we get into solutions, let's name the problems. These are the five workflows that consistently show up as the biggest time drains when I audit marketing agencies:
+
+1.  **Client onboarding** — collecting briefs, setting up projects, chasing assets, intro calls that could be async
+2.  **Lead follow-up** — manually emailing prospects, updating CRMs, reminding yourself who to chase
+3.  **Monthly reporting** — pulling data from multiple platforms, formatting slides, sending to clients
+4.  **Content production admin** — briefing writers, chasing approvals, scheduling distribution
+5.  **Internal project management** — status updates, deadline reminders, cross-team communication
+
+Most agencies I work with are losing 20-30% of their capacity to these five areas alone. That's revenue you're leaving on the table — or hours you're paying for that aren't going toward client work.
+
+Before you decide what to build, it helps to know which automation layer each of these problems sits in. I cover that mental model in [the AI Leverage Stack](ai-leverage-stack-framework.html) — the framework I use with every client to sequence what gets automated first.
+
+## What to Automate First: Client Onboarding
+
+Client onboarding is almost always the highest-ROI automation for a marketing agency. Here's why: it's the most complex, the most error-prone, and the one that sets the tone for the entire client relationship.
+
+A typical agency onboarding process looks like this: contract signed, someone sends a welcome email, then someone else sends a questionnaire, then three days later you're chasing the client for their brand assets, then you're booking the kickoff call, then you discover half the questions in the questionnaire weren't answered.
+
+An automated onboarding system compresses this to under 20 minutes — from contract signed to everything your team needs to start work, without a single manual step.
+
+#### What an automated onboarding system does
+
+-   Triggers on contract signed (via your CRM or proposal tool)
+-   Sends a personalised welcome email with an intake questionnaire
+-   Creates a project in your PM tool (Notion, Asana, Monday) pre-populated with client data
+-   Schedules a kickoff call via Calendly integration
+-   Sends asset request emails with clear deadlines and follow-up reminders
+-   Notifies the account manager when everything is received and the project is ready to start
+
+One agency I worked with reduced their onboarding process from an average of 8 days to under 3 hours. That's 5+ working days per client, freed up. For an agency onboarding 4-6 new clients per month, that's 20-30 days of capacity recovered every month.
+
+## Lead Follow-Up Automation
+
+The second thing to automate is your lead follow-up. Most agencies follow up inconsistently — when someone remembers, when someone has time, when a lead reaches back out. This is killing your close rate.
+
+An AI-powered lead follow-up system does three things:
+
+1.  **Responds instantly** — when a lead fills in a form or books a discovery call, they get a personalised email within minutes, not hours
+2.  **Nurtures consistently** — leads who don't convert immediately get a structured follow-up sequence over days/weeks, not radio silence
+3.  **Updates your CRM automatically** — no more manually logging calls, moving deals through stages, or updating contact records
+
+The tools for this: Make.com or n8n to orchestrate the workflow, an AI model (GPT-4 or Claude) to personalise the follow-up copy, and your existing CRM (HubSpot, Pipedrive) as the data source.
+
+## Automated Reporting
+
+Monthly reporting is the silent time-killer. A typical agency with 10 clients is spending 1-3 hours per client per month just pulling data, formatting it, and sending it. That's 10-30 hours every month on a task that doesn't require a human.
+
+An automated reporting system connects to Google Ads, Meta, GA4, SEMrush, or whatever tools you use, pulls the relevant data on a schedule, formats it into a Google Slides or PDF template, and emails it to the client — all without anyone touching it.
+
+£4,200
+
+Monthly value recovered by a 10-client agency after automating reporting (at £35/hr)
+
+## AI Cold Email for New Business
+
+Beyond internal automation, AI can dramatically accelerate your new business pipeline. An AI cold email system — built on platforms like Make.com with GPT-4 for personalisation — can run hyper-personalised outreach at a scale no human team can match.
+
+This isn't the spray-and-pray cold email of 2018. Modern AI cold email systems research each prospect, write copy that references their specific situation, and follow up intelligently based on behaviour (opens, clicks, replies). The result: 3-5x higher reply rates than generic outreach.
+
+## The Right Order to Automate
+
+Don't try to automate everything at once. The right order for most marketing agencies:
+
+1.  **Client onboarding** — biggest immediate ROI, improves client experience from day one
+2.  **Monthly reporting** — high-volume, low-value task that eats significant team time
+3.  **Lead follow-up & CRM automation** — directly impacts revenue
+4.  **Content production admin** — reduces delivery friction for your core product
+5.  **New business outreach** — scales revenue generation without scaling headcount
+
+Start with one, get it working, measure the time saved, then move to the next. Agencies that try to automate everything simultaneously end up with half-finished systems that nobody trusts.
+
+## Tools I Build With for Agency Automation
+
+The question I get most: which tools do you actually use? Here's the stack I default to when building for marketing agencies:
+
+-   **Make.com** — my primary automation platform. Visual, powerful, connects to almost everything.
+-   **n8n** — for agencies that need more control or have self-hosting requirements (it's what I self-host for NextVibe's own pipelines)
+-   **Notion** — project management and client database
+-   **HubSpot or Pipedrive** — CRM (both integrate cleanly with the automation platforms above)
+-   **Anthropic Claude / GPT-4** — AI writing and data processing inside automations
+-   **Calendly** — scheduling automation (connects cleanly to Make.com)
+
+You don't need all of these. A basic onboarding system might need just Make.com, your project management tool, and Calendly. Build what you need, not what sounds impressive. (The mistake of buying tools before designing the system is the exact trap I cover in [AI strategy vs. ChatGPT subscriptions](ai-strategy-vs-chatgpt-subscriptions.html).)
+
+## What You Can Realistically Expect
+
+Based on published benchmarks and the systems I build (including the production stack I run inside NextVibe), here's the range automation tends to land in for a marketing agency:
+
+-   **Onboarding automation:** 70-85% reduction in time spent per new client
+-   **Reporting automation:** 90%+ reduction in manual reporting time
+-   **Lead follow-up automation:** 40-60% improvement in lead response time, 15-25% higher conversion rate
+-   **Overall time savings:** 15-25 hours per week for a 5-10 person agency
+
+These are realistic ranges, not guarantees. The actual numbers depend on how much manual work you're starting from and how disciplined the rollout is. The audit gives you a specific projection for your business before you commit to anything.
+
+## How to Get Started
+
+The first step is figuring out where you're actually losing the most time. Not what you think is painful — what the data shows. That's what our free AI audit does: we map your current workflows, identify the highest-ROI automation opportunities, and give you a specific action plan.
+
+No commitment, no pitch. Just a clear picture of what's possible for your specific agency.
+
+### Find out what your agency should automate first
+
+Free AI audit — we map your workflows and show you exactly where to start. Takes 2 minutes to request.
+
+[Get Your Free AI Audit](../start/)
+
+Or if you want to explore what AI automation services look like in practice, [see how we work with agencies here](../services.html) — and meet [the team behind these systems](../about.html).
+
+Keep reading
+
+### Other guides you might find useful
+
+[For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** If you also serve coaches or run coaching alongside your agency work — the seven systems we build for every coaching business.](ai-automation-coaches.html) [Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework for deciding what to automate, in what order, and why most agencies build the wrong thing first.](ai-leverage-stack-framework.html) [Strategy **ChatGPT Prompts Aren't AI Strategy — Here's What Is** Why prompt-by-prompt work is a dead end, and how to turn one-off AI tasks into systems that run without you.](chatgpt-prompts-arent-ai-strategy.html)
 
 ---
 
@@ -171,11 +480,19 @@ Look at your current tech stack right now. If you’re paying for AI tools but s
 
 The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.
 
+Want a concrete example of this framework in practice? [See how it applies to marketing agencies](ai-automation-marketing-agencies.html) — or for service businesses, [how coaches use it to save 15+ hours a week](ai-automation-coaches.html). Both walk through which layer to build first, with real systems and real numbers.
+
 ### Not sure which layer your business is on?
 
 Our free audit maps your workflows to the AI Leverage Stack and shows you exactly where to start building — no guesswork, no wasted effort.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### Apply the framework to your business
+
+[For Agencies **AI Automation for Marketing Agencies: What to Automate First** The five workflows eating the most agency time, mapped to the Leverage Stack — and the order to automate them in.](ai-automation-marketing-agencies.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** A practical, layer-by-layer build for coaching businesses — from scheduling to session notes to billing.](ai-automation-coaches.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of SaaS tools isn't a strategy, and what real AI leverage looks like in practice.](ai-strategy-vs-chatgpt-subscriptions.html)
 
 ---
 
@@ -221,11 +538,19 @@ The gap between AI hype and AI leverage is almost always a workflow audit. You n
 
 Map the process. Measure the hours. Find the bottleneck. Then — and only then — pick the technology. The tool should be the last decision you make, not the first.
 
+If you want a structured way to do this mapping, [the AI Leverage Stack](ai-leverage-stack-framework.html) is the framework I use with every client to decide which workflows belong on which automation layer.
+
 ### Want to find out where AI can actually help your business?
 
 Our free audit maps your workflows, identifies bottlenecks, and shows you exactly where automation delivers the highest ROI.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### Go deeper on building AI systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework for deciding what to automate, in what order — and why most businesses build the wrong layer first.](ai-leverage-stack-framework.html) [Strategy **ChatGPT Prompts Aren't AI Strategy — Here's What Is** Why a great prompt isn't a system, and how to turn one-off AI tasks into automated workflows that run without you.](chatgpt-prompts-arent-ai-strategy.html) [For Agencies **AI Automation for Marketing Agencies: What to Automate First** A practical breakdown of the highest-ROI workflows to automate inside an agency, with real numbers and tools.](ai-automation-marketing-agencies.html)
 
 ---
 
@@ -294,11 +619,71 @@ This is why “better prompts” is a dead end as a business strategy. Each prom
 
 Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.
 
+The next question is usually: _which_ workflow should I systematise first? That's the gap that [the AI Leverage Stack](ai-leverage-stack-framework.html) closes — and if you want a worked example, [here's how it plays out for a marketing agency](ai-automation-marketing-agencies.html).
+
 ### Ready to move from prompts to systems?
 
 Our free AI audit identifies the workflows in your business where automation delivers the biggest return — no prompting required.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### From prompts to real systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework I use to decide which workflows to automate first, and which automation layer they belong to.](ai-leverage-stack-framework.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of AI tools isn't a strategy, and what real AI leverage looks like in a small business.](ai-strategy-vs-chatgpt-subscriptions.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** Concrete examples of prompt-based work turned into automated systems — for coaching businesses specifically.](ai-automation-coaches.html)
+
+---
+
+# AI Automation Blog | Guides & Frameworks | NextVibe
+
+URL: https://nextvibeai.com/blog/
+
+AI Automation Blog
+
+# Guides, Frameworks & Real-World Builds
+
+Written by practitioners who build AI automation systems every day — for agencies, coaches, and consultants ready to stop doing work a machine can handle.
+
+All Posts For Agencies For Coaches Frameworks How-To Guides
+
+[For Agencies
+
+## AI Automation for Marketing Agencies: What to Automate First
+
+Most agencies waste 20+ hours a week on tasks AI can handle. Here's a practical breakdown of where to start — and which systems deliver the fastest ROI.
+
+24 Apr 2026 · 8 min read Read →](ai-automation-marketing-agencies.html)[For Coaches
+
+## AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week
+
+Coaches spend more time on admin than coaching. These 7 automation systems fix that — and most can be set up in under a week.
+
+24 Apr 2026 · 9 min read Read →](ai-automation-coaches.html)[Frameworks
+
+## The AI Leverage Stack — 3 Automation Layers Every Business Needs
+
+Every business has three automation layers. Most build the wrong one first. Here's the framework for getting it right.
+
+9 Apr 2026 · 7 min read Read →](ai-leverage-stack-framework.html)[Strategy
+
+## AI Strategy vs. ChatGPT Subscriptions — What Actually Works
+
+Most "AI strategies" are just a pile of SaaS subscriptions. Here's the difference between buying tools and building systems that automate your business.
+
+9 Apr 2026 · 6 min read Read →](ai-strategy-vs-chatgpt-subscriptions.html)[Strategy
+
+## ChatGPT Prompts Aren't AI Strategy — Here's What Is
+
+Stop spending 30 minutes on prompts for one output. Here's how to build AI systems that run without you — from prompts to automated workflows.
+
+9 Apr 2026 · 5 min read Read →](chatgpt-prompts-arent-ai-strategy.html)
+
+## Ready to automate your business?
+
+Get a free AI audit and find out exactly which workflows are costing you the most time and money — or browse [our automation services](../services.html) to see what we build.
+
+[Get Your Free AI Audit](../start/) [Explore Services](../services.html)
 
 ---
 
@@ -344,29 +729,17 @@ Book a free 30-minute strategy call and we'll map out your automation opportunit
 
 ---
 
-# NextVibe AI | AI Automation Agency
+# AI Automation Consultancy UK | Practitioner-Led | NextVibe AI
 
 URL: https://nextvibeai.com/
 
 AI-powered systems for the real world
 
-# We Build AI Infrastructure Behind Growing Businesses.
+# AI Automation Systems That Save Your Business 15-20 Hours a Week
 
 We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Our Services](services.html)
-
-0
-
-Systems Built
-
-0
-
-Hours Saved Monthly
-
-0
-
-% Cost Reduction
 
 ## What Could AI Save Your Business?
 
@@ -390,39 +763,41 @@ Hours Reclaimed / Year
 
 0
 
-## Real Results. Real Businesses.
+## How I Approach the Work
 
-See how we've helped companies automate their way to growth.
+NextVibe is a one-year-old, sole-founder consultancy. Instead of inventing a client roster, here's how I actually work — and what you can verify before hiring.
 
-SaaS Company
+Practitioner
 
-SaaS
+Live Stack
 
-### Automated Lead Pipeline
+### I run my own production AI stack
 
-Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.
+NextVibe operates on 18 live automation workflows powered by the Anthropic Claude API and self-hosted n8n, including the content pipeline that publishes this site. I sell what I run myself.
 
-Qualified Demos +210%
+Live workflows 18
 
-E-Commerce Brand
+Build in Public
 
-E-Commerce
+Public Work
 
-### Fulfillment Automation
+### I publish what I build
 
-Replaced 40+ hours of manual order processing per week with an end-to-end automation system.
+The blog and my LinkedIn document the frameworks, mistakes, and trade-offs in real time. If you want proof of how I think before hiring, read the work — it's all public.
 
-Hours Saved / Week 40+
+Public artefacts Blog & LinkedIn
 
-Marketing Agency
+Fixed-Scope Offer
 
-Agency
+Offer
 
-### Client Onboarding System
+### One offer, fixed scope, no lock-in
 
-Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.
+The £2,500 AI Workflow Audit + Build: a 90-minute workflow map, 2–3 automations built live, a Loom walkthrough, and 30 days of support. No retainer, no upsell pressure.
 
-Onboarding Time \-78%
+Flat fee £2,500
+
+[See the full breakdown of what I build →](services.html)
 
 ## What we specialize in.
 
@@ -461,15 +836,33 @@ Custom AI tools tailored to your exact business needs — chatbots, scoring mode
 -   Data Pipelines
 -   Internal AI Tools
 
-## What Clients Say
+[See the full breakdown of our services and pricing →](services.html)
 
-> "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
+## Latest Insights
 
-JR
+Practical guides on AI automation, written by the people who build these systems for agencies, coaches, and consultants every day.
 
-James Robertson
+[For Agencies
 
-CEO, Apex SaaS
+### AI Automation for Marketing Agencies: What to Automate First
+
+The 5 workflows that eat the most agency time — and the order to automate them in for the fastest ROI.
+
+Read the guide →](blog/ai-automation-marketing-agencies.html)[For Coaches
+
+### AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week
+
+The seven systems we build for every coaching business — from scheduling to session notes to billing.
+
+Read the guide →](blog/ai-automation-coaches.html)[Framework
+
+### The AI Leverage Stack — 3 Layers Every Business Needs
+
+The framework we use with every client to decide what to automate, and in what order.
+
+Read the framework →](blog/ai-leverage-stack-framework.html)
+
+[Browse all articles on the blog →](blog/)
 
 ## Tell us where you're at...
 
@@ -487,25 +880,13 @@ Send Message
 
 ---
 
-# Services | NextVibe
+# AI Automation Services | Lead Gen, CRM & Operations | NextVibe UK
 
 URL: https://nextvibeai.com/services/
 
-# Services & Solutions
+# AI Automation Services for Agencies, Consultants & Coaches
 
-End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.
-
-0%
-
-Avg. Cost Reduction
-
-0x
-
-Faster Delivery
-
-0+
-
-Hours Saved Monthly
+End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount. Built by a sole practitioner on the Anthropic Claude API and self-hosted n8n.
 
 ⚡
 
@@ -525,6 +906,8 @@ Inbound funnels with AI qualification — automatically score, route, and follow
 
 AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.
 
+[See exactly what to automate first in a marketing agency →](blog/ai-automation-marketing-agencies.html)
+
 ⚙
 
 ### Project Management Systems
@@ -542,6 +925,8 @@ Structured onboarding flows that gather requirements, set expectations, and kick
 #### PM Workflows
 
 Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.
+
+[How coaches save 15+ hours a week with onboarding and PM automation →](blog/ai-automation-coaches.html)
 
 👥
 
@@ -606,6 +991,8 @@ Streamline intake, scheduling, billing, and client communication with zero manua
 #### E-Commerce
 
 Automate order processing, inventory management, customer support, and marketing workflows at scale.
+
+[Meet the founder behind these systems →](about.html)
 
 ## Our Process
 
@@ -679,7 +1066,7 @@ per month
 
 Ongoing automation partner. We continuously build, optimise, and maintain your systems.
 
--   Dedicated automation team
+-   Direct access to the founder
 -   Unlimited system requests
 -   Priority support
 -   Monthly strategy calls
@@ -687,120 +1074,136 @@ Ongoing automation partner. We continuously build, optimise, and maintain your s
 
 [Get Started](https://calendly.com/victor-fernandez-nextvibeai)
 
+## Read Before You Build
+
+Frameworks and guides that help you decide what to automate first.
+
+[Framework
+
+#### The AI Leverage Stack
+
+The 3 layers every business needs to automate effectively — and why most companies build them in the wrong order.
+
+Read the framework →](blog/ai-leverage-stack-framework.html) [Strategy
+
+#### AI Strategy vs. ChatGPT Subscriptions
+
+The difference between buying AI tools and building automated systems that actually run your business.
+
+Read the article →](blog/ai-strategy-vs-chatgpt-subscriptions.html) [Strategy
+
+#### ChatGPT Prompts Aren't AI Strategy
+
+Why "better prompts" is a dead end — and how to build systems that work without you watching.
+
+Read the article →](blog/chatgpt-prompts-arent-ai-strategy.html)
+
 ## Ready to automate your growth?
 
-Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.
+Book a free 30-minute strategy call and we'll map out your biggest automation opportunities — or kick things off with a free AI audit.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
+[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Get a Free AI Audit](start/)
 
 ---
 
-# AI Workflow Audit + Build | NextVibe AI
+# Free AI Automation Audit | See Your ROI in 2 Minutes | NextVibe
 
 URL: https://nextvibeai.com/start/
 
-# AI Workflow Audit + Build
+# Get Your Free AI Automation Audit
 
-You're spending thousands of hours on work a machine should handle.
+Most small businesses waste 20-30% of revenue through broken workflows. We find the leaks and fix them with AI automation — typically saving 15-20 hours/week.
 
-We map every manual process eating your team's time, rank your automation opportunities by ROI, and build your first automated system — all in a single £2,500 engagement.
+   Get Your Free AI Audit →
 
-[Book a Discovery Call →](mailto:hello@nextvibeai.com?subject=AI%20Workflow%20Audit%20Enquiry)
+### Thanks! We're excited to help.
 
-£2,500 flat fee. No retainer. No hidden extras. Payback in weeks, not months.
+We'll be in touch within 24 hours with your free AI audit.
 
-## Track Record
+[Book Your Call Now →](https://calendly.com/victor-fernandez-nextvibeai)
 
-- **50+** Automations Built
-- **15–20h** Saved Per Week
-- **<4 weeks** Typical Payback
-- **£8K+** Avg Annual Savings
+No commitment. Takes 2 minutes.
 
-## ROI Calculator
+## Sound Familiar?
 
-What is manual work actually costing you?
+These aren't just annoyances — they're costing you £5,000-20,000 per month in lost revenue and wasted time.
 
-**Example — 10 hrs/week at £50/hr:**
-- Annual automatable waste: ~£13,000
-- Projected savings with automation: ~£7,800
-- ROI on £2,500 audit: ~212%
-- Payback period: ~17 weeks (~4 months)
+### Repetitive Tasks Eating Your Day
 
-Formula: Annual manual task hours × rate × 52 weeks. 50% automatable; automation recovers 60% of that (conservative estimates).
+Spending hours on repetitive tasks that should take minutes
 
-## What's Included in the Audit + Build
+### Leads Slipping Through
 
-### 01 — Workflow Map
+Leads slipping through the cracks because follow-up is manual
 
-A complete visual map of your current manual processes — where time is spent, where handoffs happen, and where work queues up or gets dropped.
+### Team Drowning in Admin
 
-### 02 — Automation Opportunities Ranked by ROI
+Your team drowning in admin instead of doing real work
 
-Every automatable process identified and ranked by impact: time saved, revenue recovered, and implementation complexity.
+### Tools That Don't Talk
 
-### 03 — Implementation Plan
+Paying for tools that don't talk to each other
 
-A phased roadmap showing how to automate each opportunity — tools, triggers, outputs. No jargon. Written in plain language.
+These problems cost £5,000-20,000 per month in lost revenue and wasted time.
 
-### 04 — One Built Automation — Included
+## How It Works
 
-One priority automation from your ranked list is built, tested, and live before handover. You see real results before deciding whether to proceed further.
+### Audit
 
-**Price: £2,500 flat fee.** Includes: workflow map, ROI-ranked opportunities, implementation plan, 1 automation built & live, 14-day support window.
+We analyse your current workflows and identify the biggest time and revenue leaks. Free, no strings attached.
 
-## Who You're Working With
+### Design
 
-Victor Fernandez — founder of NextVibe AI. Building AI and automation systems since 2020.
+We map out your custom automation system — connecting your tools, eliminating manual steps, and building AI into the right places.
 
-- Founded NextVibe AI in 2020 — built the first systems personally
-- 50+ automations built across agencies, SaaS, and service businesses
-- 500+ hours of manual work automated per month across client portfolio
-- Specialist in Make.com, Notion, CRM automation, and GPT-4/Claude integrations
+### Implement
 
-"I only take audits where I can see the ROI clearly before we start. If I can't, I'll tell you — and I won't charge you for figuring that out."
+We build, test, and deploy. You get a system that runs itself while you focus on growing your business.
 
-[LinkedIn: Victor Fernandez Garcia](https://www.linkedin.com/in/victorfernandezgarcia/)
-
-## Client Results
-
-"Saved us 15 hours a week on client onboarding alone. The ROI was obvious within the first month." — James T., Operations Director → 15 hrs/week saved
-
-"Victor built an automation that replaced three manual processes. Our lead response time went from 4 hours to under 5 minutes." — Sarah M., Founder, SaaS Startup → 47× faster response
-
-"We were sceptical about AI automation. Within two weeks, we stopped being sceptical and started being annoyed we didn't do it sooner." — David K., Managing Director, Agency → £8K/month recovered
+Start With Your Free Audit →
 
 ## Frequently Asked Questions
 
-### How long does the audit take?
+### How much does this cost?
 
-The full engagement typically runs 1–2 weeks from kickoff to delivery. We start with a 60-minute discovery call, then return within a week with the ranked opportunity report and implementation plan. The built automation goes live before handover.
++
 
-### What if I'm not technical?
-
-You don't need any technical knowledge. Your job is to tell us what's eating your team's time. Our job is to diagnose the cause and build the fix.
-
-### What tools do you work with?
-
-We specialise in Make.com, Notion, HubSpot, Pipedrive, and major email platforms. On the AI side, we integrate GPT-4 and Claude. The audit is tool-agnostic.
-
-### What's the guarantee?
-
-Before we start, we do a free 20-minute pre-audit assessment to confirm there's a clear ROI case. If there isn't, we'll tell you — no charge. The audit includes a 14-day support window.
+Our AI Audit is completely free. Implementation projects typically range from £1,500-5,000 depending on complexity, with most clients seeing ROI within the first month.
 
 ### Will this disrupt my current operations?
 
-No. We build alongside your existing tools. No downtime. Everything is tested before it goes live.
++
 
-## Free Resource — AI Automation Audit Checklist
+No. We build alongside your existing tools and processes. There's zero downtime. We test everything before it goes live.
 
-47 questions across 6 categories that reveal exactly where automation will have the biggest impact on your business.
+### How long does implementation take?
 
-[Get the Checklist →](mailto:hello@nextvibeai.com?subject=AI%20Automation%20Checklist%20Request)
++
 
-## Ready to Start?
+Most automation systems are live within 1-2 weeks. Complex projects take 3-4 weeks. You'll see quick wins within days.
 
-Book a 20-minute discovery call. We'll look at your workflows, confirm the ROI is there, and outline what the audit would cover — no charge, no obligation.
+### Do I need technical knowledge?
 
-[Book a Discovery Call →](mailto:hello@nextvibeai.com?subject=AI%20Workflow%20Audit%20%E2%80%94%20Discovery%20Call)
++
+
+Not at all. We handle everything technical. You just tell us what's eating your time and we fix it.
+
+### What tools do you work with?
+
++
+
+We specialise in Make.com, Notion, CRMs (HubSpot, Pipedrive), email platforms, and AI models (GPT-4, Claude). If you use it, we can probably automate it.
+
+### What if it doesn't work?
+
++
+
+Every project starts with a free audit so we can confirm ROI before you invest anything. We don't take projects we can't deliver on.
+
+## Ready to Stop Doing Work a Machine Should Handle?
+
+Get your free AI Audit. We'll show you exactly where you're losing time and money — and how to fix it.
+
+Get Your Free AI Audit →
 
 Limited to 5 audits per month. No commitment required.
