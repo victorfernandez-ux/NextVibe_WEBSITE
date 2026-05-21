@@ -1,28 +1,16 @@
 ---
-title: "NextVibe AI | AI Automation Agency"
-description: "NextVibe AI — We build AI infrastructure behind growing businesses. Automation systems, AI solutions, and operational workflows that save 15-20 hours/week."
+title: "AI Automation Consultancy UK | Practitioner-Led | NextVibe AI"
+description: "UK AI automation consultancy for agencies, consultants & coaches. Practitioner-led, sole-founder — workflow automations built live on Claude API + self-hosted n8n. £2,500 Audit + Build offer."
 url: "https://nextvibeai.com/"
 ---
 
 AI-powered systems for the real world
 
-# We Build AI Infrastructure Behind Growing Businesses.
+# AI Automation Systems That Save Your Business 15-20 Hours a Week
 
 We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Our Services](services.html)
-
-0
-
-Systems Built
-
-0
-
-Hours Saved Monthly
-
-0
-
-% Cost Reduction
 
 ## What Could AI Save Your Business?
 
@@ -46,39 +34,41 @@ Hours Reclaimed / Year
 
 0
 
-## Real Results. Real Businesses.
+## How I Approach the Work
 
-See how we've helped companies automate their way to growth.
+NextVibe is a one-year-old, sole-founder consultancy. Instead of inventing a client roster, here's how I actually work — and what you can verify before hiring.
 
-SaaS Company
+Practitioner
 
-SaaS
+Live Stack
 
-### Automated Lead Pipeline
+### I run my own production AI stack
 
-Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.
+NextVibe operates on 18 live automation workflows powered by the Anthropic Claude API and self-hosted n8n, including the content pipeline that publishes this site. I sell what I run myself.
 
-Qualified Demos +210%
+Live workflows 18
 
-E-Commerce Brand
+Build in Public
 
-E-Commerce
+Public Work
 
-### Fulfillment Automation
+### I publish what I build
 
-Replaced 40+ hours of manual order processing per week with an end-to-end automation system.
+The blog and my LinkedIn document the frameworks, mistakes, and trade-offs in real time. If you want proof of how I think before hiring, read the work — it's all public.
 
-Hours Saved / Week 40+
+Public artefacts Blog & LinkedIn
 
-Marketing Agency
+Fixed-Scope Offer
 
-Agency
+Offer
 
-### Client Onboarding System
+### One offer, fixed scope, no lock-in
 
-Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.
+The £2,500 AI Workflow Audit + Build: a 90-minute workflow map, 2–3 automations built live, a Loom walkthrough, and 30 days of support. No retainer, no upsell pressure.
 
-Onboarding Time \-78%
+Flat fee £2,500
+
+[See the full breakdown of what I build →](services.html)
 
 ## What we specialize in.
 
@@ -117,15 +107,33 @@ Custom AI tools tailored to your exact business needs — chatbots, scoring mode
 -   Data Pipelines
 -   Internal AI Tools
 
-## What Clients Say
+[See the full breakdown of our services and pricing →](services.html)
 
-> "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
+## Latest Insights
 
-JR
+Practical guides on AI automation, written by the people who build these systems for agencies, coaches, and consultants every day.
 
-James Robertson
+[For Agencies
 
-CEO, Apex SaaS
+### AI Automation for Marketing Agencies: What to Automate First
+
+The 5 workflows that eat the most agency time — and the order to automate them in for the fastest ROI.
+
+Read the guide →](blog/ai-automation-marketing-agencies.html)[For Coaches
+
+### AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week
+
+The seven systems we build for every coaching business — from scheduling to session notes to billing.
+
+Read the guide →](blog/ai-automation-coaches.html)[Framework
+
+### The AI Leverage Stack — 3 Layers Every Business Needs
+
+The framework we use with every client to decide what to automate, and in what order.
+
+Read the framework →](blog/ai-leverage-stack-framework.html)
+
+[Browse all articles on the blog →](blog/)
 
 ## Tell us where you're at...
 

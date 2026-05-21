@@ -42,8 +42,16 @@ The gap between AI hype and AI leverage is almost always a workflow audit. You n
 
 Map the process. Measure the hours. Find the bottleneck. Then — and only then — pick the technology. The tool should be the last decision you make, not the first.
 
+If you want a structured way to do this mapping, [the AI Leverage Stack](ai-leverage-stack-framework.html) is the framework I use with every client to decide which workflows belong on which automation layer.
+
 ### Want to find out where AI can actually help your business?
 
 Our free audit maps your workflows, identifies bottlenecks, and shows you exactly where automation delivers the highest ROI.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### Go deeper on building AI systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework for deciding what to automate, in what order — and why most businesses build the wrong layer first.](ai-leverage-stack-framework.html) [Strategy **ChatGPT Prompts Aren't AI Strategy — Here's What Is** Why a great prompt isn't a system, and how to turn one-off AI tasks into automated workflows that run without you.](chatgpt-prompts-arent-ai-strategy.html) [For Agencies **AI Automation for Marketing Agencies: What to Automate First** A practical breakdown of the highest-ROI workflows to automate inside an agency, with real numbers and tools.](ai-automation-marketing-agencies.html)

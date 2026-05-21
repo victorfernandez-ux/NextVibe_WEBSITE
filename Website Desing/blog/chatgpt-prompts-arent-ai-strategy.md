@@ -65,8 +65,16 @@ This is why “better prompts” is a dead end as a business strategy. Each prom
 
 Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.
 
+The next question is usually: _which_ workflow should I systematise first? That's the gap that [the AI Leverage Stack](ai-leverage-stack-framework.html) closes — and if you want a worked example, [here's how it plays out for a marketing agency](ai-automation-marketing-agencies.html).
+
 ### Ready to move from prompts to systems?
 
 Our free AI audit identifies the workflows in your business where automation delivers the biggest return — no prompting required.
 
 [Get Your Free AI Audit →](../start/)
+
+Keep reading
+
+### From prompts to real systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework I use to decide which workflows to automate first, and which automation layer they belong to.](ai-leverage-stack-framework.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of AI tools isn't a strategy, and what real AI leverage looks like in a small business.](ai-strategy-vs-chatgpt-subscriptions.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** Concrete examples of prompt-based work turned into automated systems — for coaching businesses specifically.](ai-automation-coaches.html)

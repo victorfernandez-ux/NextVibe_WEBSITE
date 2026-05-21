@@ -1,24 +1,12 @@
 ---
-title: "Services | NextVibe"
-description: "NextVibe AI services — AI lead generation, operations automation, hiring systems, sales administration, and bespoke AI solutions for growing businesses."
+title: "AI Automation Services | Lead Gen, CRM & Operations | NextVibe UK"
+description: "AI automation services for agencies & small businesses: lead generation, client onboarding, CRM, reporting. UK-based. From £1,500. See pricing."
 url: "https://nextvibeai.com/services/"
 ---
 
-# Services & Solutions
+# AI Automation Services for Agencies, Consultants & Coaches
 
-End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.
-
-0%
-
-Avg. Cost Reduction
-
-0x
-
-Faster Delivery
-
-0+
-
-Hours Saved Monthly
+End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount. Built by a sole practitioner on the Anthropic Claude API and self-hosted n8n.
 
 ⚡
 
@@ -38,6 +26,8 @@ Inbound funnels with AI qualification — automatically score, route, and follow
 
 AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.
 
+[See exactly what to automate first in a marketing agency →](blog/ai-automation-marketing-agencies.html)
+
 ⚙
 
 ### Project Management Systems
@@ -55,6 +45,8 @@ Structured onboarding flows that gather requirements, set expectations, and kick
 #### PM Workflows
 
 Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.
+
+[How coaches save 15+ hours a week with onboarding and PM automation →](blog/ai-automation-coaches.html)
 
 👥
 
@@ -119,6 +111,8 @@ Streamline intake, scheduling, billing, and client communication with zero manua
 #### E-Commerce
 
 Automate order processing, inventory management, customer support, and marketing workflows at scale.
+
+[Meet the founder behind these systems →](about.html)
 
 ## Our Process
 
@@ -192,7 +186,7 @@ per month
 
 Ongoing automation partner. We continuously build, optimise, and maintain your systems.
 
--   Dedicated automation team
+-   Direct access to the founder
 -   Unlimited system requests
 -   Priority support
 -   Monthly strategy calls
@@ -200,8 +194,32 @@ Ongoing automation partner. We continuously build, optimise, and maintain your s
 
 [Get Started](https://calendly.com/victor-fernandez-nextvibeai)
 
+## Read Before You Build
+
+Frameworks and guides that help you decide what to automate first.
+
+[Framework
+
+#### The AI Leverage Stack
+
+The 3 layers every business needs to automate effectively — and why most companies build them in the wrong order.
+
+Read the framework →](blog/ai-leverage-stack-framework.html) [Strategy
+
+#### AI Strategy vs. ChatGPT Subscriptions
+
+The difference between buying AI tools and building automated systems that actually run your business.
+
+Read the article →](blog/ai-strategy-vs-chatgpt-subscriptions.html) [Strategy
+
+#### ChatGPT Prompts Aren't AI Strategy
+
+Why "better prompts" is a dead end — and how to build systems that work without you watching.
+
+Read the article →](blog/chatgpt-prompts-arent-ai-strategy.html)
+
 ## Ready to automate your growth?
 
-Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.
+Book a free 30-minute strategy call and we'll map out your biggest automation opportunities — or kick things off with a free AI audit.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
+[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Get a Free AI Audit](start/)
