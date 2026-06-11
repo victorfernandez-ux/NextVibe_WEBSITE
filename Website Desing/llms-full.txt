@@ -1,110 +1,64 @@
-# About | NextVibe
+# About | NextVibe AI
 
 URL: https://nextvibeai.com/about/
 
-# We saw the future of work — and built it.
+# The honest version.
 
-NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for recruitment firms. I started in March 2026.
 
-We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.
+No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on, the tools I've built, and why recruitment specifically.
 
-While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.
+## Why recruitment?
 
-"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line."
+A recruitment desk is full of work that follows the same shape every time: format this CV, chase this compliance document, schedule this interview, send this follow-up. That pattern is exactly what automation is good at. The consultants I want to work with are good at relationships and reading people. I want to take the admin off their plate so they can focus on that.
 
-Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.
+## What I believe
 
-Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust.
+The technology is the easy half. Choosing the right process to automate first is the hard half. I start every engagement with a workflow audit because I won't build something that doesn't earn its place. If the automation doesn't save real time, we don't build it.
 
-## Meet the Founder
-
-The person behind NextVibe's AI automation systems.
-
-VF
+## The Founder
 
 ### Victor Fernandez Garcia
 
-CEO & Founder
+Founder
 
-Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe.
+One person, based in the UK. I build AI automation workflows for recruitment firms and specialist service businesses. I started NextVibe AI in March 2026.
 
-## Our Journey
+## Key Milestones
 
-Key milestones on the path to where we are today.
+2026 — NextVibe AI founded. Started building automation workflows for UK recruitment firms.
 
-2020
+## What I Stand For
 
-#### Founded NextVibe
-
-Started as a two-person consultancy, building automation systems for local businesses during the pandemic.
-
-2021
-
-#### First Enterprise Client
-
-Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency.
-
-2023
-
-#### AI-First Pivot
-
-Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native.
-
-2024
-
-#### 50+ Clients Served
-
-Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio.
-
-2025
-
-#### Scaling Up
-
-Expanding the team, launching new service tiers, and building proprietary AI tools for our clients.
-
-## What We Stand For
-
-The principles that guide every system we build.
-
-⚡
+The principles behind every workflow I build.
 
 #### Bias to Action
 
-We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately.
-
-🔎
+I ship fast. Weeks, not quarters. Every system I build goes live and starts delivering value immediately.
 
 #### Obsess Over ROI
 
-We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business.
-
-🤝
+I don't build cool tech for the sake of it. Every automation must have a clear, measurable impact.
 
 #### Radical Transparency
 
 No black boxes. You see every workflow, every integration, every decision. Your systems belong to you.
 
-🎯
-
 #### Simplicity First
 
-The best system is the simplest one that works. We avoid over-engineering and focus on reliability.
-
-🚀
+The best system is the simplest one that works. I avoid over-engineering and focus on reliability.
 
 #### Stay Ahead
 
-We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors.
-
-💬
+I'm always testing new AI models, tools, and techniques so you get access to what's next before your competitors do.
 
 #### Real Partnership
 
-We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business.
+I'm not a vendor. I embed into your workflow, understand your goals, and build as if it were my own business.
 
-## Let's build something extraordinary.
+## Got a workflow that wastes your week?
 
-Book a free strategy call and discover how AI automation can transform your business operations.
+Start from £95 and test how I work before committing to anything bigger.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
 
@@ -122,15 +76,15 @@ By Victor Fernandez · April 18, 2026 · 6 min read
 
 Every business has three automation layers. Most only build one — and they usually pick the wrong one to start with.
 
-I’ve built automation systems for dozens of small businesses over the past two years. The pattern is remarkably consistent: the companies that succeed with AI follow a specific sequence. The ones that fail skip straight to the exciting part and wonder why nothing sticks.
+I've built automation systems for dozens of small businesses over the past two years. The pattern is remarkably consistent: the companies that succeed with AI follow a specific sequence. The ones that fail skip straight to the exciting part and wonder why nothing sticks.
 
-Here’s the framework I use with every client. I call it the AI Leverage Stack.
+Here's the framework I use with every client. I call it the AI Leverage Stack.
 
 ### Process Automation
 
 Eliminate repetitive, rule-based tasks. Data entry, routing, scheduling, notifications, file management, status updates. No AI needed here — just logic. If-this-then-that. When-this-happens-do-that.
 
-This layer alone can save 10 or more hours per week for most small teams. It’s not glamorous. It doesn’t use GPT-4. But it’s the foundation everything else sits on.
+This layer alone can save 10 or more hours per week for most small teams. It's not glamorous. It doesn't use GPT-4. But it's the foundation everything else sits on.
 
 Examples: auto-filing documents, syncing CRM data between tools, sending follow-up emails on a schedule, generating invoices from form submissions.
 
@@ -152,30 +106,30 @@ Examples: autonomous research agents, self-running competitive analysis, AI-driv
 
 ## Why Sequence Matters
 
-The most common mistake I see is companies jumping straight to Layer 2 or Layer 3. They buy an AI tool, point it at messy data, get unreliable results, and conclude that “AI doesn’t work for our business.”
+The most common mistake I see is companies jumping straight to Layer 2 or Layer 3. They buy an AI tool, point it at messy data, get unreliable results, and conclude that "AI doesn't work for our business."
 
 It does work. But not on chaos. AI amplifies whatever you give it — if you give it clean data and clear processes, it amplifies productivity. If you give it messy workflows and inconsistent inputs, it amplifies confusion.
 
-**Most companies skip Layer 1 and wonder why their AI isn’t working.** The answer is almost always: the foundation isn’t there yet.
+**Most companies skip Layer 1 and wonder why their AI isn't working.** The answer is almost always: the foundation isn't there yet.
 
 ## How to Apply This Framework
 
 -   **Audit your most painful workflows.** What takes the most time? What involves the most repetitive steps? What drops balls most often?
 -   **Assign each to a layer.** Is this a rule-based routing problem (Layer 1)? Does it require judgment or content generation (Layer 2)? Does it need to run autonomously end-to-end (Layer 3)?
--   **Start at Layer 1. Always.** Get data moving and clean before you add intelligence. This isn’t the slow path — it’s the fast path, because everything you build on top of it will work the first time.
+-   **Start at Layer 1. Always.** Get data moving and clean before you add intelligence. This isn't the slow path — it's the fast path, because everything you build on top of it will work the first time.
 -   **Add layers incrementally.** Once Layer 1 is humming, the Layer 2 additions are almost trivially easy. The data is already flowing, the triggers are already firing, and the outputs are already structured.
 
 ## The Practical Test
 
-Look at your current tech stack right now. If you’re paying for AI tools but still manually moving data between systems, you’ve built Layer 2 without Layer 1. Go back. Automate the plumbing first. The intelligence layer will thank you.
+Look at your current tech stack right now. If you're paying for AI tools but still manually moving data between systems, you've built Layer 2 without Layer 1. Go back. Automate the plumbing first. The intelligence layer will thank you.
 
-The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.
+The AI Leverage Stack isn't about adding more technology. It's about adding the right technology in the right order. Sequence beats sophistication every time.
 
-### Not sure which layer your business is on?
+### Want to know which layer your business is on?
 
-Our free audit maps your workflows to the AI Leverage Stack and shows you exactly where to start building — no guesswork, no wasted effort.
+Download the free checklist I use with every new client. It maps your workflows to the right automation approach and shows where to start.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)
 
 ---
 
@@ -223,9 +177,9 @@ Map the process. Measure the hours. Find the bottleneck. Then — and only then 
 
 ### Want to find out where AI can actually help your business?
 
-Our free audit maps your workflows, identifies bottlenecks, and shows you exactly where automation delivers the highest ROI.
+Download the free checklist I use with every new client. It maps your workflows, identifies the bottlenecks worth fixing, and shows you where to start.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)
 
 ---
 
@@ -235,19 +189,19 @@ URL: https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy/
 
 AI Strategy
 
-# ChatGPT Prompts Aren’t AI Strategy. Here’s What Is.
+# ChatGPT Prompts Aren't AI Strategy. Here's What Is.
 
 By Victor Fernandez · April 11, 2026 · 5 min read
 
 You spend 30 minutes crafting the perfect prompt. You get a decent output. You copy it manually into your doc, email, or spreadsheet. You do it again tomorrow. And the next day. Forever.
 
-This is what most people call “using AI.” It feels productive. It feels like you’re ahead of the curve. But it isn’t a strategy. It’s still manual work — just with a nicer interface.
+This is what most people call "using AI." It feels productive. It feels like you're ahead of the curve. But it isn't a strategy. It's still manual work — just with a nicer interface.
 
 ## The Prompt Treadmill
 
-Better prompts create better outputs. But each output still requires you to initiate the process, review the result, and manually route it to wherever it needs to go. The model doesn’t know your workflow. It doesn’t trigger actions. It doesn’t learn your preferences over time. It’s waiting for you to type.
+Better prompts create better outputs. But each output still requires you to initiate the process, review the result, and manually route it to wherever it needs to go. The model doesn't know your workflow. It doesn't trigger actions. It doesn't learn your preferences over time. It's waiting for you to type.
 
-Most people never get past “better prompts” because it feels like progress. The output quality improves, so you assume you’re leveraging AI. You’re not. You’re operating a fancy typewriter.
+Most people never get past "better prompts" because it feels like progress. The output quality improves, so you assume you're leveraging AI. You're not. You're operating a fancy typewriter.
 
 ### Prompt Approach
 
@@ -275,48 +229,48 @@ Results are consistent and repeatable
 
 ## What Systems Thinking Looks Like
 
-A system means prompts are pre-written with your context baked in — your brand voice, your data format, your output requirements. They don’t need you to construct them each time. They fire on a schedule or on an event. The outputs route automatically to the right destination.
+A system means prompts are pre-written with your context baked in — your brand voice, your data format, your output requirements. They don't need you to construct them each time. They fire on a schedule or on an event. The outputs route automatically to the right destination.
 
 For example: instead of opening ChatGPT and asking it to write a social media post, you have a workflow where a voice memo transcription triggers a content draft, which lands in your review queue, which — once approved — publishes itself at the optimal time. Your involvement? 30 minutes a week reviewing drafts. Not 30 minutes per post.
 
 ## The Core Difference
 
-**A prompt is a one-time action. A system is a repeating result.** Prompts require you. Systems don’t. Strategy means it works when you’re not watching.
+**A prompt is a one-time action. A system is a repeating result.** Prompts require you. Systems don't. Strategy means it works when you're not watching.
 
-This is why “better prompts” is a dead end as a business strategy. Each prompt is an event. Each system run is compound interest. The more you build, the more leverage you accumulate — and the less your daily workload grows as your business scales.
+This is why "better prompts" is a dead end as a business strategy. Each prompt is an event. Each system run is compound interest. The more you build, the more leverage you accumulate — and the less your daily workload grows as your business scales.
 
 ## How to Make the Shift
 
--   **Identify your repeated prompts.** If you’re writing the same type of prompt more than twice a week, it should be a template inside an automation.
+-   **Identify your repeated prompts.** If you're writing the same type of prompt more than twice a week, it should be a template inside an automation.
 -   **Add a trigger.** Instead of opening a tool manually, ask: what event should start this process? A form submission? A calendar event? A new row in a spreadsheet?
--   **Route the output.** The output shouldn’t end in a chat window. It should land in a Notion database, an email draft, a CRM field, or wherever it’s actually used.
--   **Remove yourself.** The goal isn’t “AI helps me work faster.” The goal is “AI works without me for the steps that don’t need me.”
+-   **Route the output.** The output shouldn't end in a chat window. It should land in a Notion database, an email draft, a CRM field, or wherever it's actually used.
+-   **Remove yourself.** The goal isn't "AI helps me work faster." The goal is "AI works without me for the steps that don't need me."
 
 Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.
 
 ### Ready to move from prompts to systems?
 
-Our free AI audit identifies the workflows in your business where automation delivers the biggest return — no prompting required.
+Download the free checklist I use with every new client. It maps the workflows where automation delivers the biggest return and shows you which to tackle first.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)
 
 ---
 
-# Contact | NextVibe
+# Contact | NextVibe AI
 
 URL: https://nextvibeai.com/contact/
 
 # Get in Touch
 
-Tell us about your business and we'll show you exactly how AI automation can help you grow.
+Tell me what's eating your time and I'll show you exactly how to automate it.
 
-### Send us a message
+### Send me a message
 
-Name 
+Name
 
-Email 
+Email
 
-Company 
+Company
 
 Message
 
@@ -324,9 +278,9 @@ Send Message
 
 ### Message Sent!
 
-We'll get back to you within 24 hours.
+I'll get back to you within 24 hours.
 
-### Other ways to reach us
+### Other ways to reach me
 
 #### Email
 
@@ -334,180 +288,75 @@ We'll get back to you within 24 hours.
 
 #### Response Time
 
-We typically respond within 24 hours on business days.
+I typically respond within 24 hours on business days.
 
 #### Prefer a live conversation?
 
-Book a free 30-minute strategy call and we'll map out your automation opportunities.
+Book a 30-minute call and I'll map out the automation opportunity in your business.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
 
 ---
 
-# NextVibe AI | AI Automation Agency
+# NextVibe AI | AI Automation for UK Recruitment Firms
 
 URL: https://nextvibeai.com/
 
-AI-powered systems for the real world
+AI automation for UK recruitment firms.
 
-# We Build AI Infrastructure Behind Growing Businesses.
+# Placements generate the money. Paperwork eats the week. I automate the paperwork.
 
-We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for recruitment firms and specialist service businesses. I started in March 2026.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Our Services](services.html)
+[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Services](services.html)
 
-0
+## What I specialise in.
 
-Systems Built
+Automation for the work that eats a recruitment desk's week.
 
-0
+### Candidate and CV Workflows
 
-Hours Saved Monthly
+AI-assisted CV formatting, compliance document chasing, and candidate pipeline tracking. The admin that follows every placement.
 
-0
+### Client and Business Development
 
-% Cost Reduction
+Interview scheduling, client follow-up sequences, and proposal generation. The repetitive touchpoints that eat consultant hours.
 
-## What Could AI Save Your Business?
+### Operations and Reporting
 
-Enter your details and see the potential impact of automation.
+Onboarding automation, invoicing triggers, and reporting dashboards. The back-office work that runs identically every time.
 
-Number of Employees 
+## What it costs
 
-Average Hourly Rate (£) 
+Three fixed prices, nothing hidden. The £95 rescue exists so you can test how I work before committing to a bigger build.
 
-Hours on Manual Tasks / Week / Employee 
+- **£95** — Automation Rescue: one broken workflow fixed within 48 hours
+- **£450** — 5-Day Workflow: a full automation built, tested, and handed over in five working days (£300 founding price for the first three clients)
+- **£2,500** — AI Workflow Audit + Build: a full audit of your workflows followed by the highest-impact automation, delivered and documented
 
-Estimated Annual Savings
+## Tell me where you're at...
 
-£0
+Name
 
-Monthly Savings
+Email
 
-£0
+Company
 
-Hours Reclaimed / Year
+Budget: £95 / £450 / £2,500
 
-0
-
-## Real Results. Real Businesses.
-
-See how we've helped companies automate their way to growth.
-
-SaaS Company
-
-SaaS
-
-### Automated Lead Pipeline
-
-Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.
-
-Qualified Demos +210%
-
-E-Commerce Brand
-
-E-Commerce
-
-### Fulfillment Automation
-
-Replaced 40+ hours of manual order processing per week with an end-to-end automation system.
-
-Hours Saved / Week 40+
-
-Marketing Agency
-
-Agency
-
-### Client Onboarding System
-
-Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.
-
-Onboarding Time \-78%
-
-## What we specialize in.
-
-End-to-end AI systems that drive real business outcomes.
-
-⚡
-
-### Growth Systems & Automations
-
-AI-powered lead generation and sales systems that fill your pipeline on autopilot.
-
--   AI Cold Email Campaigns
--   Lead Scoring & Routing
--   CRM Automation
--   Content Distribution
-
-⚙
-
-### Operations & Fulfillment Automation
-
-Streamline delivery, onboarding, and project management with intelligent workflows.
-
--   Automated Fulfillment
--   Client Onboarding
--   Project Management Workflows
--   Reporting Dashboards
-
-✨
-
-### Bespoke AI Solutions
-
-Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more.
-
--   Custom AI Chatbots
--   AI Scoring & Classification
--   Data Pipelines
--   Internal AI Tools
-
-## What Clients Say
-
-> "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
-
-JR
-
-James Robertson
-
-CEO, Apex SaaS
-
-## Tell us where you're at...
-
-Name 
-
-Email 
-
-Company 
-
-Budget Select a range £5,000 – £10,000 £10,000 – £25,000 £25,000+
-
-Tell us about your project
+Tell me about your workflow
 
 Send Message
 
 ---
 
-# Services | NextVibe
+# Services | NextVibe AI
 
 URL: https://nextvibeai.com/services/
 
-# Services & Solutions
+# Services
 
-End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.
-
-0%
-
-Avg. Cost Reduction
-
-0x
-
-Faster Delivery
-
-0+
-
-Hours Saved Monthly
-
-⚡
+Automation for the work that eats a recruitment desk's week. Fixed prices, no retainers.
 
 ### Lead Generation Systems
 
@@ -515,7 +364,7 @@ AI-powered pipelines that fill your calendar with qualified prospects.
 
 #### AI Cold Email
 
-Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules that land in the primary inbox.
+Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules.
 
 #### Application Systems
 
@@ -525,11 +374,9 @@ Inbound funnels with AI qualification — automatically score, route, and follow
 
 AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.
 
-⚙
-
 ### Project Management Systems
 
-Automate delivery workflows so your team can focus on high-value work.
+Automate delivery workflows so your consultants can focus on high-value work.
 
 #### Automated Fulfillment
 
@@ -541,9 +388,7 @@ Structured onboarding flows that gather requirements, set expectations, and kick
 
 #### PM Workflows
 
-Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.
-
-👥
+Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track.
 
 ### Hiring Systems
 
@@ -551,17 +396,15 @@ Recruit smarter and faster with AI-powered screening and evaluation.
 
 #### Intake Systems
 
-Structured application forms with automatic data extraction and candidate profiling — no more manual resume sorting.
+Structured application forms with automatic data extraction and candidate profiling — no more manual CV sorting.
 
 #### AI Scoring
 
-Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators — reducing bias and saving hours.
+Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators.
 
 #### Trial Processes
 
 Automated trial project assignment, submission tracking, and evaluation workflows that surface your best candidates fast.
-
-📈
 
 ### Sales Administration
 
@@ -569,11 +412,11 @@ Streamline your sales ops with custom tools and intelligent automation.
 
 #### Custom CRMs
 
-Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging without the bloat.
+Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging.
 
 #### AI Asset Generators
 
-Automatically generate proposals, SOWs, and sales decks personalised to each prospect using AI and your existing templates.
+Automatically generate proposals and sales decks personalised to each prospect using AI and your existing templates.
 
 #### Nurture Systems
 
@@ -581,226 +424,170 @@ Multi-channel follow-up sequences that keep warm leads engaged with timely, rele
 
 ## Who It's For
 
-We work best with businesses ready to scale operations through automation.
+I work with UK recruitment firms and specialist service businesses.
 
-🎯
+#### Recruitment Firms
 
-#### Agencies
+CV formatting, compliance chasing, interview scheduling. I build the workflows that take these off your plate.
 
-Automate client delivery, onboarding, and lead gen so you can grow without proportionally growing your team.
+#### Cleaning Firms
 
-💻
+Rotas, quotes, client follow-up. If the work follows a pattern, I can automate the admin around it.
 
-#### SaaS Companies
+#### Legal and Accountancy
 
-Build automated outbound pipelines, trial-to-paid workflows, and customer success systems.
+Document chasing, compliance workflows, client onboarding. Fixed-price automation that fits small specialist practices.
 
-💼
+#### Specialist Services
 
-#### Professional Services
+Any small firm where the same admin runs every week. If you can describe the pattern, I can build the workflow.
 
-Streamline intake, scheduling, billing, and client communication with zero manual overhead.
+## My Process
 
-🛒
-
-#### E-Commerce
-
-Automate order processing, inventory management, customer support, and marketing workflows at scale.
-
-## Our Process
-
-From discovery to deployment in weeks, not months.
+From discovery to handover in weeks.
 
 01
 
 #### Discovery
 
-We map your current workflows, identify automation opportunities, and prioritise by ROI impact.
+I map your current workflows, identify automation opportunities, and prioritise by time saved.
 
 02
 
 #### Design
 
-We architect the system — selecting the right tools, defining data flows, and planning integrations.
+I design the system — the right tools, clean data flows, and integrations that actually work together.
 
 03
 
 #### Build
 
-Rapid implementation with weekly demos. You see progress and can give feedback in real time.
+I build and test everything. You see it working before I hand it over.
 
 04
 
 #### Launch
 
-Go live with full documentation, training, and 30 days of support to ensure everything runs smoothly.
+Full documentation and a recorded walkthrough. The workflow is yours.
 
 ## Pricing
 
-Transparent pricing. No hidden fees. Choose what fits your needs.
+Three fixed prices, nothing hidden. The £95 rescue exists so you can test how I work before committing to a bigger build.
 
-Single System
+**Automation Rescue**
 
-£3,500
+£95 — fixed price
 
-one-time
+I identify and fix one broken workflow within 48 hours.
 
-One complete automation system, built and deployed for your business.
+- One workflow fixed
+- 48-hour delivery
+- Documentation included
 
--   1 automation system
--   Discovery & design session
--   2–3 week delivery
--   Full documentation
--   14 days post-launch support
+**5-Day Workflow**
 
-[Get Started](https://calendly.com/victor-fernandez-nextvibeai)
+£450 — fixed price (£300 for the first three founding clients)
 
-Growth Package
+A full automation built, tested, and handed over in five working days.
 
-£8,500
+- One full workflow
+- 5-working-day delivery
+- Documentation and handover
 
-one-time
+**AI Workflow Audit + Build**
 
-A suite of interconnected systems that transform how your business operates.
+£2,500 — fixed price. 50% on signature, 50% on handover. UK-invoiced via Stripe.
 
--   3 automation systems
--   Full workflow audit
--   4–6 week delivery
--   System integrations
--   30 days post-launch support
+A full audit of your workflows followed by the highest-impact automation, delivered and documented.
 
-[Get Started](https://calendly.com/victor-fernandez-nextvibeai)
+- Full workflow audit
+- One high-impact automation
+- Full documentation and handover
 
-Retainer
+## Ready to automate your desk admin?
 
-£3,000
-
-per month
-
-Ongoing automation partner. We continuously build, optimise, and maintain your systems.
-
--   Dedicated automation team
--   Unlimited system requests
--   Priority support
--   Monthly strategy calls
--   Continuous optimisation
-
-[Get Started](https://calendly.com/victor-fernandez-nextvibeai)
-
-## Ready to automate your growth?
-
-Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.
+Start from £95 and test how I work before committing to anything bigger.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)
 
 ---
 
-# AI Workflow Audit + Build | NextVibe AI
+# AI Automation Checklist | NextVibe AI
 
 URL: https://nextvibeai.com/start/
 
-# AI Workflow Audit + Build
+# Stop losing hours to admin that runs itself
 
-You're spending thousands of hours on work a machine should handle.
+Get my free checklist showing which recruitment workflows are worth automating first.
 
-We map every manual process eating your team's time, rank your automation opportunities by ROI, and build your first automated system — all in a single £2,500 engagement.
+Get the AI Automation Checklist →
 
-[Book a Discovery Call →](mailto:hello@nextvibeai.com?subject=AI%20Workflow%20Audit%20Enquiry)
+No commitment. No spam.
 
-£2,500 flat fee. No retainer. No hidden extras. Payback in weeks, not months.
+## Sound Familiar?
 
-## Track Record
+### Repetitive Tasks Eating Your Day
 
-- **50+** Automations Built
-- **15–20h** Saved Per Week
-- **<4 weeks** Typical Payback
-- **£8K+** Avg Annual Savings
+Spending hours on CV formatting, compliance chasing, and interview scheduling
 
-## ROI Calculator
+### Leads Slipping Through
 
-What is manual work actually costing you?
+Candidate and client follow-ups falling through because everything is manual
 
-**Example — 10 hrs/week at £50/hr:**
-- Annual automatable waste: ~£13,000
-- Projected savings with automation: ~£7,800
-- ROI on £2,500 audit: ~212%
-- Payback period: ~17 weeks (~4 months)
+### Team Drowning in Admin
 
-Formula: Annual manual task hours × rate × 52 weeks. 50% automatable; automation recovers 60% of that (conservative estimates).
+Your consultants doing admin instead of placing candidates
 
-## What's Included in the Audit + Build
+### Tools That Don't Talk
 
-### 01 — Workflow Map
+Paying for an ATS, a CRM, and email tools that don't connect to each other
 
-A complete visual map of your current manual processes — where time is spent, where handoffs happen, and where work queues up or gets dropped.
+## How It Works
 
-### 02 — Automation Opportunities Ranked by ROI
+### Map
 
-Every automatable process identified and ranked by impact: time saved, revenue recovered, and implementation complexity.
+I analyse your current workflows and identify the biggest time leaks.
 
-### 03 — Implementation Plan
+### Design
 
-A phased roadmap showing how to automate each opportunity — tools, triggers, outputs. No jargon. Written in plain language.
+I map out the automation system — the right tools, no manual steps, AI where it earns its place.
 
-### 04 — One Built Automation — Included
+### Build
 
-One priority automation from your ranked list is built, tested, and live before handover. You see real results before deciding whether to proceed further.
+I build, test, and hand over. You get a workflow that runs itself.
 
-**Price: £2,500 flat fee.** Includes: workflow map, ROI-ranked opportunities, implementation plan, 1 automation built & live, 14-day support window.
-
-## Who You're Working With
-
-Victor Fernandez — founder of NextVibe AI. Building AI and automation systems since 2020.
-
-- Founded NextVibe AI in 2020 — built the first systems personally
-- 50+ automations built across agencies, SaaS, and service businesses
-- 500+ hours of manual work automated per month across client portfolio
-- Specialist in Make.com, Notion, CRM automation, and GPT-4/Claude integrations
-
-"I only take audits where I can see the ROI clearly before we start. If I can't, I'll tell you — and I won't charge you for figuring that out."
-
-[LinkedIn: Victor Fernandez Garcia](https://www.linkedin.com/in/victorfernandezgarcia/)
-
-## Client Results
-
-"Saved us 15 hours a week on client onboarding alone. The ROI was obvious within the first month." — James T., Operations Director → 15 hrs/week saved
-
-"Victor built an automation that replaced three manual processes. Our lead response time went from 4 hours to under 5 minutes." — Sarah M., Founder, SaaS Startup → 47× faster response
-
-"We were sceptical about AI automation. Within two weeks, we stopped being sceptical and started being annoyed we didn't do it sooner." — David K., Managing Director, Agency → £8K/month recovered
+Get the AI Automation Checklist →
 
 ## Frequently Asked Questions
 
-### How long does the audit take?
+### How much does this cost?
 
-The full engagement typically runs 1–2 weeks from kickoff to delivery. We start with a 60-minute discovery call, then return within a week with the ranked opportunity report and implementation plan. The built automation goes live before handover.
-
-### What if I'm not technical?
-
-You don't need any technical knowledge. Your job is to tell us what's eating your team's time. Our job is to diagnose the cause and build the fix.
-
-### What tools do you work with?
-
-We specialise in Make.com, Notion, HubSpot, Pipedrive, and major email platforms. On the AI side, we integrate GPT-4 and Claude. The audit is tool-agnostic.
-
-### What's the guarantee?
-
-Before we start, we do a free 20-minute pre-audit assessment to confirm there's a clear ROI case. If there isn't, we'll tell you — no charge. The audit includes a 14-day support window.
+Fixed prices: £95 to fix one broken workflow within 48 hours, £450 for a full 5-day build (£300 for the first three founding clients), or £2,500 for a two-week audit and build with a full roadmap. No hidden fees.
 
 ### Will this disrupt my current operations?
 
-No. We build alongside your existing tools. No downtime. Everything is tested before it goes live.
+No. I build alongside your existing tools and processes. There's zero downtime. I test everything before it goes live.
 
-## Free Resource — AI Automation Audit Checklist
+### How long does implementation take?
 
-47 questions across 6 categories that reveal exactly where automation will have the biggest impact on your business.
+The £95 rescue takes 48 hours. The 5-day workflow takes one working week. The full audit and build takes two weeks.
 
-[Get the Checklist →](mailto:hello@nextvibeai.com?subject=AI%20Automation%20Checklist%20Request)
+### Do I need technical knowledge?
 
-## Ready to Start?
+Not at all. I handle everything technical. You just tell me what's eating your time and I fix it.
 
-Book a 20-minute discovery call. We'll look at your workflows, confirm the ROI is there, and outline what the audit would cover — no charge, no obligation.
+### What tools do you work with?
 
-[Book a Discovery Call →](mailto:hello@nextvibeai.com?subject=AI%20Workflow%20Audit%20%E2%80%94%20Discovery%20Call)
+I specialise in Make.com, Notion, CRMs (HubSpot, Pipedrive), email platforms, and AI models. If you use it, I can probably automate it.
 
-Limited to 5 audits per month. No commitment required.
+### What if it doesn't work?
+
+Every project starts with a workflow audit so I can confirm the approach before you invest anything. I don't take projects I can't deliver on.
+
+## Got a workflow that wastes your week?
+
+Start at £95 or download the checklist and see which processes in your business are worth automating first.
+
+Get the AI Automation Checklist →
+
+No commitment. No spam.

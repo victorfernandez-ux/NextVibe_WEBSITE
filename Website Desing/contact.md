@@ -1,20 +1,20 @@
 ---
-title: "Contact | NextVibe"
-description: "Get in touch with NextVibe AI. Tell us about your business and we'll show you how AI automation can help you grow."
+title: "Contact | NextVibe AI"
+description: "Get in touch with NextVibe AI. Tell me about your workflow and I'll show you how automation can save you hours every week."
 url: "https://nextvibeai.com/contact/"
 ---
 
 # Get in Touch
 
-Tell us about your business and we'll show you exactly how AI automation can help you grow.
+Tell me what's eating your time and I'll show you exactly how to automate it.
 
-### Send us a message
+### Send me a message
 
-Name 
+Name
 
-Email 
+Email
 
-Company 
+Company
 
 Message
 
@@ -22,9 +22,9 @@ Send Message
 
 ### Message Sent!
 
-We'll get back to you within 24 hours.
+I'll get back to you within 24 hours.
 
-### Other ways to reach us
+### Other ways to reach me
 
 #### Email
 
@@ -32,10 +32,10 @@ We'll get back to you within 24 hours.
 
 #### Response Time
 
-We typically respond within 24 hours on business days.
+I typically respond within 24 hours on business days.
 
 #### Prefer a live conversation?
 
-Book a free 30-minute strategy call and we'll map out your automation opportunities.
+Book a 30-minute call and I'll map out the automation opportunity in your business.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)

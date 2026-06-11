@@ -1,142 +1,51 @@
 ---
-title: "NextVibe AI | AI Automation Agency"
-description: "NextVibe AI — We build AI infrastructure behind growing businesses. Automation systems, AI solutions, and operational workflows that save 15-20 hours/week."
+title: "NextVibe AI | AI Automation for UK Recruitment Firms"
+description: "NextVibe AI — I build AI automation workflows for UK recruitment firms and specialist service businesses. Fixed prices, fast delivery."
 url: "https://nextvibeai.com/"
 ---
 
-AI-powered systems for the real world
+AI automation for UK recruitment firms.
 
-# We Build AI Infrastructure Behind Growing Businesses.
+# Placements generate the money. Paperwork eats the week. I automate the paperwork.
 
-We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for recruitment firms and specialist service businesses. I started in March 2026.
 
-[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Our Services](services.html)
+[Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Services](services.html)
 
-0
+## What I specialise in.
 
-Systems Built
+Automation for the work that eats a recruitment desk's week.
 
-0
+### Candidate and CV Workflows
 
-Hours Saved Monthly
+AI-assisted CV formatting, compliance document chasing, and candidate pipeline tracking. The admin that follows every placement.
 
-0
+### Client and Business Development
 
-% Cost Reduction
+Interview scheduling, client follow-up sequences, and proposal generation. The repetitive touchpoints that eat consultant hours.
 
-## What Could AI Save Your Business?
+### Operations and Reporting
 
-Enter your details and see the potential impact of automation.
+Onboarding automation, invoicing triggers, and reporting dashboards. The back-office work that runs identically every time.
 
-Number of Employees 
+## What it costs
 
-Average Hourly Rate (£) 
+Three fixed prices, nothing hidden. The £95 rescue exists so you can test how I work before committing to a bigger build.
 
-Hours on Manual Tasks / Week / Employee 
+- **£95** — Automation Rescue: one broken workflow fixed within 48 hours
+- **£450** — 5-Day Workflow: a full automation built, tested, and handed over in five working days (£300 founding price for the first three clients)
+- **£2,500** — AI Workflow Audit + Build: a full audit of your workflows followed by the highest-impact automation, delivered and documented
 
-Estimated Annual Savings
+## Tell me where you're at...
 
-£0
+Name
 
-Monthly Savings
+Email
 
-£0
+Company
 
-Hours Reclaimed / Year
+Budget: £95 / £450 / £2,500
 
-0
-
-## Real Results. Real Businesses.
-
-See how we've helped companies automate their way to growth.
-
-SaaS Company
-
-SaaS
-
-### Automated Lead Pipeline
-
-Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.
-
-Qualified Demos +210%
-
-E-Commerce Brand
-
-E-Commerce
-
-### Fulfillment Automation
-
-Replaced 40+ hours of manual order processing per week with an end-to-end automation system.
-
-Hours Saved / Week 40+
-
-Marketing Agency
-
-Agency
-
-### Client Onboarding System
-
-Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.
-
-Onboarding Time \-78%
-
-## What we specialize in.
-
-End-to-end AI systems that drive real business outcomes.
-
-⚡
-
-### Growth Systems & Automations
-
-AI-powered lead generation and sales systems that fill your pipeline on autopilot.
-
--   AI Cold Email Campaigns
--   Lead Scoring & Routing
--   CRM Automation
--   Content Distribution
-
-⚙
-
-### Operations & Fulfillment Automation
-
-Streamline delivery, onboarding, and project management with intelligent workflows.
-
--   Automated Fulfillment
--   Client Onboarding
--   Project Management Workflows
--   Reporting Dashboards
-
-✨
-
-### Bespoke AI Solutions
-
-Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more.
-
--   Custom AI Chatbots
--   AI Scoring & Classification
--   Data Pipelines
--   Internal AI Tools
-
-## What Clients Say
-
-> "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
-
-JR
-
-James Robertson
-
-CEO, Apex SaaS
-
-## Tell us where you're at...
-
-Name 
-
-Email 
-
-Company 
-
-Budget Select a range £5,000 – £10,000 £10,000 – £25,000 £25,000+
-
-Tell us about your project
+Tell me about your workflow
 
 Send Message
