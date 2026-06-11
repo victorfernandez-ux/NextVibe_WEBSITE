@@ -67,6 +67,6 @@ Strategy means the machine makes the decision — and only flags you for the exc
 
 ### Ready to move from prompts to systems?
 
-Our free AI audit identifies the workflows in your business where automation delivers the biggest return — no prompting required.
+Download the free checklist I use with every new client. It maps the workflows where automation delivers the biggest return and shows you which to tackle first.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)

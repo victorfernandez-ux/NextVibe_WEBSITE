@@ -61,8 +61,8 @@ Look at your current tech stack right now. If you’re paying for AI tools but s
 
 The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.
 
-### Not sure which layer your business is on?
+### Want to know which layer your business is on?
 
-Our free audit maps your workflows to the AI Leverage Stack and shows you exactly where to start building — no guesswork, no wasted effort.
+Download the free checklist I use with every new client. It maps your workflows to the right automation approach and shows where to start.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)

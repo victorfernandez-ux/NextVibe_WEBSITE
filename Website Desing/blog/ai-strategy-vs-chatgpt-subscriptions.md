@@ -44,6 +44,6 @@ Map the process. Measure the hours. Find the bottleneck. Then — and only then 
 
 ### Want to find out where AI can actually help your business?
 
-Our free audit maps your workflows, identifies bottlenecks, and shows you exactly where automation delivers the highest ROI.
+Download the free checklist I use with every new client. It maps your workflows, identifies the bottlenecks worth fixing, and shows you where to start.
 
-[Get Your Free AI Audit →](../start/)
+[Get the AI Automation Checklist →](../start/)
