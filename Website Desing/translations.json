@@ -7,10 +7,10 @@
       "bookCall": "Book a Call"
     },
     "hero": {
-      "badge": "AI-powered systems for the real world",
-      "headline": "AI Automation Systems That Save Your Business 15-20 Hours a Week",
-      "subtitle": "We design and deploy AI systems that generate leads, close deals, and streamline operations — so you can focus on what you do best.",
-      "cta1": "Book a Call",
+      "badge": "AI workflows for UK recruitment firms",
+      "headline": "Placements make the money. Admin eats the week. I automate the admin.",
+      "subtitle": "AI workflows for UK recruitment firms, built by one practitioner. Fixed prices from £95 to £2,500, all on this site.",
+      "cta1": "Start from £95",
       "cta2": "Our Services"
     },
     "stats": {
@@ -29,70 +29,70 @@
       "hoursReclaimed": "Hours Reclaimed / Year"
     },
     "caseStudies": {
-      "title": "Real Results. Real Businesses.",
-      "subtitle": "See how we've helped companies automate their way to growth.",
+      "title": "How I work.",
+      "subtitle": "Fixed prices. Documented handovers. You own the workflow.",
       "saas": {
-        "tag": "SaaS",
-        "title": "Automated Lead Pipeline",
-        "desc": "Built an AI-driven cold email and lead scoring system that tripled qualified demos in 90 days.",
-        "stat": "Qualified Demos"
+        "tag": "Recruitment",
+        "title": "CV Formatting Workflow",
+        "desc": "Automated CV reformatting and candidate data extraction for a recruitment desk.",
+        "stat": "Hours saved per week"
       },
       "ecommerce": {
-        "tag": "E-Commerce",
-        "title": "Fulfillment Automation",
-        "desc": "Replaced 40+ hours of manual order processing per week with an end-to-end automation system.",
-        "stat": "Hours Saved / Week"
+        "tag": "Recruitment",
+        "title": "Compliance Chasing",
+        "desc": "Automated compliance document requests and deadline tracking for a specialist recruiter.",
+        "stat": "Admin eliminated"
       },
       "agency": {
-        "tag": "Agency",
-        "title": "Client Onboarding System",
-        "desc": "Automated onboarding cut delivery time from 2 weeks to 3 days with zero manual steps.",
-        "stat": "Onboarding Time"
+        "tag": "Recruitment",
+        "title": "Interview Scheduling",
+        "desc": "End-to-end interview scheduling automation removing back-and-forth from the consultant's plate.",
+        "stat": "Time per booking"
       }
     },
     "services": {
-      "title": "What we specialize in.",
-      "subtitle": "End-to-end AI systems that drive real business outcomes.",
+      "title": "What I specialise in.",
+      "subtitle": "Automation for the work that eats a recruitment desk's week.",
       "growth": {
-        "name": "Growth Systems & Automations",
-        "desc": "AI-powered lead generation and sales systems that fill your pipeline on autopilot.",
+        "name": "Growth Systems and Automations",
+        "desc": "AI-powered lead generation and outreach systems that keep your pipeline moving without manual effort.",
         "li1": "AI Cold Email Campaigns",
-        "li2": "Lead Scoring & Routing",
+        "li2": "Lead Scoring and Routing",
         "li3": "CRM Automation",
         "li4": "Content Distribution"
       },
       "operations": {
-        "name": "Operations & Fulfillment Automation",
+        "name": "Operations and Workflow Automation",
         "desc": "Streamline delivery, onboarding, and project management with intelligent workflows.",
-        "li1": "Automated Fulfillment",
+        "li1": "Automated Fulfilment",
         "li2": "Client Onboarding",
         "li3": "Project Management Workflows",
         "li4": "Reporting Dashboards"
       },
       "bespoke": {
         "name": "Bespoke AI Solutions",
-        "desc": "Custom AI tools tailored to your exact business needs — chatbots, scoring models, and more.",
+        "desc": "Custom AI tools built for your exact workflow. Chatbots, scoring models, document automation and more.",
         "li1": "Custom AI Chatbots",
-        "li2": "AI Scoring & Classification",
+        "li2": "AI Scoring and Classification",
         "li3": "Data Pipelines",
         "li4": "Internal AI Tools"
       }
     },
     "testimonials": {
       "title": "What Clients Say",
-      "quote": "NextVibe built a full AI lead system for us in under 3 weeks. Our demo bookings tripled and the team finally has time to focus on closing deals instead of chasing cold leads."
+      "quote": ""
     },
     "form": {
-      "title": "Tell us where you're at...",
+      "title": "Tell me where you're at...",
       "name": "Name",
       "email": "Email",
       "company": "Company",
       "budget": "Budget",
       "budgetPlaceholder": "Select a range",
-      "budget1": "£5,000 – £10,000",
-      "budget2": "£10,000 – £25,000",
-      "budget3": "£25,000+",
-      "messageLabel": "Tell us about your project",
+      "budget1": "£95",
+      "budget2": "£450",
+      "budget3": "£2,500",
+      "messageLabel": "Tell me about your workflow",
       "messagePlaceholder": "What are you looking to automate?",
       "namePlaceholder": "Your name",
       "emailPlaceholder": "you@company.com",
@@ -100,13 +100,13 @@
       "submit": "Send Message"
     },
     "footer": {
-      "copy": "© 2026 NextVibe. All rights reserved."
+      "copy": "© 2026 NextVibe AI. All rights reserved."
     },
     "servicesPage": {
       "hero": {
-        "headline": "Services & Solutions",
-        "subtitle": "End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.",
-        "metric1": "Avg. Cost Reduction",
+        "headline": "AI Automation Services for UK Recruitment Firms",
+        "subtitle": "Fixed prices. One practitioner. I build the workflow, hand it over documented, and you own it.",
+        "metric1": "Avg. Time Saved",
         "metric2": "Faster Delivery",
         "metric3": "Hours Saved Monthly"
       },
@@ -114,142 +114,142 @@
         "title": "Lead Generation Systems",
         "subtitle": "AI-powered pipelines that fill your calendar with qualified prospects.",
         "card1": { "title": "AI Cold Email", "desc": "Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules that land in the primary inbox." },
-        "card2": { "title": "Application Systems", "desc": "Inbound funnels with AI qualification — automatically score, route, and follow up with every lead so nothing falls through the cracks." },
+        "card2": { "title": "Application Systems", "desc": "Inbound funnels with AI qualification. Automatically score, route, and follow up with every lead so nothing falls through the cracks." },
         "card3": { "title": "Content Systems", "desc": "AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels." }
       },
       "pm": {
         "title": "Project Management Systems",
         "subtitle": "Automate delivery workflows so your team can focus on high-value work.",
-        "card1": { "title": "Automated Fulfillment", "desc": "End-to-end delivery automation — from task creation to status updates to client communication, all running without manual intervention." },
+        "card1": { "title": "Automated Fulfilment", "desc": "End-to-end delivery automation. From task creation to status updates to client communication, all running without manual intervention." },
         "card2": { "title": "Client Onboarding", "desc": "Structured onboarding flows that gather requirements, set expectations, and kick off projects automatically the moment a deal closes." },
         "card3": { "title": "PM Workflows", "desc": "Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned." }
       },
       "hiring": {
         "title": "Hiring Systems",
         "subtitle": "Recruit smarter and faster with AI-powered screening and evaluation.",
-        "card1": { "title": "Intake Systems", "desc": "Structured application forms with automatic data extraction and candidate profiling — no more manual resume sorting." },
-        "card2": { "title": "AI Scoring", "desc": "Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators — reducing bias and saving hours." },
+        "card1": { "title": "Intake Systems", "desc": "Structured application forms with automatic data extraction and candidate profiling. No more manual CV sorting." },
+        "card2": { "title": "AI Scoring", "desc": "Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators. Reduces bias and saves hours." },
         "card3": { "title": "Trial Processes", "desc": "Automated trial project assignment, submission tracking, and evaluation workflows that surface your best candidates fast." }
       },
       "salesAdmin": {
         "title": "Sales Administration",
         "subtitle": "Streamline your sales ops with custom tools and intelligent automation.",
-        "card1": { "title": "Custom CRMs", "desc": "Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging without the bloat." },
+        "card1": { "title": "Custom CRMs", "desc": "Bespoke CRM setups tailored to your sales process. Automated deal tracking, pipeline views, and activity logging without the bloat." },
         "card2": { "title": "AI Asset Generators", "desc": "Automatically generate proposals, SOWs, and sales decks personalised to each prospect using AI and your existing templates." },
         "card3": { "title": "Nurture Systems", "desc": "Multi-channel follow-up sequences that keep warm leads engaged with timely, relevant touchpoints until they're ready to buy." }
       },
       "personas": {
-        "title": "Who It's For",
-        "subtitle": "We work best with businesses ready to scale operations through automation.",
-        "agencies": { "title": "Agencies", "desc": "Automate client delivery, onboarding, and lead gen so you can grow without proportionally growing your team." },
-        "saas": { "title": "SaaS Companies", "desc": "Build automated outbound pipelines, trial-to-paid workflows, and customer success systems." },
-        "professional": { "title": "Professional Services", "desc": "Streamline intake, scheduling, billing, and client communication with zero manual overhead." },
-        "ecommerce": { "title": "E-Commerce", "desc": "Automate order processing, inventory management, customer support, and marketing workflows at scale." }
+        "title": "Who it's for",
+        "subtitle": "I work with UK recruitment firms and specialist service businesses.",
+        "agencies": { "title": "Recruitment Firms", "desc": "CV formatting, compliance chasing, interview scheduling. I build the workflows that take these off your plate." },
+        "saas": { "title": "Cleaning Firms", "desc": "Rotas, quotes, client follow-up. If the work follows a pattern, I can automate the admin around it." },
+        "professional": { "title": "Legal and Accountancy", "desc": "Document chasing, compliance workflows, client onboarding. Fixed-price automation that fits small specialist practices." },
+        "ecommerce": { "title": "Specialist Services", "desc": "Any small firm where the same admin runs every week. If you can describe the pattern, I can build the workflow." }
       },
       "process": {
-        "title": "Our Process",
-        "subtitle": "From discovery to deployment in weeks, not months.",
-        "step1": { "title": "Discovery", "desc": "We map your current workflows, identify automation opportunities, and prioritise by ROI impact." },
-        "step2": { "title": "Design", "desc": "We architect the system — selecting the right tools, defining data flows, and planning integrations." },
-        "step3": { "title": "Build", "desc": "Rapid implementation with weekly demos. You see progress and can give feedback in real time." },
-        "step4": { "title": "Launch", "desc": "Go live with full documentation, training, and 30 days of support to ensure everything runs smoothly." }
+        "title": "How I Work",
+        "subtitle": "From first call to handover in days, not months.",
+        "step1": { "title": "Audit", "desc": "I map your current workflows, identify automation opportunities, and prioritise by time saved." },
+        "step2": { "title": "Design", "desc": "I design the system. The right tools, clean data flows, and integrations that actually work together." },
+        "step3": { "title": "Build", "desc": "I build and test everything. You see it working before I hand it over." },
+        "step4": { "title": "Handover", "desc": "Full documentation and a recorded walkthrough. The workflow is yours." }
       },
       "pricing": {
-        "title": "Pricing",
-        "subtitle": "Transparent pricing. No hidden fees. Choose what fits your needs.",
+        "title": "What it costs",
+        "subtitle": "Three fixed prices, nothing hidden. The £95 rescue exists so you can test how I work before committing to a bigger build.",
         "cta": "Get Started",
         "tier1": {
-          "name": "Single System", "period": "one-time", "amount": "£3,500",
-          "desc": "One complete automation system, built and deployed for your business.",
-          "li1": "1 automation system", "li2": "Discovery & design session",
-          "li3": "2–3 week delivery", "li4": "Full documentation", "li5": "14 days post-launch support"
+          "name": "Automation Rescue", "period": "fixed price", "amount": "£95",
+          "desc": "I identify and fix one broken workflow within 48 hours.",
+          "li1": "One workflow fixed", "li2": "48-hour delivery",
+          "li3": "Documentation included", "li4": "", "li5": ""
         },
         "tier2": {
-          "name": "Growth Package", "period": "one-time", "amount": "£8,500",
-          "desc": "A suite of interconnected systems that transform how your business operates.",
-          "li1": "3 automation systems", "li2": "Full workflow audit",
-          "li3": "4–6 week delivery", "li4": "System integrations", "li5": "30 days post-launch support"
+          "name": "5-Day Workflow", "period": "fixed price. £300 for the first three founding clients", "amount": "£450",
+          "desc": "A full automation built, tested, and handed over in five working days.",
+          "li1": "One full workflow", "li2": "5-working-day delivery",
+          "li3": "Documentation and handover", "li4": "", "li5": ""
         },
         "tier3": {
-          "name": "Retainer", "period": "per month", "amount": "£3,000",
-          "desc": "Ongoing automation partner. We continuously build, optimise, and maintain your systems.",
-          "li1": "Dedicated automation team", "li2": "Unlimited system requests",
-          "li3": "Priority support", "li4": "Monthly strategy calls", "li5": "Continuous optimisation"
+          "name": "AI Workflow Audit + Build", "period": "fixed price. 50% on signature, 50% on handover. UK-invoiced via Stripe", "amount": "£2,500",
+          "desc": "A full audit of your workflows followed by the highest-impact automation, delivered and documented.",
+          "li1": "Full workflow audit", "li2": "One high-impact automation",
+          "li3": "Full documentation and handover", "li4": "", "li5": ""
         }
       },
       "cta": {
-        "headline": "Ready to automate your growth?",
-        "subtitle": "Book a free 30-minute strategy call and we'll map out your biggest automation opportunities."
+        "headline": "Ready to automate your desk admin?",
+        "subtitle": "Start from £95 and test how I work before committing to anything bigger."
       }
     },
     "aboutPage": {
       "hero": {
-        "headlinePre": "We saw the future of work — and ",
-        "headlineCyan": "built it",
-        "subtitle": "NextVibe was founded on a simple belief: businesses shouldn't spend their best hours on tasks a machine can do better. We build the AI systems that make that real."
+        "headlinePre": "The honest ",
+        "headlineCyan": "version",
+        "subtitle": ""
       },
       "story": {
-        "p1": "We started NextVibe in 2020 when we noticed something that most businesses were ignoring: the gap between what AI could do and what businesses were actually using it for was massive — and growing.",
-        "p2": "While the world was talking about AI, we were quietly building it into real business workflows. Cold email systems that wrote themselves. Onboarding flows that ran without a single manual step. CRMs that updated themselves in real time.",
-        "highlight": "\"We don't sell AI hype. We sell hours back to your team and revenue to your bottom line.\"",
-        "p3": "Today, NextVibe works with agencies, SaaS companies, and service businesses across the UK and beyond. We've automated thousands of hours of manual work and helped our clients scale without scaling their headcount.",
-        "p4": "Our approach is simple: understand your business deeply, find the highest-impact automation opportunities, and build systems that actually work — not flashy demos that collect dust."
+        "p1": "I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for recruitment firms. I started in March 2026.",
+        "p2": "No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on. My LinkedIn publishing, my outreach, my reporting and my admin all run on workflows I built myself. I sell what I use every day.",
+        "highlight": "",
+        "p3": "Why recruitment? Because a recruitment desk is full of work that follows the same shape every time. CV formatting. Compliance chasing. Interview scheduling. That sameness is what automation does well, and most small firms have nobody whose job is to build it. Cleaning firms and specialist practices carry the same shape, so I take that work too.",
+        "p4": "What I believe: the technology is the easy half. Choosing the right process to automate first is the hard half. So every engagement starts with an audit of the workflow, then one bounded build, then the maths on what it saved. Small, shipped, proven."
       },
       "founders": {
-        "title": "Meet the Founder",
-        "subtitle": "The person behind NextVibe's AI automation systems.",
+        "title": "The Founder",
+        "subtitle": "The person behind NextVibe AI.",
         "victor": {
-          "role": "CEO & Founder",
-          "bio": "Former automation consultant turned founder. Victor has built AI and automation systems across every major industry — leading strategy, system architecture, and delivery at NextVibe."
+          "role": "Founder",
+          "bio": "One person, based in the UK. I build AI automation workflows for recruitment firms and specialist service businesses. I started NextVibe AI in March 2026."
         }
       },
       "timeline": {
-        "title": "Our Journey",
-        "subtitle": "Key milestones on the path to where we are today.",
-        "item1": { "title": "Founded NextVibe", "desc": "Started as a two-person consultancy, building automation systems for local businesses during the pandemic." },
-        "item2": { "title": "First Enterprise Client", "desc": "Landed our first enterprise engagement — a full-stack automation overhaul for a 50-person agency." },
-        "item3": { "title": "AI-First Pivot", "desc": "Integrated GPT-powered AI into every system we build, becoming one of the first agencies to go fully AI-native." },
-        "item4": { "title": "50+ Clients Served", "desc": "Crossed 50 active clients and 500+ hours of manual work automated per month across our portfolio." },
-        "item5": { "title": "Scaling Up", "desc": "Expanding the team, launching new service tiers, and building proprietary AI tools for our clients." }
+        "title": "Timeline",
+        "subtitle": "",
+        "item1": { "title": "NextVibe AI founded", "desc": "Started building AI automation workflows for UK recruitment firms. March 2026." },
+        "item2": { "title": "", "desc": "" },
+        "item3": { "title": "", "desc": "" },
+        "item4": { "title": "", "desc": "" },
+        "item5": { "title": "", "desc": "" }
       },
       "values": {
-        "title": "What We Stand For",
-        "subtitle": "The principles that guide every system we build.",
-        "action": { "title": "Bias to Action", "desc": "We ship fast. Weeks, not quarters. Every system we build goes live and starts delivering value immediately." },
-        "roi": { "title": "Obsess Over ROI", "desc": "We don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business." },
+        "title": "What I Stand For",
+        "subtitle": "The principles behind every workflow I build.",
+        "action": { "title": "Bias to Action", "desc": "I ship fast. Weeks, not quarters. Every system I build goes live and starts delivering value immediately." },
+        "roi": { "title": "Obsess Over ROI", "desc": "I don't build cool tech for the sake of it. Every automation must have a clear, measurable impact on your business." },
         "transparency": { "title": "Radical Transparency", "desc": "No black boxes. You see every workflow, every integration, every decision. Your systems belong to you." },
-        "simplicity": { "title": "Simplicity First", "desc": "The best system is the simplest one that works. We avoid over-engineering and focus on reliability." },
-        "ahead": { "title": "Stay Ahead", "desc": "We're always testing new AI models, tools, and techniques so our clients get access to what's next — before their competitors." },
-        "partnership": { "title": "Real Partnership", "desc": "We're not a vendor. We embed into your team, understand your goals, and build as if it were our own business." }
+        "simplicity": { "title": "Simplicity First", "desc": "The best system is the simplest one that works. I avoid over-engineering and focus on reliability." },
+        "ahead": { "title": "Stay Ahead", "desc": "I'm always testing new AI models, tools, and techniques so clients get access to what works now, not what was trendy last year." },
+        "partnership": { "title": "Direct Partnership", "desc": "I'm not a vendor. I embed into your workflow, understand your goals, and build as if it were my own business." }
       },
       "cta": {
-        "headlinePre": "Let's build something ",
-        "headlineCyan": "extraordinary",
-        "subtitle": "Book a free strategy call and discover how AI automation can transform your business operations."
+        "headlinePre": "Got a workflow that ",
+        "headlineCyan": "wastes your week?",
+        "subtitle": "Start from £95 and test how I work before committing to anything bigger."
       }
     },
     "startPage": {
       "hero": {
-        "headline": "Stop Losing Revenue to Manual Work",
-        "subtitle": "Most small businesses waste 20-30% of revenue through broken workflows. We find the leaks and fix them with AI automation — typically saving 15-20 hours/week.",
+        "headline": "Stop losing hours to admin that runs itself",
+        "subtitle": "Get my free checklist showing which recruitment workflows are worth automating first.",
         "firstNamePlaceholder": "First Name",
         "emailPlaceholder": "Email",
         "companyPlaceholder": "Company Name",
-        "submitBtn": "Get Your Free AI Audit →",
-        "successTitle": "Thanks! We're excited to help.",
-        "successText": "We'll be in touch within 24 hours with your free AI audit.",
-        "bookCallBtn": "Book Your Call Now →",
-        "subtext": "No commitment. Takes 2 minutes."
+        "submitBtn": "Get the AI Automation Checklist →",
+        "successTitle": "Thanks. I'll send the checklist now.",
+        "successText": "I'll also be in touch within one working day if the workflow you described sounds like a good fit.",
+        "bookCallBtn": "Book a call instead →",
+        "subtext": "No commitment. No spam."
       },
       "proof": {
-        "automations": "Automations Built",
-        "savedPerWeek": "Saved Per Week",
-        "revenueGrowth": "Revenue Growth"
+        "automations": "",
+        "savedPerWeek": "",
+        "revenueGrowth": ""
       },
       "problem": {
         "title": "Sound Familiar?",
-        "subtitle": "These aren't just annoyances — they're costing you £5,000-20,000 per month in lost revenue and wasted time.",
-        "calloutAmount": "£5,000-20,000 per month",
+        "subtitle": "These aren't just annoyances. They cost real hours and real money every week.",
+        "calloutAmount": "These problems cost real hours and real revenue every month.",
         "card1Title": "Repetitive Tasks Eating Your Day",
         "card1Desc": "Spending hours on repetitive tasks that should take minutes",
         "card2Title": "Leads Slipping Through",
@@ -262,62 +262,62 @@
       "solution": {
         "title": "How It Works",
         "step1Title": "Audit",
-        "step1Desc": "We analyse your current workflows and identify the biggest time and revenue leaks. Free, no strings attached.",
+        "step1Desc": "I analyse your current workflows and identify the biggest time and revenue leaks.",
         "step2Title": "Design",
-        "step2Desc": "We map out your custom automation system — connecting your tools, eliminating manual steps, and building AI into the right places.",
+        "step2Desc": "I map out your automation system. The right tools, no manual steps, AI where it earns its place.",
         "step3Title": "Implement",
-        "step3Desc": "We build, test, and deploy. You get a system that runs itself while you focus on growing your business.",
-        "cta": "Start With Your Free Audit →"
+        "step3Desc": "I build, test, and hand over. You get a workflow that runs itself.",
+        "cta": "Get the checklist →"
       },
       "testimonials": {
-        "title": "What Clients Say",
-        "t1Text": "Saved us 15 hours a week on client onboarding alone. The ROI was obvious within the first month.",
-        "t1Role": "Operations Director",
-        "t1Result": "Result: 15 hrs/week saved",
-        "t2Text": "Victor built an automation that replaced three manual processes. Our lead response time went from 4 hours to under 5 minutes.",
-        "t2Role": "Founder, SaaS Startup",
-        "t2Result": "Result: 47x faster response",
-        "t3Text": "We were skeptical about AI automation. Within two weeks, we stopped being skeptical and started being annoyed we didn't do it sooner.",
-        "t3Role": "Managing Director, Agency",
-        "t3Result": "Result: £8K/month recovered"
+        "title": "",
+        "t1Text": "",
+        "t1Role": "",
+        "t1Result": "",
+        "t2Text": "",
+        "t2Role": "",
+        "t2Result": "",
+        "t3Text": "",
+        "t3Role": "",
+        "t3Result": ""
       },
       "caseStudy": {
-        "title": "How a 5-Person Agency Recovered £8K/Month",
-        "problemTitle": "The Problem",
-        "p1": "Manual lead routing causing delays",
-        "p2": "Missed follow-ups on hot prospects",
-        "p3": "Inconsistent client onboarding (3+ days of back-and-forth)",
-        "solutionTitle": "The Solution",
-        "s1": "Make.com + AI pipeline for intelligent lead scoring",
-        "s2": "Instant follow-up emails triggered on inbound leads",
-        "s3": "Client onboarding completed in 20 minutes (fully automated)",
-        "resultTitle": "The Result",
-        "r1Metric": "£8,000",
-        "r1Label": "Monthly Revenue Recovered",
-        "r2Label": "Freed Up Per Week",
-        "r3Label": "Faster Onboarding",
-        "cta": "Get Results Like This →"
+        "title": "",
+        "problemTitle": "",
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "solutionTitle": "",
+        "s1": "",
+        "s2": "",
+        "s3": "",
+        "resultTitle": "",
+        "r1Metric": "",
+        "r1Label": "",
+        "r2Label": "",
+        "r3Label": "",
+        "cta": ""
       },
       "faq": {
         "title": "Frequently Asked Questions",
         "q1": "How much does this cost?",
-        "a1": "Our AI Audit is completely free. Implementation projects typically range from £1,500-5,000 depending on complexity, with most clients seeing ROI within the first month.",
+        "a1": "Fixed prices: £95 to fix one broken workflow within 48 hours, £450 for a full 5-day build (£300 for the first three founding clients), or £2,500 for a two-week audit and build with a full roadmap. No hidden fees.",
         "q2": "Will this disrupt my current operations?",
-        "a2": "No. We build alongside your existing tools and processes. There's zero downtime. We test everything before it goes live.",
+        "a2": "No. I build alongside your existing tools and processes. There's zero downtime. I test everything before it goes live.",
         "q3": "How long does implementation take?",
         "a3": "Most automation systems are live within 1-2 weeks. Complex projects take 3-4 weeks. You'll see quick wins within days.",
         "q4": "Do I need technical knowledge?",
-        "a4": "Not at all. We handle everything technical. You just tell us what's eating your time and we fix it.",
+        "a4": "Not at all. I handle everything technical. You just tell me what's eating your time and I fix it.",
         "q5": "What tools do you work with?",
-        "a5": "We specialise in Make.com, Notion, CRMs (HubSpot, Pipedrive), email platforms, and AI models (GPT-4, Claude). If you use it, we can probably automate it.",
+        "a5": "I specialise in Make.com, Notion, CRMs (HubSpot, Pipedrive), email platforms, and AI models (GPT-4, Claude). If you use it, I can probably automate it.",
         "q6": "What if it doesn't work?",
-        "a6": "Every project starts with a free audit so we can confirm ROI before you invest anything. We don't take projects we can't deliver on."
+        "a6": "Every project starts with a workflow audit so I can confirm the ROI before you commit. I don't take projects I can't deliver."
       },
       "finalCta": {
-        "headline": "Ready to Stop Doing Work a Machine Should Handle?",
-        "subtitle": "Get your free AI Audit. We'll show you exactly where you're losing time and money — and how to fix it.",
-        "cta": "Get Your Free AI Audit →",
-        "subtext": "Limited to 5 audits per month. No commitment required."
+        "headline": "Got a workflow that wastes your week?",
+        "subtitle": "Start at £95 or download the checklist and see which processes in your business are worth automating first.",
+        "cta": "Get the AI Automation Checklist →",
+        "subtext": "No commitment. No spam."
       },
       "footer": {
         "privacy": "Privacy Policy",
@@ -334,71 +334,71 @@
       "bookCall": "Reservar Llamada"
     },
     "hero": {
-      "badge": "Sistemas impulsados por IA para el mundo real",
-      "headline": "Construimos Infraestructura de IA Detrás de Empresas en Crecimiento.",
-      "subtitle": "Diseñamos e implementamos sistemas de IA que generan leads, cierran ventas y optimizan operaciones — para que te enfoques en lo que mejor haces.",
-      "cta1": "Reservar Llamada",
+      "badge": "Flujos de trabajo con IA para empresas de selección en el Reino Unido",
+      "headline": "Las colocaciones generan el dinero. El papeleo se come la semana. Yo automatizo el papeleo.",
+      "subtitle": "Flujos de trabajo con IA para empresas de selección del Reino Unido, construidos por un solo profesional. Precios fijos de £95 a £2.500, todo en esta web.",
+      "cta1": "Empezar desde £95",
       "cta2": "Nuestros Servicios"
     },
     "stats": {
       "systems": "Sistemas Construidos",
       "hours": "Horas Ahorradas Mensualmente",
-      "cost": "% Reducción de Costos"
+      "cost": "% Reducción de Costes"
     },
     "calculator": {
-      "title": "¿Cuánto Podría Ahorrar la IA Tu Negocio?",
+      "title": "¿Cuánto Podría Ahorrar la IA a Tu Negocio?",
       "subtitle": "Ingresa tus datos y ve el impacto potencial de la automatización.",
       "employees": "Número de Empleados",
-      "hourlyRate": "Tarifa Horaria Promedio (€)",
+      "hourlyRate": "Tarifa Horaria Promedio (£)",
       "hoursWasted": "Horas en Tareas Manuales / Semana / Empleado",
       "annualSavings": "Ahorro Anual Estimado",
       "monthlySavings": "Ahorro Mensual",
       "hoursReclaimed": "Horas Recuperadas / Año"
     },
     "caseStudies": {
-      "title": "Resultados Reales. Negocios Reales.",
-      "subtitle": "Ve cómo hemos ayudado a empresas a crecer mediante automatización.",
+      "title": "Cómo trabajo.",
+      "subtitle": "Precios fijos. Entregas documentadas. El flujo de trabajo es tuyo.",
       "saas": {
-        "tag": "SaaS",
-        "title": "Embudo de Leads Automatizado",
-        "desc": "Sistema de email en frío y puntuación de leads impulsado por IA que triplicó las demos cualificadas en 90 días.",
-        "stat": "Demos Cualificadas"
+        "tag": "Selección",
+        "title": "Flujo de formateo de CV",
+        "desc": "Automatización del reformateo de CV y extracción de datos de candidatos para una empresa de selección.",
+        "stat": "Horas ahorradas por semana"
       },
       "ecommerce": {
-        "tag": "E-Commerce",
-        "title": "Automatización de Fulfillment",
-        "desc": "Reemplazó más de 40 horas de procesamiento manual de pedidos por semana con un sistema de automatización de extremo a extremo.",
-        "stat": "Horas Ahorradas / Semana"
+        "tag": "Selección",
+        "title": "Seguimiento de cumplimiento",
+        "desc": "Solicitudes automatizadas de documentos de cumplimiento y seguimiento de plazos para un reclutador especializado.",
+        "stat": "Administración eliminada"
       },
       "agency": {
-        "tag": "Agencia",
-        "title": "Sistema de Incorporación de Clientes",
-        "desc": "La incorporación automatizada redujo el tiempo de entrega de 2 semanas a 3 días sin pasos manuales.",
-        "stat": "Tiempo de Incorporación"
+        "tag": "Selección",
+        "title": "Programación de entrevistas",
+        "desc": "Automatización completa de la programación de entrevistas, eliminando el intercambio de mensajes de la agenda del consultor.",
+        "stat": "Tiempo por reserva"
       }
     },
     "services": {
-      "title": "En qué nos especializamos.",
-      "subtitle": "Sistemas de IA de extremo a extremo que impulsan resultados comerciales reales.",
+      "title": "En lo que me especializo.",
+      "subtitle": "Automatización para el trabajo que se come la semana de una empresa de selección.",
       "growth": {
         "name": "Sistemas de Crecimiento y Automatización",
-        "desc": "Sistemas de generación de leads y ventas impulsados por IA que llenan tu pipeline automáticamente.",
+        "desc": "Sistemas de generación de leads y ventas con IA que mantienen tu pipeline activo sin esfuerzo manual.",
         "li1": "Campañas de Email en Frío con IA",
         "li2": "Puntuación y Enrutamiento de Leads",
         "li3": "Automatización de CRM",
         "li4": "Distribución de Contenidos"
       },
       "operations": {
-        "name": "Automatización de Operaciones y Cumplimiento",
+        "name": "Automatización de Operaciones y Flujos de Trabajo",
         "desc": "Simplifica entrega, incorporación y gestión de proyectos con flujos de trabajo inteligentes.",
-        "li1": "Fulfillment Automatizado",
+        "li1": "Cumplimiento Automatizado",
         "li2": "Incorporación de Clientes",
         "li3": "Flujos de Gestión de Proyectos",
         "li4": "Dashboards de Informes"
       },
       "bespoke": {
         "name": "Soluciones de IA Personalizadas",
-        "desc": "Herramientas de IA personalizadas para tus necesidades exactas — chatbots, modelos de puntuación y más.",
+        "desc": "Herramientas de IA construidas para tu flujo de trabajo exacto. Chatbots, modelos de puntuación, automatización de documentos y más.",
         "li1": "Chatbots de IA Personalizados",
         "li2": "Puntuación y Clasificación con IA",
         "li3": "Pipelines de Datos",
@@ -406,20 +406,20 @@
       }
     },
     "testimonials": {
-      "title": "Lo que Dicen Nuestros Clientes",
-      "quote": "NextVibe construyó un sistema completo de leads con IA para nosotros en menos de 3 semanas. Nuestras reservas de demos se triplicaron y el equipo finalmente tiene tiempo para enfocarse en cerrar tratos en lugar de perseguir leads en frío."
+      "title": "Lo que Dicen los Clientes",
+      "quote": ""
     },
     "form": {
-      "title": "Cuéntanos dónde estás...",
+      "title": "Cuéntame dónde estás...",
       "name": "Nombre",
       "email": "Correo Electrónico",
       "company": "Empresa",
       "budget": "Presupuesto",
       "budgetPlaceholder": "Selecciona un rango",
-      "budget1": "€5,800 – €11,600",
-      "budget2": "€11,600 – €29,000",
-      "budget3": "€29,000+",
-      "messageLabel": "Cuéntanos sobre tu proyecto",
+      "budget1": "£95",
+      "budget2": "£450",
+      "budget3": "£2.500",
+      "messageLabel": "Cuéntame sobre tu flujo de trabajo",
       "messagePlaceholder": "¿Qué quieres automatizar?",
       "namePlaceholder": "Tu nombre",
       "emailPlaceholder": "tu@empresa.com",
@@ -427,156 +427,156 @@
       "submit": "Enviar Mensaje"
     },
     "footer": {
-      "copy": "© 2026 NextVibe. Todos los derechos reservados."
+      "copy": "© 2026 NextVibe AI. Todos los derechos reservados."
     },
     "servicesPage": {
       "hero": {
-        "headline": "Servicios y Soluciones",
-        "subtitle": "Sistemas de IA de extremo a extremo diseñados para generar leads, automatizar operaciones y escalar tu negocio sin aumentar tu plantilla.",
-        "metric1": "Reducción de Costos Promedio",
+        "headline": "Servicios de automatización con IA para empresas de selección del Reino Unido",
+        "subtitle": "Precios fijos. Un solo profesional. Construyo el flujo de trabajo, lo entrego documentado y es tuyo.",
+        "metric1": "Tiempo Medio Ahorrado",
         "metric2": "Entrega Más Rápida",
         "metric3": "Horas Ahorradas al Mes"
       },
       "leadGen": {
         "title": "Sistemas de Generación de Leads",
-        "subtitle": "Pipelines impulsados por IA que llenan tu calendario con prospectos cualificados.",
+        "subtitle": "Pipelines con IA que llenan tu calendario con prospectos cualificados.",
         "card1": { "title": "Email en Frío con IA", "desc": "Contacto hiperpersonalizado a escala usando textos generados por IA, calentamiento automatizado y horarios de envío inteligentes que llegan a la bandeja principal." },
-        "card2": { "title": "Sistemas de Solicitudes", "desc": "Embudos inbound con calificación de IA — puntúa, enruta y da seguimiento automáticamente a cada lead para que ninguno se pierda." },
-        "card3": { "title": "Sistemas de Contenido", "desc": "Pipelines de contenido asistidos por IA que convierten una pieza de liderazgo de pensamiento en docenas de activos listos para distribución en múltiples canales." }
+        "card2": { "title": "Sistemas de Solicitudes", "desc": "Embudos inbound con calificación de IA. Puntúa, enruta y da seguimiento automáticamente a cada lead para que ninguno se pierda." },
+        "card3": { "title": "Sistemas de Contenido", "desc": "Pipelines de contenido con IA que convierten una pieza de liderazgo de pensamiento en docenas de activos listos para distribución en múltiples canales." }
       },
       "pm": {
         "title": "Sistemas de Gestión de Proyectos",
         "subtitle": "Automatiza flujos de entrega para que tu equipo se centre en trabajo de alto valor.",
-        "card1": { "title": "Fulfillment Automatizado", "desc": "Automatización de entrega de extremo a extremo — desde la creación de tareas hasta actualizaciones de estado y comunicación con clientes, todo sin intervención manual." },
+        "card1": { "title": "Cumplimiento Automatizado", "desc": "Automatización de entrega de extremo a extremo. Desde la creación de tareas hasta actualizaciones de estado y comunicación con clientes, todo sin intervención manual." },
         "card2": { "title": "Incorporación de Clientes", "desc": "Flujos de incorporación estructurados que recopilan requisitos, establecen expectativas e inician proyectos automáticamente en el momento en que se cierra un trato." },
         "card3": { "title": "Flujos de Trabajo PM", "desc": "Asignación inteligente de tareas, seguimiento de plazos y detección de cuellos de botella que mantiene los proyectos en curso y tu equipo alineado." }
       },
       "hiring": {
         "title": "Sistemas de Contratación",
-        "subtitle": "Contrata de manera más inteligente y rápida con detección y evaluación impulsada por IA.",
-        "card1": { "title": "Sistemas de Captación", "desc": "Formularios de solicitud estructurados con extracción automática de datos y perfilado de candidatos — sin más clasificación manual de currículums." },
-        "card2": { "title": "Puntuación con IA", "desc": "Puntuación objetiva de candidatos basada en criterios personalizados, coincidencia de experiencia e indicadores de adecuación cultural — reduciendo sesgos y ahorrando horas." },
+        "subtitle": "Contrata de manera más inteligente y rápida con detección y evaluación con IA.",
+        "card1": { "title": "Sistemas de Captación", "desc": "Formularios de solicitud estructurados con extracción automática de datos y perfilado de candidatos. Sin más clasificación manual de currículums." },
+        "card2": { "title": "Puntuación con IA", "desc": "Puntuación objetiva de candidatos basada en criterios personalizados, coincidencia de experiencia e indicadores de adecuación cultural. Reduce sesgos y ahorra horas." },
         "card3": { "title": "Procesos de Prueba", "desc": "Asignación automatizada de proyectos de prueba, seguimiento de entregas y flujos de evaluación que identifican a tus mejores candidatos rápidamente." }
       },
       "salesAdmin": {
         "title": "Administración de Ventas",
         "subtitle": "Optimiza tus operaciones de ventas con herramientas personalizadas y automatización inteligente.",
-        "card1": { "title": "CRMs Personalizados", "desc": "Configuraciones de CRM a medida para tu proceso de ventas — seguimiento automatizado de tratos, vistas de pipeline y registro de actividades sin sobrecarga." },
+        "card1": { "title": "CRMs Personalizados", "desc": "Configuraciones de CRM a medida para tu proceso de ventas. Seguimiento automatizado de tratos, vistas de pipeline y registro de actividades sin sobrecarga." },
         "card2": { "title": "Generadores de Activos con IA", "desc": "Genera automáticamente propuestas, SOWs y presentaciones de ventas personalizadas para cada prospecto usando IA y tus plantillas existentes." },
         "card3": { "title": "Sistemas de Nutrición", "desc": "Secuencias de seguimiento multicanal que mantienen a los leads cálidos comprometidos con puntos de contacto oportunos y relevantes hasta que estén listos para comprar." }
       },
       "personas": {
-        "title": "Para Quién Es",
-        "subtitle": "Trabajamos mejor con empresas listas para escalar operaciones mediante automatización.",
-        "agencies": { "title": "Agencias", "desc": "Automatiza la entrega a clientes, la incorporación y la generación de leads para que puedas crecer sin aumentar proporcionalmente tu equipo." },
-        "saas": { "title": "Empresas SaaS", "desc": "Construye pipelines de outbound automatizados, flujos de prueba a pago y sistemas de éxito del cliente." },
-        "professional": { "title": "Servicios Profesionales", "desc": "Optimiza captación, programación, facturación y comunicación con clientes sin sobrecarga manual." },
-        "ecommerce": { "title": "E-Commerce", "desc": "Automatiza el procesamiento de pedidos, gestión de inventario, soporte al cliente y flujos de marketing a escala." }
+        "title": "Para quién es",
+        "subtitle": "Trabajo con empresas de selección del Reino Unido y negocios de servicios especializados.",
+        "agencies": { "title": "Empresas de selección", "desc": "Formateo de CV, seguimiento de cumplimiento, programación de entrevistas. Construyo los flujos de trabajo que te quitan esto de encima." },
+        "saas": { "title": "Empresas de limpieza", "desc": "Turnos, presupuestos, seguimiento de clientes. Si el trabajo sigue un patrón, puedo automatizar el papeleo." },
+        "professional": { "title": "Legal y contabilidad", "desc": "Seguimiento de documentos, flujos de cumplimiento, incorporación de clientes. Automatización a precio fijo para despachos especializados pequeños." },
+        "ecommerce": { "title": "Servicios especializados", "desc": "Cualquier empresa pequeña donde el mismo papeleo se repite cada semana. Si puedes describir el patrón, puedo construir el flujo de trabajo." }
       },
       "process": {
-        "title": "Nuestro Proceso",
-        "subtitle": "Del descubrimiento al despliegue en semanas, no meses.",
-        "step1": { "title": "Descubrimiento", "desc": "Mapeamos tus flujos de trabajo actuales, identificamos oportunidades de automatización y priorizamos por impacto en ROI." },
-        "step2": { "title": "Diseño", "desc": "Arquitectamos el sistema — seleccionando las herramientas correctas, definiendo flujos de datos y planificando integraciones." },
-        "step3": { "title": "Construcción", "desc": "Implementación rápida con demos semanales. Ves el progreso y puedes dar retroalimentación en tiempo real." },
-        "step4": { "title": "Lanzamiento", "desc": "Puesta en marcha con documentación completa, capacitación y 30 días de soporte para asegurar que todo funcione sin problemas." }
+        "title": "Cómo Trabajo",
+        "subtitle": "De la primera llamada a la entrega en días, no meses.",
+        "step1": { "title": "Auditoría", "desc": "Mapeo tus flujos de trabajo actuales, identifico oportunidades de automatización y priorizo por tiempo ahorrado." },
+        "step2": { "title": "Diseño", "desc": "Diseño el sistema. Las herramientas correctas, flujos de datos limpios e integraciones que realmente funcionan juntas." },
+        "step3": { "title": "Construcción", "desc": "Construyo y pruebo todo. Lo ves funcionando antes de la entrega." },
+        "step4": { "title": "Entrega", "desc": "Documentación completa y una guía grabada. El flujo de trabajo es tuyo." }
       },
       "pricing": {
-        "title": "Precios",
-        "subtitle": "Precios transparentes. Sin costos ocultos. Elige lo que se adapta a tus necesidades.",
-        "cta": "Comenzar",
+        "title": "Qué cuesta",
+        "subtitle": "Tres precios fijos, sin costes ocultos. El rescate de £95 existe para que puedas probar cómo trabajo antes de comprometerte con algo mayor.",
+        "cta": "Empezar",
         "tier1": {
-          "name": "Sistema Individual", "period": "pago único", "amount": "€4,060",
-          "desc": "Un sistema de automatización completo, construido y desplegado para tu negocio.",
-          "li1": "1 sistema de automatización", "li2": "Sesión de descubrimiento y diseño",
-          "li3": "Entrega en 2–3 semanas", "li4": "Documentación completa", "li5": "14 días de soporte post-lanzamiento"
+          "name": "Rescate de automatización", "period": "precio fijo", "amount": "£95",
+          "desc": "Identifico y reparo un flujo de trabajo roto en 48 horas.",
+          "li1": "Un flujo de trabajo arreglado", "li2": "Entrega en 48 horas",
+          "li3": "Documentación incluida", "li4": "", "li5": ""
         },
         "tier2": {
-          "name": "Paquete de Crecimiento", "period": "pago único", "amount": "€9,860",
-          "desc": "Un conjunto de sistemas interconectados que transforman cómo opera tu negocio.",
-          "li1": "3 sistemas de automatización", "li2": "Auditoría completa de flujos",
-          "li3": "Entrega en 4–6 semanas", "li4": "Integraciones de sistemas", "li5": "30 días de soporte post-lanzamiento"
+          "name": "Flujo de trabajo de 5 días", "period": "precio fijo. £300 para los tres primeros clientes fundadores", "amount": "£450",
+          "desc": "Una automatización completa construida, probada y entregada en cinco días hábiles.",
+          "li1": "Un flujo de trabajo completo", "li2": "Entrega en 5 días hábiles",
+          "li3": "Documentación y traspaso", "li4": "", "li5": ""
         },
         "tier3": {
-          "name": "Retainer", "period": "por mes", "amount": "€3,480",
-          "desc": "Socio de automatización continuo. Construimos, optimizamos y mantenemos tus sistemas continuamente.",
-          "li1": "Equipo de automatización dedicado", "li2": "Solicitudes de sistemas ilimitadas",
-          "li3": "Soporte prioritario", "li4": "Llamadas de estrategia mensuales", "li5": "Optimización continua"
+          "name": "Auditoría y construcción de flujo de trabajo con IA", "period": "precio fijo. 50% al inicio, 50% en la entrega. Facturado en el Reino Unido via Stripe", "amount": "£2.500",
+          "desc": "Una auditoría completa de tus flujos de trabajo seguida de la automatización de mayor impacto, entregada y documentada.",
+          "li1": "Auditoría completa de flujos de trabajo", "li2": "Una automatización de alto impacto",
+          "li3": "Documentación completa y traspaso", "li4": "", "li5": ""
         }
       },
       "cta": {
-        "headline": "¿Listo para automatizar tu crecimiento?",
-        "subtitle": "Reserva una llamada de estrategia gratuita de 30 minutos y mapearemos tus mayores oportunidades de automatización."
+        "headline": "¿Listo para automatizar el papeleo de tu mesa de trabajo?",
+        "subtitle": "Empieza desde £95 y prueba cómo trabajo antes de comprometerte con algo mayor."
       }
     },
     "aboutPage": {
       "hero": {
-        "headlinePre": "Vimos el futuro del trabajo — y lo ",
-        "headlineCyan": "construimos",
-        "subtitle": "NextVibe se fundó con una creencia simple: las empresas no deberían dedicar sus mejores horas a tareas que una máquina puede hacer mejor. Construimos los sistemas de IA que hacen eso realidad."
+        "headlinePre": "La versión ",
+        "headlineCyan": "honesta",
+        "subtitle": ""
       },
       "story": {
-        "p1": "Comenzamos NextVibe en 2020 cuando notamos algo que la mayoría de las empresas estaba ignorando: la brecha entre lo que la IA podía hacer y lo que las empresas realmente usaban era enorme — y crecía.",
-        "p2": "Mientras el mundo hablaba de IA, nosotros la integrábamos silenciosamente en flujos de trabajo empresariales reales. Sistemas de email en frío que se escribían solos. Flujos de incorporación que funcionaban sin un solo paso manual. CRMs que se actualizaban en tiempo real.",
-        "highlight": "\"No vendemos hype de IA. Vendemos horas de vuelta a tu equipo e ingresos a tu negocio.\"",
-        "p3": "Hoy, NextVibe trabaja con agencias, empresas SaaS y negocios de servicios en el Reino Unido y más allá. Hemos automatizado miles de horas de trabajo manual y ayudado a nuestros clientes a escalar sin aumentar su plantilla.",
-        "p4": "Nuestro enfoque es simple: entender tu negocio en profundidad, encontrar las oportunidades de automatización de mayor impacto y construir sistemas que realmente funcionen — no demos vistosas que acumulan polvo."
+        "p1": "Soy Victor Fernandez. NextVibe AI soy yo: una sola persona, basada en el Reino Unido, construyendo automatización con IA para empresas de selección. Empecé en marzo de 2026.",
+        "p2": "Sin logos de clientes todavía. Sin testimonios. No los voy a inventar. Lo que sí puedo mostrarte es el sistema con el que gestiono mi propio negocio. Mi publicación en LinkedIn, mi prospección, mis informes y mi administración funcionan con flujos de trabajo que construí yo mismo. Vendo lo que uso cada día.",
+        "highlight": "",
+        "p3": "¿Por qué selección? Porque una mesa de selección está llena de trabajo que siempre sigue el mismo patrón. Formatear CVs. Perseguir cumplimiento. Programar entrevistas. Esa repetición es lo que la automatización hace bien, y la mayoría de las pequeñas empresas no tienen a nadie cuyo trabajo sea construirla. Las empresas de limpieza y los despachos especializados tienen la misma estructura, así que también acepto ese trabajo.",
+        "p4": "Lo que creo: la tecnología es la mitad fácil. Elegir el proceso correcto que automatizar primero es la mitad difícil. Por eso cada compromiso empieza con una auditoría del flujo de trabajo, luego una construcción delimitada, luego los números de lo que ahorró. Pequeño, enviado, probado."
       },
       "founders": {
-        "title": "Conoce al Fundador",
-        "subtitle": "La persona detrás de los sistemas de automatización de IA de NextVibe.",
+        "title": "El Fundador",
+        "subtitle": "La persona detrás de NextVibe AI.",
         "victor": {
-          "role": "CEO y Fundador",
-          "bio": "Ex consultor de automatización convertido en fundador. Victor ha construido sistemas de IA y automatización en todos los sectores principales — liderando estrategia, arquitectura de sistemas y entrega en NextVibe."
+          "role": "Fundador",
+          "bio": "Una persona, basada en el Reino Unido. Construyo flujos de trabajo de automatización con IA para empresas de selección y negocios de servicios especializados. Empecé NextVibe AI en marzo de 2026."
         }
       },
       "timeline": {
-        "title": "Nuestro Recorrido",
-        "subtitle": "Hitos clave en el camino hacia donde estamos hoy.",
-        "item1": { "title": "Fundamos NextVibe", "desc": "Empezamos como una consultoría de dos personas, construyendo sistemas de automatización para empresas locales durante la pandemia." },
-        "item2": { "title": "Primer Cliente Empresarial", "desc": "Conseguimos nuestro primer proyecto empresarial — una revisión completa de automatización para una agencia de 50 personas." },
-        "item3": { "title": "Pivote AI-First", "desc": "Integramos IA impulsada por GPT en cada sistema que construimos, convirtiéndonos en una de las primeras agencias en ser completamente AI-native." },
-        "item4": { "title": "Más de 50 Clientes Atendidos", "desc": "Superamos los 50 clientes activos y más de 500 horas de trabajo manual automatizado al mes en toda nuestra cartera." },
-        "item5": { "title": "Escalando", "desc": "Ampliando el equipo, lanzando nuevos niveles de servicio y construyendo herramientas de IA propietarias para nuestros clientes." }
+        "title": "Historial",
+        "subtitle": "",
+        "item1": { "title": "NextVibe AI fundada", "desc": "Empecé a construir flujos de trabajo de automatización con IA para empresas de selección del Reino Unido. Marzo de 2026." },
+        "item2": { "title": "", "desc": "" },
+        "item3": { "title": "", "desc": "" },
+        "item4": { "title": "", "desc": "" },
+        "item5": { "title": "", "desc": "" }
       },
       "values": {
-        "title": "Lo Que Defendemos",
-        "subtitle": "Los principios que guían cada sistema que construimos.",
-        "action": { "title": "Sesgo a la Acción", "desc": "Enviamos rápido. Semanas, no trimestres. Cada sistema que construimos entra en producción y empieza a generar valor de inmediato." },
-        "roi": { "title": "Obsesión por el ROI", "desc": "No construimos tecnología genial por el placer de hacerlo. Cada automatización debe tener un impacto claro y medible en tu negocio." },
+        "title": "Lo Que Defiendo",
+        "subtitle": "Los principios detrás de cada flujo de trabajo que construyo.",
+        "action": { "title": "Sesgo a la Acción", "desc": "Entrego rápido. Semanas, no trimestres. Cada sistema que construyo entra en producción y empieza a generar valor de inmediato." },
+        "roi": { "title": "Obsesión por el ROI", "desc": "No construyo tecnología genial por el placer de hacerlo. Cada automatización debe tener un impacto claro y medible en tu negocio." },
         "transparency": { "title": "Transparencia Radical", "desc": "Sin cajas negras. Ves cada flujo de trabajo, cada integración, cada decisión. Tus sistemas te pertenecen." },
-        "simplicity": { "title": "Simplicidad Ante Todo", "desc": "El mejor sistema es el más simple que funciona. Evitamos la sobreingeniería y nos centramos en la fiabilidad." },
-        "ahead": { "title": "Siempre a la Vanguardia", "desc": "Siempre estamos probando nuevos modelos, herramientas y técnicas de IA para que nuestros clientes accedan a lo próximo — antes que sus competidores." },
-        "partnership": { "title": "Asociación Real", "desc": "No somos un proveedor. Nos integramos en tu equipo, entendemos tus objetivos y construimos como si fuera nuestro propio negocio." }
+        "simplicity": { "title": "Simplicidad Ante Todo", "desc": "El mejor sistema es el más simple que funciona. Evito la sobreingeniería y me centro en la fiabilidad." },
+        "ahead": { "title": "Siempre Actualizado", "desc": "Pruebo constantemente nuevos modelos, herramientas y técnicas de IA para que los clientes accedan a lo que funciona ahora." },
+        "partnership": { "title": "Asociación Directa", "desc": "No soy un proveedor. Me integro en tu flujo de trabajo, entiendo tus objetivos y construyo como si fuera mi propio negocio." }
       },
       "cta": {
-        "headlinePre": "Construyamos algo ",
-        "headlineCyan": "extraordinario",
-        "subtitle": "Reserva una llamada de estrategia gratuita y descubre cómo la automatización de IA puede transformar las operaciones de tu negocio."
+        "headlinePre": "¿Tienes un flujo de trabajo que ",
+        "headlineCyan": "desperdicia tu semana?",
+        "subtitle": "Empieza desde £95 y prueba cómo trabajo antes de comprometerte con algo mayor."
       }
     },
     "startPage": {
       "hero": {
-        "headline": "Deja de Perder Ingresos por Trabajo Manual",
-        "subtitle": "La mayoría de las pequeñas empresas pierden el 20-30% de sus ingresos por flujos de trabajo deficientes. Encontramos los problemas y los solucionamos con automatización de IA — típicamente ahorrando 15-20 horas/semana.",
+        "headline": "Deja de perder horas en papeleo que se automatiza solo",
+        "subtitle": "Obtén mi lista de verificación gratuita sobre qué flujos de trabajo de selección merecen la pena automatizar primero.",
         "firstNamePlaceholder": "Nombre",
         "emailPlaceholder": "Correo Electrónico",
         "companyPlaceholder": "Nombre de la Empresa",
-        "submitBtn": "Obtén Tu Auditoría de IA Gratuita →",
-        "successTitle": "¡Gracias! Estamos emocionados de ayudarte.",
-        "successText": "Nos pondremos en contacto en 24 horas con tu auditoría de IA gratuita.",
-        "bookCallBtn": "Reserva Tu Llamada Ahora →",
-        "subtext": "Sin compromiso. Tarda 2 minutos."
+        "submitBtn": "Obtener la lista de verificación de automatización con IA →",
+        "successTitle": "Gracias. Te envío la lista ahora.",
+        "successText": "También me pondré en contacto en un día hábil si el flujo de trabajo que describiste parece un buen encaje.",
+        "bookCallBtn": "Reservar una llamada →",
+        "subtext": "Sin compromiso. Sin spam."
       },
       "proof": {
-        "automations": "Automatizaciones Construidas",
-        "savedPerWeek": "Ahorradas Por Semana",
-        "revenueGrowth": "Crecimiento de Ingresos"
+        "automations": "",
+        "savedPerWeek": "",
+        "revenueGrowth": ""
       },
       "problem": {
         "title": "¿Te Suena Familiar?",
-        "subtitle": "No son solo molestias — te están costando €5.800-23.200 por mes en ingresos perdidos y tiempo desperdiciado.",
-        "calloutAmount": "€5.800-23.200 al mes",
+        "subtitle": "No son solo molestias. Cuestan horas reales y dinero real cada semana.",
+        "calloutAmount": "Estos problemas cuestan horas reales e ingresos reales cada mes.",
         "card1Title": "Tareas Repetitivas Consumiendo Tu Día",
         "card1Desc": "Pasando horas en tareas repetitivas que deberían tomar minutos",
         "card2Title": "Leads que se Escapan",
@@ -589,62 +589,62 @@
       "solution": {
         "title": "Cómo Funciona",
         "step1Title": "Auditoría",
-        "step1Desc": "Analizamos tus flujos de trabajo actuales e identificamos las mayores fugas de tiempo e ingresos. Gratuito, sin compromisos.",
+        "step1Desc": "Analizo tus flujos de trabajo actuales e identifico las mayores pérdidas de tiempo e ingresos.",
         "step2Title": "Diseño",
-        "step2Desc": "Diseñamos tu sistema de automatización personalizado — conectando tus herramientas, eliminando pasos manuales e integrando IA en los lugares correctos.",
+        "step2Desc": "Diseño tu sistema de automatización. Las herramientas correctas, sin pasos manuales, IA donde tiene sentido.",
         "step3Title": "Implementación",
-        "step3Desc": "Construimos, probamos e implementamos. Obtienes un sistema que se ejecuta solo mientras te enfocas en hacer crecer tu negocio.",
-        "cta": "Comienza Con Tu Auditoría Gratuita →"
+        "step3Desc": "Construyo, pruebo y entrego. Obtienes un flujo de trabajo que se gestiona solo.",
+        "cta": "Obtener la lista →"
       },
       "testimonials": {
-        "title": "Lo Que Dicen Los Clientes",
-        "t1Text": "Nos ahorró 15 horas a la semana solo en la incorporación de clientes. El ROI fue obvio dentro del primer mes.",
-        "t1Role": "Director de Operaciones",
-        "t1Result": "Resultado: 15 hrs/semana ahorradas",
-        "t2Text": "Victor construyó una automatización que reemplazó tres procesos manuales. Nuestro tiempo de respuesta a leads pasó de 4 horas a menos de 5 minutos.",
-        "t2Role": "Fundador, Startup SaaS",
-        "t2Result": "Resultado: 47x más rápido",
-        "t3Text": "Éramos escépticos sobre la automatización con IA. En dos semanas, dejamos de ser escépticos y empezamos a lamentarnos de no haberlo hecho antes.",
-        "t3Role": "Director Gerente, Agencia",
-        "t3Result": "Resultado: €9.300/mes recuperados"
+        "title": "",
+        "t1Text": "",
+        "t1Role": "",
+        "t1Result": "",
+        "t2Text": "",
+        "t2Role": "",
+        "t2Result": "",
+        "t3Text": "",
+        "t3Role": "",
+        "t3Result": ""
       },
       "caseStudy": {
-        "title": "Cómo una Agencia de 5 Personas Recuperó €9.300/Mes",
-        "r1Metric": "€9.300",
-        "problemTitle": "El Problema",
-        "p1": "Enrutamiento manual de leads causando retrasos",
-        "p2": "Seguimientos perdidos con prospectos calientes",
-        "p3": "Incorporación de clientes inconsistente (3+ días de ida y vuelta)",
-        "solutionTitle": "La Solución",
-        "s1": "Pipeline Make.com + IA para puntuación inteligente de leads",
-        "s2": "Correos de seguimiento instantáneos activados en leads entrantes",
-        "s3": "Incorporación de clientes completada en 20 minutos (totalmente automatizada)",
-        "resultTitle": "El Resultado",
-        "r1Label": "Ingresos Mensuales Recuperados",
-        "r2Label": "Liberadas Por Semana",
-        "r3Label": "Incorporación Más Rápida",
-        "cta": "Obtén Resultados Como Estos →"
+        "title": "",
+        "problemTitle": "",
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "solutionTitle": "",
+        "s1": "",
+        "s2": "",
+        "s3": "",
+        "resultTitle": "",
+        "r1Metric": "",
+        "r1Label": "",
+        "r2Label": "",
+        "r3Label": "",
+        "cta": ""
       },
       "faq": {
         "title": "Preguntas Frecuentes",
         "q1": "¿Cuánto cuesta esto?",
-        "a1": "Nuestra Auditoría de IA es completamente gratuita. Los proyectos de implementación típicamente van de €1.740-5.800 según la complejidad, con la mayoría de clientes viendo ROI en el primer mes.",
+        "a1": "Precios fijos: £95 para reparar un flujo de trabajo roto en 48 horas, £450 para una construcción completa de 5 días (£300 para los tres primeros clientes fundadores), o £2.500 para una auditoría y construcción de dos semanas con una hoja de ruta completa. Sin cargos ocultos.",
         "q2": "¿Esto perturbará mis operaciones actuales?",
-        "a2": "No. Construimos junto a tus herramientas y procesos existentes. Hay cero tiempo de inactividad. Probamos todo antes de lanzarlo.",
+        "a2": "No. Construyo junto a tus herramientas y procesos existentes. Hay cero tiempo de inactividad. Pruebo todo antes de lanzarlo.",
         "q3": "¿Cuánto tiempo tarda la implementación?",
         "a3": "La mayoría de sistemas de automatización están activos en 1-2 semanas. Los proyectos complejos toman 3-4 semanas. Verás victorias rápidas en días.",
         "q4": "¿Necesito conocimientos técnicos?",
-        "a4": "Para nada. Nosotros manejamos todo lo técnico. Solo dinos qué está consumiendo tu tiempo y lo arreglamos.",
-        "q5": "¿Con qué herramientas trabajáis?",
-        "a5": "Nos especializamos en Make.com, Notion, CRMs (HubSpot, Pipedrive), plataformas de email y modelos de IA (GPT-4, Claude). Si lo usas, probablemente podemos automatizarlo.",
+        "a4": "Para nada. Manejo todo lo técnico. Solo dime qué está consumiendo tu tiempo y lo arreglo.",
+        "q5": "¿Con qué herramientas trabajas?",
+        "a5": "Me especializo en Make.com, Notion, CRMs (HubSpot, Pipedrive), plataformas de email y modelos de IA (GPT-4, Claude). Si lo usas, probablemente puedo automatizarlo.",
         "q6": "¿Y si no funciona?",
-        "a6": "Cada proyecto comienza con una auditoría gratuita para confirmar el ROI antes de invertir nada. No tomamos proyectos que no podemos entregar."
+        "a6": "Cada proyecto comienza con una auditoría del flujo de trabajo para confirmar el retorno antes de comprometerse. No acepto proyectos que no puedo entregar."
       },
       "finalCta": {
-        "headline": "¿Listo para Dejar de Hacer Trabajo que una Máquina Debería Hacer?",
-        "subtitle": "Obtén tu Auditoría de IA gratuita. Te mostraremos exactamente dónde estás perdiendo tiempo y dinero — y cómo solucionarlo.",
-        "cta": "Obtén Tu Auditoría de IA Gratuita →",
-        "subtext": "Limitado a 5 auditorías por mes. Sin compromiso requerido."
+        "headline": "¿Tienes un flujo de trabajo que desperdicia tu semana?",
+        "subtitle": "Empieza por £95 o descarga la lista y ve qué procesos de tu negocio merecen la pena automatizar primero.",
+        "cta": "Obtener la lista de verificación →",
+        "subtext": "Sin compromiso. Sin spam."
       },
       "footer": {
         "privacy": "Política de Privacidad",
@@ -661,10 +661,10 @@
       "bookCall": "Réserver un Appel"
     },
     "hero": {
-      "badge": "Systèmes alimentés par l'IA pour le monde réel",
-      "headline": "Nous Construisons une Infrastructure d'IA Derrière les Entreprises en Croissance.",
-      "subtitle": "Nous concevons et déployons des systèmes d'IA qui génèrent des prospects, concluent des affaires et rationalisent les opérations — afin que vous puissiez vous concentrer sur ce que vous faites de mieux.",
-      "cta1": "Réserver un Appel",
+      "badge": "Flux de travail IA pour les cabinets de recrutement au Royaume-Uni",
+      "headline": "Les placements font le chiffre. L'administratif mange la semaine. J'automatise l'administratif.",
+      "subtitle": "Flux de travail IA pour les cabinets de recrutement britanniques, construits par un seul praticien. Prix fixes de £95 à £2 500, tout sur ce site.",
+      "cta1": "Commencer à partir de £95",
       "cta2": "Nos Services"
     },
     "stats": {
@@ -673,50 +673,50 @@
       "cost": "% Réduction des Coûts"
     },
     "calculator": {
-      "title": "Combien l'IA Pourrait-elle Économiser à Votre Entreprise?",
+      "title": "Combien l'IA Pourrait-elle Économiser à Votre Entreprise ?",
       "subtitle": "Entrez vos informations et voyez l'impact potentiel de l'automatisation.",
       "employees": "Nombre d'Employés",
-      "hourlyRate": "Tarif Horaire Moyen (€)",
+      "hourlyRate": "Tarif Horaire Moyen (£)",
       "hoursWasted": "Heures sur Tâches Manuelles / Semaine / Employé",
       "annualSavings": "Économies Annuelles Estimées",
       "monthlySavings": "Économies Mensuelles",
       "hoursReclaimed": "Heures Récupérées / An"
     },
     "caseStudies": {
-      "title": "Résultats Réels. Entreprises Réelles.",
-      "subtitle": "Voyez comment nous avons aidé les entreprises à se développer grâce à l'automatisation.",
+      "title": "Comment je travaille.",
+      "subtitle": "Prix fixes. Livraisons documentées. Le workflow vous appartient.",
       "saas": {
-        "tag": "SaaS",
-        "title": "Pipeline de Leads Automatisé",
-        "desc": "Système d'emailing à froid et de scoring de leads par IA qui a triplé les démos qualifiées en 90 jours.",
-        "stat": "Démos Qualifiées"
+        "tag": "Recrutement",
+        "title": "Workflow de mise en forme de CV",
+        "desc": "Automatisation de la mise en forme de CV et de l'extraction de données candidats pour un cabinet de recrutement.",
+        "stat": "Heures économisées par semaine"
       },
       "ecommerce": {
-        "tag": "E-Commerce",
-        "title": "Automatisation de la Livraison",
-        "desc": "Remplacé plus de 40 heures de traitement manuel des commandes par semaine avec un système d'automatisation de bout en bout.",
-        "stat": "Heures Économisées / Semaine"
+        "tag": "Recrutement",
+        "title": "Suivi de conformité",
+        "desc": "Demandes automatisées de documents de conformité et suivi des délais pour un recruteur spécialisé.",
+        "stat": "Administratif éliminé"
       },
       "agency": {
-        "tag": "Agence",
-        "title": "Système d'Intégration Client",
-        "desc": "L'intégration automatisée a réduit le délai de livraison de 2 semaines à 3 jours sans aucune étape manuelle.",
-        "stat": "Temps d'Intégration"
+        "tag": "Recrutement",
+        "title": "Planification d'entretiens",
+        "desc": "Automatisation complète de la planification d'entretiens, supprimant les échanges de l'agenda du consultant.",
+        "stat": "Temps par réservation"
       }
     },
     "services": {
-      "title": "Notre domaine de spécialité.",
-      "subtitle": "Systèmes d'IA de bout en bout qui stimulent les résultats commerciaux réels.",
+      "title": "Ce en quoi je me spécialise.",
+      "subtitle": "L'automatisation pour le travail qui dévore la semaine d'un cabinet de recrutement.",
       "growth": {
         "name": "Systèmes de Croissance et d'Automatisation",
-        "desc": "Systèmes de génération de prospects et de ventes alimentés par l'IA qui remplissent votre pipeline automatiquement.",
+        "desc": "Systèmes de génération de leads et de ventes avec IA qui maintiennent votre pipeline actif sans effort manuel.",
         "li1": "Campagnes d'Emailing à Froid IA",
         "li2": "Scoring et Routage de Leads",
         "li3": "Automatisation CRM",
         "li4": "Distribution de Contenu"
       },
       "operations": {
-        "name": "Automatisation des Opérations et de l'Exécution",
+        "name": "Automatisation des Opérations et des Flux de Travail",
         "desc": "Rationalisez la livraison, l'intégration et la gestion de projet avec des flux de travail intelligents.",
         "li1": "Livraison Automatisée",
         "li2": "Intégration Client",
@@ -725,7 +725,7 @@
       },
       "bespoke": {
         "name": "Solutions d'IA Personnalisées",
-        "desc": "Outils d'IA adaptés à vos besoins exacts — chatbots, modèles de notation et plus encore.",
+        "desc": "Outils d'IA construits pour votre flux de travail exact. Chatbots, modèles de notation, automatisation documentaire et plus encore.",
         "li1": "Chatbots IA Personnalisés",
         "li2": "Scoring et Classification IA",
         "li3": "Pipelines de Données",
@@ -733,20 +733,20 @@
       }
     },
     "testimonials": {
-      "title": "Ce que Disent Nos Clients",
-      "quote": "NextVibe a construit pour nous un système complet de génération de leads par IA en moins de 3 semaines. Nos réservations de démos ont triplé et l'équipe peut enfin se concentrer sur la conclusion des affaires plutôt que de courir après les leads froids."
+      "title": "Ce que Disent les Clients",
+      "quote": ""
     },
     "form": {
-      "title": "Dites-nous où vous en êtes...",
+      "title": "Dites-moi où vous en êtes...",
       "name": "Nom",
       "email": "E-mail",
       "company": "Entreprise",
       "budget": "Budget",
       "budgetPlaceholder": "Sélectionnez une plage",
-      "budget1": "€5 800 – €11 600",
-      "budget2": "€11 600 – €29 000",
-      "budget3": "€29 000+",
-      "messageLabel": "Parlez-nous de votre projet",
+      "budget1": "£95",
+      "budget2": "£450",
+      "budget3": "£2 500",
+      "messageLabel": "Parlez-moi de votre flux de travail",
       "messagePlaceholder": "Qu'est-ce que vous souhaitez automatiser ?",
       "namePlaceholder": "Votre nom",
       "emailPlaceholder": "vous@entreprise.com",
@@ -754,156 +754,156 @@
       "submit": "Envoyer le Message"
     },
     "footer": {
-      "copy": "© 2026 NextVibe. Tous droits réservés."
+      "copy": "© 2026 NextVibe AI. Tous droits réservés."
     },
     "servicesPage": {
       "hero": {
-        "headline": "Services et Solutions",
-        "subtitle": "Systèmes d'IA de bout en bout conçus pour générer des prospects, automatiser les opérations et faire évoluer votre activité sans augmenter vos effectifs.",
-        "metric1": "Réduction Moyenne des Coûts",
+        "headline": "Services d'automatisation IA pour les cabinets de recrutement britanniques",
+        "subtitle": "Prix fixes. Un seul praticien. Je construis le workflow, le livre documenté, et vous en êtes propriétaire.",
+        "metric1": "Temps Moyen Économisé",
         "metric2": "Livraison Plus Rapide",
         "metric3": "Heures Économisées par Mois"
       },
       "leadGen": {
         "title": "Systèmes de Génération de Leads",
-        "subtitle": "Pipelines alimentés par l'IA qui remplissent votre agenda de prospects qualifiés.",
+        "subtitle": "Pipelines IA qui remplissent votre agenda de prospects qualifiés.",
         "card1": { "title": "Cold Email IA", "desc": "Prospection hyper-personnalisée à grande échelle grâce à des textes générés par IA, un warmup automatisé et des horaires d'envoi intelligents qui atterrissent en boîte principale." },
-        "card2": { "title": "Systèmes de Candidature", "desc": "Entonnoirs inbound avec qualification par IA — qualifiez, routez et suivez automatiquement chaque lead pour ne rien laisser passer." },
-        "card3": { "title": "Systèmes de Contenu", "desc": "Pipelines de contenu assistés par IA qui transforment un article de leadership éclairé en dizaines d'actifs prêts à être distribués sur plusieurs canaux." }
+        "card2": { "title": "Systèmes de Candidature", "desc": "Entonnoirs inbound avec qualification par IA. Qualifiez, routez et suivez automatiquement chaque lead pour ne rien laisser passer." },
+        "card3": { "title": "Systèmes de Contenu", "desc": "Pipelines de contenu IA qui transforment un article de thought leadership en dizaines d'actifs prêts à être distribués sur plusieurs canaux." }
       },
       "pm": {
         "title": "Systèmes de Gestion de Projet",
         "subtitle": "Automatisez les flux de livraison pour que votre équipe se concentre sur le travail à haute valeur ajoutée.",
-        "card1": { "title": "Livraison Automatisée", "desc": "Automatisation de la livraison de bout en bout — de la création de tâches aux mises à jour de statut en passant par la communication client, tout sans intervention manuelle." },
+        "card1": { "title": "Livraison Automatisée", "desc": "Automatisation de la livraison de bout en bout. De la création de tâches aux mises à jour de statut en passant par la communication client, tout sans intervention manuelle." },
         "card2": { "title": "Intégration Client", "desc": "Flux d'intégration structurés qui collectent les exigences, définissent les attentes et lancent les projets automatiquement dès la signature d'un contrat." },
         "card3": { "title": "Workflows PM", "desc": "Attribution intelligente des tâches, suivi des délais et détection des goulots d'étranglement pour garder les projets sur la bonne voie et votre équipe alignée." }
       },
       "hiring": {
         "title": "Systèmes de Recrutement",
         "subtitle": "Recrutez de manière plus intelligente et plus rapide grâce au screening et à l'évaluation par IA.",
-        "card1": { "title": "Systèmes de Candidature", "desc": "Formulaires de candidature structurés avec extraction automatique des données et profilage des candidats — fini le tri manuel des CV." },
-        "card2": { "title": "Scoring IA", "desc": "Scoring objectif des candidats basé sur des critères personnalisés, la correspondance d'expérience et les indicateurs d'adéquation culturelle — réduisant les biais et économisant des heures." },
+        "card1": { "title": "Systèmes de Candidature", "desc": "Formulaires de candidature structurés avec extraction automatique des données et profilage des candidats. Fini le tri manuel des CV." },
+        "card2": { "title": "Scoring IA", "desc": "Scoring objectif des candidats basé sur des critères personnalisés, la correspondance d'expérience et les indicateurs d'adéquation culturelle. Réduit les biais et économise des heures." },
         "card3": { "title": "Processus d'Essai", "desc": "Attribution automatisée de projets d'essai, suivi des soumissions et workflows d'évaluation qui font remonter vos meilleurs candidats rapidement." }
       },
       "salesAdmin": {
         "title": "Administration des Ventes",
         "subtitle": "Rationalisez vos opérations commerciales avec des outils personnalisés et une automatisation intelligente.",
-        "card1": { "title": "CRM Personnalisés", "desc": "Configurations CRM sur mesure adaptées à votre processus de vente — suivi automatisé des affaires, vues du pipeline et journalisation des activités sans la lourdeur." },
+        "card1": { "title": "CRM Personnalisés", "desc": "Configurations CRM sur mesure adaptées à votre processus de vente. Suivi automatisé des affaires, vues du pipeline et journalisation des activités sans la lourdeur." },
         "card2": { "title": "Générateurs d'Actifs IA", "desc": "Générez automatiquement des propositions, des SOW et des présentations commerciales personnalisées pour chaque prospect grâce à l'IA et vos modèles existants." },
         "card3": { "title": "Systèmes de Nurturing", "desc": "Séquences de suivi multicanal qui maintiennent l'engagement des leads chauds avec des points de contact opportuns et pertinents jusqu'à ce qu'ils soient prêts à acheter." }
       },
       "personas": {
-        "title": "À Qui Ça S'adresse",
-        "subtitle": "Nous travaillons mieux avec les entreprises prêtes à faire évoluer leurs opérations grâce à l'automatisation.",
-        "agencies": { "title": "Agences", "desc": "Automatisez la livraison client, l'intégration et la génération de leads pour croître sans augmenter proportionnellement vos effectifs." },
-        "saas": { "title": "Entreprises SaaS", "desc": "Construisez des pipelines outbound automatisés, des workflows d'essai à payant et des systèmes de succès client." },
-        "professional": { "title": "Services Professionnels", "desc": "Rationalisez la prise en charge, la planification, la facturation et la communication client sans surcharge manuelle." },
-        "ecommerce": { "title": "E-Commerce", "desc": "Automatisez le traitement des commandes, la gestion des stocks, le support client et les workflows marketing à grande échelle." }
+        "title": "À qui ça s'adresse",
+        "subtitle": "Je travaille avec des cabinets de recrutement britanniques et des entreprises de services spécialisés.",
+        "agencies": { "title": "Cabinets de recrutement", "desc": "Mise en forme de CV, suivi de conformité, planification d'entretiens. Je construis les workflows qui vous libèrent de tout cela." },
+        "saas": { "title": "Entreprises de nettoyage", "desc": "Plannings, devis, suivi clients. Si le travail suit un schéma, je peux automatiser l'administratif." },
+        "professional": { "title": "Juridique et comptabilité", "desc": "Relance de documents, workflows de conformité, onboarding client. Automatisation à prix fixe pour les petits cabinets spécialisés." },
+        "ecommerce": { "title": "Services spécialisés", "desc": "Toute petite entreprise où le même administratif se répète chaque semaine. Si vous pouvez décrire le schéma, je peux construire le workflow." }
       },
       "process": {
-        "title": "Notre Processus",
-        "subtitle": "De la découverte au déploiement en semaines, pas en mois.",
-        "step1": { "title": "Découverte", "desc": "Nous cartographions vos flux de travail actuels, identifions les opportunités d'automatisation et priorisons par impact ROI." },
-        "step2": { "title": "Conception", "desc": "Nous architecturons le système — en sélectionnant les bons outils, en définissant les flux de données et en planifiant les intégrations." },
-        "step3": { "title": "Développement", "desc": "Mise en œuvre rapide avec des démos hebdomadaires. Vous voyez les progrès et pouvez donner votre avis en temps réel." },
-        "step4": { "title": "Lancement", "desc": "Mise en production avec une documentation complète, une formation et 30 jours de support pour assurer un fonctionnement optimal." }
+        "title": "Comment Je Travaille",
+        "subtitle": "Du premier appel à la livraison en jours, pas en mois.",
+        "step1": { "title": "Audit", "desc": "Je cartographie vos flux de travail actuels, j'identifie les opportunités d'automatisation et je priorise par temps économisé." },
+        "step2": { "title": "Conception", "desc": "Je conçois le système. Les bons outils, des flux de données propres et des intégrations qui fonctionnent vraiment ensemble." },
+        "step3": { "title": "Développement", "desc": "Je construis et teste tout. Vous le voyez fonctionner avant que je vous le livre." },
+        "step4": { "title": "Livraison", "desc": "Documentation complète et tutoriel enregistré. Le workflow vous appartient." }
       },
       "pricing": {
-        "title": "Tarification",
-        "subtitle": "Prix transparents. Pas de frais cachés. Choisissez ce qui correspond à vos besoins.",
+        "title": "Ce que ça coûte",
+        "subtitle": "Trois prix fixes, rien de caché. Le sauvetage à £95 existe pour que vous puissiez tester ma façon de travailler avant de vous engager sur quelque chose de plus important.",
         "cta": "Commencer",
         "tier1": {
-          "name": "Système Unique", "period": "paiement unique", "amount": "€4 060",
-          "desc": "Un système d'automatisation complet, conçu et déployé pour votre entreprise.",
-          "li1": "1 système d'automatisation", "li2": "Session de découverte et conception",
-          "li3": "Livraison en 2–3 semaines", "li4": "Documentation complète", "li5": "14 jours de support post-lancement"
+          "name": "Sauvetage d'automatisation", "period": "prix fixe", "amount": "£95",
+          "desc": "J'identifie et répare un workflow cassé en 48 heures.",
+          "li1": "Un workflow réparé", "li2": "Livraison en 48 heures",
+          "li3": "Documentation incluse", "li4": "", "li5": ""
         },
         "tier2": {
-          "name": "Forfait Croissance", "period": "paiement unique", "amount": "€9 860",
-          "desc": "Un ensemble de systèmes interconnectés qui transforment le fonctionnement de votre entreprise.",
-          "li1": "3 systèmes d'automatisation", "li2": "Audit complet des workflows",
-          "li3": "Livraison en 4–6 semaines", "li4": "Intégrations de systèmes", "li5": "30 jours de support post-lancement"
+          "name": "Workflow 5 jours", "period": "prix fixe. £300 pour les trois premiers clients fondateurs", "amount": "£450",
+          "desc": "Une automatisation complète construite, testée et livrée en cinq jours ouvrés.",
+          "li1": "Un workflow complet", "li2": "Livraison en 5 jours ouvrés",
+          "li3": "Documentation et transfert", "li4": "", "li5": ""
         },
         "tier3": {
-          "name": "Retainer", "period": "par mois", "amount": "€3 480",
-          "desc": "Partenaire d'automatisation continu. Nous construisons, optimisons et maintenons continuellement vos systèmes.",
-          "li1": "Équipe d'automatisation dédiée", "li2": "Demandes de systèmes illimitées",
-          "li3": "Support prioritaire", "li4": "Appels stratégie mensuels", "li5": "Optimisation continue"
+          "name": "Audit et construction de workflow IA", "period": "prix fixe. 50% à la signature, 50% à la livraison. Facturé au Royaume-Uni via Stripe", "amount": "£2 500",
+          "desc": "Un audit complet de vos workflows suivi de l'automatisation à plus fort impact, livrée et documentée.",
+          "li1": "Audit complet des workflows", "li2": "Une automatisation à fort impact",
+          "li3": "Documentation complète et transfert", "li4": "", "li5": ""
         }
       },
       "cta": {
-        "headline": "Prêt à automatiser votre croissance ?",
-        "subtitle": "Réservez un appel stratégique gratuit de 30 minutes et nous cartographierons vos plus grandes opportunités d'automatisation."
+        "headline": "Prêt à automatiser les tâches administratives de votre bureau ?",
+        "subtitle": "Commencez à partir de £95 et testez ma façon de travailler avant de vous engager sur quelque chose de plus important."
       }
     },
     "aboutPage": {
       "hero": {
-        "headlinePre": "Nous avons vu l'avenir du travail — et l'avons ",
-        "headlineCyan": "construit",
-        "subtitle": "NextVibe a été fondée sur une conviction simple : les entreprises ne devraient pas passer leurs meilleures heures sur des tâches qu'une machine peut faire mieux. Nous construisons les systèmes d'IA qui rendent cela réel."
+        "headlinePre": "La version ",
+        "headlineCyan": "honnête",
+        "subtitle": ""
       },
       "story": {
-        "p1": "Nous avons lancé NextVibe en 2020 quand nous avons remarqué quelque chose que la plupart des entreprises ignoraient : l'écart entre ce que l'IA pouvait faire et ce que les entreprises utilisaient réellement était massif — et croissant.",
-        "p2": "Pendant que le monde parlait d'IA, nous l'intégrions discrètement dans de vrais workflows d'entreprise. Des systèmes d'emailing à froid qui s'écrivaient eux-mêmes. Des flux d'intégration qui fonctionnaient sans une seule étape manuelle. Des CRM qui se mettaient à jour en temps réel.",
-        "highlight": "\"Nous ne vendons pas du hype IA. Nous vendons des heures rendues à votre équipe et des revenus à votre résultat net.\"",
-        "p3": "Aujourd'hui, NextVibe travaille avec des agences, des entreprises SaaS et des prestataires de services au Royaume-Uni et au-delà. Nous avons automatisé des milliers d'heures de travail manuel et aidé nos clients à se développer sans augmenter leurs effectifs.",
-        "p4": "Notre approche est simple : comprendre votre activité en profondeur, trouver les opportunités d'automatisation à plus fort impact et construire des systèmes qui fonctionnent vraiment — pas des démos tape-à-l'œil qui prennent la poussière."
+        "p1": "Je suis Victor Fernandez. NextVibe AI c'est moi : une seule personne, basée au Royaume-Uni, construisant l'automatisation IA pour les cabinets de recrutement. J'ai commencé en mars 2026.",
+        "p2": "Pas encore de logos clients. Pas de témoignages. Je n'en inventerai pas. Ce que je peux vous montrer, c'est le système avec lequel je gère ma propre entreprise. Ma publication LinkedIn, ma prospection, mes rapports et mon administration fonctionnent tous avec des workflows que j'ai construits moi-même. Je vends ce que j'utilise chaque jour.",
+        "highlight": "",
+        "p3": "Pourquoi le recrutement ? Parce qu'un bureau de recrutement est rempli de travail qui suit toujours la même forme. Mise en forme des CV. Relance pour la conformité. Planification des entretiens. Cette répétition est ce que l'automatisation fait bien, et la plupart des petites entreprises n'ont personne dont le travail est de la construire. Les entreprises de nettoyage et les cabinets spécialisés ont la même structure, donc j'accepte aussi ce travail.",
+        "p4": "Ce que je crois : la technologie est la moitié facile. Choisir le bon processus à automatiser en premier est la moitié difficile. Donc chaque engagement commence par un audit du flux de travail, puis une construction délimitée, puis les chiffres de ce qui a été économisé. Petit, livré, prouvé."
       },
       "founders": {
-        "title": "Rencontrez le Fondateur",
-        "subtitle": "La personne derrière les systèmes d'automatisation IA de NextVibe.",
+        "title": "Le Fondateur",
+        "subtitle": "La personne derrière NextVibe AI.",
         "victor": {
-          "role": "PDG & Fondateur",
-          "bio": "Ancien consultant en automatisation devenu fondateur. Victor a construit des systèmes d'IA et d'automatisation dans tous les grands secteurs — dirigeant la stratégie, l'architecture système et la livraison chez NextVibe."
+          "role": "Fondateur",
+          "bio": "Une personne, basée au Royaume-Uni. Je construis des workflows d'automatisation IA pour les cabinets de recrutement et les entreprises de services spécialisés. J'ai démarré NextVibe AI en mars 2026."
         }
       },
       "timeline": {
-        "title": "Notre Parcours",
-        "subtitle": "Les étapes clés sur la route vers où nous en sommes aujourd'hui.",
-        "item1": { "title": "Fondation de NextVibe", "desc": "Démarrage en tant que cabinet de conseil de deux personnes, construisant des systèmes d'automatisation pour les entreprises locales pendant la pandémie." },
-        "item2": { "title": "Premier Client Entreprise", "desc": "Décroché notre premier engagement entreprise — une refonte complète de l'automatisation pour une agence de 50 personnes." },
-        "item3": { "title": "Pivot AI-First", "desc": "Intégration de l'IA propulsée par GPT dans chaque système que nous construisons, devenant l'une des premières agences à passer entièrement à l'AI-native." },
-        "item4": { "title": "50+ Clients Servis", "desc": "Dépassé 50 clients actifs et 500+ heures de travail manuel automatisé par mois dans notre portefeuille." },
-        "item5": { "title": "Montée en Échelle", "desc": "Extension de l'équipe, lancement de nouveaux niveaux de service et construction d'outils IA propriétaires pour nos clients." }
+        "title": "Historique",
+        "subtitle": "",
+        "item1": { "title": "NextVibe AI fondée", "desc": "Début de la construction de workflows d'automatisation IA pour les cabinets de recrutement britanniques. Mars 2026." },
+        "item2": { "title": "", "desc": "" },
+        "item3": { "title": "", "desc": "" },
+        "item4": { "title": "", "desc": "" },
+        "item5": { "title": "", "desc": "" }
       },
       "values": {
-        "title": "Ce Que Nous Défendons",
-        "subtitle": "Les principes qui guident chaque système que nous construisons.",
-        "action": { "title": "Biais vers l'Action", "desc": "Nous livrons vite. Des semaines, pas des trimestres. Chaque système que nous construisons est mis en production et commence à générer de la valeur immédiatement." },
-        "roi": { "title": "Obsession du ROI", "desc": "Nous ne construisons pas une technologie cool pour le plaisir. Chaque automatisation doit avoir un impact clair et mesurable sur votre activité." },
+        "title": "Ce Que Je Défends",
+        "subtitle": "Les principes derrière chaque workflow que je construis.",
+        "action": { "title": "Biais vers l'Action", "desc": "Je livre vite. Des semaines, pas des trimestres. Chaque système que je construis est mis en production et commence à générer de la valeur immédiatement." },
+        "roi": { "title": "Obsession du ROI", "desc": "Je ne construis pas une technologie cool pour le plaisir. Chaque automatisation doit avoir un impact clair et mesurable sur votre activité." },
         "transparency": { "title": "Transparence Radicale", "desc": "Pas de boîtes noires. Vous voyez chaque workflow, chaque intégration, chaque décision. Vos systèmes vous appartiennent." },
-        "simplicity": { "title": "Simplicité d'Abord", "desc": "Le meilleur système est le plus simple qui fonctionne. Nous évitons la sur-ingénierie et nous concentrons sur la fiabilité." },
-        "ahead": { "title": "Toujours en Avance", "desc": "Nous testons toujours de nouveaux modèles, outils et techniques d'IA pour que nos clients aient accès à ce qui vient — avant leurs concurrents." },
-        "partnership": { "title": "Partenariat Réel", "desc": "Nous ne sommes pas un fournisseur. Nous nous intégrons à votre équipe, comprenons vos objectifs et construisons comme si c'était notre propre entreprise." }
+        "simplicity": { "title": "Simplicité d'Abord", "desc": "Le meilleur système est le plus simple qui fonctionne. J'évite la sur-ingénierie et me concentre sur la fiabilité." },
+        "ahead": { "title": "Toujours à Jour", "desc": "Je teste constamment de nouveaux modèles, outils et techniques d'IA pour que mes clients aient accès à ce qui fonctionne maintenant." },
+        "partnership": { "title": "Partenariat Direct", "desc": "Je ne suis pas un fournisseur. Je m'intègre à votre flux de travail, comprends vos objectifs et construis comme si c'était ma propre entreprise." }
       },
       "cta": {
-        "headlinePre": "Construisons quelque chose d'",
-        "headlineCyan": "extraordinaire",
-        "subtitle": "Réservez un appel stratégique gratuit et découvrez comment l'automatisation IA peut transformer les opérations de votre entreprise."
+        "headlinePre": "Vous avez un workflow qui ",
+        "headlineCyan": "gaspille votre semaine ?",
+        "subtitle": "Commencez à partir de £95 et testez ma façon de travailler avant de vous engager sur quelque chose de plus important."
       }
     },
     "startPage": {
       "hero": {
-        "headline": "Arrêtez de Perdre des Revenus à Cause du Travail Manuel",
-        "subtitle": "La plupart des petites entreprises gaspillent 20-30% de leurs revenus à cause de flux de travail défaillants. Nous trouvons les fuites et les corrigeons avec l'automatisation IA — économisant généralement 15-20 heures/semaine.",
+        "headline": "Arrêtez de perdre des heures en administratif qui s'automatise",
+        "subtitle": "Obtenez ma liste de contrôle gratuite sur les workflows de recrutement qui valent la peine d'être automatisés en premier.",
         "firstNamePlaceholder": "Prénom",
         "emailPlaceholder": "E-mail",
         "companyPlaceholder": "Nom de l'Entreprise",
-        "submitBtn": "Obtenez Votre Audit IA Gratuit →",
-        "successTitle": "Merci ! Nous sommes ravis de vous aider.",
-        "successText": "Nous vous contacterons dans les 24 heures avec votre audit IA gratuit.",
-        "bookCallBtn": "Réservez Votre Appel Maintenant →",
-        "subtext": "Sans engagement. Prend 2 minutes."
+        "submitBtn": "Obtenir la liste de contrôle d'automatisation IA →",
+        "successTitle": "Merci. Je vous envoie la liste maintenant.",
+        "successText": "Je vous contacterai aussi dans un jour ouvré si le workflow que vous avez décrit semble un bon fit.",
+        "bookCallBtn": "Réserver un appel →",
+        "subtext": "Aucun engagement. Aucun spam."
       },
       "proof": {
-        "automations": "Automatisations Construites",
-        "savedPerWeek": "Économisées Par Semaine",
-        "revenueGrowth": "Croissance des Revenus"
+        "automations": "",
+        "savedPerWeek": "",
+        "revenueGrowth": ""
       },
       "problem": {
         "title": "Ça Vous Parle ?",
-        "subtitle": "Ce ne sont pas de simples inconvénients — ils vous coûtent €5 800-23 200 par mois en revenus perdus et en temps gaspillé.",
-        "calloutAmount": "€5 800-23 200 par mois",
+        "subtitle": "Ce ne sont pas de simples inconvénients. Ils coûtent de vraies heures et du vrai argent chaque semaine.",
+        "calloutAmount": "Ces problèmes coûtent de vraies heures et de vrais revenus chaque mois.",
         "card1Title": "Tâches Répétitives qui Dévorent Votre Journée",
         "card1Desc": "Passer des heures sur des tâches répétitives qui devraient prendre des minutes",
         "card2Title": "Prospects qui S'Échappent",
@@ -916,62 +916,62 @@
       "solution": {
         "title": "Comment Ça Fonctionne",
         "step1Title": "Audit",
-        "step1Desc": "Nous analysons vos flux de travail actuels et identifions les plus grandes fuites de temps et de revenus. Gratuit, sans engagement.",
+        "step1Desc": "J'analyse vos flux de travail actuels et j'identifie les plus grandes pertes de temps et de revenus.",
         "step2Title": "Conception",
-        "step2Desc": "Nous concevons votre système d'automatisation personnalisé — connectant vos outils, éliminant les étapes manuelles et intégrant l'IA aux bons endroits.",
+        "step2Desc": "Je conçois votre système d'automatisation. Les bons outils, aucune étape manuelle, l'IA là où elle a sa place.",
         "step3Title": "Implémentation",
-        "step3Desc": "Nous construisons, testons et déployons. Vous obtenez un système qui se gère seul pendant que vous vous concentrez sur la croissance de votre entreprise.",
-        "cta": "Commencez Avec Votre Audit Gratuit →"
+        "step3Desc": "Je construis, teste et livre. Vous obtenez un workflow qui se gère seul.",
+        "cta": "Obtenir la liste →"
       },
       "testimonials": {
-        "title": "Ce que Disent les Clients",
-        "t1Text": "Nous a fait économiser 15 heures par semaine rien que sur l'intégration des clients. Le ROI était évident dès le premier mois.",
-        "t1Role": "Directeur des Opérations",
-        "t1Result": "Résultat : 15 h/semaine économisées",
-        "t2Text": "Victor a construit une automatisation qui a remplacé trois processus manuels. Notre temps de réponse aux prospects est passé de 4 heures à moins de 5 minutes.",
-        "t2Role": "Fondateur, Startup SaaS",
-        "t2Result": "Résultat : 47x plus rapide",
-        "t3Text": "Nous étions sceptiques sur l'automatisation IA. En deux semaines, nous avons arrêté d'être sceptiques et avons commencé à regretter de ne pas l'avoir fait plus tôt.",
-        "t3Role": "Directeur Général, Agence",
-        "t3Result": "Résultat : €9 300/mois récupérés"
+        "title": "",
+        "t1Text": "",
+        "t1Role": "",
+        "t1Result": "",
+        "t2Text": "",
+        "t2Role": "",
+        "t2Result": "",
+        "t3Text": "",
+        "t3Role": "",
+        "t3Result": ""
       },
       "caseStudy": {
-        "title": "Comment une Agence de 5 Personnes a Récupéré €9 300/Mois",
-        "r1Metric": "€9 300",
-        "problemTitle": "Le Problème",
-        "p1": "Routage manuel des prospects causant des retards",
-        "p2": "Suivis manqués sur des prospects chauds",
-        "p3": "Intégration client incohérente (3+ jours d'allers-retours)",
-        "solutionTitle": "La Solution",
-        "s1": "Pipeline Make.com + IA pour le scoring intelligent des prospects",
-        "s2": "E-mails de suivi instantanés déclenchés sur les leads entrants",
-        "s3": "Intégration client complète en 20 minutes (entièrement automatisée)",
-        "resultTitle": "Le Résultat",
-        "r1Label": "Revenus Mensuels Récupérés",
-        "r2Label": "Libérées Par Semaine",
-        "r3Label": "Intégration Plus Rapide",
-        "cta": "Obtenez des Résultats Comme Ceux-ci →"
+        "title": "",
+        "problemTitle": "",
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "solutionTitle": "",
+        "s1": "",
+        "s2": "",
+        "s3": "",
+        "resultTitle": "",
+        "r1Metric": "",
+        "r1Label": "",
+        "r2Label": "",
+        "r3Label": "",
+        "cta": ""
       },
       "faq": {
         "title": "Questions Fréquemment Posées",
         "q1": "Combien ça coûte ?",
-        "a1": "Notre Audit IA est complètement gratuit. Les projets d'implémentation vont généralement de €1 740 à 5 800 selon la complexité, avec la plupart des clients voyant un ROI dans le premier mois.",
+        "a1": "Prix fixes : £95 pour réparer un workflow cassé en 48 heures, £450 pour une construction complète sur 5 jours (£300 pour les trois premiers clients fondateurs), ou £2 500 pour un audit et une construction sur deux semaines avec une feuille de route complète. Aucun frais caché.",
         "q2": "Est-ce que ça va perturber mes opérations actuelles ?",
-        "a2": "Non. Nous construisons à côté de vos outils et processus existants. Zéro temps d'arrêt. Nous testons tout avant la mise en ligne.",
+        "a2": "Non. Je construis à côté de vos outils et processus existants. Zéro temps d'arrêt. Je teste tout avant la mise en ligne.",
         "q3": "Combien de temps prend l'implémentation ?",
         "a3": "La plupart des systèmes d'automatisation sont opérationnels en 1-2 semaines. Les projets complexes prennent 3-4 semaines. Vous verrez des gains rapides en quelques jours.",
         "q4": "Ai-je besoin de connaissances techniques ?",
-        "a4": "Pas du tout. Nous gérons tout l'aspect technique. Dites-nous simplement ce qui prend votre temps et nous le réglons.",
+        "a4": "Pas du tout. Je gère tout l'aspect technique. Dites-moi simplement ce qui prend votre temps et je le règle.",
         "q5": "Avec quels outils travaillez-vous ?",
-        "a5": "Nous nous spécialisons dans Make.com, Notion, les CRM (HubSpot, Pipedrive), les plateformes d'e-mail et les modèles d'IA (GPT-4, Claude). Si vous l'utilisez, nous pouvons probablement l'automatiser.",
+        "a5": "Je me spécialise dans Make.com, Notion, les CRM (HubSpot, Pipedrive), les plateformes d'e-mail et les modèles d'IA (GPT-4, Claude). Si vous l'utilisez, je peux probablement l'automatiser.",
         "q6": "Et si ça ne fonctionne pas ?",
-        "a6": "Chaque projet commence par un audit gratuit pour confirmer le ROI avant tout investissement. Nous ne prenons pas de projets que nous ne pouvons pas livrer."
+        "a6": "Chaque projet commence par un audit du workflow pour confirmer le retour sur investissement avant de s'engager. Je ne prends pas de projets que je ne peux pas livrer."
       },
       "finalCta": {
-        "headline": "Prêt à Arrêter de Faire un Travail qu'une Machine Devrait Faire ?",
-        "subtitle": "Obtenez votre Audit IA gratuit. Nous vous montrerons exactement où vous perdez du temps et de l'argent — et comment y remédier.",
-        "cta": "Obtenez Votre Audit IA Gratuit →",
-        "subtext": "Limité à 5 audits par mois. Aucun engagement requis."
+        "headline": "Vous avez un workflow qui gaspille votre semaine ?",
+        "subtitle": "Commencez à £95 ou téléchargez la liste et voyez quels processus de votre activité valent la peine d'être automatisés en premier.",
+        "cta": "Obtenir la liste de contrôle →",
+        "subtext": "Aucun engagement. Aucun spam."
       },
       "footer": {
         "privacy": "Politique de Confidentialité",
@@ -988,10 +988,10 @@
       "bookCall": "Anruf Buchen"
     },
     "hero": {
-      "badge": "KI-gestützte Systeme für die reale Welt",
-      "headline": "Wir Bauen KI-Infrastruktur für Wachstumsunternehmen.",
-      "subtitle": "Wir entwerfen und implementieren KI-Systeme, die Leads generieren, Deals abschließen und Operationen straffen — damit du dich auf das konzentrieren kannst, was du am besten machst.",
-      "cta1": "Anruf Buchen",
+      "badge": "KI-Workflows für britische Personalvermittler",
+      "headline": "Placements bringen das Geld. Admin frisst die Woche. Ich automatisiere das Admin.",
+      "subtitle": "KI-Workflows für britische Personalvermittlungsunternehmen, gebaut von einem Praktiker. Festpreise von £95 bis £2.500, alles auf dieser Website.",
+      "cta1": "Ab £95 starten",
       "cta2": "Unsere Dienstleistungen"
     },
     "stats": {
@@ -1000,51 +1000,51 @@
       "cost": "% Kosteneinsparung"
     },
     "calculator": {
-      "title": "Wie Viel Könnte KI Dein Unternehmen Sparen?",
-      "subtitle": "Gib deine Daten ein und sehe die potenzielle Auswirkung der Automatisierung.",
+      "title": "Wie Viel Könnte KI Ihrem Unternehmen Sparen?",
+      "subtitle": "Geben Sie Ihre Daten ein und sehen Sie die potenzielle Auswirkung der Automatisierung.",
       "employees": "Anzahl der Mitarbeiter",
-      "hourlyRate": "Durchschnittlicher Stundensatz (€)",
+      "hourlyRate": "Durchschnittlicher Stundensatz (£)",
       "hoursWasted": "Stunden für manuelle Aufgaben / Woche / Mitarbeiter",
       "annualSavings": "Geschätzte Jährliche Einsparungen",
       "monthlySavings": "Monatliche Einsparungen",
       "hoursReclaimed": "Wiedergewonnene Stunden / Jahr"
     },
     "caseStudies": {
-      "title": "Echte Ergebnisse. Echte Unternehmen.",
-      "subtitle": "Sieh, wie wir Unternehmen durch Automatisierung geholfen haben zu wachsen.",
+      "title": "Wie ich arbeite.",
+      "subtitle": "Festpreise. Dokumentierte Übergaben. Der Workflow gehört Ihnen.",
       "saas": {
-        "tag": "SaaS",
-        "title": "Automatisierte Lead-Pipeline",
-        "desc": "KI-gestütztes Kalt-E-Mail- und Lead-Scoring-System, das qualifizierte Demos in 90 Tagen verdreifachte.",
-        "stat": "Qualifizierte Demos"
+        "tag": "Personalvermittlung",
+        "title": "Lebenslauf-Formatierungs-Workflow",
+        "desc": "Automatisierte Lebenslauf-Umformatierung und Kandidatendatenextraktion für ein Personalvermittlungsunternehmen.",
+        "stat": "Stunden gespart pro Woche"
       },
       "ecommerce": {
-        "tag": "E-Commerce",
-        "title": "Fulfillment-Automatisierung",
-        "desc": "Ersetzte 40+ Stunden manuelle Auftragsabwicklung pro Woche durch ein End-to-End-Automatisierungssystem.",
-        "stat": "Stunden Gespart / Woche"
+        "tag": "Personalvermittlung",
+        "title": "Compliance-Verfolgung",
+        "desc": "Automatisierte Anfragen für Compliance-Dokumente und Fristenüberwachung für einen spezialisierten Recruiter.",
+        "stat": "Admin eliminiert"
       },
       "agency": {
-        "tag": "Agentur",
-        "title": "Client-Onboarding-System",
-        "desc": "Automatisiertes Onboarding reduzierte die Lieferzeit von 2 Wochen auf 3 Tage ohne manuelle Schritte.",
-        "stat": "Onboarding-Zeit"
+        "tag": "Personalvermittlung",
+        "title": "Interview-Planung",
+        "desc": "End-to-End-Automatisierung der Interview-Planung, die den Hin-und-Her-Austausch vom Kalender des Beraters entfernt.",
+        "stat": "Zeit pro Buchung"
       }
     },
     "services": {
-      "title": "Worauf wir uns spezialisieren.",
-      "subtitle": "End-to-End-KI-Systeme, die echte Geschäftsergebnisse bringen.",
+      "title": "Worauf ich mich spezialisiere.",
+      "subtitle": "Automatisierung für die Arbeit, die eine Personalvermittlung die ganze Woche auffrisst.",
       "growth": {
         "name": "Wachstums- und Automatisierungssysteme",
-        "desc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die deine Pipeline automatisch füllen.",
+        "desc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die Ihre Pipeline ohne manuellen Aufwand am Laufen halten.",
         "li1": "KI-Kalt-E-Mail-Kampagnen",
-        "li2": "Lead-Scoring & -Routing",
+        "li2": "Lead-Scoring und -Routing",
         "li3": "CRM-Automatisierung",
         "li4": "Content-Distribution"
       },
       "operations": {
-        "name": "Betriebs- und Erfüllungsautomatisierung",
-        "desc": "Rationalisiere Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
+        "name": "Betriebs- und Workflow-Automatisierung",
+        "desc": "Rationalisieren Sie Lieferung, Onboarding und Projektmanagement mit intelligenten Workflows.",
         "li1": "Automatisierte Auftragsabwicklung",
         "li2": "Kunden-Onboarding",
         "li3": "Projektmanagement-Workflows",
@@ -1052,185 +1052,185 @@
       },
       "bespoke": {
         "name": "Maßgeschneiderte KI-Lösungen",
-        "desc": "KI-Tools, die auf deine exakten Anforderungen zugeschnitten sind — Chatbots, Scoring-Modelle und mehr.",
+        "desc": "KI-Tools, die für Ihren genauen Workflow gebaut wurden. Chatbots, Scoring-Modelle, Dokumentenautomatisierung und mehr.",
         "li1": "Benutzerdefinierte KI-Chatbots",
-        "li2": "KI-Scoring & -Klassifizierung",
+        "li2": "KI-Scoring und -Klassifizierung",
         "li3": "Datenpipelines",
         "li4": "Interne KI-Tools"
       }
     },
     "testimonials": {
-      "title": "Was Unsere Kunden Sagen",
-      "quote": "NextVibe hat in weniger als 3 Wochen ein vollständiges KI-Lead-System für uns aufgebaut. Unsere Demo-Buchungen haben sich verdreifacht und das Team hat endlich Zeit, sich auf den Abschluss von Deals zu konzentrieren, anstatt kalte Leads zu jagen."
+      "title": "Was Kunden Sagen",
+      "quote": ""
     },
     "form": {
-      "title": "Sag uns, wo du stehst...",
+      "title": "Sagen Sie mir, wo Sie stehen...",
       "name": "Name",
       "email": "E-Mail",
       "company": "Unternehmen",
       "budget": "Budget",
-      "budgetPlaceholder": "Wähle einen Bereich",
-      "budget1": "€5.800 – €11.600",
-      "budget2": "€11.600 – €29.000",
-      "budget3": "€29.000+",
-      "messageLabel": "Erzähle uns von deinem Projekt",
-      "messagePlaceholder": "Was möchtest du automatisieren?",
-      "namePlaceholder": "Dein Name",
-      "emailPlaceholder": "du@firma.de",
-      "companyPlaceholder": "Dein Unternehmen",
+      "budgetPlaceholder": "Wählen Sie einen Bereich",
+      "budget1": "£95",
+      "budget2": "£450",
+      "budget3": "£2.500",
+      "messageLabel": "Erzählen Sie mir von Ihrem Workflow",
+      "messagePlaceholder": "Was möchten Sie automatisieren?",
+      "namePlaceholder": "Ihr Name",
+      "emailPlaceholder": "sie@firma.de",
+      "companyPlaceholder": "Ihr Unternehmen",
       "submit": "Nachricht Senden"
     },
     "footer": {
-      "copy": "© 2026 NextVibe. Alle Rechte vorbehalten."
+      "copy": "© 2026 NextVibe AI. Alle Rechte vorbehalten."
     },
     "servicesPage": {
       "hero": {
-        "headline": "Dienstleistungen und Lösungen",
-        "subtitle": "End-to-End-KI-Systeme, die darauf ausgelegt sind, Leads zu generieren, Operationen zu automatisieren und dein Unternehmen zu skalieren, ohne deine Belegschaft zu vergrößern.",
-        "metric1": "Durchschn. Kostensenkung",
+        "headline": "KI-Automatisierungsdienstleistungen für britische Personalvermittler",
+        "subtitle": "Festpreise. Ein Praktiker. Ich baue den Workflow, liefere ihn dokumentiert, und Sie besitzen ihn.",
+        "metric1": "Durchschn. Zeit Gespart",
         "metric2": "Schnellere Lieferung",
         "metric3": "Stunden pro Monat Gespart"
       },
       "leadGen": {
         "title": "Lead-Generierungssysteme",
-        "subtitle": "KI-gestützte Pipelines, die deinen Kalender mit qualifizierten Interessenten füllen.",
+        "subtitle": "KI-gestützte Pipelines, die Ihren Kalender mit qualifizierten Interessenten füllen.",
         "card1": { "title": "KI-Kalt-E-Mail", "desc": "Hyperpersonalisierte Kontaktaufnahme in großem Maßstab mit KI-generiertem Text, automatisiertem Warmup und intelligenten Sendeplänen, die im primären Posteingang landen." },
-        "card2": { "title": "Bewerbungssysteme", "desc": "Inbound-Trichter mit KI-Qualifizierung — automatisch jeden Lead bewerten, weiterleiten und nachverfolgen, damit nichts durch die Maschen fällt." },
+        "card2": { "title": "Bewerbungssysteme", "desc": "Inbound-Trichter mit KI-Qualifizierung. Automatisch jeden Lead bewerten, weiterleiten und nachverfolgen, damit nichts durch die Maschen fällt." },
         "card3": { "title": "Content-Systeme", "desc": "KI-gestützte Content-Pipelines, die ein Stück Thought Leadership in Dutzende verteilungsfertige Assets über alle Kanäle verwandeln." }
       },
       "pm": {
         "title": "Projektmanagementsysteme",
-        "subtitle": "Automatisiere Lieferworkflows, damit sich dein Team auf wertschöpfende Arbeit konzentrieren kann.",
-        "card1": { "title": "Automatisierte Auftragsabwicklung", "desc": "End-to-End-Lieferautomatisierung — von der Aufgabenerstellung über Statusupdates bis zur Kundenkommunikation, alles ohne manuellen Eingriff." },
+        "subtitle": "Automatisieren Sie Lieferworkflows, damit sich Ihr Team auf wertschöpfende Arbeit konzentrieren kann.",
+        "card1": { "title": "Automatisierte Auftragsabwicklung", "desc": "End-to-End-Lieferautomatisierung. Von der Aufgabenerstellung über Statusupdates bis zur Kundenkommunikation, alles ohne manuellen Eingriff." },
         "card2": { "title": "Kunden-Onboarding", "desc": "Strukturierte Onboarding-Flows, die Anforderungen sammeln, Erwartungen setzen und Projekte automatisch starten, sobald ein Deal abgeschlossen ist." },
-        "card3": { "title": "PM-Workflows", "desc": "Intelligente Aufgabenzuweisung, Deadline-Tracking und Engpasserkennung, die Projekte auf Kurs hält und dein Team ausrichtet." }
+        "card3": { "title": "PM-Workflows", "desc": "Intelligente Aufgabenzuweisung, Deadline-Tracking und Engpasserkennung, die Projekte auf Kurs hält und Ihr Team ausrichtet." }
       },
       "hiring": {
         "title": "Einstellungssysteme",
-        "subtitle": "Rekrutiere intelligenter und schneller mit KI-gesteuertem Screening und Evaluierung.",
-        "card1": { "title": "Intake-Systeme", "desc": "Strukturierte Bewerbungsformulare mit automatischer Datenerkennung und Kandidatenprofilerstellung — kein manuelles Sortieren von Lebensläufen mehr." },
-        "card2": { "title": "KI-Scoring", "desc": "Objektives Kandidaten-Scoring basierend auf benutzerdefinierten Kriterien, Erfahrungsabgleich und kulturellen Fit-Indikatoren — reduziert Vorurteile und spart Stunden." },
-        "card3": { "title": "Testprozesse", "desc": "Automatisierte Zuweisung von Testprojekten, Einreichungsverfolgung und Evaluierungs-Workflows, die deine besten Kandidaten schnell identifizieren." }
+        "subtitle": "Rekrutieren Sie intelligenter und schneller mit KI-gesteuertem Screening und Evaluierung.",
+        "card1": { "title": "Intake-Systeme", "desc": "Strukturierte Bewerbungsformulare mit automatischer Datenerkennung und Kandidatenprofilerstellung. Kein manuelles Sortieren von Lebensläufen mehr." },
+        "card2": { "title": "KI-Scoring", "desc": "Objektives Kandidaten-Scoring basierend auf benutzerdefinierten Kriterien, Erfahrungsabgleich und kulturellen Fit-Indikatoren. Reduziert Vorurteile und spart Stunden." },
+        "card3": { "title": "Testprozesse", "desc": "Automatisierte Zuweisung von Testprojekten, Einreichungsverfolgung und Evaluierungs-Workflows, die Ihre besten Kandidaten schnell identifizieren." }
       },
       "salesAdmin": {
         "title": "Vertriebsverwaltung",
-        "subtitle": "Optimiere deine Vertriebsoperationen mit maßgeschneiderten Tools und intelligenter Automatisierung.",
-        "card1": { "title": "Benutzerdefinierte CRMs", "desc": "Maßgeschneiderte CRM-Setups für deinen Verkaufsprozess — automatisiertes Deal-Tracking, Pipeline-Ansichten und Aktivitätsprotokollierung ohne Ballast." },
-        "card2": { "title": "KI-Asset-Generatoren", "desc": "Automatisch Angebote, SOWs und Verkaufspräsentationen erstellen, die für jeden Interessenten mit KI und deinen vorhandenen Vorlagen personalisiert sind." },
+        "subtitle": "Optimieren Sie Ihre Vertriebsoperationen mit maßgeschneiderten Tools und intelligenter Automatisierung.",
+        "card1": { "title": "Benutzerdefinierte CRMs", "desc": "Maßgeschneiderte CRM-Setups für Ihren Verkaufsprozess. Automatisiertes Deal-Tracking, Pipeline-Ansichten und Aktivitätsprotokollierung ohne Ballast." },
+        "card2": { "title": "KI-Asset-Generatoren", "desc": "Automatisch Angebote, SOWs und Verkaufspräsentationen erstellen, die für jeden Interessenten mit KI und Ihren vorhandenen Vorlagen personalisiert sind." },
         "card3": { "title": "Nurture-Systeme", "desc": "Mehrkanalige Follow-up-Sequenzen, die warme Leads mit zeitgemäßen, relevanten Berührungspunkten engagiert halten, bis sie kaufbereit sind." }
       },
       "personas": {
         "title": "Für Wen Ist Es",
-        "subtitle": "Wir arbeiten am besten mit Unternehmen, die bereit sind, Operationen durch Automatisierung zu skalieren.",
-        "agencies": { "title": "Agenturen", "desc": "Automatisiere Client-Delivery, Onboarding und Lead-Gen, damit du wachsen kannst, ohne proportional dein Team zu vergrößern." },
-        "saas": { "title": "SaaS-Unternehmen", "desc": "Baue automatisierte Outbound-Pipelines, Trial-to-Paid-Workflows und Customer-Success-Systeme." },
-        "professional": { "title": "Professionelle Dienstleistungen", "desc": "Rationalisiere Intake, Terminplanung, Abrechnung und Kundenkommunikation ohne manuellen Aufwand." },
-        "ecommerce": { "title": "E-Commerce", "desc": "Automatisiere Auftragsabwicklung, Bestandsmanagement, Kundensupport und Marketing-Workflows in großem Maßstab." }
+        "subtitle": "Ich arbeite mit britischen Personalvermittlungsunternehmen und spezialisierten Dienstleistungsunternehmen.",
+        "agencies": { "title": "Personalvermittler", "desc": "Lebenslauf-Formatierung, Compliance-Verfolgung, Interview-Planung. Ich baue die Workflows, die das von Ihrem Schreibtisch nehmen." },
+        "saas": { "title": "Reinigungsunternehmen", "desc": "Dienstpläne, Angebote, Kunden-Follow-up. Wenn die Arbeit einem Muster folgt, kann ich das Admin automatisieren." },
+        "professional": { "title": "Recht und Buchhaltung", "desc": "Dokumenten-Verfolgung, Compliance-Workflows, Kunden-Onboarding. Festpreis-Automatisierung für kleine Fachkanzleien." },
+        "ecommerce": { "title": "Fachdienstleistungen", "desc": "Jedes kleine Unternehmen, bei dem jede Woche dasselbe Admin anfällt. Wenn Sie das Muster beschreiben können, kann ich den Workflow bauen." }
       },
       "process": {
-        "title": "Unser Prozess",
-        "subtitle": "Von der Entdeckung bis zur Bereitstellung in Wochen, nicht Monaten.",
-        "step1": { "title": "Entdeckung", "desc": "Wir kartieren deine aktuellen Workflows, identifizieren Automatisierungsmöglichkeiten und priorisieren nach ROI-Auswirkung." },
-        "step2": { "title": "Design", "desc": "Wir entwickeln die Systemarchitektur — wählen die richtigen Tools, definieren Datenflüsse und planen Integrationen." },
-        "step3": { "title": "Entwicklung", "desc": "Schnelle Implementierung mit wöchentlichen Demos. Du siehst Fortschritte und kannst in Echtzeit Feedback geben." },
-        "step4": { "title": "Launch", "desc": "Go-live mit vollständiger Dokumentation, Schulung und 30 Tagen Support, um sicherzustellen, dass alles reibungslos läuft." }
+        "title": "Wie Ich Arbeite",
+        "subtitle": "Vom ersten Gespräch bis zur Übergabe in Tagen, nicht Monaten.",
+        "step1": { "title": "Audit", "desc": "Ich kartiere Ihre aktuellen Workflows, identifiziere Automatisierungsmöglichkeiten und priorisiere nach eingesparter Zeit." },
+        "step2": { "title": "Design", "desc": "Ich entwerfe das System. Die richtigen Tools, saubere Datenflüsse und Integrationen, die wirklich zusammenarbeiten." },
+        "step3": { "title": "Entwicklung", "desc": "Ich baue und teste alles. Sie sehen es funktionieren, bevor ich es übergebe." },
+        "step4": { "title": "Übergabe", "desc": "Vollständige Dokumentation und eine aufgezeichnete Anleitung. Der Workflow gehört Ihnen." }
       },
       "pricing": {
-        "title": "Preise",
-        "subtitle": "Transparente Preise. Keine versteckten Gebühren. Wähle, was zu deinen Bedürfnissen passt.",
+        "title": "Was es kostet",
+        "subtitle": "Drei Festpreise, nichts versteckt. Die £95-Rettung gibt es, damit Sie meine Arbeitsweise testen können, bevor Sie sich auf etwas Größeres einlassen.",
         "cta": "Loslegen",
         "tier1": {
-          "name": "Einzelsystem", "period": "einmalig", "amount": "€4.060",
-          "desc": "Ein vollständiges Automatisierungssystem, das für dein Unternehmen gebaut und eingesetzt wird.",
-          "li1": "1 Automatisierungssystem", "li2": "Entdeckungs- und Design-Session",
-          "li3": "Lieferung in 2–3 Wochen", "li4": "Vollständige Dokumentation", "li5": "14 Tage Post-Launch-Support"
+          "name": "Automatisierungsrettung", "period": "Festpreis", "amount": "£95",
+          "desc": "Ich identifiziere und repariere einen defekten Workflow innerhalb von 48 Stunden.",
+          "li1": "Ein reparierter Workflow", "li2": "Lieferung in 48 Stunden",
+          "li3": "Dokumentation inbegriffen", "li4": "", "li5": ""
         },
         "tier2": {
-          "name": "Wachstumspaket", "period": "einmalig", "amount": "€9.860",
-          "desc": "Eine Suite vernetzter Systeme, die transformieren, wie dein Unternehmen operiert.",
-          "li1": "3 Automatisierungssysteme", "li2": "Vollständiges Workflow-Audit",
-          "li3": "Lieferung in 4–6 Wochen", "li4": "Systemintegrationen", "li5": "30 Tage Post-Launch-Support"
+          "name": "5-Tage-Workflow", "period": "Festpreis. £300 für die ersten drei Gründungskunden", "amount": "£450",
+          "desc": "Eine vollständige Automatisierung, gebaut, getestet und in fünf Arbeitstagen geliefert.",
+          "li1": "Ein vollständiger Workflow", "li2": "Lieferung in 5 Arbeitstagen",
+          "li3": "Dokumentation und Übergabe", "li4": "", "li5": ""
         },
         "tier3": {
-          "name": "Retainer", "period": "pro Monat", "amount": "€3.480",
-          "desc": "Fortlaufender Automatisierungspartner. Wir bauen, optimieren und warten deine Systeme kontinuierlich.",
-          "li1": "Dediziertes Automatisierungsteam", "li2": "Unbegrenzte Systemanfragen",
-          "li3": "Prioritätssupport", "li4": "Monatliche Strategiegespräche", "li5": "Kontinuierliche Optimierung"
+          "name": "KI-Workflow-Audit und Build", "period": "Festpreis. 50% bei Vertragsabschluss, 50% bei Übergabe. UK-Rechnung via Stripe", "amount": "£2.500",
+          "desc": "Ein vollständiges Audit Ihrer Workflows, gefolgt von der Automatisierung mit dem größten Einfluss, geliefert und dokumentiert.",
+          "li1": "Vollständiges Workflow-Audit", "li2": "Eine Automatisierung mit hohem Einfluss",
+          "li3": "Vollständige Dokumentation und Übergabe", "li4": "", "li5": ""
         }
       },
       "cta": {
-        "headline": "Bereit, dein Wachstum zu automatisieren?",
-        "subtitle": "Buche ein kostenloses 30-minütiges Strategiegespräch und wir kartieren deine größten Automatisierungsmöglichkeiten."
+        "headline": "Bereit, Ihren Schreibtisch-Admin zu automatisieren?",
+        "subtitle": "Starten Sie ab £95 und testen Sie meine Arbeitsweise, bevor Sie sich auf etwas Größeres einlassen."
       }
     },
     "aboutPage": {
       "hero": {
-        "headlinePre": "Wir sahen die Zukunft der Arbeit — und haben sie ",
-        "headlineCyan": "gebaut",
-        "subtitle": "NextVibe wurde auf einem einfachen Glauben gegründet: Unternehmen sollten ihre besten Stunden nicht für Aufgaben aufwenden, die eine Maschine besser erledigen kann. Wir bauen die KI-Systeme, die das Wirklichkeit werden lassen."
+        "headlinePre": "Die ehrliche ",
+        "headlineCyan": "Version",
+        "subtitle": ""
       },
       "story": {
-        "p1": "Wir gründeten NextVibe 2020, als wir etwas bemerkten, das die meisten Unternehmen ignorierten: Die Lücke zwischen dem, was KI leisten konnte, und dem, was Unternehmen tatsächlich nutzten, war riesig — und wuchs.",
-        "p2": "Während die Welt über KI sprach, integrierten wir sie still und leise in echte Geschäftsabläufe. Kalt-E-Mail-Systeme, die sich selbst schrieben. Onboarding-Flows, die ohne einen einzigen manuellen Schritt liefen. CRMs, die sich in Echtzeit aktualisierten.",
-        "highlight": "\"Wir verkaufen keinen KI-Hype. Wir verkaufen Stunden zurück an dein Team und Umsatz an dein Unternehmen.\"",
-        "p3": "Heute arbeitet NextVibe mit Agenturen, SaaS-Unternehmen und Dienstleistungsunternehmen in ganz Großbritannien und darüber hinaus. Wir haben Tausende von Stunden manueller Arbeit automatisiert und unseren Kunden geholfen, zu skalieren, ohne ihre Belegschaft zu vergrößern.",
-        "p4": "Unser Ansatz ist einfach: dein Unternehmen tiefgehend verstehen, die Automatisierungsmöglichkeiten mit dem größten Einfluss finden und Systeme bauen, die wirklich funktionieren — keine glitzernden Demos, die Staub sammeln."
+        "p1": "Ich bin Victor Fernandez. NextVibe AI bin ich: eine Person, in Großbritannien ansässig, die KI-Automatisierung für Personalvermittler aufbaut. Ich habe im März 2026 begonnen.",
+        "p2": "Noch keine Kundenlogos. Keine Testimonials. Ich werde sie nicht erfinden. Was ich Ihnen zeigen kann, ist das System, mit dem ich mein eigenes Unternehmen führe. Meine LinkedIn-Veröffentlichungen, meine Akquise, meine Berichte und mein Admin laufen alle mit Workflows, die ich selbst gebaut habe. Ich verkaufe, was ich jeden Tag nutze.",
+        "highlight": "",
+        "p3": "Warum Personalvermittlung? Weil ein Personalvermittlungs-Schreibtisch voll von Arbeit ist, die immer die gleiche Form hat. Lebenslauf-Formatierung. Compliance-Verfolgung. Interview-Planung. Diese Gleichförmigkeit ist es, was Automatisierung gut kann, und die meisten kleinen Firmen haben niemanden, dessen Aufgabe es ist, sie aufzubauen. Reinigungsunternehmen und Fachdienstleister haben die gleiche Struktur, also nehme ich diese Arbeit auch an.",
+        "p4": "Was ich glaube: Die Technologie ist die einfache Hälfte. Den richtigen Prozess zu wählen, der zuerst automatisiert werden soll, ist die schwierige Hälfte. Daher beginnt jedes Engagement mit einem Audit des Workflows, dann einem begrenzten Build, dann der Rechnung, was er eingespart hat. Klein, ausgeliefert, bewiesen."
       },
       "founders": {
-        "title": "Lern den Gründer Kennen",
-        "subtitle": "Die Person hinter den KI-Automatisierungssystemen von NextVibe.",
+        "title": "Der Gründer",
+        "subtitle": "Die Person hinter NextVibe AI.",
         "victor": {
-          "role": "CEO & Gründer",
-          "bio": "Ehemaliger Automatisierungsberater, der zum Gründer wurde. Victor hat KI- und Automatisierungssysteme in allen wichtigen Branchen aufgebaut — und leitet Strategie, Systemarchitektur und Lieferung bei NextVibe."
+          "role": "Gründer",
+          "bio": "Eine Person, in Großbritannien ansässig. Ich baue KI-Automatisierungs-Workflows für Personalvermittler und spezialisierte Dienstleistungsunternehmen. Ich habe NextVibe AI im März 2026 gestartet."
         }
       },
       "timeline": {
-        "title": "Unsere Reise",
-        "subtitle": "Wichtige Meilensteine auf dem Weg zu dem, wo wir heute sind.",
-        "item1": { "title": "NextVibe Gegründet", "desc": "Als zweiköpfige Unternehmensberatung gestartet, die während der Pandemie Automatisierungssysteme für lokale Unternehmen baute." },
-        "item2": { "title": "Erster Unternehmenskunde", "desc": "Unser erstes Unternehmensengagement gewonnen — eine umfassende Automatisierungsüberarbeitung für eine 50-köpfige Agentur." },
-        "item3": { "title": "AI-First Pivot", "desc": "GPT-gestützte KI in jedes System integriert, das wir bauen, und damit zu einer der ersten Agenturen geworden, die vollständig KI-nativ sind." },
-        "item4": { "title": "50+ Kunden Bedient", "desc": "Über 50 aktive Kunden und 500+ Stunden manueller Arbeit, die monatlich in unserem Portfolio automatisiert werden." },
-        "item5": { "title": "Skalierung", "desc": "Team erweitern, neue Service-Stufen starten und proprietäre KI-Tools für unsere Kunden entwickeln." }
+        "title": "Verlauf",
+        "subtitle": "",
+        "item1": { "title": "NextVibe AI gegründet", "desc": "Beginn des Aufbaus von KI-Automatisierungs-Workflows für britische Personalvermittler. März 2026." },
+        "item2": { "title": "", "desc": "" },
+        "item3": { "title": "", "desc": "" },
+        "item4": { "title": "", "desc": "" },
+        "item5": { "title": "", "desc": "" }
       },
       "values": {
-        "title": "Wofür Wir Stehen",
-        "subtitle": "Die Prinzipien, die jedes System leiten, das wir bauen.",
-        "action": { "title": "Bias zur Aktion", "desc": "Wir liefern schnell. Wochen, nicht Quartale. Jedes System, das wir bauen, geht live und beginnt sofort Wert zu liefern." },
-        "roi": { "title": "ROI im Fokus", "desc": "Wir bauen keine coole Technologie um ihrer selbst willen. Jede Automatisierung muss einen klaren, messbaren Einfluss auf dein Unternehmen haben." },
-        "transparency": { "title": "Radikale Transparenz", "desc": "Keine Black Boxes. Du siehst jeden Workflow, jede Integration, jede Entscheidung. Deine Systeme gehören dir." },
-        "simplicity": { "title": "Einfachheit Zuerst", "desc": "Das beste System ist das einfachste, das funktioniert. Wir vermeiden Over-Engineering und konzentrieren uns auf Zuverlässigkeit." },
-        "ahead": { "title": "Immer Vorne", "desc": "Wir testen immer neue KI-Modelle, Tools und Techniken, damit unsere Kunden Zugang zu dem haben, was kommt — vor ihren Wettbewerbern." },
-        "partnership": { "title": "Echte Partnerschaft", "desc": "Wir sind kein Anbieter. Wir integrieren uns in dein Team, verstehen deine Ziele und bauen, als wäre es unser eigenes Unternehmen." }
+        "title": "Wofür Ich Stehe",
+        "subtitle": "Die Prinzipien hinter jedem Workflow, den ich baue.",
+        "action": { "title": "Bias zur Aktion", "desc": "Ich liefere schnell. Wochen, nicht Quartale. Jedes System, das ich baue, geht live und beginnt sofort Wert zu liefern." },
+        "roi": { "title": "ROI im Fokus", "desc": "Ich baue keine coole Technologie um ihrer selbst willen. Jede Automatisierung muss einen klaren, messbaren Einfluss auf Ihr Unternehmen haben." },
+        "transparency": { "title": "Radikale Transparenz", "desc": "Keine Black Boxes. Sie sehen jeden Workflow, jede Integration, jede Entscheidung. Ihre Systeme gehören Ihnen." },
+        "simplicity": { "title": "Einfachheit Zuerst", "desc": "Das beste System ist das einfachste, das funktioniert. Ich vermeide Over-Engineering und konzentriere mich auf Zuverlässigkeit." },
+        "ahead": { "title": "Immer Aktuell", "desc": "Ich teste ständig neue KI-Modelle, Tools und Techniken, damit meine Kunden Zugang zu dem haben, was jetzt funktioniert." },
+        "partnership": { "title": "Direkte Partnerschaft", "desc": "Ich bin kein Anbieter. Ich integriere mich in Ihren Workflow, verstehe Ihre Ziele und baue, als wäre es mein eigenes Unternehmen." }
       },
       "cta": {
-        "headlinePre": "Lass uns etwas ",
-        "headlineCyan": "Außergewöhnliches bauen",
-        "subtitle": "Buche ein kostenloses Strategiegespräch und entdecke, wie KI-Automatisierung deine Geschäftsabläufe transformieren kann."
+        "headlinePre": "Haben Sie einen Workflow, der ",
+        "headlineCyan": "Ihre Woche verschwendet?",
+        "subtitle": "Starten Sie ab £95 und testen Sie meine Arbeitsweise, bevor Sie sich auf etwas Größeres einlassen."
       }
     },
     "startPage": {
       "hero": {
-        "headline": "Hören Sie auf, Umsatz durch manuelle Arbeit zu verlieren",
-        "subtitle": "Die meisten kleinen Unternehmen verschwenden 20-30% ihres Umsatzes durch defekte Arbeitsabläufe. Wir finden die Lecks und beheben sie mit KI-Automatisierung — typischerweise sparen wir 15-20 Stunden/Woche.",
+        "headline": "Hören Sie auf, Stunden in Admin zu verlieren, der sich selbst automatisiert",
+        "subtitle": "Holen Sie sich meine kostenlose Checkliste, welche Personalvermittlungs-Workflows es sich lohnt, zuerst zu automatisieren.",
         "firstNamePlaceholder": "Vorname",
         "emailPlaceholder": "E-Mail",
         "companyPlaceholder": "Unternehmensname",
-        "submitBtn": "Holen Sie sich Ihr kostenloses KI-Audit →",
-        "successTitle": "Danke! Wir freuen uns, zu helfen.",
-        "successText": "Wir melden uns innerhalb von 24 Stunden mit Ihrem kostenlosen KI-Audit.",
-        "bookCallBtn": "Jetzt Ihren Anruf buchen →",
-        "subtext": "Keine Verpflichtung. Dauert 2 Minuten."
+        "submitBtn": "KI-Automatisierungs-Checkliste erhalten →",
+        "successTitle": "Danke. Ich sende die Checkliste jetzt.",
+        "successText": "Ich melde mich auch innerhalb eines Arbeitstages, wenn der beschriebene Workflow wie ein guter Fit klingt.",
+        "bookCallBtn": "Anruf buchen →",
+        "subtext": "Keine Verpflichtung. Kein Spam."
       },
       "proof": {
-        "automations": "Automatisierungen gebaut",
-        "savedPerWeek": "Pro Woche gespart",
-        "revenueGrowth": "Umsatzwachstum"
+        "automations": "",
+        "savedPerWeek": "",
+        "revenueGrowth": ""
       },
       "problem": {
         "title": "Kommt Ihnen das bekannt vor?",
-        "subtitle": "Das sind keine bloßen Ärgernisse — sie kosten Sie €5.800-23.200 pro Monat an entgangenen Einnahmen und verschwendeter Zeit.",
-        "calloutAmount": "€5.800-23.200 pro Monat",
+        "subtitle": "Das sind keine bloßen Ärgernisse. Sie kosten jede Woche echte Stunden und echtes Geld.",
+        "calloutAmount": "Diese Probleme kosten jeden Monat echte Stunden und echte Einnahmen.",
         "card1Title": "Repetitive Aufgaben fressen Ihren Tag",
         "card1Desc": "Stunden mit repetitiven Aufgaben verbringen, die Minuten dauern sollten",
         "card2Title": "Leads fallen durch das Raster",
@@ -1243,62 +1243,62 @@
       "solution": {
         "title": "So funktioniert es",
         "step1Title": "Audit",
-        "step1Desc": "Wir analysieren Ihre aktuellen Arbeitsabläufe und identifizieren die größten Zeit- und Umsatzverluste. Kostenlos, ohne Verpflichtung.",
+        "step1Desc": "Ich analysiere Ihre aktuellen Workflows und identifiziere die größten Zeit- und Umsatzverluste.",
         "step2Title": "Design",
-        "step2Desc": "Wir entwerfen Ihr maßgeschneidertes Automatisierungssystem — Ihre Tools verbinden, manuelle Schritte eliminieren und KI an den richtigen Stellen einbauen.",
+        "step2Desc": "Ich entwerfe Ihr Automatisierungssystem. Die richtigen Tools, keine manuellen Schritte, KI wo sie Sinn ergibt.",
         "step3Title": "Implementierung",
-        "step3Desc": "Wir bauen, testen und deployen. Sie erhalten ein System, das sich selbst verwaltet, während Sie sich auf das Wachstum Ihres Unternehmens konzentrieren.",
-        "cta": "Starten Sie mit Ihrem kostenlosen Audit →"
+        "step3Desc": "Ich baue, teste und übergebe. Sie erhalten einen Workflow, der sich selbst verwaltet.",
+        "cta": "Checkliste erhalten →"
       },
       "testimonials": {
-        "title": "Was Kunden sagen",
-        "t1Text": "Hat uns 15 Stunden pro Woche allein beim Client-Onboarding gespart. Der ROI war innerhalb des ersten Monats offensichtlich.",
-        "t1Role": "Betriebsdirektor",
-        "t1Result": "Ergebnis: 15 Std./Woche gespart",
-        "t2Text": "Victor hat eine Automatisierung gebaut, die drei manuelle Prozesse ersetzt hat. Unsere Lead-Reaktionszeit sank von 4 Stunden auf unter 5 Minuten.",
-        "t2Role": "Gründer, SaaS-Startup",
-        "t2Result": "Ergebnis: 47x schnellere Reaktion",
-        "t3Text": "Wir waren skeptisch gegenüber KI-Automatisierung. Innerhalb von zwei Wochen hörten wir auf, skeptisch zu sein und ärgerten uns, es nicht früher getan zu haben.",
-        "t3Role": "Geschäftsführer, Agentur",
-        "t3Result": "Ergebnis: €9.300/Monat zurückgewonnen"
+        "title": "",
+        "t1Text": "",
+        "t1Role": "",
+        "t1Result": "",
+        "t2Text": "",
+        "t2Role": "",
+        "t2Result": "",
+        "t3Text": "",
+        "t3Role": "",
+        "t3Result": ""
       },
       "caseStudy": {
-        "title": "Wie eine 5-Personen-Agentur €9.300/Monat zurückgewann",
-        "r1Metric": "€9.300",
-        "problemTitle": "Das Problem",
-        "p1": "Manuelles Lead-Routing verursachte Verzögerungen",
-        "p2": "Verpasste Follow-ups bei heißen Interessenten",
-        "p3": "Inkonsistentes Client-Onboarding (3+ Tage hin und her)",
-        "solutionTitle": "Die Lösung",
-        "s1": "Make.com + KI-Pipeline für intelligentes Lead-Scoring",
-        "s2": "Sofortige Follow-up-E-Mails bei eingehenden Leads ausgelöst",
-        "s3": "Client-Onboarding in 20 Minuten abgeschlossen (vollständig automatisiert)",
-        "resultTitle": "Das Ergebnis",
-        "r1Label": "Monatlicher Umsatz zurückgewonnen",
-        "r2Label": "Pro Woche frei gemacht",
-        "r3Label": "Schnelleres Onboarding",
-        "cta": "Erzielen Sie solche Ergebnisse →"
+        "title": "",
+        "problemTitle": "",
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "solutionTitle": "",
+        "s1": "",
+        "s2": "",
+        "s3": "",
+        "resultTitle": "",
+        "r1Metric": "",
+        "r1Label": "",
+        "r2Label": "",
+        "r3Label": "",
+        "cta": ""
       },
       "faq": {
         "title": "Häufig gestellte Fragen",
         "q1": "Was kostet das?",
-        "a1": "Unser KI-Audit ist völlig kostenlos. Implementierungsprojekte liegen typischerweise zwischen €1.740-5.800 je nach Komplexität, wobei die meisten Kunden ROI innerhalb des ersten Monats sehen.",
+        "a1": "Festpreise: £95 um einen defekten Workflow innerhalb von 48 Stunden zu reparieren, £450 für einen vollständigen 5-Tage-Build (£300 für die ersten drei Gründungskunden) oder £2.500 für ein zweiwöchiges Audit und einen Build mit einer vollständigen Roadmap. Keine versteckten Gebühren.",
         "q2": "Wird das meinen laufenden Betrieb stören?",
-        "a2": "Nein. Wir bauen neben Ihren bestehenden Tools und Prozessen. Keine Ausfallzeit. Wir testen alles, bevor es live geht.",
+        "a2": "Nein. Ich baue neben Ihren bestehenden Tools und Prozessen. Keine Ausfallzeit. Ich teste alles, bevor es live geht.",
         "q3": "Wie lange dauert die Implementierung?",
         "a3": "Die meisten Automatisierungssysteme sind innerhalb von 1-2 Wochen live. Komplexe Projekte dauern 3-4 Wochen. Sie sehen schnelle Gewinne innerhalb von Tagen.",
         "q4": "Brauche ich technische Kenntnisse?",
-        "a4": "Überhaupt nicht. Wir kümmern uns um alles Technische. Sagen Sie uns einfach, was Ihre Zeit frisst, und wir beheben es.",
+        "a4": "Überhaupt nicht. Ich kümmere mich um alles Technische. Sagen Sie mir einfach, was Ihre Zeit frisst, und ich behebe es.",
         "q5": "Mit welchen Tools arbeiten Sie?",
-        "a5": "Wir spezialisieren uns auf Make.com, Notion, CRMs (HubSpot, Pipedrive), E-Mail-Plattformen und KI-Modelle (GPT-4, Claude). Wenn Sie es nutzen, können wir es wahrscheinlich automatisieren.",
+        "a5": "Ich spezialisiere mich auf Make.com, Notion, CRMs (HubSpot, Pipedrive), E-Mail-Plattformen und KI-Modelle (GPT-4, Claude). Wenn Sie es nutzen, kann ich es wahrscheinlich automatisieren.",
         "q6": "Was, wenn es nicht funktioniert?",
-        "a6": "Jedes Projekt beginnt mit einem kostenlosen Audit, damit wir den ROI bestätigen können, bevor Sie investieren. Wir nehmen keine Projekte an, die wir nicht liefern können."
+        "a6": "Jedes Projekt beginnt mit einem Workflow-Audit, damit ich das Ergebnis bestätigen kann, bevor Sie sich festlegen. Ich nehme keine Projekte an, die ich nicht liefern kann."
       },
       "finalCta": {
-        "headline": "Bereit, Arbeit zu stoppen, die eine Maschine erledigen sollte?",
-        "subtitle": "Holen Sie sich Ihr kostenloses KI-Audit. Wir zeigen Ihnen genau, wo Sie Zeit und Geld verlieren — und wie Sie es beheben.",
-        "cta": "Holen Sie sich Ihr kostenloses KI-Audit →",
-        "subtext": "Begrenzt auf 5 Audits pro Monat. Keine Verpflichtung erforderlich."
+        "headline": "Haben Sie einen Workflow, der Ihre Woche verschwendet?",
+        "subtitle": "Starten Sie bei £95 oder laden Sie die Checkliste herunter und sehen Sie, welche Prozesse in Ihrem Unternehmen es sich lohnt, zuerst zu automatisieren.",
+        "cta": "Checkliste erhalten →",
+        "subtext": "Keine Verpflichtung. Kein Spam."
       },
       "footer": {
         "privacy": "Datenschutzrichtlinie",
@@ -1315,10 +1315,10 @@
       "bookCall": "Prenota una Chiamata"
     },
     "hero": {
-      "badge": "Sistemi alimentati dall'IA per il mondo reale",
-      "headline": "Costruiamo Infrastrutture di IA Dietro alle Aziende in Crescita.",
-      "subtitle": "Progettiamo e distribuiamo sistemi di IA che generano lead, chiudono affari e semplificano le operazioni — in modo che tu possa concentrarti su ciò che fai meglio.",
-      "cta1": "Prenota una Chiamata",
+      "badge": "Flussi di lavoro con IA per agenzie di reclutamento nel Regno Unito",
+      "headline": "I placement generano i guadagni. L'amministrazione mangia la settimana. Io automatico l'amministrazione.",
+      "subtitle": "Flussi di lavoro con IA per agenzie di reclutamento nel Regno Unito, costruiti da un solo professionista. Prezzi fissi da £95 a £2.500, tutto su questo sito.",
+      "cta1": "Inizia da £95",
       "cta2": "I Nostri Servizi"
     },
     "stats": {
@@ -1327,50 +1327,50 @@
       "cost": "% Riduzione dei Costi"
     },
     "calculator": {
-      "title": "Quanto Potrebbe Risparmiare l'IA la Tua Azienda?",
+      "title": "Quanto Potrebbe Risparmiare l'IA alla Tua Azienda?",
       "subtitle": "Inserisci i tuoi dettagli e vedi il potenziale impatto dell'automazione.",
       "employees": "Numero di Dipendenti",
-      "hourlyRate": "Tariffa Oraria Media (€)",
+      "hourlyRate": "Tariffa Oraria Media (£)",
       "hoursWasted": "Ore su Attività Manuali / Settimana / Dipendente",
       "annualSavings": "Risparmi Annuali Stimati",
       "monthlySavings": "Risparmi Mensili",
       "hoursReclaimed": "Ore Recuperate / Anno"
     },
     "caseStudies": {
-      "title": "Risultati Reali. Aziende Reali.",
-      "subtitle": "Scopri come abbiamo aiutato le aziende a crescere attraverso l'automazione.",
+      "title": "Come lavoro.",
+      "subtitle": "Prezzi fissi. Consegne documentate. Il flusso di lavoro è tuo.",
       "saas": {
-        "tag": "SaaS",
-        "title": "Pipeline di Lead Automatizzata",
-        "desc": "Sistema di cold email e lead scoring basato su IA che ha triplicato le demo qualificate in 90 giorni.",
-        "stat": "Demo Qualificate"
+        "tag": "Reclutamento",
+        "title": "Flusso di formattazione CV",
+        "desc": "Riformattazione automatizzata di CV ed estrazione dei dati dei candidati per un'agenzia di reclutamento.",
+        "stat": "Ore risparmiate per settimana"
       },
       "ecommerce": {
-        "tag": "E-Commerce",
-        "title": "Automazione dell'Evasione Ordini",
-        "desc": "Sostituito più di 40 ore di elaborazione manuale degli ordini a settimana con un sistema di automazione end-to-end.",
-        "stat": "Ore Risparmiate / Settimana"
+        "tag": "Reclutamento",
+        "title": "Monitoraggio conformità",
+        "desc": "Richieste automatizzate di documenti di conformità e monitoraggio delle scadenze per un recruiter specializzato.",
+        "stat": "Amministrazione eliminata"
       },
       "agency": {
-        "tag": "Agenzia",
-        "title": "Sistema di Onboarding Clienti",
-        "desc": "L'onboarding automatizzato ha ridotto il tempo di consegna da 2 settimane a 3 giorni senza passaggi manuali.",
-        "stat": "Tempo di Onboarding"
+        "tag": "Reclutamento",
+        "title": "Pianificazione colloqui",
+        "desc": "Automazione end-to-end della pianificazione dei colloqui, eliminando lo scambio di messaggi dall'agenda del consulente.",
+        "stat": "Tempo per prenotazione"
       }
     },
     "services": {
-      "title": "In cosa ci specializziamo.",
-      "subtitle": "Sistemi di IA end-to-end che guidano i risultati aziendali reali.",
+      "title": "In cosa mi specializzo.",
+      "subtitle": "Automazione per il lavoro che divora la settimana di un'agenzia di reclutamento.",
       "growth": {
         "name": "Sistemi di Crescita e Automazione",
-        "desc": "Sistemi di generazione e vendita di lead alimentati dall'IA che riempiono la tua pipeline automaticamente.",
+        "desc": "Sistemi di generazione lead e vendite con IA che mantengono la tua pipeline attiva senza sforzo manuale.",
         "li1": "Campagne Email a Freddo con IA",
         "li2": "Scoring e Routing dei Lead",
         "li3": "Automazione CRM",
         "li4": "Distribuzione dei Contenuti"
       },
       "operations": {
-        "name": "Automazione delle Operazioni e dell'Adempimento",
+        "name": "Automazione delle Operazioni e dei Flussi di Lavoro",
         "desc": "Semplifica la consegna, l'onboarding e la gestione dei progetti con flussi di lavoro intelligenti.",
         "li1": "Evasione Ordini Automatizzata",
         "li2": "Onboarding Clienti",
@@ -1379,7 +1379,7 @@
       },
       "bespoke": {
         "name": "Soluzioni di IA Personalizzate",
-        "desc": "Strumenti di IA personalizzati per le tue esigenze esatte — chatbot, modelli di scoring e altro.",
+        "desc": "Strumenti di IA costruiti per il tuo esatto flusso di lavoro. Chatbot, modelli di scoring, automazione documentale e altro.",
         "li1": "Chatbot IA Personalizzati",
         "li2": "Scoring e Classificazione IA",
         "li3": "Pipeline di Dati",
@@ -1387,20 +1387,20 @@
       }
     },
     "testimonials": {
-      "title": "Cosa Dicono i Nostri Clienti",
-      "quote": "NextVibe ha costruito per noi un sistema completo di lead generation con IA in meno di 3 settimane. Le nostre prenotazioni demo sono triplicate e il team finalmente ha tempo per concentrarsi sulla chiusura dei contratti invece di inseguire lead freddi."
+      "title": "Cosa Dicono i Clienti",
+      "quote": ""
     },
     "form": {
-      "title": "Raccontaci la tua situazione...",
+      "title": "Dimmi dove sei...",
       "name": "Nome",
       "email": "Email",
       "company": "Azienda",
       "budget": "Budget",
       "budgetPlaceholder": "Seleziona un intervallo",
-      "budget1": "€5.800 – €11.600",
-      "budget2": "€11.600 – €29.000",
-      "budget3": "€29.000+",
-      "messageLabel": "Parlaci del tuo progetto",
+      "budget1": "£95",
+      "budget2": "£450",
+      "budget3": "£2.500",
+      "messageLabel": "Parlami del tuo flusso di lavoro",
       "messagePlaceholder": "Cosa vuoi automatizzare?",
       "namePlaceholder": "Il tuo nome",
       "emailPlaceholder": "tu@azienda.it",
@@ -1408,156 +1408,156 @@
       "submit": "Invia Messaggio"
     },
     "footer": {
-      "copy": "© 2026 NextVibe. Tutti i diritti riservati."
+      "copy": "© 2026 NextVibe AI. Tutti i diritti riservati."
     },
     "servicesPage": {
       "hero": {
-        "headline": "Servizi e Soluzioni",
-        "subtitle": "Sistemi di IA end-to-end progettati per generare lead, automatizzare le operazioni e scalare il tuo business senza aumentare il personale.",
-        "metric1": "Riduzione Media dei Costi",
+        "headline": "Servizi di automazione IA per agenzie di reclutamento nel Regno Unito",
+        "subtitle": "Prezzi fissi. Un solo professionista. Costruisco il flusso di lavoro, lo consegno documentato e tu ne sei il proprietario.",
+        "metric1": "Tempo Medio Risparmiato",
         "metric2": "Consegna Più Rapida",
         "metric3": "Ore Risparmiate al Mese"
       },
       "leadGen": {
         "title": "Sistemi di Generazione Lead",
-        "subtitle": "Pipeline alimentate da IA che riempiono il tuo calendario di prospect qualificati.",
+        "subtitle": "Pipeline IA che riempiono il tuo calendario di prospect qualificati.",
         "card1": { "title": "Cold Email con IA", "desc": "Contatto iper-personalizzato su larga scala con testi generati da IA, warmup automatizzato e orari di invio intelligenti che atterrano nella casella principale." },
-        "card2": { "title": "Sistemi di Candidatura", "desc": "Funnel inbound con qualifica IA — assegna punteggi, instrada e segui automaticamente ogni lead affinché nulla vada perso." },
-        "card3": { "title": "Sistemi di Contenuto", "desc": "Pipeline di contenuti assistite da IA che trasformano un articolo di thought leadership in decine di asset pronti per la distribuzione su più canali." }
+        "card2": { "title": "Sistemi di Candidatura", "desc": "Funnel inbound con qualifica IA. Assegna punteggi, instrada e segui automaticamente ogni lead affinché nulla vada perso." },
+        "card3": { "title": "Sistemi di Contenuto", "desc": "Pipeline di contenuti IA che trasformano un articolo di thought leadership in decine di asset pronti per la distribuzione su più canali." }
       },
       "pm": {
         "title": "Sistemi di Project Management",
         "subtitle": "Automatizza i flussi di consegna in modo che il tuo team possa concentrarsi sul lavoro ad alto valore.",
-        "card1": { "title": "Evasione Ordini Automatizzata", "desc": "Automazione della consegna end-to-end — dalla creazione delle attività agli aggiornamenti di stato alla comunicazione con i clienti, tutto senza intervento manuale." },
+        "card1": { "title": "Evasione Ordini Automatizzata", "desc": "Automazione della consegna end-to-end. Dalla creazione delle attività agli aggiornamenti di stato alla comunicazione con i clienti, tutto senza intervento manuale." },
         "card2": { "title": "Onboarding Clienti", "desc": "Flussi di onboarding strutturati che raccolgono requisiti, stabiliscono aspettative e avviano progetti automaticamente nel momento in cui viene chiuso un accordo." },
         "card3": { "title": "Workflow PM", "desc": "Assegnazione intelligente delle attività, monitoraggio delle scadenze e rilevamento dei colli di bottiglia che mantiene i progetti in carreggiata e il team allineato." }
       },
       "hiring": {
         "title": "Sistemi di Assunzione",
-        "subtitle": "Assumi in modo più intelligente e veloce con screening e valutazione alimentati da IA.",
-        "card1": { "title": "Sistemi di Intake", "desc": "Moduli di candidatura strutturati con estrazione automatica dei dati e profilazione dei candidati — niente più ordinamento manuale dei curriculum." },
-        "card2": { "title": "Scoring IA", "desc": "Scoring obiettivo dei candidati basato su criteri personalizzati, corrispondenza dell'esperienza e indicatori di adattamento culturale — riducendo i bias e risparmiando ore." },
+        "subtitle": "Assumi in modo più intelligente e veloce con screening e valutazione IA.",
+        "card1": { "title": "Sistemi di Intake", "desc": "Moduli di candidatura strutturati con estrazione automatica dei dati e profilazione dei candidati. Niente più ordinamento manuale dei curriculum." },
+        "card2": { "title": "Scoring IA", "desc": "Scoring obiettivo dei candidati basato su criteri personalizzati, corrispondenza dell'esperienza e indicatori di adattamento culturale. Riduce i bias e risparmia ore." },
         "card3": { "title": "Processi di Prova", "desc": "Assegnazione automatizzata di progetti di prova, monitoraggio delle consegne e workflow di valutazione che portano in superficie i tuoi migliori candidati rapidamente." }
       },
       "salesAdmin": {
         "title": "Amministrazione delle Vendite",
         "subtitle": "Semplifica le tue operazioni di vendita con strumenti personalizzati e automazione intelligente.",
-        "card1": { "title": "CRM Personalizzati", "desc": "Configurazioni CRM su misura per il tuo processo di vendita — monitoraggio automatizzato delle trattative, viste della pipeline e registrazione delle attività senza l'eccesso." },
+        "card1": { "title": "CRM Personalizzati", "desc": "Configurazioni CRM su misura per il tuo processo di vendita. Monitoraggio automatizzato delle trattative, viste della pipeline e registrazione delle attività senza l'eccesso." },
         "card2": { "title": "Generatori di Asset IA", "desc": "Genera automaticamente proposte, SOW e presentazioni di vendita personalizzate per ogni prospect usando l'IA e i tuoi modelli esistenti." },
         "card3": { "title": "Sistemi di Nurturing", "desc": "Sequenze di follow-up multicanale che mantengono i lead caldi coinvolti con punti di contatto tempestivi e pertinenti finché non sono pronti all'acquisto." }
       },
       "personas": {
         "title": "A Chi È Rivolto",
-        "subtitle": "Lavoriamo meglio con le aziende pronte a scalare le operazioni attraverso l'automazione.",
-        "agencies": { "title": "Agenzie", "desc": "Automatizza la consegna ai clienti, l'onboarding e la generazione di lead in modo da poter crescere senza aumentare proporzionalmente il team." },
-        "saas": { "title": "Aziende SaaS", "desc": "Costruisci pipeline outbound automatizzate, workflow da trial a pagamento e sistemi di customer success." },
-        "professional": { "title": "Servizi Professionali", "desc": "Semplifica l'intake, la pianificazione, la fatturazione e la comunicazione con i clienti senza overhead manuale." },
-        "ecommerce": { "title": "E-Commerce", "desc": "Automatizza l'elaborazione degli ordini, la gestione dell'inventario, il supporto clienti e i workflow di marketing su larga scala." }
+        "subtitle": "Lavoro con agenzie di reclutamento nel Regno Unito e aziende di servizi specializzati.",
+        "agencies": { "title": "Agenzie di reclutamento", "desc": "Formattazione di CV, verifica della conformità, pianificazione di colloqui. Costruisco i flussi di lavoro che tolgono queste attività dalla tua scrivania." },
+        "saas": { "title": "Imprese di pulizia", "desc": "Turni, preventivi, follow-up clienti. Se il lavoro segue uno schema, posso automatizzare l'amministrazione." },
+        "professional": { "title": "Legale e contabilità", "desc": "Inseguimento di documenti, flussi di conformità, onboarding clienti. Automazione a prezzo fisso per studi specializzati piccoli." },
+        "ecommerce": { "title": "Servizi specializzati", "desc": "Qualsiasi piccola azienda dove la stessa amministrazione si ripete ogni settimana. Se puoi descrivere lo schema, posso costruire il flusso di lavoro." }
       },
       "process": {
-        "title": "Il Nostro Processo",
-        "subtitle": "Dalla scoperta al deployment in settimane, non mesi.",
-        "step1": { "title": "Scoperta", "desc": "Mappiamo i tuoi flussi di lavoro attuali, identifichiamo le opportunità di automazione e diamo priorità per impatto sul ROI." },
-        "step2": { "title": "Progettazione", "desc": "Progettiamo l'architettura del sistema — selezionando gli strumenti giusti, definendo i flussi di dati e pianificando le integrazioni." },
-        "step3": { "title": "Sviluppo", "desc": "Implementazione rapida con demo settimanali. Vedi i progressi e puoi dare feedback in tempo reale." },
-        "step4": { "title": "Lancio", "desc": "Avvio con documentazione completa, formazione e 30 giorni di supporto per assicurarsi che tutto funzioni senza intoppi." }
+        "title": "Come Lavoro",
+        "subtitle": "Dalla prima chiamata alla consegna in giorni, non mesi.",
+        "step1": { "title": "Audit", "desc": "Mappo i tuoi flussi di lavoro attuali, identifico le opportunità di automazione e do priorità per tempo risparmiato." },
+        "step2": { "title": "Progettazione", "desc": "Progetto il sistema. Gli strumenti giusti, flussi di dati puliti e integrazioni che funzionano davvero insieme." },
+        "step3": { "title": "Sviluppo", "desc": "Costruisco e testo tutto. Lo vedi funzionare prima che te lo consegni." },
+        "step4": { "title": "Consegna", "desc": "Documentazione completa e una guida registrata. Il flusso di lavoro è tuo." }
       },
       "pricing": {
-        "title": "Prezzi",
-        "subtitle": "Prezzi trasparenti. Nessun costo nascosto. Scegli ciò che si adatta alle tue esigenze.",
+        "title": "Quanto costa",
+        "subtitle": "Tre prezzi fissi, niente di nascosto. Il soccorso da £95 esiste per permetterti di testare il mio metodo di lavoro prima di impegnarti in qualcosa di più grande.",
         "cta": "Inizia",
         "tier1": {
-          "name": "Sistema Singolo", "period": "una tantum", "amount": "€4.060",
-          "desc": "Un sistema di automazione completo, costruito e distribuito per la tua azienda.",
-          "li1": "1 sistema di automazione", "li2": "Sessione di scoperta e progettazione",
-          "li3": "Consegna in 2–3 settimane", "li4": "Documentazione completa", "li5": "14 giorni di supporto post-lancio"
+          "name": "Soccorso automazione", "period": "prezzo fisso", "amount": "£95",
+          "desc": "Identifico e riparo un flusso di lavoro rotto in 48 ore.",
+          "li1": "Un flusso di lavoro riparato", "li2": "Consegna in 48 ore",
+          "li3": "Documentazione inclusa", "li4": "", "li5": ""
         },
         "tier2": {
-          "name": "Pacchetto Crescita", "period": "una tantum", "amount": "€9.860",
-          "desc": "Una suite di sistemi interconnessi che trasforma il modo in cui opera la tua azienda.",
-          "li1": "3 sistemi di automazione", "li2": "Audit completo dei workflow",
-          "li3": "Consegna in 4–6 settimane", "li4": "Integrazioni di sistemi", "li5": "30 giorni di supporto post-lancio"
+          "name": "Flusso di lavoro 5 giorni", "period": "prezzo fisso. £300 per i primi tre clienti fondatori", "amount": "£450",
+          "desc": "Un'automazione completa costruita, testata e consegnata in cinque giorni lavorativi.",
+          "li1": "Un flusso di lavoro completo", "li2": "Consegna in 5 giorni lavorativi",
+          "li3": "Documentazione e passaggio di consegne", "li4": "", "li5": ""
         },
         "tier3": {
-          "name": "Retainer", "period": "al mese", "amount": "€3.480",
-          "desc": "Partner di automazione continuativo. Costruiamo, ottimizziamo e manteniamo continuamente i tuoi sistemi.",
-          "li1": "Team di automazione dedicato", "li2": "Richieste di sistemi illimitate",
-          "li3": "Supporto prioritario", "li4": "Chiamate strategia mensili", "li5": "Ottimizzazione continua"
+          "name": "Audit e costruzione flusso di lavoro IA", "period": "prezzo fisso. 50% alla firma, 50% alla consegna. Fatturato nel Regno Unito via Stripe", "amount": "£2.500",
+          "desc": "Un audit completo dei tuoi flussi di lavoro seguito dall'automazione ad alto impatto, consegnata e documentata.",
+          "li1": "Audit completo dei flussi di lavoro", "li2": "Un'automazione ad alto impatto",
+          "li3": "Documentazione completa e passaggio di consegne", "li4": "", "li5": ""
         }
       },
       "cta": {
-        "headline": "Pronto ad automatizzare la tua crescita?",
-        "subtitle": "Prenota una chiamata strategica gratuita di 30 minuti e mapperemo le tue maggiori opportunità di automazione."
+        "headline": "Pronto ad automatizzare l'amministrazione della tua scrivania?",
+        "subtitle": "Inizia da £95 e testa il mio metodo di lavoro prima di impegnarti in qualcosa di più grande."
       }
     },
     "aboutPage": {
       "hero": {
-        "headlinePre": "Abbiamo visto il futuro del lavoro — e l'abbiamo ",
-        "headlineCyan": "costruito",
-        "subtitle": "NextVibe è stata fondata su una semplice convinzione: le aziende non dovrebbero spendere le loro ore migliori su attività che una macchina può fare meglio. Costruiamo i sistemi di IA che rendono ciò reale."
+        "headlinePre": "La versione ",
+        "headlineCyan": "onesta",
+        "subtitle": ""
       },
       "story": {
-        "p1": "Abbiamo avviato NextVibe nel 2020 quando abbiamo notato qualcosa che la maggior parte delle aziende stava ignorando: il divario tra ciò che l'IA poteva fare e ciò che le aziende stavano effettivamente usando era enorme — e cresceva.",
-        "p2": "Mentre il mondo parlava di IA, noi la stavamo silenziosamente integrando in veri flussi di lavoro aziendali. Sistemi di cold email che si scrivevano da soli. Flussi di onboarding che funzionavano senza un singolo passaggio manuale. CRM che si aggiornavano in tempo reale.",
-        "highlight": "\"Non vendiamo hype sull'IA. Vendiamo ore restituite al tuo team e ricavi al tuo risultato finale.\"",
-        "p3": "Oggi, NextVibe lavora con agenzie, aziende SaaS e imprese di servizi nel Regno Unito e oltre. Abbiamo automatizzato migliaia di ore di lavoro manuale e aiutato i nostri clienti a scalare senza aumentare il personale.",
-        "p4": "Il nostro approccio è semplice: capire profondamente la tua azienda, trovare le opportunità di automazione ad alto impatto e costruire sistemi che funzionano davvero — non demo appariscenti che raccolgono polvere."
+        "p1": "Sono Victor Fernandez. NextVibe AI sono io: una sola persona, con sede nel Regno Unito, che costruisce automazione IA per agenzie di reclutamento. Ho iniziato nel marzo 2026.",
+        "p2": "Nessun logo cliente ancora. Nessuna testimonianza. Non le inventerò. Quello che posso mostrarti è il sistema con cui gestisco la mia attività. La mia pubblicazione su LinkedIn, la mia prospezione, i miei report e la mia amministrazione funzionano tutti con flussi di lavoro che ho costruito io stesso. Vendo quello che uso ogni giorno.",
+        "highlight": "",
+        "p3": "Perché il reclutamento? Perché una scrivania di reclutamento è piena di lavoro che segue sempre la stessa forma. Formattazione di CV. Inseguimento della conformità. Pianificazione dei colloqui. Quella ripetitività è ciò che l'automazione fa bene, e la maggior parte delle piccole aziende non ha nessuno il cui lavoro sia costruirla. Le imprese di pulizia e gli studi specializzati hanno la stessa struttura, quindi accetto anche quel lavoro.",
+        "p4": "Quello che credo: la tecnologia è la metà facile. Scegliere il processo giusto da automatizzare per primo è la metà difficile. Quindi ogni incarico inizia con un audit del flusso di lavoro, poi una costruzione delimitata, poi i calcoli su quanto ha risparmiato. Piccolo, consegnato, provato."
       },
       "founders": {
-        "title": "Incontra il Fondatore",
-        "subtitle": "La persona dietro i sistemi di automazione IA di NextVibe.",
+        "title": "Il Fondatore",
+        "subtitle": "La persona dietro NextVibe AI.",
         "victor": {
-          "role": "CEO e Fondatore",
-          "bio": "Ex consulente di automazione diventato fondatore. Victor ha costruito sistemi di IA e automazione in tutti i principali settori — guidando strategia, architettura dei sistemi e consegna in NextVibe."
+          "role": "Fondatore",
+          "bio": "Una persona, con sede nel Regno Unito. Costruisco flussi di lavoro di automazione IA per agenzie di reclutamento e aziende di servizi specializzati. Ho avviato NextVibe AI nel marzo 2026."
         }
       },
       "timeline": {
-        "title": "Il Nostro Percorso",
-        "subtitle": "Le tappe fondamentali nel percorso verso dove siamo oggi.",
-        "item1": { "title": "Fondazione di NextVibe", "desc": "Iniziato come una consulenza di due persone, costruendo sistemi di automazione per le imprese locali durante la pandemia." },
-        "item2": { "title": "Primo Cliente Enterprise", "desc": "Ottenuto il nostro primo incarico enterprise — una revisione completa dell'automazione per un'agenzia di 50 persone." },
-        "item3": { "title": "Pivot AI-First", "desc": "Integrato l'IA basata su GPT in ogni sistema che costruiamo, diventando una delle prime agenzie ad essere completamente AI-native." },
-        "item4": { "title": "Oltre 50 Clienti Serviti", "desc": "Superati i 50 clienti attivi e 500+ ore di lavoro manuale automatizzato al mese nel nostro portfolio." },
-        "item5": { "title": "Scaling Up", "desc": "Espandere il team, lanciare nuovi livelli di servizio e costruire strumenti IA proprietari per i nostri clienti." }
+        "title": "Cronologia",
+        "subtitle": "",
+        "item1": { "title": "NextVibe AI fondata", "desc": "Inizio della costruzione di flussi di lavoro di automazione IA per agenzie di reclutamento nel Regno Unito. Marzo 2026." },
+        "item2": { "title": "", "desc": "" },
+        "item3": { "title": "", "desc": "" },
+        "item4": { "title": "", "desc": "" },
+        "item5": { "title": "", "desc": "" }
       },
       "values": {
-        "title": "Cosa Rappresentiamo",
-        "subtitle": "I principi che guidano ogni sistema che costruiamo.",
-        "action": { "title": "Orientamento all'Azione", "desc": "Consegniamo velocemente. Settimane, non trimestri. Ogni sistema che costruiamo va live e inizia a generare valore immediatamente." },
-        "roi": { "title": "Ossessione per il ROI", "desc": "Non costruiamo tecnologia figa per il gusto di farlo. Ogni automazione deve avere un impatto chiaro e misurabile sulla tua azienda." },
+        "title": "Cosa Rappresento",
+        "subtitle": "I principi dietro ogni flusso di lavoro che costruisco.",
+        "action": { "title": "Orientamento all'Azione", "desc": "Consegno velocemente. Settimane, non trimestri. Ogni sistema che costruisco va live e inizia a generare valore immediatamente." },
+        "roi": { "title": "Ossessione per il ROI", "desc": "Non costruisco tecnologia figa per il gusto di farlo. Ogni automazione deve avere un impatto chiaro e misurabile sulla tua azienda." },
         "transparency": { "title": "Trasparenza Radicale", "desc": "Nessuna scatola nera. Vedi ogni flusso di lavoro, ogni integrazione, ogni decisione. I tuoi sistemi appartengono a te." },
-        "simplicity": { "title": "Semplicità Prima di Tutto", "desc": "Il miglior sistema è il più semplice che funziona. Evitiamo la sovra-ingegneria e ci concentriamo sull'affidabilità." },
-        "ahead": { "title": "Sempre Avanti", "desc": "Testiamo sempre nuovi modelli, strumenti e tecniche di IA in modo che i nostri clienti abbiano accesso a ciò che verrà — prima dei loro concorrenti." },
-        "partnership": { "title": "Vera Partnership", "desc": "Non siamo un fornitore. Ci integriamo nel tuo team, capiamo i tuoi obiettivi e costruiamo come se fosse la nostra azienda." }
+        "simplicity": { "title": "Semplicità Prima di Tutto", "desc": "Il miglior sistema è il più semplice che funziona. Evito la sovra-ingegneria e mi concentro sull'affidabilità." },
+        "ahead": { "title": "Sempre Aggiornato", "desc": "Testo costantemente nuovi modelli, strumenti e tecniche di IA affinché i clienti abbiano accesso a ciò che funziona ora." },
+        "partnership": { "title": "Partnership Diretta", "desc": "Non sono un fornitore. Mi integro nel tuo flusso di lavoro, capisco i tuoi obiettivi e costruisco come se fosse la mia azienda." }
       },
       "cta": {
-        "headlinePre": "Costruiamo qualcosa di ",
-        "headlineCyan": "straordinario",
-        "subtitle": "Prenota una chiamata strategica gratuita e scopri come l'automazione IA può trasformare le operazioni della tua azienda."
+        "headlinePre": "Hai un flusso di lavoro che ",
+        "headlineCyan": "spreca la tua settimana?",
+        "subtitle": "Inizia da £95 e testa il mio metodo di lavoro prima di impegnarti in qualcosa di più grande."
       }
     },
     "startPage": {
       "hero": {
-        "headline": "Smetti di Perdere Fatturato per Lavoro Manuale",
-        "subtitle": "La maggior parte delle piccole imprese spreca il 20-30% del fatturato attraverso processi difettosi. Troviamo le perdite e le sistemiamo con l'automazione IA — risparmiando tipicamente 15-20 ore/settimana.",
+        "headline": "Smetti di perdere ore in amministrazione che si automatizza da sola",
+        "subtitle": "Ottieni la mia lista di controllo gratuita su quali flussi di lavoro di reclutamento vale la pena automatizzare per primi.",
         "firstNamePlaceholder": "Nome",
         "emailPlaceholder": "Email",
         "companyPlaceholder": "Nome dell'Azienda",
-        "submitBtn": "Ottieni il Tuo Audit IA Gratuito →",
-        "successTitle": "Grazie! Siamo felici di aiutarti.",
-        "successText": "Ti contatteremo entro 24 ore con il tuo audit IA gratuito.",
-        "bookCallBtn": "Prenota la Tua Chiamata Ora →",
-        "subtext": "Nessun impegno. Richiede 2 minuti."
+        "submitBtn": "Ottieni la lista di controllo di automazione IA →",
+        "successTitle": "Grazie. Ti invio la lista ora.",
+        "successText": "Ti contatterò anche entro un giorno lavorativo se il flusso di lavoro che hai descritto sembra un buon fit.",
+        "bookCallBtn": "Prenota una chiamata →",
+        "subtext": "Nessun impegno. Nessuno spam."
       },
       "proof": {
-        "automations": "Automazioni Costruite",
-        "savedPerWeek": "Risparmiate Per Settimana",
-        "revenueGrowth": "Crescita del Fatturato"
+        "automations": "",
+        "savedPerWeek": "",
+        "revenueGrowth": ""
       },
       "problem": {
         "title": "Ti Suona Familiare?",
-        "subtitle": "Non sono solo fastidi — ti stanno costando €5.800-23.200 al mese in fatturato perso e tempo sprecato.",
-        "calloutAmount": "€5.800-23.200 al mese",
+        "subtitle": "Non sono solo fastidi. Costano ore reali e denaro reale ogni settimana.",
+        "calloutAmount": "Questi problemi costano ore reali e ricavi reali ogni mese.",
         "card1Title": "Attività Ripetitive che Consumano la Tua Giornata",
         "card1Desc": "Passare ore su attività ripetitive che dovrebbero richiedere minuti",
         "card2Title": "Contatti che Si Perdono",
@@ -1570,62 +1570,62 @@
       "solution": {
         "title": "Come Funziona",
         "step1Title": "Audit",
-        "step1Desc": "Analizziamo i tuoi flussi di lavoro attuali e identifichiamo le maggiori perdite di tempo e fatturato. Gratuito, senza impegno.",
+        "step1Desc": "Analizzo i tuoi flussi di lavoro attuali e identifico le maggiori perdite di tempo e fatturato.",
         "step2Title": "Progettazione",
-        "step2Desc": "Progettiamo il tuo sistema di automazione personalizzato — collegando i tuoi strumenti, eliminando i passaggi manuali e integrando l'IA nei punti giusti.",
+        "step2Desc": "Progetto il tuo sistema di automazione. Gli strumenti giusti, nessun passaggio manuale, l'IA dove ha senso.",
         "step3Title": "Implementazione",
-        "step3Desc": "Costruiamo, testiamo e distribuiamo. Ottieni un sistema che si gestisce da solo mentre ti concentri sulla crescita del tuo business.",
-        "cta": "Inizia Con il Tuo Audit Gratuito →"
+        "step3Desc": "Costruisco, testo e consegno. Ottieni un flusso di lavoro che si gestisce da solo.",
+        "cta": "Ottieni la lista →"
       },
       "testimonials": {
-        "title": "Cosa Dicono i Clienti",
-        "t1Text": "Ci ha fatto risparmiare 15 ore a settimana solo nell'onboarding dei clienti. Il ROI era evidente entro il primo mese.",
-        "t1Role": "Direttore delle Operazioni",
-        "t1Result": "Risultato: 15 ore/settimana risparmiate",
-        "t2Text": "Victor ha costruito un'automazione che ha sostituito tre processi manuali. Il nostro tempo di risposta ai lead è passato da 4 ore a meno di 5 minuti.",
-        "t2Role": "Fondatore, Startup SaaS",
-        "t2Result": "Risultato: risposta 47x più veloce",
-        "t3Text": "Eravamo scettici sull'automazione IA. In due settimane, abbiamo smesso di essere scettici e abbiamo iniziato a lamentarci di non averlo fatto prima.",
-        "t3Role": "Amministratore Delegato, Agenzia",
-        "t3Result": "Risultato: €9.300/mese recuperati"
+        "title": "",
+        "t1Text": "",
+        "t1Role": "",
+        "t1Result": "",
+        "t2Text": "",
+        "t2Role": "",
+        "t2Result": "",
+        "t3Text": "",
+        "t3Role": "",
+        "t3Result": ""
       },
       "caseStudy": {
-        "title": "Come un'Agenzia di 5 Persone ha Recuperato €9.300/Mese",
-        "r1Metric": "€9.300",
-        "problemTitle": "Il Problema",
-        "p1": "Instradamento manuale dei lead causava ritardi",
-        "p2": "Follow-up mancati su prospect caldi",
-        "p3": "Onboarding clienti inconsistente (3+ giorni di avanti e indietro)",
-        "solutionTitle": "La Soluzione",
-        "s1": "Pipeline Make.com + IA per scoring intelligente dei lead",
-        "s2": "Email di follow-up istantanee attivate sui lead in entrata",
-        "s3": "Onboarding clienti completato in 20 minuti (completamente automatizzato)",
-        "resultTitle": "Il Risultato",
-        "r1Label": "Fatturato Mensile Recuperato",
-        "r2Label": "Liberate Per Settimana",
-        "r3Label": "Onboarding Più Veloce",
-        "cta": "Ottieni Risultati Come Questi →"
+        "title": "",
+        "problemTitle": "",
+        "p1": "",
+        "p2": "",
+        "p3": "",
+        "solutionTitle": "",
+        "s1": "",
+        "s2": "",
+        "s3": "",
+        "resultTitle": "",
+        "r1Metric": "",
+        "r1Label": "",
+        "r2Label": "",
+        "r3Label": "",
+        "cta": ""
       },
       "faq": {
         "title": "Domande Frequenti",
         "q1": "Quanto costa?",
-        "a1": "Il nostro Audit IA è completamente gratuito. I progetti di implementazione vanno tipicamente da €1.740 a 5.800 a seconda della complessità, con la maggior parte dei clienti che vede ROI entro il primo mese.",
+        "a1": "Prezzi fissi: £95 per riparare un flusso di lavoro rotto in 48 ore, £450 per una costruzione completa di 5 giorni (£300 per i primi tre clienti fondatori), o £2.500 per un audit e costruzione di due settimane con una roadmap completa. Nessun costo nascosto.",
         "q2": "Questo disturberà le mie operazioni attuali?",
-        "a2": "No. Costruiamo accanto ai tuoi strumenti e processi esistenti. Zero tempi di inattività. Testiamo tutto prima di andare live.",
+        "a2": "No. Costruisco accanto ai tuoi strumenti e processi esistenti. Zero tempi di inattività. Testo tutto prima di andare live.",
         "q3": "Quanto tempo richiede l'implementazione?",
         "a3": "La maggior parte dei sistemi di automazione è live entro 1-2 settimane. I progetti complessi richiedono 3-4 settimane. Vedrai risultati rapidi in pochi giorni.",
         "q4": "Ho bisogno di conoscenze tecniche?",
-        "a4": "Per niente. Gestiamo tutto l'aspetto tecnico. Dicci solo cosa sta mangiando il tuo tempo e lo sistemiamo.",
-        "q5": "Con quali strumenti lavorate?",
-        "a5": "Ci specializziamo in Make.com, Notion, CRM (HubSpot, Pipedrive), piattaforme email e modelli IA (GPT-4, Claude). Se lo usi, probabilmente possiamo automatizzarlo.",
+        "a4": "Per niente. Gestisco tutto l'aspetto tecnico. Dicci solo cosa sta mangiando il tuo tempo e lo sistemo.",
+        "q5": "Con quali strumenti lavori?",
+        "a5": "Mi specializzo in Make.com, Notion, CRM (HubSpot, Pipedrive), piattaforme email e modelli IA (GPT-4, Claude). Se lo usi, probabilmente posso automatizzarlo.",
         "q6": "E se non funziona?",
-        "a6": "Ogni progetto inizia con un audit gratuito per confermare il ROI prima di investire qualcosa. Non prendiamo progetti che non possiamo consegnare."
+        "a6": "Ogni progetto inizia con un audit del flusso di lavoro per confermare il ritorno prima di impegnarsi. Non accetto progetti che non posso consegnare."
       },
       "finalCta": {
-        "headline": "Pronto a Smettere di Fare Lavoro che Dovrebbe Fare una Macchina?",
-        "subtitle": "Ottieni il tuo Audit IA gratuito. Ti mostreremo esattamente dove stai perdendo tempo e denaro — e come risolverlo.",
-        "cta": "Ottieni il Tuo Audit IA Gratuito →",
-        "subtext": "Limitato a 5 audit al mese. Nessun impegno richiesto."
+        "headline": "Hai un flusso di lavoro che spreca la tua settimana?",
+        "subtitle": "Inizia a £95 o scarica la lista e vedi quali processi della tua azienda vale la pena automatizzare per primi.",
+        "cta": "Ottieni la lista di controllo →",
+        "subtext": "Nessun impegno. Nessuno spam."
       },
       "footer": {
         "privacy": "Informativa sulla Privacy",

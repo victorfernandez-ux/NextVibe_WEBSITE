@@ -1,26 +1,12 @@
 ---
-title: "Services | NextVibe"
-description: "NextVibe AI services — AI lead generation, operations automation, hiring systems, sales administration, and bespoke AI solutions for growing businesses."
+title: "Services | NextVibe AI"
+description: "NextVibe AI services — AI automation for UK recruitment firms. Fixed prices: £95 rescue, £450 5-day build, £2,500 audit and build."
 url: "https://nextvibeai.com/services/"
 ---
 
-# Services & Solutions
+# Services
 
-End-to-end AI systems designed to generate leads, automate operations, and scale your business without scaling your headcount.
-
-0%
-
-Avg. Cost Reduction
-
-0x
-
-Faster Delivery
-
-0+
-
-Hours Saved Monthly
-
-⚡
+Automation for the work that eats a recruitment desk's week. Fixed prices, no retainers.
 
 ### Lead Generation Systems
 
@@ -28,7 +14,7 @@ AI-powered pipelines that fill your calendar with qualified prospects.
 
 #### AI Cold Email
 
-Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules that land in the primary inbox.
+Hyper-personalised outreach at scale using AI-generated copy, automated warmup, and smart sending schedules.
 
 #### Application Systems
 
@@ -38,11 +24,9 @@ Inbound funnels with AI qualification — automatically score, route, and follow
 
 AI-assisted content pipelines that turn one piece of thought leadership into dozens of distribution-ready assets across channels.
 
-⚙
-
 ### Project Management Systems
 
-Automate delivery workflows so your team can focus on high-value work.
+Automate delivery workflows so your consultants can focus on high-value work.
 
 #### Automated Fulfillment
 
@@ -54,9 +38,7 @@ Structured onboarding flows that gather requirements, set expectations, and kick
 
 #### PM Workflows
 
-Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track and your team aligned.
-
-👥
+Smart task assignment, deadline tracking, and bottleneck detection that keeps projects on track.
 
 ### Hiring Systems
 
@@ -64,17 +46,15 @@ Recruit smarter and faster with AI-powered screening and evaluation.
 
 #### Intake Systems
 
-Structured application forms with automatic data extraction and candidate profiling — no more manual resume sorting.
+Structured application forms with automatic data extraction and candidate profiling — no more manual CV sorting.
 
 #### AI Scoring
 
-Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators — reducing bias and saving hours.
+Objective candidate scoring based on custom criteria, experience matching, and culture fit indicators.
 
 #### Trial Processes
 
 Automated trial project assignment, submission tracking, and evaluation workflows that surface your best candidates fast.
-
-📈
 
 ### Sales Administration
 
@@ -82,11 +62,11 @@ Streamline your sales ops with custom tools and intelligent automation.
 
 #### Custom CRMs
 
-Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging without the bloat.
+Bespoke CRM setups tailored to your sales process — automated deal tracking, pipeline views, and activity logging.
 
 #### AI Asset Generators
 
-Automatically generate proposals, SOWs, and sales decks personalised to each prospect using AI and your existing templates.
+Automatically generate proposals and sales decks personalised to each prospect using AI and your existing templates.
 
 #### Nurture Systems
 
@@ -94,114 +74,94 @@ Multi-channel follow-up sequences that keep warm leads engaged with timely, rele
 
 ## Who It's For
 
-We work best with businesses ready to scale operations through automation.
+I work with UK recruitment firms and specialist service businesses.
 
-🎯
+#### Recruitment Firms
 
-#### Agencies
+CV formatting, compliance chasing, interview scheduling. I build the workflows that take these off your plate.
 
-Automate client delivery, onboarding, and lead gen so you can grow without proportionally growing your team.
+#### Cleaning Firms
 
-💻
+Rotas, quotes, client follow-up. If the work follows a pattern, I can automate the admin around it.
 
-#### SaaS Companies
+#### Legal and Accountancy
 
-Build automated outbound pipelines, trial-to-paid workflows, and customer success systems.
+Document chasing, compliance workflows, client onboarding. Fixed-price automation that fits small specialist practices.
 
-💼
+#### Specialist Services
 
-#### Professional Services
+Any small firm where the same admin runs every week. If you can describe the pattern, I can build the workflow.
 
-Streamline intake, scheduling, billing, and client communication with zero manual overhead.
+## My Process
 
-🛒
-
-#### E-Commerce
-
-Automate order processing, inventory management, customer support, and marketing workflows at scale.
-
-## Our Process
-
-From discovery to deployment in weeks, not months.
+From discovery to handover in weeks.
 
 01
 
 #### Discovery
 
-We map your current workflows, identify automation opportunities, and prioritise by ROI impact.
+I map your current workflows, identify automation opportunities, and prioritise by time saved.
 
 02
 
 #### Design
 
-We architect the system — selecting the right tools, defining data flows, and planning integrations.
+I design the system — the right tools, clean data flows, and integrations that actually work together.
 
 03
 
 #### Build
 
-Rapid implementation with weekly demos. You see progress and can give feedback in real time.
+I build and test everything. You see it working before I hand it over.
 
 04
 
 #### Launch
 
-Go live with full documentation, training, and 30 days of support to ensure everything runs smoothly.
+Full documentation and a recorded walkthrough. The workflow is yours.
 
 ## Pricing
 
-Transparent pricing. No hidden fees. Choose what fits your needs.
+Three fixed prices, nothing hidden. The £95 rescue exists so you can test how I work before committing to a bigger build.
 
-Single System
+**Automation Rescue**
 
-£3,500
+£95 — fixed price
 
-one-time
+I identify and fix one broken workflow within 48 hours.
 
-One complete automation system, built and deployed for your business.
-
--   1 automation system
--   Discovery & design session
--   2–3 week delivery
--   Full documentation
--   14 days post-launch support
+- One workflow fixed
+- 48-hour delivery
+- Documentation included
 
 [Get Started](https://calendly.com/victor-fernandez-nextvibeai)
 
-Growth Package
+**5-Day Workflow**
 
-£8,500
+£450 — fixed price (£300 for the first three founding clients)
 
-one-time
+A full automation built, tested, and handed over in five working days.
 
-A suite of interconnected systems that transform how your business operates.
-
--   3 automation systems
--   Full workflow audit
--   4–6 week delivery
--   System integrations
--   30 days post-launch support
+- One full workflow
+- 5-working-day delivery
+- Documentation and handover
 
 [Get Started](https://calendly.com/victor-fernandez-nextvibeai)
 
-Retainer
+**AI Workflow Audit + Build**
 
-£3,000
+£2,500 — fixed price. 50% on signature, 50% on handover. UK-invoiced via Stripe.
 
-per month
+A full audit of your workflows followed by the highest-impact automation, delivered and documented.
 
-Ongoing automation partner. We continuously build, optimise, and maintain your systems.
-
--   Dedicated automation team
--   Unlimited system requests
--   Priority support
--   Monthly strategy calls
--   Continuous optimisation
+- Full workflow audit
+- One high-impact automation
+- Full documentation and handover
 
 [Get Started](https://calendly.com/victor-fernandez-nextvibeai)
 
-## Ready to automate your growth?
+## Ready to automate your desk admin?
 
-Book a free 30-minute strategy call and we'll map out your biggest automation opportunities.
+Start from £95 and test how I work before committing to anything bigger.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai)

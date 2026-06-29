@@ -43,4 +43,6 @@
     document.getElementById('hourlyRate').addEventListener('input', updateCalculator);
     document.getElementById('hoursWasted').addEventListener('input', updateCalculator);
     updateCalculator();
+    // Re-run after full page load so i18n async re-renders don't leave stale £0
+    window.addEventListener('load', updateCalculator);
 })();
