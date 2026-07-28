@@ -145,10 +145,15 @@
             font-size: 1.1rem; color: #9CA3AF; max-width: 560px;
             margin: 0 auto 32px; line-height: 1.7;
         }
+        .hero-focus {
+            color: #22D3EE; font-weight: 600;
+            text-shadow: 0 0 20px rgba(34, 211, 238, 0.5), 0 0 40px rgba(34, 211, 238, 0.2);
+        }
         .hero-focus::after {
             content: ''; display: inline-block;
             width: 2px; height: 1.05em; margin-left: 3px;
-            background: #06B6D4; vertical-align: text-bottom;
+            background: #22D3EE; vertical-align: text-bottom;
+            box-shadow: 0 0 8px rgba(34, 211, 238, 0.7);
             animation: hero-caret-blink 1s step-end infinite;
         }
         @keyframes hero-caret-blink { 50% { opacity: 0; } }
