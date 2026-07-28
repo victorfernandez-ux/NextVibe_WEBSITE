@@ -43,7 +43,7 @@
     (function() {
         var el = document.getElementById('heroFocus');
         if (!el) return;
-        var fallbackFocuses = ['UK recruitment firms', 'marketing agencies', 'coaches & consultants', 'e-commerce brands'];
+        var fallbackFocuses = ['UK Recruitment Firms', 'Marketing Agencies', 'Coaches & Consultants', 'E-Commerce Brands'];
         var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
         var index = 0;
         var timer = null;
