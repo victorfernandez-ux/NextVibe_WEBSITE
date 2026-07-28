@@ -56,6 +56,9 @@
     "services": {
       "title": "What I specialise in.",
       "subtitle": "Automation for the work that eats a recruitment desk's week.",
+      "subtitlePre": "Automation for the work that eats a ",
+      "focuses": ["Recruitment Desk", "Small Business", "Marketer", "Consultant"],
+      "subtitlePost": "'s week.",
       "growth": {
         "name": "Growth Systems and Automations",
         "desc": "AI-powered lead generation and outreach systems that keep your pipeline moving without manual effort.",
@@ -386,6 +389,9 @@
     "services": {
       "title": "En lo que me especializo.",
       "subtitle": "Automatización para el trabajo que se come la semana de una empresa de selección.",
+      "subtitlePre": "Automatización para el trabajo que se come la semana de ",
+      "focuses": ["una Empresa de Selección", "una Pequeña Empresa", "un Equipo de Marketing", "una Consultora"],
+      "subtitlePost": ".",
       "growth": {
         "name": "Sistemas de Crecimiento y Automatización",
         "desc": "Sistemas de generación de leads y ventas con IA que mantienen tu pipeline activo sin esfuerzo manual.",
@@ -716,6 +722,9 @@
     "services": {
       "title": "Ce en quoi je me spécialise.",
       "subtitle": "L'automatisation pour le travail qui dévore la semaine d'un cabinet de recrutement.",
+      "subtitlePre": "L'automatisation pour le travail qui dévore la semaine ",
+      "focuses": ["d'un Cabinet de Recrutement", "d'une Petite Entreprise", "d'un Marketeur", "d'un Consultant"],
+      "subtitlePost": ".",
       "growth": {
         "name": "Systèmes de Croissance et d'Automatisation",
         "desc": "Systèmes de génération de leads et de ventes avec IA qui maintiennent votre pipeline actif sans effort manuel.",
@@ -1046,6 +1055,9 @@
     "services": {
       "title": "Worauf ich mich spezialisiere.",
       "subtitle": "Automatisierung für die Arbeit, die eine Personalvermittlung die ganze Woche auffrisst.",
+      "subtitlePre": "Automatisierung für die Arbeit, die ",
+      "focuses": ["eine Personalvermittlung", "ein kleines Unternehmen", "einen Marketer", "einen Berater"],
+      "subtitlePost": " die ganze Woche auffrisst.",
       "growth": {
         "name": "Wachstums- und Automatisierungssysteme",
         "desc": "KI-gestützte Lead-Generierungs- und Verkaufssysteme, die Ihre Pipeline ohne manuellen Aufwand am Laufen halten.",
@@ -1376,6 +1388,9 @@
     "services": {
       "title": "In cosa mi specializzo.",
       "subtitle": "Automazione per il lavoro che divora la settimana di un'agenzia di reclutamento.",
+      "subtitlePre": "Automazione per il lavoro che divora la settimana ",
+      "focuses": ["di un'Agenzia di Reclutamento", "di una Piccola Impresa", "di un Marketer", "di un Consulente"],
+      "subtitlePost": ".",
       "growth": {
         "name": "Sistemi di Crescita e Automazione",
         "desc": "Sistemi di generazione lead e vendite con IA che mantengono la tua pipeline attiva senza sforzo manuale.",
