@@ -39,6 +39,43 @@
         document.getElementById('monthlySavings').textContent = '£' + Math.round(monthly).toLocaleString();
         document.getElementById('hoursReclaimed').textContent = hoursYear.toLocaleString();
     }
+    // Hero subtitle: rotate the customer-focus segment
+    (function() {
+        var el = document.getElementById('heroFocus');
+        if (!el) return;
+        var fallbackFocuses = ['UK recruitment firms', 'marketing agencies', 'coaches & consultants', 'e-commerce brands'];
+        var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+        var index = 0;
+
+        function getFocuses() {
+            if (window.i18n && window.i18n.translations) {
+                var list = window.i18n.t('hero.focuses');
+                if (Array.isArray(list) && list.length) return list;
+            }
+            return fallbackFocuses;
+        }
+
+        setInterval(function() {
+            var list = getFocuses();
+            index = (index + 1) % list.length;
+            if (reduceMotion) {
+                el.textContent = list[index];
+                return;
+            }
+            el.classList.add('is-swapping');
+            setTimeout(function() {
+                el.textContent = list[index];
+                el.classList.remove('is-swapping');
+            }, 250);
+        }, 3200);
+
+        // On language switch, restart from the first focus in the new language
+        document.addEventListener('i18n:applied', function() {
+            index = 0;
+            el.textContent = getFocuses()[0];
+        });
+    })();
+
     document.getElementById('employees').addEventListener('input', updateCalculator);
     document.getElementById('hourlyRate').addEventListener('input', updateCalculator);
     document.getElementById('hoursWasted').addEventListener('input', updateCalculator);
