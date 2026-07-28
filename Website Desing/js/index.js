@@ -39,13 +39,14 @@
         document.getElementById('monthlySavings').textContent = '£' + Math.round(monthly).toLocaleString();
         document.getElementById('hoursReclaimed').textContent = hoursYear.toLocaleString();
     }
-    // Hero subtitle: rotate the customer-focus segment
+    // Hero subtitle: typewriter rotation of the customer-focus segment
     (function() {
         var el = document.getElementById('heroFocus');
         if (!el) return;
         var fallbackFocuses = ['UK recruitment firms', 'marketing agencies', 'coaches & consultants', 'e-commerce brands'];
         var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
         var index = 0;
+        var timer = null;
 
         function getFocuses() {
             if (window.i18n && window.i18n.translations) {
@@ -55,25 +56,50 @@
             return fallbackFocuses;
         }
 
-        setInterval(function() {
-            var list = getFocuses();
-            index = (index + 1) % list.length;
-            if (reduceMotion) {
-                el.textContent = list[index];
-                return;
-            }
-            el.classList.add('is-swapping');
-            setTimeout(function() {
-                el.textContent = list[index];
-                el.classList.remove('is-swapping');
-            }, 250);
-        }, 3200);
+        function schedule(fn, delay) { timer = setTimeout(fn, delay); }
 
-        // On language switch, restart from the first focus in the new language
-        document.addEventListener('i18n:applied', function() {
+        function typeText(text, pos) {
+            el.textContent = text.slice(0, pos);
+            if (pos < text.length) {
+                schedule(function() { typeText(text, pos + 1); }, 45 + Math.random() * 40);
+            } else {
+                schedule(erase, 2400);
+            }
+        }
+
+        function erase() {
+            var current = el.textContent;
+            if (current.length > 0) {
+                el.textContent = current.slice(0, -1);
+                schedule(erase, 28);
+            } else {
+                var list = getFocuses();
+                index = (index + 1) % list.length;
+                schedule(function() { typeText(list[index], 0); }, 300);
+            }
+        }
+
+        // (Re)start the cycle; also called on language switch so the
+        // segment resets to the first focus in the new language
+        function start() {
+            clearTimeout(timer);
+            var list = getFocuses();
             index = 0;
-            el.textContent = getFocuses()[0];
-        });
+            el.textContent = list[0];
+            if (reduceMotion) {
+                schedule(function tick() {
+                    var l = getFocuses();
+                    index = (index + 1) % l.length;
+                    el.textContent = l[index];
+                    schedule(tick, 3200);
+                }, 3200);
+            } else {
+                schedule(erase, 2600);
+            }
+        }
+
+        start();
+        document.addEventListener('i18n:applied', start);
     })();
 
     document.getElementById('employees').addEventListener('input', updateCalculator);
