@@ -87,6 +87,9 @@ class I18n {
       const titleKey = pageTitle.getAttribute('data-i18n-page-title');
       document.title = this.t(titleKey);
     }
+
+    // Notify listeners (e.g. hero focus rotator) that translations are in place
+    document.dispatchEvent(new CustomEvent('i18n:applied', { detail: { lang: this.currentLanguage } }));
   }
 
   // Setup language switcher dropdown in header

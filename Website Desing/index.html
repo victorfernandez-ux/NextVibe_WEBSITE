@@ -145,6 +145,15 @@
             font-size: 1.1rem; color: #9CA3AF; max-width: 560px;
             margin: 0 auto 32px; line-height: 1.7;
         }
+        .hero-focus {
+            display: inline-block;
+            transition: opacity 0.25s ease, transform 0.25s ease;
+        }
+        .hero-focus.is-swapping { opacity: 0; transform: translateY(8px); }
+        @media (prefers-reduced-motion: reduce) {
+            .hero-focus { transition: none; }
+            .hero-focus.is-swapping { opacity: 1; transform: none; }
+        }
         .hero-cta { display: flex; gap: 12px; justify-content: center; margin-bottom: 64px; }
         .hero-stats {
             display: flex; justify-content: center; gap: 48px;
@@ -504,7 +513,7 @@
         </a>
         <div class="hero-badge" data-i18n="hero.badge">AI-powered systems for the real world</div>
         <h1>Placements make the money. Admin eats the week. <span class="cyan">I automate the admin.</span></h1>
-        <p>AI workflows for UK recruitment firms, built by one practitioner. Fixed prices from £49 to £2,500, all on this site.</p>
+        <p><span data-i18n="hero.subtitlePre">AI workflows for </span><span class="hero-focus cyan" id="heroFocus">UK recruitment firms</span><span data-i18n="hero.subtitlePost">, built by one practitioner. Fixed prices from £49 to £2,500, all on this site.</span></p>
         <div class="hero-cta">
             <a href="start/" class="btn btn-primary">Start from £95</a>
             <a href="services.html" class="btn btn-outline" data-i18n="hero.cta2">Our Services</a>
