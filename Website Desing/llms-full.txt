@@ -4,13 +4,13 @@ URL: https://nextvibeai.com/about/
 
 # The honest version.
 
-I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for recruitment firms. I started in March 2026.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for small businesses. I started in March 2026.
 
-No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on, the tools I've built, and why recruitment specifically.
+No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on, the tools I've built, and why I started with recruitment.
 
-## Why recruitment?
+## Why did I start with recruitment?
 
-A recruitment desk is full of work that follows the same shape every time: format this CV, chase this compliance document, schedule this interview, send this follow-up. That pattern is exactly what automation is good at. The consultants I want to work with are good at relationships and reading people. I want to take the admin off their plate so they can focus on that.
+A recruitment desk is full of work that follows the same shape every time: format this CV, chase this compliance document, schedule this interview, send this follow-up. That pattern is exactly what automation is good at — and marketing agencies, coaches, consultants and e-commerce brands carry the same shape of work. I want to take the admin off your plate so you can focus on the work that pays.
 
 ## What I believe
 
@@ -22,11 +22,11 @@ The technology is the easy half. Choosing the right process to automate first is
 
 Founder
 
-One person, based in the UK. I build AI automation workflows for recruitment firms and specialist service businesses. I started NextVibe AI in March 2026.
+One person, based in the UK. I build AI automation workflows for recruitment firms, marketing agencies, coaches and e-commerce brands. I started NextVibe AI in March 2026.
 
 ## Key Milestones
 
-2026 — NextVibe AI founded. Started building automation workflows for UK recruitment firms.
+2026 — NextVibe AI founded. Started building automation workflows for UK small businesses.
 
 ## What I Stand For
 
@@ -298,21 +298,21 @@ Book a 30-minute call and I'll map out the automation opportunity in your busine
 
 ---
 
-# NextVibe AI | AI Automation for UK Recruitment Firms
+# NextVibe AI | AI Automation for UK Small Businesses
 
 URL: https://nextvibeai.com/
 
-AI automation for UK recruitment firms.
+AI automation for UK small businesses.
 
 # Placements generate the money. Paperwork eats the week. I automate the paperwork.
 
-I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for recruitment firms and specialist service businesses. I started in March 2026.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. I started in March 2026.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Services](services.html)
 
 ## What I specialise in.
 
-Automation for the work that eats a recruitment desk's week.
+Automation for the work that eats a small business's week.
 
 ### Candidate and CV Workflows
 
@@ -356,7 +356,7 @@ URL: https://nextvibeai.com/services/
 
 # Services
 
-Automation for the work that eats a recruitment desk's week. Fixed prices, no retainers.
+Automation for the work that eats a small business's week. Fixed prices, no retainers.
 
 ### Lead Generation Systems
 
@@ -424,7 +424,7 @@ Multi-channel follow-up sequences that keep warm leads engaged with timely, rele
 
 ## Who It's For
 
-I work with UK recruitment firms and specialist service businesses.
+I work with recruitment firms, marketing agencies, coaches and consultants, e-commerce brands, and any UK small business drowning in repeat admin.
 
 #### Recruitment Firms
 
@@ -518,7 +518,7 @@ URL: https://nextvibeai.com/start/
 
 # Stop losing hours to admin that runs itself
 
-Get my free checklist showing which recruitment workflows are worth automating first.
+Get my free checklist showing which of your workflows are worth automating first.
 
 Get the AI Automation Checklist →
 

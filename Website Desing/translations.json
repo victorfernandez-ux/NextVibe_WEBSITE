@@ -7,8 +7,8 @@
       "bookCall": "Book a Call"
     },
     "hero": {
-      "badge": "AI workflows for UK recruitment firms",
-      "headline": "Placements make the money. Admin eats the week. I automate the admin.",
+      "badge": "AI workflows for UK small businesses",
+      "headline": "Client work makes the money. Admin eats the week. I automate the admin.",
       "subtitle": "AI workflows for UK recruitment firms, built by one practitioner. Fixed prices from £95 to £2,500, all on this site.",
       "subtitlePre": "AI workflows for",
       "focuses": ["UK Recruitment Firms", "Marketing Agencies", "Coaches & Consultants", "E-Commerce Brands"],
@@ -146,11 +146,11 @@
       },
       "personas": {
         "title": "Who it's for",
-        "subtitle": "I work with UK recruitment firms and specialist service businesses.",
+        "subtitle": "I work with recruitment firms, marketing agencies, coaches and consultants, e-commerce brands, and any UK small business drowning in repeat admin.",
         "agencies": { "title": "Recruitment Firms", "desc": "CV formatting, compliance chasing, interview scheduling. I build the workflows that take these off your plate." },
-        "saas": { "title": "Cleaning Firms", "desc": "Rotas, quotes, client follow-up. If the work follows a pattern, I can automate the admin around it." },
-        "professional": { "title": "Legal and Accountancy", "desc": "Document chasing, compliance workflows, client onboarding. Fixed-price automation that fits small specialist practices." },
-        "ecommerce": { "title": "Specialist Services", "desc": "Any small firm where the same admin runs every week. If you can describe the pattern, I can build the workflow." }
+        "saas": { "title": "Marketing Agencies", "desc": "Client reporting, onboarding, content production. If the work follows a pattern, I can automate the admin around it." },
+        "professional": { "title": "Coaches & Consultants", "desc": "Discovery-call booking, proposals, follow-ups, client onboarding. Fixed-price automation that fits solo and small practices." },
+        "ecommerce": { "title": "E-Commerce & Small Businesses", "desc": "Order updates, stock alerts, review requests — any small firm where the same admin runs every week. If you can describe the pattern, I can build the workflow." }
       },
       "process": {
         "title": "How I Work",
@@ -184,7 +184,7 @@
         }
       },
       "cta": {
-        "headline": "Ready to automate your desk admin?",
+        "headline": "Ready to automate your admin?",
         "subtitle": "Start from £95 and test how I work before committing to anything bigger."
       }
     },
@@ -195,10 +195,10 @@
         "subtitle": ""
       },
       "story": {
-        "p1": "I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for recruitment firms. I started in March 2026.",
+        "p1": "I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for small businesses. I started in March 2026.",
         "p2": "No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on. My LinkedIn publishing, my outreach, my reporting and my admin all run on workflows I built myself. I sell what I use every day.",
         "highlight": "",
-        "p3": "Why recruitment? Because a recruitment desk is full of work that follows the same shape every time. CV formatting. Compliance chasing. Interview scheduling. That sameness is what automation does well, and most small firms have nobody whose job is to build it. Cleaning firms and specialist practices carry the same shape, so I take that work too.",
+        "p3": "Why did I start with recruitment? Because a recruitment desk is full of work that follows the same shape every time. CV formatting. Compliance chasing. Interview scheduling. That sameness is what automation does well, and most small firms have nobody whose job is to build it. Marketing agencies, coaches, e-commerce brands and specialist practices carry the same shape, so I build for them too.",
         "p4": "What I believe: the technology is the easy half. Choosing the right process to automate first is the hard half. So every engagement starts with an audit of the workflow, then one bounded build, then the maths on what it saved. Small, shipped, proven."
       },
       "founders": {
@@ -206,13 +206,13 @@
         "subtitle": "The person behind NextVibe AI.",
         "victor": {
           "role": "Founder",
-          "bio": "One person, based in the UK. I build AI automation workflows for recruitment firms and specialist service businesses. I started NextVibe AI in March 2026."
+          "bio": "One person, based in the UK. I build AI automation workflows for recruitment firms, marketing agencies, coaches and e-commerce brands. I started NextVibe AI in March 2026."
         }
       },
       "timeline": {
         "title": "Timeline",
         "subtitle": "",
-        "item1": { "title": "NextVibe AI founded", "desc": "Started building AI automation workflows for UK recruitment firms. March 2026." },
+        "item1": { "title": "NextVibe AI founded", "desc": "Started building AI automation workflows for UK small businesses. March 2026." },
         "item2": { "title": "", "desc": "" },
         "item3": { "title": "", "desc": "" },
         "item4": { "title": "", "desc": "" },
@@ -237,7 +237,7 @@
     "startPage": {
       "hero": {
         "headline": "Stop losing hours to admin that runs itself",
-        "subtitle": "Get my free checklist showing which recruitment workflows are worth automating first.",
+        "subtitle": "Get my free checklist showing which of your workflows are worth automating first.",
         "firstNamePlaceholder": "First Name",
         "emailPlaceholder": "Email",
         "companyPlaceholder": "Company Name",
@@ -340,8 +340,8 @@
       "bookCall": "Reservar Llamada"
     },
     "hero": {
-      "badge": "Flujos de trabajo con IA para empresas de selección en el Reino Unido",
-      "headline": "Las colocaciones generan el dinero. El papeleo se come la semana. Yo automatizo el papeleo.",
+      "badge": "Flujos de trabajo con IA para pequeñas empresas del Reino Unido",
+      "headline": "El trabajo con clientes genera el dinero. El papeleo se come la semana. Yo automatizo el papeleo.",
       "subtitle": "Flujos de trabajo con IA para empresas de selección del Reino Unido, construidos por un solo profesional. Precios fijos de £95 a £2.500, todo en esta web.",
       "subtitlePre": "Flujos de trabajo con IA para",
       "focuses": ["Empresas de Selección del Reino Unido", "Agencias de Marketing", "Coaches y Consultores", "Marcas de E-commerce"],
@@ -479,11 +479,11 @@
       },
       "personas": {
         "title": "Para quién es",
-        "subtitle": "Trabajo con empresas de selección del Reino Unido y negocios de servicios especializados.",
+        "subtitle": "Trabajo con empresas de selección, agencias de marketing, coaches y consultores, marcas de e-commerce y cualquier pequeña empresa del Reino Unido ahogada en papeleo repetitivo.",
         "agencies": { "title": "Empresas de selección", "desc": "Formateo de CV, seguimiento de cumplimiento, programación de entrevistas. Construyo los flujos de trabajo que te quitan esto de encima." },
-        "saas": { "title": "Empresas de limpieza", "desc": "Turnos, presupuestos, seguimiento de clientes. Si el trabajo sigue un patrón, puedo automatizar el papeleo." },
-        "professional": { "title": "Legal y contabilidad", "desc": "Seguimiento de documentos, flujos de cumplimiento, incorporación de clientes. Automatización a precio fijo para despachos especializados pequeños." },
-        "ecommerce": { "title": "Servicios especializados", "desc": "Cualquier empresa pequeña donde el mismo papeleo se repite cada semana. Si puedes describir el patrón, puedo construir el flujo de trabajo." }
+        "saas": { "title": "Agencias de marketing", "desc": "Informes de clientes, incorporación, producción de contenidos. Si el trabajo sigue un patrón, puedo automatizar el papeleo." },
+        "professional": { "title": "Coaches y consultores", "desc": "Reservas de llamadas, propuestas, seguimientos, incorporación de clientes. Automatización a precio fijo para prácticas individuales y pequeñas." },
+        "ecommerce": { "title": "E-commerce y pequeñas empresas", "desc": "Actualizaciones de pedidos, alertas de stock, solicitudes de reseñas — cualquier empresa pequeña donde el mismo papeleo se repite cada semana. Si puedes describir el patrón, puedo construir el flujo de trabajo." }
       },
       "process": {
         "title": "Cómo Trabajo",
@@ -517,7 +517,7 @@
         }
       },
       "cta": {
-        "headline": "¿Listo para automatizar el papeleo de tu mesa de trabajo?",
+        "headline": "¿Listo para automatizar tu papeleo?",
         "subtitle": "Empieza desde £95 y prueba cómo trabajo antes de comprometerte con algo mayor."
       }
     },
@@ -528,10 +528,10 @@
         "subtitle": ""
       },
       "story": {
-        "p1": "Soy Victor Fernandez. NextVibe AI soy yo: una sola persona, basada en el Reino Unido, construyendo automatización con IA para empresas de selección. Empecé en marzo de 2026.",
+        "p1": "Soy Victor Fernandez. NextVibe AI soy yo: una sola persona, basada en el Reino Unido, construyendo automatización con IA para pequeñas empresas. Empecé en marzo de 2026.",
         "p2": "Sin logos de clientes todavía. Sin testimonios. No los voy a inventar. Lo que sí puedo mostrarte es el sistema con el que gestiono mi propio negocio. Mi publicación en LinkedIn, mi prospección, mis informes y mi administración funcionan con flujos de trabajo que construí yo mismo. Vendo lo que uso cada día.",
         "highlight": "",
-        "p3": "¿Por qué selección? Porque una mesa de selección está llena de trabajo que siempre sigue el mismo patrón. Formatear CVs. Perseguir cumplimiento. Programar entrevistas. Esa repetición es lo que la automatización hace bien, y la mayoría de las pequeñas empresas no tienen a nadie cuyo trabajo sea construirla. Las empresas de limpieza y los despachos especializados tienen la misma estructura, así que también acepto ese trabajo.",
+        "p3": "¿Por qué empecé con selección? Porque una mesa de selección está llena de trabajo que siempre sigue el mismo patrón. Formatear CVs. Perseguir cumplimiento. Programar entrevistas. Esa repetición es lo que la automatización hace bien, y la mayoría de las pequeñas empresas no tienen a nadie cuyo trabajo sea construirla. Las agencias de marketing, los coaches, las marcas de e-commerce y los despachos especializados tienen la misma estructura, así que también construyo para ellos.",
         "p4": "Lo que creo: la tecnología es la mitad fácil. Elegir el proceso correcto que automatizar primero es la mitad difícil. Por eso cada compromiso empieza con una auditoría del flujo de trabajo, luego una construcción delimitada, luego los números de lo que ahorró. Pequeño, enviado, probado."
       },
       "founders": {
@@ -539,13 +539,13 @@
         "subtitle": "La persona detrás de NextVibe AI.",
         "victor": {
           "role": "Fundador",
-          "bio": "Una persona, basada en el Reino Unido. Construyo flujos de trabajo de automatización con IA para empresas de selección y negocios de servicios especializados. Empecé NextVibe AI en marzo de 2026."
+          "bio": "Una persona, basada en el Reino Unido. Construyo flujos de trabajo de automatización con IA para empresas de selección, agencias de marketing, coaches y marcas de e-commerce. Empecé NextVibe AI en marzo de 2026."
         }
       },
       "timeline": {
         "title": "Historial",
         "subtitle": "",
-        "item1": { "title": "NextVibe AI fundada", "desc": "Empecé a construir flujos de trabajo de automatización con IA para empresas de selección del Reino Unido. Marzo de 2026." },
+        "item1": { "title": "NextVibe AI fundada", "desc": "Empecé a construir flujos de trabajo de automatización con IA para pequeñas empresas del Reino Unido. Marzo de 2026." },
         "item2": { "title": "", "desc": "" },
         "item3": { "title": "", "desc": "" },
         "item4": { "title": "", "desc": "" },
@@ -570,7 +570,7 @@
     "startPage": {
       "hero": {
         "headline": "Deja de perder horas en papeleo que se automatiza solo",
-        "subtitle": "Obtén mi lista de verificación gratuita sobre qué flujos de trabajo de selección merecen la pena automatizar primero.",
+        "subtitle": "Obtén mi lista de verificación gratuita sobre qué flujos de trabajo merece la pena automatizar primero.",
         "firstNamePlaceholder": "Nombre",
         "emailPlaceholder": "Correo Electrónico",
         "companyPlaceholder": "Nombre de la Empresa",
@@ -673,8 +673,8 @@
       "bookCall": "Réserver un Appel"
     },
     "hero": {
-      "badge": "Flux de travail IA pour les cabinets de recrutement au Royaume-Uni",
-      "headline": "Les placements font le chiffre. L'administratif mange la semaine. J'automatise l'administratif.",
+      "badge": "Flux de travail IA pour les petites entreprises britanniques",
+      "headline": "Le travail client fait le chiffre. L'administratif mange la semaine. J'automatise l'administratif.",
       "subtitle": "Flux de travail IA pour les cabinets de recrutement britanniques, construits par un seul praticien. Prix fixes de £95 à £2 500, tout sur ce site.",
       "subtitlePre": "Flux de travail IA pour",
       "focuses": ["Les Cabinets de Recrutement Britanniques", "Les Agences Marketing", "Les Coachs et Consultants", "Les Marques E-commerce"],
@@ -812,11 +812,11 @@
       },
       "personas": {
         "title": "À qui ça s'adresse",
-        "subtitle": "Je travaille avec des cabinets de recrutement britanniques et des entreprises de services spécialisés.",
+        "subtitle": "Je travaille avec des cabinets de recrutement, des agences marketing, des coachs et consultants, des marques e-commerce et toute petite entreprise britannique noyée dans l'administratif répétitif.",
         "agencies": { "title": "Cabinets de recrutement", "desc": "Mise en forme de CV, suivi de conformité, planification d'entretiens. Je construis les workflows qui vous libèrent de tout cela." },
-        "saas": { "title": "Entreprises de nettoyage", "desc": "Plannings, devis, suivi clients. Si le travail suit un schéma, je peux automatiser l'administratif." },
-        "professional": { "title": "Juridique et comptabilité", "desc": "Relance de documents, workflows de conformité, onboarding client. Automatisation à prix fixe pour les petits cabinets spécialisés." },
-        "ecommerce": { "title": "Services spécialisés", "desc": "Toute petite entreprise où le même administratif se répète chaque semaine. Si vous pouvez décrire le schéma, je peux construire le workflow." }
+        "saas": { "title": "Agences marketing", "desc": "Reporting client, onboarding, production de contenu. Si le travail suit un schéma, je peux automatiser l'administratif." },
+        "professional": { "title": "Coachs et consultants", "desc": "Réservation d'appels, propositions, relances, onboarding client. Automatisation à prix fixe pour les pratiques solo et les petites structures." },
+        "ecommerce": { "title": "E-commerce et petites entreprises", "desc": "Mises à jour de commandes, alertes de stock, demandes d'avis — toute petite entreprise où le même administratif se répète chaque semaine. Si vous pouvez décrire le schéma, je peux construire le workflow." }
       },
       "process": {
         "title": "Comment Je Travaille",
@@ -850,7 +850,7 @@
         }
       },
       "cta": {
-        "headline": "Prêt à automatiser les tâches administratives de votre bureau ?",
+        "headline": "Prêt à automatiser votre administratif ?",
         "subtitle": "Commencez à partir de £95 et testez ma façon de travailler avant de vous engager sur quelque chose de plus important."
       }
     },
@@ -861,10 +861,10 @@
         "subtitle": ""
       },
       "story": {
-        "p1": "Je suis Victor Fernandez. NextVibe AI c'est moi : une seule personne, basée au Royaume-Uni, construisant l'automatisation IA pour les cabinets de recrutement. J'ai commencé en mars 2026.",
+        "p1": "Je suis Victor Fernandez. NextVibe AI c'est moi : une seule personne, basée au Royaume-Uni, construisant l'automatisation IA pour les petites entreprises. J'ai commencé en mars 2026.",
         "p2": "Pas encore de logos clients. Pas de témoignages. Je n'en inventerai pas. Ce que je peux vous montrer, c'est le système avec lequel je gère ma propre entreprise. Ma publication LinkedIn, ma prospection, mes rapports et mon administration fonctionnent tous avec des workflows que j'ai construits moi-même. Je vends ce que j'utilise chaque jour.",
         "highlight": "",
-        "p3": "Pourquoi le recrutement ? Parce qu'un bureau de recrutement est rempli de travail qui suit toujours la même forme. Mise en forme des CV. Relance pour la conformité. Planification des entretiens. Cette répétition est ce que l'automatisation fait bien, et la plupart des petites entreprises n'ont personne dont le travail est de la construire. Les entreprises de nettoyage et les cabinets spécialisés ont la même structure, donc j'accepte aussi ce travail.",
+        "p3": "Pourquoi avoir commencé par le recrutement ? Parce qu'un bureau de recrutement est rempli de travail qui suit toujours la même forme. Mise en forme des CV. Relance pour la conformité. Planification des entretiens. Cette répétition est ce que l'automatisation fait bien, et la plupart des petites entreprises n'ont personne dont le travail est de la construire. Les agences marketing, les coachs, les marques e-commerce et les cabinets spécialisés ont la même structure, donc je construis aussi pour eux.",
         "p4": "Ce que je crois : la technologie est la moitié facile. Choisir le bon processus à automatiser en premier est la moitié difficile. Donc chaque engagement commence par un audit du flux de travail, puis une construction délimitée, puis les chiffres de ce qui a été économisé. Petit, livré, prouvé."
       },
       "founders": {
@@ -872,13 +872,13 @@
         "subtitle": "La personne derrière NextVibe AI.",
         "victor": {
           "role": "Fondateur",
-          "bio": "Une personne, basée au Royaume-Uni. Je construis des workflows d'automatisation IA pour les cabinets de recrutement et les entreprises de services spécialisés. J'ai démarré NextVibe AI en mars 2026."
+          "bio": "Une personne, basée au Royaume-Uni. Je construis des workflows d'automatisation IA pour les cabinets de recrutement, les agences marketing, les coachs et les marques e-commerce. J'ai démarré NextVibe AI en mars 2026."
         }
       },
       "timeline": {
         "title": "Historique",
         "subtitle": "",
-        "item1": { "title": "NextVibe AI fondée", "desc": "Début de la construction de workflows d'automatisation IA pour les cabinets de recrutement britanniques. Mars 2026." },
+        "item1": { "title": "NextVibe AI fondée", "desc": "Début de la construction de workflows d'automatisation IA pour les petites entreprises britanniques. Mars 2026." },
         "item2": { "title": "", "desc": "" },
         "item3": { "title": "", "desc": "" },
         "item4": { "title": "", "desc": "" },
@@ -903,7 +903,7 @@
     "startPage": {
       "hero": {
         "headline": "Arrêtez de perdre des heures en administratif qui s'automatise",
-        "subtitle": "Obtenez ma liste de contrôle gratuite sur les workflows de recrutement qui valent la peine d'être automatisés en premier.",
+        "subtitle": "Obtenez ma liste de contrôle gratuite sur les workflows qui valent la peine d'être automatisés en premier.",
         "firstNamePlaceholder": "Prénom",
         "emailPlaceholder": "E-mail",
         "companyPlaceholder": "Nom de l'Entreprise",
@@ -1006,8 +1006,8 @@
       "bookCall": "Anruf Buchen"
     },
     "hero": {
-      "badge": "KI-Workflows für britische Personalvermittler",
-      "headline": "Placements bringen das Geld. Admin frisst die Woche. Ich automatisiere das Admin.",
+      "badge": "KI-Workflows für kleine Unternehmen in Großbritannien",
+      "headline": "Kundenarbeit bringt das Geld. Admin frisst die Woche. Ich automatisiere das Admin.",
       "subtitle": "KI-Workflows für britische Personalvermittlungsunternehmen, gebaut von einem Praktiker. Festpreise von £95 bis £2.500, alles auf dieser Website.",
       "subtitlePre": "KI-Workflows für",
       "focuses": ["Britische Personalvermittler", "Marketing-Agenturen", "Coaches und Berater", "E-Commerce-Marken"],
@@ -1145,11 +1145,11 @@
       },
       "personas": {
         "title": "Für Wen Ist Es",
-        "subtitle": "Ich arbeite mit britischen Personalvermittlungsunternehmen und spezialisierten Dienstleistungsunternehmen.",
+        "subtitle": "Ich arbeite mit Personalvermittlern, Marketing-Agenturen, Coaches und Beratern, E-Commerce-Marken und jedem kleinen britischen Unternehmen, das in wiederkehrendem Admin versinkt.",
         "agencies": { "title": "Personalvermittler", "desc": "Lebenslauf-Formatierung, Compliance-Verfolgung, Interview-Planung. Ich baue die Workflows, die das von Ihrem Schreibtisch nehmen." },
-        "saas": { "title": "Reinigungsunternehmen", "desc": "Dienstpläne, Angebote, Kunden-Follow-up. Wenn die Arbeit einem Muster folgt, kann ich das Admin automatisieren." },
-        "professional": { "title": "Recht und Buchhaltung", "desc": "Dokumenten-Verfolgung, Compliance-Workflows, Kunden-Onboarding. Festpreis-Automatisierung für kleine Fachkanzleien." },
-        "ecommerce": { "title": "Fachdienstleistungen", "desc": "Jedes kleine Unternehmen, bei dem jede Woche dasselbe Admin anfällt. Wenn Sie das Muster beschreiben können, kann ich den Workflow bauen." }
+        "saas": { "title": "Marketing-Agenturen", "desc": "Kunden-Reporting, Onboarding, Content-Produktion. Wenn die Arbeit einem Muster folgt, kann ich das Admin automatisieren." },
+        "professional": { "title": "Coaches und Berater", "desc": "Terminbuchung, Angebote, Follow-ups, Kunden-Onboarding. Festpreis-Automatisierung für Solo- und Kleinpraxen." },
+        "ecommerce": { "title": "E-Commerce und kleine Unternehmen", "desc": "Bestell-Updates, Bestandswarnungen, Bewertungsanfragen — jedes kleine Unternehmen, bei dem jede Woche dasselbe Admin anfällt. Wenn Sie das Muster beschreiben können, kann ich den Workflow bauen." }
       },
       "process": {
         "title": "Wie Ich Arbeite",
@@ -1183,7 +1183,7 @@
         }
       },
       "cta": {
-        "headline": "Bereit, Ihren Schreibtisch-Admin zu automatisieren?",
+        "headline": "Bereit, Ihr Admin zu automatisieren?",
         "subtitle": "Starten Sie ab £95 und testen Sie meine Arbeitsweise, bevor Sie sich auf etwas Größeres einlassen."
       }
     },
@@ -1194,10 +1194,10 @@
         "subtitle": ""
       },
       "story": {
-        "p1": "Ich bin Victor Fernandez. NextVibe AI bin ich: eine Person, in Großbritannien ansässig, die KI-Automatisierung für Personalvermittler aufbaut. Ich habe im März 2026 begonnen.",
+        "p1": "Ich bin Victor Fernandez. NextVibe AI bin ich: eine Person, in Großbritannien ansässig, die KI-Automatisierung für kleine Unternehmen aufbaut. Ich habe im März 2026 begonnen.",
         "p2": "Noch keine Kundenlogos. Keine Testimonials. Ich werde sie nicht erfinden. Was ich Ihnen zeigen kann, ist das System, mit dem ich mein eigenes Unternehmen führe. Meine LinkedIn-Veröffentlichungen, meine Akquise, meine Berichte und mein Admin laufen alle mit Workflows, die ich selbst gebaut habe. Ich verkaufe, was ich jeden Tag nutze.",
         "highlight": "",
-        "p3": "Warum Personalvermittlung? Weil ein Personalvermittlungs-Schreibtisch voll von Arbeit ist, die immer die gleiche Form hat. Lebenslauf-Formatierung. Compliance-Verfolgung. Interview-Planung. Diese Gleichförmigkeit ist es, was Automatisierung gut kann, und die meisten kleinen Firmen haben niemanden, dessen Aufgabe es ist, sie aufzubauen. Reinigungsunternehmen und Fachdienstleister haben die gleiche Struktur, also nehme ich diese Arbeit auch an.",
+        "p3": "Warum habe ich mit Personalvermittlung angefangen? Weil ein Personalvermittlungs-Schreibtisch voll von Arbeit ist, die immer die gleiche Form hat. Lebenslauf-Formatierung. Compliance-Verfolgung. Interview-Planung. Diese Gleichförmigkeit ist es, was Automatisierung gut kann, und die meisten kleinen Firmen haben niemanden, dessen Aufgabe es ist, sie aufzubauen. Marketing-Agenturen, Coaches, E-Commerce-Marken und Fachdienstleister haben die gleiche Struktur, also baue ich auch für sie.",
         "p4": "Was ich glaube: Die Technologie ist die einfache Hälfte. Den richtigen Prozess zu wählen, der zuerst automatisiert werden soll, ist die schwierige Hälfte. Daher beginnt jedes Engagement mit einem Audit des Workflows, dann einem begrenzten Build, dann der Rechnung, was er eingespart hat. Klein, ausgeliefert, bewiesen."
       },
       "founders": {
@@ -1205,13 +1205,13 @@
         "subtitle": "Die Person hinter NextVibe AI.",
         "victor": {
           "role": "Gründer",
-          "bio": "Eine Person, in Großbritannien ansässig. Ich baue KI-Automatisierungs-Workflows für Personalvermittler und spezialisierte Dienstleistungsunternehmen. Ich habe NextVibe AI im März 2026 gestartet."
+          "bio": "Eine Person, in Großbritannien ansässig. Ich baue KI-Automatisierungs-Workflows für Personalvermittler, Marketing-Agenturen, Coaches und E-Commerce-Marken. Ich habe NextVibe AI im März 2026 gestartet."
         }
       },
       "timeline": {
         "title": "Verlauf",
         "subtitle": "",
-        "item1": { "title": "NextVibe AI gegründet", "desc": "Beginn des Aufbaus von KI-Automatisierungs-Workflows für britische Personalvermittler. März 2026." },
+        "item1": { "title": "NextVibe AI gegründet", "desc": "Beginn des Aufbaus von KI-Automatisierungs-Workflows für kleine Unternehmen in Großbritannien. März 2026." },
         "item2": { "title": "", "desc": "" },
         "item3": { "title": "", "desc": "" },
         "item4": { "title": "", "desc": "" },
@@ -1236,7 +1236,7 @@
     "startPage": {
       "hero": {
         "headline": "Hören Sie auf, Stunden in Admin zu verlieren, der sich selbst automatisiert",
-        "subtitle": "Holen Sie sich meine kostenlose Checkliste, welche Personalvermittlungs-Workflows es sich lohnt, zuerst zu automatisieren.",
+        "subtitle": "Holen Sie sich meine kostenlose Checkliste, welche Ihrer Workflows es sich lohnt, zuerst zu automatisieren.",
         "firstNamePlaceholder": "Vorname",
         "emailPlaceholder": "E-Mail",
         "companyPlaceholder": "Unternehmensname",
@@ -1339,8 +1339,8 @@
       "bookCall": "Prenota una Chiamata"
     },
     "hero": {
-      "badge": "Flussi di lavoro con IA per agenzie di reclutamento nel Regno Unito",
-      "headline": "I placement generano i guadagni. L'amministrazione mangia la settimana. Io automatico l'amministrazione.",
+      "badge": "Flussi di lavoro con IA per piccole imprese nel Regno Unito",
+      "headline": "Il lavoro con i clienti genera i guadagni. L'amministrazione mangia la settimana. Io automatizzo l'amministrazione.",
       "subtitle": "Flussi di lavoro con IA per agenzie di reclutamento nel Regno Unito, costruiti da un solo professionista. Prezzi fissi da £95 a £2.500, tutto su questo sito.",
       "subtitlePre": "Flussi di lavoro con IA per",
       "focuses": ["Agenzie di Reclutamento nel Regno Unito", "Agenzie di Marketing", "Coach e Consulenti", "Brand E-commerce"],
@@ -1478,11 +1478,11 @@
       },
       "personas": {
         "title": "A Chi È Rivolto",
-        "subtitle": "Lavoro con agenzie di reclutamento nel Regno Unito e aziende di servizi specializzati.",
+        "subtitle": "Lavoro con agenzie di reclutamento, agenzie di marketing, coach e consulenti, brand e-commerce e qualsiasi piccola impresa del Regno Unito sommersa dall'amministrazione ripetitiva.",
         "agencies": { "title": "Agenzie di reclutamento", "desc": "Formattazione di CV, verifica della conformità, pianificazione di colloqui. Costruisco i flussi di lavoro che tolgono queste attività dalla tua scrivania." },
-        "saas": { "title": "Imprese di pulizia", "desc": "Turni, preventivi, follow-up clienti. Se il lavoro segue uno schema, posso automatizzare l'amministrazione." },
-        "professional": { "title": "Legale e contabilità", "desc": "Inseguimento di documenti, flussi di conformità, onboarding clienti. Automazione a prezzo fisso per studi specializzati piccoli." },
-        "ecommerce": { "title": "Servizi specializzati", "desc": "Qualsiasi piccola azienda dove la stessa amministrazione si ripete ogni settimana. Se puoi descrivere lo schema, posso costruire il flusso di lavoro." }
+        "saas": { "title": "Agenzie di marketing", "desc": "Report per i clienti, onboarding, produzione di contenuti. Se il lavoro segue uno schema, posso automatizzare l'amministrazione." },
+        "professional": { "title": "Coach e consulenti", "desc": "Prenotazione di chiamate, proposte, follow-up, onboarding clienti. Automazione a prezzo fisso per professionisti singoli e piccoli studi." },
+        "ecommerce": { "title": "E-commerce e piccole imprese", "desc": "Aggiornamenti ordini, avvisi di magazzino, richieste di recensioni — qualsiasi piccola azienda dove la stessa amministrazione si ripete ogni settimana. Se puoi descrivere lo schema, posso costruire il flusso di lavoro." }
       },
       "process": {
         "title": "Come Lavoro",
@@ -1516,7 +1516,7 @@
         }
       },
       "cta": {
-        "headline": "Pronto ad automatizzare l'amministrazione della tua scrivania?",
+        "headline": "Pronto ad automatizzare la tua amministrazione?",
         "subtitle": "Inizia da £95 e testa il mio metodo di lavoro prima di impegnarti in qualcosa di più grande."
       }
     },
@@ -1527,10 +1527,10 @@
         "subtitle": ""
       },
       "story": {
-        "p1": "Sono Victor Fernandez. NextVibe AI sono io: una sola persona, con sede nel Regno Unito, che costruisce automazione IA per agenzie di reclutamento. Ho iniziato nel marzo 2026.",
+        "p1": "Sono Victor Fernandez. NextVibe AI sono io: una sola persona, con sede nel Regno Unito, che costruisce automazione IA per piccole imprese. Ho iniziato nel marzo 2026.",
         "p2": "Nessun logo cliente ancora. Nessuna testimonianza. Non le inventerò. Quello che posso mostrarti è il sistema con cui gestisco la mia attività. La mia pubblicazione su LinkedIn, la mia prospezione, i miei report e la mia amministrazione funzionano tutti con flussi di lavoro che ho costruito io stesso. Vendo quello che uso ogni giorno.",
         "highlight": "",
-        "p3": "Perché il reclutamento? Perché una scrivania di reclutamento è piena di lavoro che segue sempre la stessa forma. Formattazione di CV. Inseguimento della conformità. Pianificazione dei colloqui. Quella ripetitività è ciò che l'automazione fa bene, e la maggior parte delle piccole aziende non ha nessuno il cui lavoro sia costruirla. Le imprese di pulizia e gli studi specializzati hanno la stessa struttura, quindi accetto anche quel lavoro.",
+        "p3": "Perché ho iniziato dal reclutamento? Perché una scrivania di reclutamento è piena di lavoro che segue sempre la stessa forma. Formattazione di CV. Inseguimento della conformità. Pianificazione dei colloqui. Quella ripetitività è ciò che l'automazione fa bene, e la maggior parte delle piccole aziende non ha nessuno il cui lavoro sia costruirla. Agenzie di marketing, coach, brand e-commerce e studi specializzati hanno la stessa struttura, quindi costruisco anche per loro.",
         "p4": "Quello che credo: la tecnologia è la metà facile. Scegliere il processo giusto da automatizzare per primo è la metà difficile. Quindi ogni incarico inizia con un audit del flusso di lavoro, poi una costruzione delimitata, poi i calcoli su quanto ha risparmiato. Piccolo, consegnato, provato."
       },
       "founders": {
@@ -1538,13 +1538,13 @@
         "subtitle": "La persona dietro NextVibe AI.",
         "victor": {
           "role": "Fondatore",
-          "bio": "Una persona, con sede nel Regno Unito. Costruisco flussi di lavoro di automazione IA per agenzie di reclutamento e aziende di servizi specializzati. Ho avviato NextVibe AI nel marzo 2026."
+          "bio": "Una persona, con sede nel Regno Unito. Costruisco flussi di lavoro di automazione IA per agenzie di reclutamento, agenzie di marketing, coach e brand e-commerce. Ho avviato NextVibe AI nel marzo 2026."
         }
       },
       "timeline": {
         "title": "Cronologia",
         "subtitle": "",
-        "item1": { "title": "NextVibe AI fondata", "desc": "Inizio della costruzione di flussi di lavoro di automazione IA per agenzie di reclutamento nel Regno Unito. Marzo 2026." },
+        "item1": { "title": "NextVibe AI fondata", "desc": "Inizio della costruzione di flussi di lavoro di automazione IA per piccole imprese nel Regno Unito. Marzo 2026." },
         "item2": { "title": "", "desc": "" },
         "item3": { "title": "", "desc": "" },
         "item4": { "title": "", "desc": "" },
@@ -1569,7 +1569,7 @@
     "startPage": {
       "hero": {
         "headline": "Smetti di perdere ore in amministrazione che si automatizza da sola",
-        "subtitle": "Ottieni la mia lista di controllo gratuita su quali flussi di lavoro di reclutamento vale la pena automatizzare per primi.",
+        "subtitle": "Ottieni la mia lista di controllo gratuita su quali flussi di lavoro vale la pena automatizzare per primi.",
         "firstNamePlaceholder": "Nome",
         "emailPlaceholder": "Email",
         "companyPlaceholder": "Nome dell'Azienda",

@@ -1,18 +1,18 @@
 ---
 title: "About | NextVibe AI"
-description: "About NextVibe AI — I'm Victor Fernandez, a UK-based AI automation builder specialising in recruitment firm workflows. Started March 2026."
+description: "About NextVibe AI — I'm Victor Fernandez, a UK-based AI automation builder for small businesses — recruitment, agencies, coaches, e-commerce. Started March 2026."
 url: "https://nextvibeai.com/about/"
 ---
 
 # The honest version.
 
-I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for recruitment firms. I started in March 2026.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building AI automation for small businesses. I started in March 2026.
 
-No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on, the tools I've built, and why recruitment specifically.
+No client logos yet. No testimonials. I won't invent them. What I can show you is the system I run my own business on, the tools I've built, and why I started with recruitment.
 
-## Why recruitment?
+## Why did I start with recruitment?
 
-A recruitment desk is full of work that follows the same shape every time: format this CV, chase this compliance document, schedule this interview, send this follow-up. That pattern is exactly what automation is good at. The consultants I want to work with are good at relationships and reading people. I want to take the admin off their plate so they can focus on that.
+A recruitment desk is full of work that follows the same shape every time: format this CV, chase this compliance document, schedule this interview, send this follow-up. That pattern is exactly what automation is good at — and marketing agencies, coaches, consultants and e-commerce brands carry the same shape of work. I want to take the admin off your plate so you can focus on the work that pays.
 
 ## What I believe
 
@@ -24,11 +24,11 @@ The technology is the easy half. Choosing the right process to automate first is
 
 Founder
 
-One person, based in the UK. I build AI automation workflows for recruitment firms and specialist service businesses. I started NextVibe AI in March 2026.
+One person, based in the UK. I build AI automation workflows for recruitment firms, marketing agencies, coaches and e-commerce brands. I started NextVibe AI in March 2026.
 
 ## Key Milestones
 
-2026 — NextVibe AI founded. Started building automation workflows for UK recruitment firms.
+2026 — NextVibe AI founded. Started building automation workflows for UK small businesses.
 
 ## What I Stand For
 
