@@ -1,12 +1,12 @@
 ---
 title: "AI Automation Checklist | NextVibe AI"
-description: "Download the free AI Automation Checklist — maps which recruitment workflows are worth automating first and shows where to start."
+description: "Download the free AI Automation Checklist — maps which of your workflows are worth automating first and shows where to start."
 url: "https://nextvibeai.com/start/"
 ---
 
 # Stop losing hours to admin that runs itself
 
-Get my free checklist showing which recruitment workflows are worth automating first.
+Get my free checklist showing which of your workflows are worth automating first.
 
 Get the AI Automation Checklist →
 

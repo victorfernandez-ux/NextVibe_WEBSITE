@@ -1,20 +1,20 @@
 ---
-title: "NextVibe AI | AI Automation for UK Recruitment Firms"
-description: "NextVibe AI — I build AI automation workflows for UK recruitment firms and specialist service businesses. Fixed prices, fast delivery."
+title: "NextVibe AI | AI Automation for UK Small Businesses"
+description: "NextVibe AI — I build AI automation workflows for UK small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. Fixed prices, fast delivery."
 url: "https://nextvibeai.com/"
 ---
 
-AI automation for UK recruitment firms.
+AI automation for UK small businesses.
 
 # Placements generate the money. Paperwork eats the week. I automate the paperwork.
 
-I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for recruitment firms and specialist service businesses. I started in March 2026.
+I'm Victor Fernandez. NextVibe AI is me: one person, based in the UK, building automation workflows for small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. I started in March 2026.
 
 [Book a Call](https://calendly.com/victor-fernandez-nextvibeai) [Services](services.html)
 
 ## What I specialise in.
 
-Automation for the work that eats a recruitment desk's week.
+Automation for the work that eats a small business's week.
 
 ### Candidate and CV Workflows
 

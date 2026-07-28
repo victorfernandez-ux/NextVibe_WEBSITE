@@ -1,12 +1,12 @@
 ---
 title: "Services | NextVibe AI"
-description: "NextVibe AI services — AI automation for UK recruitment firms. Fixed prices: £95 rescue, £450 5-day build, £2,500 audit and build."
+description: "NextVibe AI services — AI automation for UK small businesses. Fixed prices: £95 rescue, £450 5-day build, £2,500 audit and build."
 url: "https://nextvibeai.com/services/"
 ---
 
 # Services
 
-Automation for the work that eats a recruitment desk's week. Fixed prices, no retainers.
+Automation for the work that eats a small business's week. Fixed prices, no retainers.
 
 ### Lead Generation Systems
 
@@ -74,7 +74,7 @@ Multi-channel follow-up sequences that keep warm leads engaged with timely, rele
 
 ## Who It's For
 
-I work with UK recruitment firms and specialist service businesses.
+I work with recruitment firms, marketing agencies, coaches and consultants, e-commerce brands, and any UK small business drowning in repeat admin.
 
 #### Recruitment Firms
 
