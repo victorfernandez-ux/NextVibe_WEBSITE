@@ -35,9 +35,11 @@ class I18n {
       if (saved && this.supportedLanguages.includes(saved)) {
         this.currentLanguage = saved;
       } else {
-        // Use browser language preference if available
-        const browserLang = navigator.language.split('-')[0];
-        this.currentLanguage = this.supportedLanguages.includes(browserLang) ? browserLang : this.defaultLanguage;
+        // Default to English: translations live on the same URLs, so search
+        // engines only ever index the English content. Auto-switching by
+        // browser language would show visitors different text than what
+        // Google indexed. Users can still switch manually.
+        this.currentLanguage = this.defaultLanguage;
       }
     }
     localStorage.setItem(this.storageKey, this.currentLanguage);

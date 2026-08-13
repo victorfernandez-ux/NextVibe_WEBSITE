@@ -1,6 +1,6 @@
 ---
-title: "Contact | NextVibe AI"
-description: "Get in touch with NextVibe AI. Tell me about your workflow and I'll show you how automation can save you hours every week."
+title: "Contact NextVibe AI — AI Automation for UK Small Businesses"
+description: "Get in touch with Victor at NextVibe AI — AI automation for UK small businesses. Replies within one working day, or book a call directly."
 url: "https://nextvibeai.com/contact/"
 ---
 
@@ -10,11 +10,11 @@ Tell me what's eating your time and I'll show you exactly how to automate it.
 
 ### Send me a message
 
-Name
+Name 
 
-Email
+Email 
 
-Company
+Company 
 
 Message
 
@@ -28,7 +28,7 @@ I'll get back to you within 24 hours.
 
 #### Email
 
-[hello@nextvibe.ai](mailto:hello@nextvibe.ai)
+[hello@nextvibeai.com](mailto:hello@nextvibeai.com)
 
 #### Response Time
 

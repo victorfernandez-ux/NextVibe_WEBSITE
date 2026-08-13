@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Prompts Aren't AI Strategy — Here's What Is | NextVibe AI"
-description: "Writing better ChatGPT prompts feels like progress, but it's still manual work with a nicer interface. Learn the difference between prompts and AI systems that actually scale."
+title: "ChatGPT Prompts Aren't AI Strategy — Here's What Is"
+description: "Better ChatGPT prompts feel like progress, but they're still manual work. Learn the difference between prompts and AI systems that actually scale."
 url: "https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy/"
 ---
 
@@ -65,8 +65,16 @@ This is why “better prompts” is a dead end as a business strategy. Each prom
 
 Strategy means the machine makes the decision — and only flags you for the exceptions. Everything else is just a tool.
 
+The next question is usually: _which_ workflow should I systematise first? That's the gap that [the AI Leverage Stack](ai-leverage-stack-framework.html) closes — and if you want a worked example, [here's how it plays out for a marketing agency](ai-automation-marketing-agencies.html).
+
 ### Ready to move from prompts to systems?
 
-Download the free checklist I use with every new client. It maps the workflows where automation delivers the biggest return and shows you which to tackle first.
+I can identify the workflows in your business where automation delivers the biggest return. Fixed prices from £95.
 
-[Get the AI Automation Checklist →](../start/)
+[Start from £95 →](../start/)
+
+Keep reading
+
+### From prompts to real systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework I use to decide which workflows to automate first, and which automation layer they belong to.](ai-leverage-stack-framework.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of AI tools isn't a strategy, and what real AI leverage looks like in a small business.](ai-strategy-vs-chatgpt-subscriptions.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** Concrete examples of prompt-based work turned into automated systems — for coaching businesses specifically.](ai-automation-coaches.html)

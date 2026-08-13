@@ -1,5 +1,13 @@
 # NextVibe SEO Diagnostics — nextvibeai.com
 
+> **Remediation status (13 Aug 2026):** all fixes below have been applied in this branch —
+> sitemap and `llms.txt` now cover all 13 pages; every title is ≤60 chars and every meta
+> description 120–155 chars; legal pages have twitter:card + WebPage/BreadcrumbList schema;
+> the stale `hello@nextvibe.ai` email is gone from `llms-full.txt`; duplicate Person schema
+> removed from about.html; i18n no longer auto-switches by browser language (manual switching
+> still works); `TODO.md` refreshed. Remaining open decisions are tracked in `TODO.md`
+> (per-language URLs, URL-style unification, shared CSS extraction).
+
 **Date:** 13 August 2026
 **Scope:** Full crawl of all 14 HTML pages in `Website Desing/` plus `robots.txt`, `sitemap.xml`, `netlify.toml`, `_headers`, `llms.txt` / `llms-full.txt`.
 **Method:** Screaming Frog-style checks run against the deployed site source (the tool itself could not be downloaded in this environment — its CLI mode also requires a paid licence — so the same battery of checks was run directly: titles, meta descriptions, canonicals, headings, structured data, social tags, hreflang, internal links, sitemap coverage, redirects, security headers, images).
