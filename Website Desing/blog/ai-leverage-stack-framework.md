@@ -1,6 +1,6 @@
 ---
-title: "The AI Leverage Stack — 3 Layers Every Business Needs | NextVibe AI"
-description: "The AI Leverage Stack: 3 layers every business needs to automate effectively. Process automation, intelligence layer, and autonomous agents — in the right order."
+title: "The AI Leverage Stack — 3 Layers Every Business Needs"
+description: "The AI Leverage Stack: the 3 layers every business needs — process automation, an intelligence layer and autonomous agents, built in the right order."
 url: "https://nextvibeai.com/blog/ai-leverage-stack-framework/"
 ---
 
@@ -61,8 +61,16 @@ Look at your current tech stack right now. If you’re paying for AI tools but s
 
 The AI Leverage Stack isn’t about adding more technology. It’s about adding the right technology in the right order. Sequence beats sophistication every time.
 
-### Want to know which layer your business is on?
+Want a concrete example of this framework in practice? [See how it applies to marketing agencies](ai-automation-marketing-agencies.html) — or for service businesses, [how coaches use it to save 15+ hours a week](ai-automation-coaches.html). Both walk through which layer to build first, with real systems and real numbers.
 
-Download the free checklist I use with every new client. It maps your workflows to the right automation approach and shows where to start.
+### Not sure which layer your business is on?
 
-[Get the AI Automation Checklist →](../start/)
+I map your workflows to the AI Leverage Stack and show you exactly where to start building. Fixed prices from £95.
+
+[Start from £95 →](../start/)
+
+Keep reading
+
+### Apply the framework to your business
+
+[For Agencies **AI Automation for Marketing Agencies: What to Automate First** The five workflows eating the most agency time, mapped to the Leverage Stack — and the order to automate them in.](ai-automation-marketing-agencies.html) [For Coaches **AI Automation for Coaches: 7 Systems That Save 15+ Hours/Week** A practical, layer-by-layer build for coaching businesses — from scheduling to session notes to billing.](ai-automation-coaches.html) [Strategy **AI Strategy vs. ChatGPT Subscriptions — What Actually Works** Why a stack of SaaS tools isn't a strategy, and what real AI leverage looks like in practice.](ai-strategy-vs-chatgpt-subscriptions.html)

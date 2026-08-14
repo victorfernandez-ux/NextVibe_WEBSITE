@@ -1,14 +1,20 @@
 # NextVibe AI
 
-> AI automation for UK small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. I build the workflows that take admin off your plate. Fixed prices, fast delivery.
+> AI automation agency — we build systems that generate leads, close deals, and streamline operations for growing businesses.
 
 ## Key Pages
 
-- [About | NextVibe AI](https://nextvibeai.com/about.md): About NextVibe AI — I'm Victor Fernandez, a UK-based AI automation builder for small businesses — recruitment, agencies, coaches, e-commerce. Started March 2026.
-- [The AI Leverage Stack — 3 Layers Every Business Needs | NextVibe AI](https://nextvibeai.com/blog/ai-leverage-stack-framework.md): The AI Leverage Stack: 3 layers every business needs to automate effectively. Process automation, intelligence layer, and autonomous agents — in the right order.
-- [AI Strategy vs. ChatGPT Subscriptions — What Actually Works | NextVibe AI](https://nextvibeai.com/blog/ai-strategy-vs-chatgpt-subscriptions.md): Most 'AI strategies' are just ChatGPT subscriptions with a PowerPoint deck. Learn the difference between buying AI tools and building AI systems that actually deliver ROI.
-- [ChatGPT Prompts Aren't AI Strategy — Here's What Is | NextVibe AI](https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy.md): Writing better ChatGPT prompts feels like progress, but it's still manual work with a nicer interface. Learn the difference between prompts and AI systems that actually scale.
-- [Contact | NextVibe AI](https://nextvibeai.com/contact.md): Get in touch with NextVibe AI. Tell me about your workflow and I'll show you how automation can save you hours every week.
-- [NextVibe AI | AI Automation for UK Small Businesses](https://nextvibeai.com/index.md): NextVibe AI — I build AI automation workflows for UK small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. Fixed prices, fast delivery.
-- [Services | NextVibe AI](https://nextvibeai.com/services.md): NextVibe AI services — AI automation for UK small businesses. Fixed prices: £95 rescue, £450 5-day build, £2,500 audit and build.
-- [AI Automation Checklist | NextVibe AI](https://nextvibeai.com/start/index.md): Download the free AI Automation Checklist — maps which of your workflows are worth automating first and shows where to start.
+- [Page Not Found | NextVibe AI](https://nextvibeai.com/404.md): The page you're looking for doesn't exist. Head back to the NextVibe AI homepage for AI automation for UK small businesses.
+- [About Victor Fernandez | NextVibe AI](https://nextvibeai.com/about.md): Solo founder building AI automation for UK small businesses. No fake client lists. The honest version.
+- [AI Automation for Coaches: 7 Systems That Save 15+ Hours](https://nextvibeai.com/blog/ai-automation-coaches.md): Coaches spend more time on admin than coaching. These 7 AI automation systems save 15+ hours a week so you can focus on clients, not logistics.
+- [AI Automation for Marketing Agencies: What to Automate First](https://nextvibeai.com/blog/ai-automation-marketing-agencies.md): Most marketing agencies waste 20+ hours/week on manual tasks. Here's exactly what to automate first — with the systems, tools, and ROI numbers that matter.
+- [The AI Leverage Stack — 3 Layers Every Business Needs](https://nextvibeai.com/blog/ai-leverage-stack-framework.md): The AI Leverage Stack: the 3 layers every business needs — process automation, an intelligence layer and autonomous agents, built in the right order.
+- [AI Strategy vs. ChatGPT Subscriptions — What Actually Works](https://nextvibeai.com/blog/ai-strategy-vs-chatgpt-subscriptions.md): Most 'AI strategies' are just ChatGPT subscriptions with a slide deck. Here's the difference between buying AI tools and building systems that deliver ROI.
+- [ChatGPT Prompts Aren't AI Strategy — Here's What Is](https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy.md): Better ChatGPT prompts feel like progress, but they're still manual work. Learn the difference between prompts and AI systems that actually scale.
+- [AI Automation Notes from the Workbench | NextVibe AI](https://nextvibeai.com/blog/index.md): Practitioner notes on building AI workflows for UK small businesses — automation systems, tools and lessons from real client builds.
+- [Contact NextVibe AI — AI Automation for UK Small Businesses](https://nextvibeai.com/contact.md): Get in touch with Victor at NextVibe AI — AI automation for UK small businesses. Replies within one working day, or book a call directly.
+- [AI Workflows for UK Small Businesses | NextVibe AI](https://nextvibeai.com/index.md): AI automation for UK small businesses — recruitment firms, marketing agencies, coaches and e-commerce brands. Fixed prices from £95 to £2,500.
+- [Privacy Policy | NextVibe AI](https://nextvibeai.com/privacy-policy/index.md): Privacy Policy for NextVibe AI. How I collect, use and protect your personal data under UK GDPR.
+- [Pricing: £95 to £2,500 Fixed | NextVibe AI](https://nextvibeai.com/services.md): Three fixed-price automation services for UK small businesses. £95 Rescue, 5-Day Workflow, Audit + Build.
+- [Start a Conversation | NextVibe AI](https://nextvibeai.com/start/index.md): Tell me about one workflow that wastes your week. I will reply in one working day.
+- [Terms of Service | NextVibe AI](https://nextvibeai.com/terms/index.md): Terms of Service for NextVibe AI. Service descriptions, pricing, refund policy and governing law.

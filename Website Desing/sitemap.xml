@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://nextvibeai.com/</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -20,49 +20,61 @@
   </url>
   <url>
     <loc>https://nextvibeai.com/about.html</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/contact.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/privacy-policy/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/terms/</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/blog/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/blog/ai-leverage-stack-framework.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/blog/chatgpt-prompts-arent-ai-strategy.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://nextvibeai.com/blog/ai-strategy-vs-chatgpt-subscriptions.html</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nextvibeai.com/blog/ai-automation-marketing-agencies.html</loc>
+    <lastmod>2026-08-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://nextvibeai.com/blog/ai-automation-coaches.html</loc>
+    <lastmod>2026-08-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>

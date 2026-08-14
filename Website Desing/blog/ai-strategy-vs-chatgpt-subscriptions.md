@@ -1,6 +1,6 @@
 ---
-title: "AI Strategy vs. ChatGPT Subscriptions — What Actually Works | NextVibe AI"
-description: "Most 'AI strategies' are just ChatGPT subscriptions with a PowerPoint deck. Learn the difference between buying AI tools and building AI systems that actually deliver ROI."
+title: "AI Strategy vs. ChatGPT Subscriptions — What Actually Works"
+description: "Most 'AI strategies' are just ChatGPT subscriptions with a slide deck. Here's the difference between buying AI tools and building systems that deliver ROI."
 url: "https://nextvibeai.com/blog/ai-strategy-vs-chatgpt-subscriptions/"
 ---
 
@@ -42,8 +42,16 @@ The gap between AI hype and AI leverage is almost always a workflow audit. You n
 
 Map the process. Measure the hours. Find the bottleneck. Then — and only then — pick the technology. The tool should be the last decision you make, not the first.
 
+If you want a structured way to do this mapping, [the AI Leverage Stack](ai-leverage-stack-framework.html) is the framework I use with every client to decide which workflows belong on which automation layer.
+
 ### Want to find out where AI can actually help your business?
 
-Download the free checklist I use with every new client. It maps your workflows, identifies the bottlenecks worth fixing, and shows you where to start.
+I map your workflows, identify bottlenecks, and show you exactly where automation delivers the highest ROI. Fixed prices from £95.
 
-[Get the AI Automation Checklist →](../start/)
+[Start from £95 →](../start/)
+
+Keep reading
+
+### Go deeper on building AI systems
+
+[Framework **The AI Leverage Stack — 3 Layers Every Business Needs** The framework for deciding what to automate, in what order — and why most businesses build the wrong layer first.](ai-leverage-stack-framework.html) [Strategy **ChatGPT Prompts Aren't AI Strategy — Here's What Is** Why a great prompt isn't a system, and how to turn one-off AI tasks into automated workflows that run without you.](chatgpt-prompts-arent-ai-strategy.html) [For Agencies **AI Automation for Marketing Agencies: What to Automate First** A practical breakdown of the highest-ROI workflows to automate inside an agency, with real numbers and tools.](ai-automation-marketing-agencies.html)
