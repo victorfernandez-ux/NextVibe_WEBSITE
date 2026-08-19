@@ -6,17 +6,6 @@
 - Source in `Website Desing/` directory
 - No build step — edit HTML directly
 
-## Project Structure
-```
-Website Desing/
-  index.html          # Home page
-  about.html          # About page
-  services.html       # Services page
-  contact.html        # Contact form (Netlify Forms)
-  start/              # Start page
-  blog/               # Blog posts (static HTML)
-```
-
 ## Conventions
 - All pages are static HTML — no React, no framework
 - Netlify Forms for contact submissions
